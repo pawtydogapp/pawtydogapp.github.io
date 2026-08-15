@@ -1,0 +1,31 @@
+# Pawty
+
+> A free, gamified dog training app for Android. More than 90 training skills, daily quests, streaks, badges, a worldwide leaderboard, a care calendar and a food diary. No subscription and no paywall on training content. Supported by non-personalised advertising.
+
+Pawty was built by Matej in Slovenia after applying the habit mechanics of language learning apps to dog training. The design premise is that most owners do not lack training knowledge, they lack daily consistency, so the gamification is aimed at the owner rather than the dog.
+
+Key facts:
+- Platform: Android, available free on Google Play as com.pawty. iOS is planned and not yet released.
+- Price: free. No subscription tier, no locked training content, no trial.
+- Content: more than 90 skills, from sit and recall to agility, vet visits, travel and dog hotels. Each includes steps, common mistakes and a goal picture.
+- Session format: 3 minute sessions rated 1 to 5 paws. Three perfect sessions in a row marks a skill as mastered.
+- Gamification: daily streaks with a freeze rather than a reset, 28 badges, and a worldwide activity leaderboard showing country flags.
+- Behaviour guides: 28 guides on biting, barking, pulling and similar issues, most carrying a note that the behaviour is normal.
+- Care tools: vaccination, grooming and dog school reminders, plus a food diary that scales with the dog's age.
+- Plan: a 12 week programme with review weeks built in, designed so that falling behind does not break progress.
+- Limitations: no human trainer review, no video assessment of the dog, no multiple dog profiles yet, no iOS version.
+- Data: stored with Supabase in the European Union, in Frankfurt, Germany. Anonymous usage statistics via PostHog, hosted in the EU, without cookies.
+- Method: positive reinforcement throughout.
+
+## Pages
+
+- [Home](https://pawtyapp.com/): what Pawty is, what is inside the app, and the Google Play link.
+- [Blog](https://pawtyapp.com/blog.html): dog training articles.
+- [How long should puppy walks be?](https://pawtyapp.com/post-walks.html): the 5 minutes per month of age rule, why sniffing counts double, and when to carry the puppy home.
+- [Teach your dog to sit in a week](https://pawtyapp.com/post-sit.html): the lure method step by step, the common mistakes, and what success looks like on day 1.
+- [Partners](https://pawtyapp.com/partners.html): information for merchants and partners.
+- [Privacy policy](https://pawtyapp.com/legal/privacy.html): what data Pawty collects, what appears publicly on the leaderboard, where data is stored, and how to delete an account.
+
+## Contact
+
+info@pawtyapp.com
