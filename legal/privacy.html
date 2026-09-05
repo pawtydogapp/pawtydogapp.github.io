@@ -1,135 +1,273 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Privacy Policy | Pawty</title>
-<meta name="description" content="How Pawty handles your data. What we collect, what is public on the leaderboard, where data is stored, and how to delete your account.">
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="How Pawty handles your data: personalised advertising and consent, GDPR rights, EU hosting and affiliate links.">
+<title>Privacy Policy — Pawty</title>
 <link rel="canonical" href="https://pawtyapp.com/legal/privacy.html">
-<meta name="robots" content="index, follow">
-
+<meta property="og:title" content="Privacy Policy — Pawty">
+<meta property="og:description" content="How Pawty handles your data: personalised advertising and consent, GDPR rights, EU hosting and affiliate links.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://pawtyapp.com/legal/privacy.html">
+<meta property="og:image" content="https://pawtyapp.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
 <style>
-  :root{
-    --green:#2fb573;
-    --green-dark:#249259;
-    --cream:#fdf7ea;
-    --ink:#2c2f2e;
-    --muted:#5f6764;
-    --line:#e7dfcd;
-    --orange:#f0a52e;
-  }
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{
-    background:var(--cream);
-    color:var(--ink);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-    line-height:1.65;
-    font-size:17px;
-  }
 
-  /* Header, identical across every page */
-  .pawty-nav{
-    background:var(--green);
-    padding:16px 24px;
-    display:flex;align-items:center;justify-content:space-between;
-    flex-wrap:wrap;gap:12px;
-  }
-  .pawty-nav a{color:#fff;text-decoration:none}
-  .pawty-nav .brand{font-size:23px;font-weight:800;display:flex;align-items:center;gap:9px}
-  .pawty-nav .links{display:flex;gap:22px;font-size:15px;font-weight:700}
-  .pawty-nav a:hover{opacity:.82}
+*{box-sizing:border-box;margin:0}
+body{font-family:'Nunito',system-ui,sans-serif;background:#FFF9EE;color:#21351F;line-height:1.65}
+.disp{font-family:'Baloo 2','Nunito',sans-serif}
+nav{background:#2FB56B;padding:14px 20px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .logo{color:#FFF9EE;font-family:'Baloo 2',sans-serif;font-size:26px;font-weight:800;text-decoration:none}
+nav .links a{color:#FFF9EE;text-decoration:none;font-weight:800;margin-left:18px;font-size:15px}
+.wrap{max-width:860px;margin:0 auto;padding:0 20px}
+.hero{text-align:center;padding:64px 20px 48px}
+.hero .paw{font-size:72px}
+.hero h1{font-family:'Baloo 2',sans-serif;font-size:44px;color:#2FB56B;margin:8px 0}
+.hero p{font-size:19px;color:#4a5c4a;max-width:560px;margin:0 auto 24px;font-weight:600}
+.btn{display:inline-block;background:#FF9F1C;color:#21351F;font-family:'Baloo 2',sans-serif;font-weight:700;font-size:18px;padding:14px 30px;border-radius:16px;text-decoration:none;box-shadow:0 4px 0 #D97E00}
+.btn.green{background:#2FB56B;color:#fff;box-shadow:0 4px 0 #1E8A4E}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;padding:24px 0 48px}
+.card{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:20px}
+.card .e{font-size:34px}
+.card h3{font-family:'Baloo 2',sans-serif;margin:6px 0 4px}
+.card p{font-size:14.5px;color:#4a5c4a}
+h2.sec{font-family:'Baloo 2',sans-serif;font-size:30px;text-align:center;margin:24px 0 4px;color:#21351F}
+footer{background:#21351F;color:#FFF9EE;text-align:center;padding:28px 20px;font-size:14px;margin-top:56px}
+footer a{color:#8FDBAF}
+article{max-width:720px;margin:0 auto;padding:40px 20px}
+article h1{font-family:'Baloo 2',sans-serif;font-size:36px;color:#2FB56B;margin-bottom:6px}
+article .meta{color:#6E7F6E;font-weight:700;font-size:14px;margin-bottom:22px}
+article h2{font-family:'Baloo 2',sans-serif;font-size:24px;margin:26px 0 8px}
+article p{margin-bottom:14px;font-size:16.5px}
+article ul{margin:0 0 14px 22px}
+article li{margin-bottom:8px}
+.cta-box{background:#F2FBF4;border:2px solid #BFE3CE;border-radius:18px;padding:22px;text-align:center;margin:32px 0}
+.postcard{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:22px;margin-bottom:16px}
+.postcard a{color:#2FB56B;text-decoration:none}
+.postcard h3{font-family:'Baloo 2',sans-serif;font-size:22px}
+.postcard p{color:#4a5c4a;font-size:15px;margin-top:6px}
 
-  .wrap{max-width:720px;margin:0 auto;padding:40px 22px 70px}
+/* ---------- shared page furniture ---------- */
+.legal{max-width:760px;margin:0 auto;padding:40px 20px}
+.legal h1{font-family:'Baloo 2',sans-serif;font-size:36px;color:#2FB56B;margin-bottom:6px}
+.legal .meta{color:#6E7F6E;font-weight:700;font-size:14px;margin-bottom:24px}
+.legal h2{font-family:'Baloo 2',sans-serif;font-size:23px;margin:28px 0 8px;color:#21351F}
+.legal h3{font-family:'Baloo 2',sans-serif;font-size:18px;margin:18px 0 6px}
+.legal p{margin-bottom:13px;font-size:16.5px}
+.legal ul,.legal ol{margin:0 0 14px 22px}.legal li{margin-bottom:7px}
+.legal a{color:#1E8A4E}
+.box{background:#F2FBF4;border:2px solid #BFE3CE;border-radius:18px;padding:20px 22px;margin:24px 0}
+.box h2{margin-top:0}
+.warn{background:#FFF4E3;border:2px solid #F3D6A6;border-radius:18px;padding:20px 22px;margin:24px 0}
+.warn h2{margin-top:0}
+.faq{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:18px 22px;margin-bottom:12px}
+.faq h3{margin:0 0 6px}
+.faq p{margin-bottom:0;font-size:15.5px;color:#4a5c4a}
+.pill{display:inline-block;background:#E7F6ED;color:#1E8A4E;border:2px solid #BFE3CE;border-radius:999px;padding:5px 13px;font-size:13px;font-weight:800;margin:0 6px 8px 0}
+.pill.normal{background:#FFF4E3;border-color:#F3D6A6;color:#9A6400}
 
-  h1{font-size:33px;line-height:1.2;color:var(--green-dark);margin-bottom:10px;letter-spacing:-.01em}
-  .effective{font-size:15px;color:var(--muted);margin-bottom:34px;padding-bottom:22px;border-bottom:1px solid var(--line)}
-  h2{font-size:21px;color:var(--green-dark);margin:34px 0 10px}
-  p{margin-bottom:16px}
-  a{color:var(--green-dark)}
-  strong{font-weight:700}
+/* ---------- stores + hero ---------- */
+.stores{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:6px;margin-bottom:10px}
+.stores a{display:inline-flex;align-items:center;gap:9px;background:#21351F;color:#FFF9EE;font-family:'Baloo 2',sans-serif;font-weight:700;font-size:17px;padding:12px 24px;border-radius:14px;text-decoration:none;box-shadow:0 4px 0 #0d1a0c;transition:transform .15s ease,box-shadow .15s ease}
+.stores a:hover{transform:translateY(-2px);box-shadow:0 6px 0 #0d1a0c}
+.stores a:active{transform:translateY(2px);box-shadow:0 2px 0 #0d1a0c}
+.stores a .s{display:block;font-family:'Nunito',sans-serif;font-size:11px;font-weight:700;opacity:.75;line-height:1.1}
+.stores a .b{display:block;line-height:1.15}
+.stores svg{width:24px;height:24px;fill:#FFF9EE;flex:0 0 auto}
+@media(prefers-reduced-motion:reduce){.stores a:hover,.stores a:active{transform:none}}
+.btn{transition:transform .15s ease,box-shadow .15s ease}
+.btn:hover{transform:translateY(-2px);box-shadow:0 6px 0 #D97E00}
+.btn.green:hover{box-shadow:0 6px 0 #1E8A4E}
+.btn:active{transform:translateY(2px);box-shadow:0 2px 0 #D97E00}
 
-  .box{
-    background:#fff;border:1px solid var(--line);border-radius:12px;
-    padding:20px 22px;margin:28px 0;
-  }
-  .box h2{margin-top:0}
+/* ---------- counters ---------- */
+.stats{display:flex;justify-content:center;gap:34px;flex-wrap:wrap;padding:6px 0 40px}
+.stat{text-align:center;min-width:96px}
+.stat .n{font-family:'Baloo 2',sans-serif;font-size:40px;font-weight:800;color:#2FB56B;line-height:1}
+.stat .l{font-size:13.5px;font-weight:800;color:#6E7F6E;margin-top:2px}
 
-  .cta{
-    display:inline-block;background:var(--orange);color:#2b2b2b;
-    font-weight:800;text-decoration:none;padding:14px 26px;border-radius:11px;
-    margin-top:12px;
-  }
+/* ---------- phone frames ---------- */
+.shots{display:flex;gap:16px;overflow-x:auto;padding:16px 4px 22px;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+.shots::-webkit-scrollbar{height:6px}
+.shots::-webkit-scrollbar-thumb{background:#CFE6D8;border-radius:3px}
+.shots .phone{flex:0 0 178px;scroll-snap-align:center}
+.shothint{text-align:center;font-size:13px;color:#6E7F6E;font-weight:700;margin:-14px 0 26px}
+.phone{position:relative;border:7px solid #21351F;border-radius:28px;overflow:hidden;background:#21351F;box-shadow:0 8px 22px rgba(33,53,31,.15);transition:transform .3s ease}
+.phone:hover{transform:translateY(-5px)}
+.phone img,.phone video{width:100%;display:block;background:#FFF9EE}
+.phone .cap{position:absolute;left:0;right:0;bottom:0;background:linear-gradient(transparent,rgba(33,53,31,.82));color:#FFF9EE;font-size:12.5px;font-weight:800;padding:22px 10px 8px;text-align:center}
 
-  footer{
-    border-top:1px solid var(--line);
-    margin-top:52px;padding-top:24px;
-    font-size:14px;color:var(--muted);text-align:center;
-  }
-  footer a{color:var(--muted)}
+/* ---------- video ---------- */
+.vwrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px;padding:8px 0 34px}
+.vcard{background:#fff;border:2px solid #EDE4D2;border-radius:22px;overflow:hidden}
+.vcard video{width:100%;display:block;background:#21351F}
+.vcard .vt{padding:12px 16px 15px}
+.vcard .vt h3{font-family:'Baloo 2',sans-serif;font-size:18px;margin:0 0 3px}
+.vcard .vt p{font-size:14px;color:#4a5c4a;margin:0}
+.vhero{max-width:300px;margin:0 auto 20px}
 
-  @media(max-width:560px){
-    h1{font-size:27px}
-    .pawty-nav{padding:14px 18px}
-    .pawty-nav .links{gap:16px;font-size:14px}
-  }
+/* ---------- cards + reveal ---------- */
+.card{transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease}
+.card:hover{transform:translateY(-4px);border-color:#BFE3CE;box-shadow:0 8px 20px rgba(33,53,31,.08)}
+.postcard{transition:transform .2s ease,border-color .2s ease}
+.postcard:hover{transform:translateY(-3px);border-color:#BFE3CE}
+.reveal{opacity:0;transform:translateY(18px)}
+.reveal.in{opacity:1;transform:none;transition:opacity .55s ease,transform .55s ease}
+@media(prefers-reduced-motion:reduce){
+ .reveal,.reveal.in{opacity:1;transform:none;transition:none}
+ .card:hover,.phone:hover,.postcard:hover,.btn:hover{transform:none}
+}
+
+/* ---------- guide index ---------- */
+.gcols{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;padding:14px 0 40px}
+.gcard{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:16px 18px;text-decoration:none;display:block;color:inherit;transition:transform .2s ease,border-color .2s ease}
+.gcard:hover{transform:translateY(-3px);border-color:#BFE3CE}
+.gcard h3{font-family:'Baloo 2',sans-serif;font-size:17.5px;margin:0 0 4px;color:#21351F}
+.gcard p{font-size:13.5px;color:#4a5c4a;margin:0}
+
+/* ---------- footer ---------- */
+.social{margin:14px 0 10px}
+.social a{color:#8FDBAF;text-decoration:none;font-weight:800;margin:0 9px;font-size:14px}
+.imprint{color:#9BB39B;font-size:12.5px;margin-top:14px;line-height:1.75;max-width:640px;margin-left:auto;margin-right:auto}
+footer .legalrow a{color:#8FDBAF;margin:0 7px}
+@media(max-width:520px){.hero h1{font-size:34px}.legal h1{font-size:29px}.stats{gap:22px}.stat .n{font-size:32px}}
 </style>
-</head>
-<body>
+<script>
+!function(t,e){var o,n,p,r;e.__SV||(window.posthog&&window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}p||((p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",p.onerror=function(){p=null},(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r));var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once unregister identify reset opt_in_capturing opt_out_capturing has_opted_out_capturing debug".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
+  api_host:'https://eu.i.posthog.com',
+  defaults:'2026-05-30',
+  person_profiles:'identified_only',
+  persistence:'memory',          /* no cookies, no localStorage: matches the privacy policy, removes the need for a cookie banner */
+  disable_session_recording:true
+});
+</script></head><body>
+<nav><a class="logo" href="/index.html">🐾 Pawty</a>
+<span class="links"><a href="/index.html">Home</a><a href="/blog.html">Blog</a><a href="/approach.html">Approach</a><a href="/partners.html">Partners</a><a href="/support.html">Support</a></span></nav>
+<div class="legal">
+<h1>Privacy Policy</h1>
+<p class="meta">Effective date: 2 September 2026 &nbsp;·&nbsp; Contact: <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a></p>
 
-<header class="pawty-nav">
-  <a class="brand" href="https://pawtyapp.com/">🐾 Pawty</a>
-  <nav class="links">
-    <a href="https://pawtyapp.com/">Home</a>
-    <a href="https://pawtyapp.com/blog.html">Blog</a>
-    <a href="https://pawtyapp.com/partners.html">Partners</a>
-    <a href="https://pawtyapp.com/legal/privacy.html">Privacy</a>
-  </nav>
-</header>
+<p>Pawty is operated by Matej Mesko, Slovenia, who is the data controller for the purposes of the General Data Protection Regulation (GDPR).</p>
 
-<div class="wrap">
+<h2>What we collect</h2>
+<p><strong>Account.</strong> Email address, nickname, country, and a password. Passwords are handled and encrypted by our authentication provider Supabase. We never see or store readable passwords.</p>
+<p><strong>Dog profile.</strong> Name, breed, sex, age, and an optional photo you upload.</p>
+<p><strong>Training data.</strong> Session ratings, experience points, streaks, badges, equipment checklist, care calendar entries and food diary entries.</p>
+<p><strong>Approximate location.</strong> A coarse location, accurate to city or region rather than street, used to set your country flag on the leaderboard and to show the right merchants in the Marketplace. We do not collect or store precise location.</p>
 
-  <h1>Privacy Policy</h1>
-  <p class="effective">Effective date: 13 August 2026 &nbsp;&middot;&nbsp; Contact: <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a></p>
+<h2>Why we collect it, and on what legal basis</h2>
+<ul>
+<li><strong>Running your account and saving your progress.</strong> Performance of our contract with you.</li>
+<li><strong>Anonymous usage statistics.</strong> Our legitimate interest in seeing which parts of the app work.</li>
+<li><strong>Approximate location.</strong> Our legitimate interest in showing you a country flag and locally relevant merchants.</li>
+<li><strong>Personalised advertising.</strong> Your consent, given in the app when you first open it. You can withdraw it at any time, see below.</li>
+</ul>
 
-  <h2>What we collect</h2>
-  <p><strong>Account.</strong> Email address, nickname, country, and a password. Passwords are handled and encrypted by our authentication provider Supabase. We never see or store readable passwords.</p>
-  <p><strong>Dog profile.</strong> Name, breed, sex, age, and an optional photo you upload.</p>
-  <p><strong>Training data.</strong> Session ratings, XP, streaks, badges, equipment checklist, care calendar entries and food diary entries.</p>
+<h2>What is public</h2>
+<p>Your nickname, country flag, dog's name, dog photo and experience points appear on the in-app leaderboard, visible to other Pawty users. Everything else is private to your account.</p>
 
-  <h2>What is public</h2>
-  <p>Your nickname, country flag, dog's name, dog photo and XP appear on the in-app leaderboard, visible to other Pawty users. Everything else is private to your account.</p>
+<h2>What we do not do</h2>
+<p>We do not sell your personal data for money. We do not share your name, email address, dog profile, care calendar or food diary with advertisers or affiliate partners.</p>
+<p>Where you have consented to personalised advertising, your device advertising identifier is shared with Google for that purpose. Under some laws outside the European Union, including in California, that sharing is treated as a sale or share of personal information. Withdrawing consent stops it.</p>
 
-  <h2>What we do not do</h2>
-  <p>We do not sell personal data. We do not share your email with advertisers. Care calendar and food diary entries stay on your account.</p>
+<h2>Advertising</h2>
+<p>Pawty shows banner advertising through Google AdMob. Where you consent, these adverts are personalised, which means they are selected based on your interests rather than shown at random.</p>
+<p><strong>How consent is collected.</strong> When you first open the app you are asked whether Pawty may use your data for personalised advertising. On iPhone you also see Apple's own App Tracking Transparency prompt asking whether Pawty may track you across other companies' apps and websites. Nothing is used for personalised advertising unless you agree to both.</p>
+<p><strong>What is used.</strong> If you consent, your device advertising identifier, which is the Identifier for Advertisers (IDFA) on iPhone and the Advertising ID on Android, is shared with Google and its advertising partners, together with approximate location and information about how you use the app. This identifier can be used to recognise your device across other apps and websites. It is not your name or your email address, and it can be reset by you at any time.</p>
+<p><strong>If you decline.</strong> You still see the same number of adverts. They are simply chosen at random rather than matched to you. No feature of Pawty is withheld for declining.</p>
+<p><strong>Withdrawing consent.</strong> You can change your mind at any time and it takes effect immediately.</p>
+<ul>
+<li><strong>iPhone:</strong> Settings, then Privacy and Security, then Tracking. Turn Pawty off.</li>
+<li><strong>Android:</strong> Settings, then Google, then Ads. Turn on Delete advertising ID, or reset it.</li>
+</ul>
+<p>Google acts as an independent controller for the advertising data it receives. See <a href="https://policies.google.com/privacy" rel="noopener">Google's privacy policy</a> and <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">how Google uses data from apps that use its services</a>.</p>
+<p><strong>The website you are reading now shows no adverts at all.</strong> Advertising exists only inside the mobile app.</p>
 
-  <h2>Advertising</h2>
-  <p>Pawty shows banner advertising via Google AdMob, served as non-personalised ads. AdMob may process device information to serve and measure ads. See <a href="https://policies.google.com/privacy" rel="noopener">Google's privacy policy</a> for details.</p>
+<h2>Affiliate links</h2>
+<p>The Pawty Marketplace contains affiliate links to third party pet merchants, managed through the Awin network. If you tap one, the merchant and Awin may set a cookie in your browser to attribute a later purchase. We do not receive your name, address or payment details from these merchants, only aggregate reports of how many sales were attributed. Their own privacy policies apply once you leave Pawty. If you buy through one of these links, Pawty may earn a commission at no extra cost to you.</p>
 
-  <h2>Usage statistics</h2>
-  <p>We collect anonymous usage statistics, for example which screens are opened and how many training sessions are logged, via PostHog, hosted in the European Union and configured without cookies or cross-session identifiers. These statistics help us improve the app and cannot identify you.</p>
+<h2>Usage statistics</h2>
+<p>We collect anonymous usage statistics, for example which screens are opened and how many training sessions are logged, via PostHog, hosted in the European Union. On this website PostHog is configured with in-memory storage only, which means it sets no cookies and stores nothing on your device between visits. These statistics cannot identify you.</p>
 
-  <h2>Storage and location</h2>
-  <p>Data is stored with Supabase in the European Union, in Frankfurt, Germany. Photos are stored as small resized images inside your account record.</p>
+<h2>Storage and location</h2>
+<p>Data is stored with Supabase in the European Union, in Frankfurt, Germany. Photos are stored as small resized images inside your account record.</p>
 
-  <div class="box">
-    <h2>Your rights</h2>
-    <p>You can update your profile in the app under More, then Account and profile.</p>
-    <p>To delete your account and all associated data, contact <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a> and we will remove it within 30 days.</p>
-    <p>Users in the European Union have all rights provided by the General Data Protection Regulation (GDPR), including access, correction and erasure.</p>
-    <a class="cta" href="mailto:info@pawtyapp.com?subject=Account%20deletion%20request">Request account deletion</a>
-  </div>
+<h2>How long we keep it</h2>
+<p>Your account data is kept while your account exists. When you delete your account it is removed immediately, and from backups within 30 days. Anonymous usage statistics are retained for up to 12 months.</p>
+<p>Advertising data held by Google is retained under Google's own policies, not ours. Resetting or deleting your advertising identifier on your device breaks the link to any past advertising data.</p>
 
-  <h2>Children</h2>
-  <p>Pawty is intended for users aged 13 and over.</p>
-
-  <h2>Changes</h2>
-  <p>We will update this page when the policy changes and note the new effective date at the top.</p>
-
-  <footer>
-    <p>Pawty &middot; Train together. Grow together.</p>
-    <p><a href="https://pawtyapp.com/">pawtyapp.com</a> &middot; <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a></p>
-  </footer>
-
+<div class="box">
+<h2>Your rights</h2>
+<p>You can update your profile in the app under More, then Account and profile.</p>
+<p><strong>To delete your account, open the app and go to More, then Account and profile, then Delete account.</strong> This removes your profile, dog, training history and photo permanently.</p>
+<p>Users in the European Union have all rights provided by the GDPR, including access, correction, erasure, restriction, objection and data portability. To exercise any of these, or to request a copy of your data, email us. You also have the right to complain to the Slovenian Information Commissioner (Informacijski pooblaščenec).</p>
+<a class="btn green" href="mailto:info@pawtyapp.com?subject=Data%20request" style="margin-top:6px">Email a data request</a>
 </div>
-</body>
-</html>
+
+<h2>Children</h2>
+<p>Pawty is intended for users aged 16 and over. Slovenia sets the age at which a person can consent to data processing at 15, and the General Data Protection Regulation allows a provider to set a higher limit, which we do. If you are under 16, a parent or guardian must hold the account and supervise its use.</p>
+
+<h2>Changes</h2>
+<p>We will update this page when the policy changes and note the new effective date at the top.</p>
+</div>
+<footer>Pawty · Train together. Grow together.
+<div class="social">
+<a href="https://www.instagram.com/pawty.app" rel="noopener me">Instagram</a>
+<a href="https://www.tiktok.com/@pawty.app" rel="noopener me">TikTok</a>
+<a href="https://www.youtube.com/@pawtyapp" rel="noopener me">YouTube</a>
+<a href="https://x.com/pawtyapp" rel="noopener me">X</a>
+<a href="https://www.facebook.com/profile.php?id=61593301785199" rel="noopener me">Facebook</a>
+</div>
+<div class="legalrow">
+<a href="/support.html">Support</a>·<a href="/approach.html">Our approach</a>·<a href="/legal/privacy.html">Privacy</a>·<a href="/legal/terms.html">Terms</a>
+</div>
+<div class="imprint">
+Pawty is operated by Matej Mesko, Slovenia.<br>
+Contact: <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>. Replies within 2 working days.<br>
+Some links in the Pawty Marketplace are affiliate links. If you buy through them, Pawty may earn a commission at no extra cost to you.
+</div>
+</footer><script>
+(function(){
+  var rm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(!rm && 'IntersectionObserver' in window){
+    var io = new IntersectionObserver(function(es){
+      es.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
+    },{threshold:.12});
+    document.querySelectorAll('.reveal').forEach(function(el){ io.observe(el); });
+  } else {
+    document.querySelectorAll('.reveal').forEach(function(el){ el.classList.add('in'); });
+  }
+  var nums = document.querySelectorAll('.stat .n[data-to]');
+  if(nums.length){
+    var run = function(el){
+      var to = parseInt(el.dataset.to,10), suf = el.dataset.suffix||'', t0 = null;
+      if(rm){ el.textContent = to + suf; return; }
+      var step = function(t){
+        if(!t0) t0 = t;
+        var p = Math.min((t-t0)/1100, 1), e = 1-Math.pow(1-p,3);
+        el.textContent = Math.round(to*e) + suf;
+        if(p<1) requestAnimationFrame(step);
+      };
+      requestAnimationFrame(step);
+    };
+    if('IntersectionObserver' in window){
+      var io2 = new IntersectionObserver(function(es){
+        es.forEach(function(e){ if(e.isIntersecting){ run(e.target); io2.unobserve(e.target); } });
+      },{threshold:.5});
+      nums.forEach(function(n){ io2.observe(n); });
+    } else { nums.forEach(run); }
+  }
+  // pause offscreen videos so nothing burns battery
+  if('IntersectionObserver' in window){
+    var io3 = new IntersectionObserver(function(es){
+      es.forEach(function(e){
+        var v = e.target;
+        if(e.isIntersecting){ var p = v.play(); if(p&&p.catch) p.catch(function(){}); } else { v.pause(); }
+      });
+    },{threshold:.25});
+    document.querySelectorAll('video[data-auto]').forEach(function(v){ io3.observe(v); });
+  }
+})();
+</script>
+
+</body></html>

@@ -1,46 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://pawtyapp.com/</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://pawtyapp.com/blog.html</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://pawtyapp.com/partners.html</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://pawtyapp.com/post-walks.html</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://pawtyapp.com/post-sit.html</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://pawtyapp.com/legal/privacy.html</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-
+  <url><loc>https://pawtyapp.com/</loc><lastmod>2026-09-05</lastmod><priority>1.0</priority></url>
+  <url><loc>https://pawtyapp.com/blog.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/approach.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/partners.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/support.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/post-walks.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/post-sit.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/post-teething.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/post-5minutes.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/legal/privacy.html</loc><lastmod>2026-09-05</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/legal/terms.html</loc><lastmod>2026-09-05</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/guides/chasing.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/attention-seeking.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/evening-settling.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/puppy-biting.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/puppy-teething.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/adult-chewing.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/jumping-up.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/pulling-on-lead.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/barking-at-doorbell.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/barking-at-other-dogs.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/demand-barking.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/puppy-crying-at-night.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/crate-crying.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/home-alone.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/digging.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/counter-surfing.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/eating-poo.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/eating-things-on-walks.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/resource-guarding.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/lead-reactivity.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/fear-of-fireworks.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/recall-problems.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/toilet-training.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/marking-indoors.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/first-heat.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/humping.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/zoomies.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/begging.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/stealing-and-running.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/car-fear.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/excited-peeing.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/guides/nail-trimming.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
 </urlset>

@@ -2,8 +2,16 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="The lure method for teaching sit, the 2 classic mistakes, and what success looks like per session.">
 <title>Teach your dog to sit in a week — Pawty blog</title>
+<link rel="canonical" href="https://pawtyapp.com/post-sit.html">
+<meta property="og:title" content="Teach your dog to sit in a week — Pawty blog">
+<meta property="og:description" content="The lure method for teaching sit, the 2 classic mistakes, and what success looks like per session.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://pawtyapp.com/post-sit.html">
+<meta property="og:image" content="https://pawtyapp.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
 <style>
+
 *{box-sizing:border-box;margin:0}
 body{font-family:'Nunito',system-ui,sans-serif;background:#FFF9EE;color:#21351F;line-height:1.65}
 .disp{font-family:'Baloo 2','Nunito',sans-serif}
@@ -37,9 +45,105 @@ article li{margin-bottom:8px}
 .postcard a{color:#2FB56B;text-decoration:none}
 .postcard h3{font-family:'Baloo 2',sans-serif;font-size:22px}
 .postcard p{color:#4a5c4a;font-size:15px;margin-top:6px}
-</style></head><body>
-<nav><a class="logo" href="index.html">🐾 Pawty</a>
-<span class="links"><a href="index.html">Home</a><a href="blog.html">Blog</a><a href="partners.html">Partners</a><a href="https://pawtyapp.com/legal/privacy.html">Privacy</a></span></nav>
+
+/* ---------- shared page furniture ---------- */
+.legal{max-width:760px;margin:0 auto;padding:40px 20px}
+.legal h1{font-family:'Baloo 2',sans-serif;font-size:36px;color:#2FB56B;margin-bottom:6px}
+.legal .meta{color:#6E7F6E;font-weight:700;font-size:14px;margin-bottom:24px}
+.legal h2{font-family:'Baloo 2',sans-serif;font-size:23px;margin:28px 0 8px;color:#21351F}
+.legal h3{font-family:'Baloo 2',sans-serif;font-size:18px;margin:18px 0 6px}
+.legal p{margin-bottom:13px;font-size:16.5px}
+.legal ul,.legal ol{margin:0 0 14px 22px}.legal li{margin-bottom:7px}
+.legal a{color:#1E8A4E}
+.box{background:#F2FBF4;border:2px solid #BFE3CE;border-radius:18px;padding:20px 22px;margin:24px 0}
+.box h2{margin-top:0}
+.warn{background:#FFF4E3;border:2px solid #F3D6A6;border-radius:18px;padding:20px 22px;margin:24px 0}
+.warn h2{margin-top:0}
+.faq{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:18px 22px;margin-bottom:12px}
+.faq h3{margin:0 0 6px}
+.faq p{margin-bottom:0;font-size:15.5px;color:#4a5c4a}
+.pill{display:inline-block;background:#E7F6ED;color:#1E8A4E;border:2px solid #BFE3CE;border-radius:999px;padding:5px 13px;font-size:13px;font-weight:800;margin:0 6px 8px 0}
+.pill.normal{background:#FFF4E3;border-color:#F3D6A6;color:#9A6400}
+
+/* ---------- stores + hero ---------- */
+.stores{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:6px;margin-bottom:10px}
+.stores a{display:inline-flex;align-items:center;gap:9px;background:#21351F;color:#FFF9EE;font-family:'Baloo 2',sans-serif;font-weight:700;font-size:17px;padding:12px 24px;border-radius:14px;text-decoration:none;box-shadow:0 4px 0 #0d1a0c;transition:transform .15s ease,box-shadow .15s ease}
+.stores a:hover{transform:translateY(-2px);box-shadow:0 6px 0 #0d1a0c}
+.stores a:active{transform:translateY(2px);box-shadow:0 2px 0 #0d1a0c}
+.stores a .s{display:block;font-family:'Nunito',sans-serif;font-size:11px;font-weight:700;opacity:.75;line-height:1.1}
+.stores a .b{display:block;line-height:1.15}
+.stores svg{width:24px;height:24px;fill:#FFF9EE;flex:0 0 auto}
+@media(prefers-reduced-motion:reduce){.stores a:hover,.stores a:active{transform:none}}
+.btn{transition:transform .15s ease,box-shadow .15s ease}
+.btn:hover{transform:translateY(-2px);box-shadow:0 6px 0 #D97E00}
+.btn.green:hover{box-shadow:0 6px 0 #1E8A4E}
+.btn:active{transform:translateY(2px);box-shadow:0 2px 0 #D97E00}
+
+/* ---------- counters ---------- */
+.stats{display:flex;justify-content:center;gap:34px;flex-wrap:wrap;padding:6px 0 40px}
+.stat{text-align:center;min-width:96px}
+.stat .n{font-family:'Baloo 2',sans-serif;font-size:40px;font-weight:800;color:#2FB56B;line-height:1}
+.stat .l{font-size:13.5px;font-weight:800;color:#6E7F6E;margin-top:2px}
+
+/* ---------- phone frames ---------- */
+.shots{display:flex;gap:16px;overflow-x:auto;padding:16px 4px 22px;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+.shots::-webkit-scrollbar{height:6px}
+.shots::-webkit-scrollbar-thumb{background:#CFE6D8;border-radius:3px}
+.shots .phone{flex:0 0 178px;scroll-snap-align:center}
+.shothint{text-align:center;font-size:13px;color:#6E7F6E;font-weight:700;margin:-14px 0 26px}
+.phone{position:relative;border:7px solid #21351F;border-radius:28px;overflow:hidden;background:#21351F;box-shadow:0 8px 22px rgba(33,53,31,.15);transition:transform .3s ease}
+.phone:hover{transform:translateY(-5px)}
+.phone img,.phone video{width:100%;display:block;background:#FFF9EE}
+.phone .cap{position:absolute;left:0;right:0;bottom:0;background:linear-gradient(transparent,rgba(33,53,31,.82));color:#FFF9EE;font-size:12.5px;font-weight:800;padding:22px 10px 8px;text-align:center}
+
+/* ---------- video ---------- */
+.vwrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px;padding:8px 0 34px}
+.vcard{background:#fff;border:2px solid #EDE4D2;border-radius:22px;overflow:hidden}
+.vcard video{width:100%;display:block;background:#21351F}
+.vcard .vt{padding:12px 16px 15px}
+.vcard .vt h3{font-family:'Baloo 2',sans-serif;font-size:18px;margin:0 0 3px}
+.vcard .vt p{font-size:14px;color:#4a5c4a;margin:0}
+.vhero{max-width:300px;margin:0 auto 20px}
+
+/* ---------- cards + reveal ---------- */
+.card{transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease}
+.card:hover{transform:translateY(-4px);border-color:#BFE3CE;box-shadow:0 8px 20px rgba(33,53,31,.08)}
+.postcard{transition:transform .2s ease,border-color .2s ease}
+.postcard:hover{transform:translateY(-3px);border-color:#BFE3CE}
+.reveal{opacity:0;transform:translateY(18px)}
+.reveal.in{opacity:1;transform:none;transition:opacity .55s ease,transform .55s ease}
+@media(prefers-reduced-motion:reduce){
+ .reveal,.reveal.in{opacity:1;transform:none;transition:none}
+ .card:hover,.phone:hover,.postcard:hover,.btn:hover{transform:none}
+}
+
+/* ---------- guide index ---------- */
+.gcols{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;padding:14px 0 40px}
+.gcard{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:16px 18px;text-decoration:none;display:block;color:inherit;transition:transform .2s ease,border-color .2s ease}
+.gcard:hover{transform:translateY(-3px);border-color:#BFE3CE}
+.gcard h3{font-family:'Baloo 2',sans-serif;font-size:17.5px;margin:0 0 4px;color:#21351F}
+.gcard p{font-size:13.5px;color:#4a5c4a;margin:0}
+
+/* ---------- footer ---------- */
+.social{margin:14px 0 10px}
+.social a{color:#8FDBAF;text-decoration:none;font-weight:800;margin:0 9px;font-size:14px}
+.imprint{color:#9BB39B;font-size:12.5px;margin-top:14px;line-height:1.75;max-width:640px;margin-left:auto;margin-right:auto}
+footer .legalrow a{color:#8FDBAF;margin:0 7px}
+@media(max-width:520px){.hero h1{font-size:34px}.legal h1{font-size:29px}.stats{gap:22px}.stat .n{font-size:32px}}
+</style>
+<script>
+!function(t,e){var o,n,p,r;e.__SV||(window.posthog&&window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}p||((p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",p.onerror=function(){p=null},(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r));var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once unregister identify reset opt_in_capturing opt_out_capturing has_opted_out_capturing debug".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
+  api_host:'https://eu.i.posthog.com',
+  defaults:'2026-05-30',
+  person_profiles:'identified_only',
+  persistence:'memory',          /* no cookies, no localStorage: matches the privacy policy, removes the need for a cookie banner */
+  disable_session_recording:true
+});
+</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Teach your dog to sit in a week", "description": "The lure method for teaching sit, the 2 classic mistakes, and what success looks like per session.", "author": {"@type": "Person", "name": "Matej Mesko"}, "publisher": {"@type": "Organization", "name": "Pawty"}, "mainEntityOfPage": "https://pawtyapp.com/post-sit.html", "datePublished": "2026-09-02"}</script>
+</head><body>
+<nav><a class="logo" href="/index.html">🐾 Pawty</a>
+<span class="links"><a href="/index.html">Home</a><a href="/blog.html">Blog</a><a href="/approach.html">Approach</a><a href="/partners.html">Partners</a><a href="/support.html">Support</a></span></nav>
 <article>
 <h1>Teach your dog to sit in a week</h1>
 <div class="meta">Pawty blog · 4 minute read</div>
@@ -59,5 +163,64 @@ article li{margin-bottom:8px}
 <p>Short and happy beats long and tense, every single time. Three 3-minute sessions a day will outperform a weekend boot camp by miles.</p>
 <div class="cta-box"><b class="disp" style="font-size:20px">🐾 Train this with Pawty</b>
 <p style="margin:8px 0 14px">Step-by-step guides, paw ratings, streaks and a realistic 12-week plan. Free.</p>
-<a class="btn green" href="https://play.google.com/store/apps/details?id=com.pawty&referrer=utm_source%3Dwebsite%26utm_medium%3Dsocial%26utm_campaign%3Dlaunch" target="_blank" rel="noopener">Get the app</a></div></article><footer>Pawty · Train together. Grow together.<br>
-Contact: info@pawtyapp.com · <a href="https://pawtyapp.com/legal/privacy.html">Privacy policy</a></footer></body></html>
+<a class="btn green" href="https://play.google.com/store/apps/details?id=com.pawty&referrer=utm_source%3Dwebsite%26utm_medium%3Dsocial%26utm_campaign%3Dlaunch" target="_blank" rel="noopener">Get the app</a></div></article><footer>Pawty · Train together. Grow together.
+<div class="social">
+<a href="https://www.instagram.com/pawty.app" rel="noopener me">Instagram</a>
+<a href="https://www.tiktok.com/@pawty.app" rel="noopener me">TikTok</a>
+<a href="https://www.youtube.com/@pawtyapp" rel="noopener me">YouTube</a>
+<a href="https://x.com/pawtyapp" rel="noopener me">X</a>
+<a href="https://www.facebook.com/profile.php?id=61593301785199" rel="noopener me">Facebook</a>
+</div>
+<div class="legalrow">
+<a href="/support.html">Support</a>·<a href="/approach.html">Our approach</a>·<a href="/legal/privacy.html">Privacy</a>·<a href="/legal/terms.html">Terms</a>
+</div>
+<div class="imprint">
+Pawty is operated by Matej Mesko, Slovenia.<br>
+Contact: <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>. Replies within 2 working days.<br>
+Some links in the Pawty Marketplace are affiliate links. If you buy through them, Pawty may earn a commission at no extra cost to you.
+</div>
+</footer><script>
+(function(){
+  var rm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(!rm && 'IntersectionObserver' in window){
+    var io = new IntersectionObserver(function(es){
+      es.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
+    },{threshold:.12});
+    document.querySelectorAll('.reveal').forEach(function(el){ io.observe(el); });
+  } else {
+    document.querySelectorAll('.reveal').forEach(function(el){ el.classList.add('in'); });
+  }
+  var nums = document.querySelectorAll('.stat .n[data-to]');
+  if(nums.length){
+    var run = function(el){
+      var to = parseInt(el.dataset.to,10), suf = el.dataset.suffix||'', t0 = null;
+      if(rm){ el.textContent = to + suf; return; }
+      var step = function(t){
+        if(!t0) t0 = t;
+        var p = Math.min((t-t0)/1100, 1), e = 1-Math.pow(1-p,3);
+        el.textContent = Math.round(to*e) + suf;
+        if(p<1) requestAnimationFrame(step);
+      };
+      requestAnimationFrame(step);
+    };
+    if('IntersectionObserver' in window){
+      var io2 = new IntersectionObserver(function(es){
+        es.forEach(function(e){ if(e.isIntersecting){ run(e.target); io2.unobserve(e.target); } });
+      },{threshold:.5});
+      nums.forEach(function(n){ io2.observe(n); });
+    } else { nums.forEach(run); }
+  }
+  // pause offscreen videos so nothing burns battery
+  if('IntersectionObserver' in window){
+    var io3 = new IntersectionObserver(function(es){
+      es.forEach(function(e){
+        var v = e.target;
+        if(e.isIntersecting){ var p = v.play(); if(p&&p.catch) p.catch(function(){}); } else { v.pause(); }
+      });
+    },{threshold:.25});
+    document.querySelectorAll('video[data-auto]').forEach(function(v){ io3.observe(v); });
+  }
+})();
+</script>
+
+</body></html>
