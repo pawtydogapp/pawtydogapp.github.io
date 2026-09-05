@@ -2,6 +2,10 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="One painful quick-cut creates a long memory. Cooperative care, one nail a day.">
 <title>Dog hates nail trimming — Pawty</title>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32.png">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<meta name="theme-color" content="#2FB56B">
 <link rel="canonical" href="https://pawtyapp.com/guides/nail-trimming.html">
 <meta property="og:title" content="Dog hates nail trimming — Pawty">
 <meta property="og:description" content="One painful quick-cut creates a long memory. Cooperative care, one nail a day.">
@@ -16,7 +20,8 @@
 body{font-family:'Nunito',system-ui,sans-serif;background:#FFF9EE;color:#21351F;line-height:1.65}
 .disp{font-family:'Baloo 2','Nunito',sans-serif}
 nav{background:#2FB56B;padding:14px 20px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
-nav .logo{color:#FFF9EE;font-family:'Baloo 2',sans-serif;font-size:26px;font-weight:800;text-decoration:none}
+nav .logo{color:#FFF9EE;font-family:'Baloo 2',sans-serif;font-size:26px;font-weight:800;text-decoration:none;display:inline-flex;align-items:center;gap:8px}
+nav .logo svg{flex:0 0 auto}
 nav .links a{color:#FFF9EE;text-decoration:none;font-weight:800;margin-left:15px;font-size:14.5px;white-space:nowrap}
 @media(max-width:760px){nav{padding:12px 14px}nav .links a{margin-left:0;margin-right:13px;font-size:13.5px}nav .links{display:block;line-height:2}}
 .wrap{max-width:860px;margin:0 auto;padding:0 20px}
@@ -39,8 +44,8 @@ article h1{font-family:'Baloo 2',sans-serif;font-size:36px;color:#2FB56B;margin-
 article .meta{color:#6E7F6E;font-weight:700;font-size:14px;margin-bottom:22px}
 article h2{font-family:'Baloo 2',sans-serif;font-size:24px;margin:26px 0 8px}
 article p{margin-bottom:14px;font-size:16.5px}
-article ul{margin:0 0 14px 22px}
-article li{margin-bottom:8px}
+article ul,article ol{margin:0 0 15px 0;padding-left:1.2em}
+article li{margin-bottom:9px;padding-left:2px}
 .cta-box{background:#F2FBF4;border:2px solid #BFE3CE;border-radius:18px;padding:22px;text-align:center;margin:32px 0}
 .postcard{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:22px;margin-bottom:16px}
 .postcard a{color:#2FB56B;text-decoration:none}
@@ -81,7 +86,7 @@ article li{margin-bottom:8px}
 .btn:active{transform:translateY(2px);box-shadow:0 2px 0 #D97E00}
 
 /* ---------- counters ---------- */
-.stats{display:flex;justify-content:center;gap:34px;flex-wrap:wrap;padding:26px 0 34px}
+.stats{display:flex;justify-content:center;gap:34px;flex-wrap:wrap;padding:14px 0 22px}
 .stat{text-align:center;min-width:96px}
 .stat .n{font-family:'Baloo 2',sans-serif;font-size:40px;font-weight:800;color:#2FB56B;line-height:1}
 .stat .l{font-size:13.5px;font-weight:800;color:#6E7F6E;margin-top:2px}
@@ -104,7 +109,7 @@ article li{margin-bottom:8px}
 .vcard .vt{padding:12px 16px 15px}
 .vcard .vt h3{font-family:'Baloo 2',sans-serif;font-size:18px;margin:0 0 3px}
 .vcard .vt p{font-size:14px;color:#4a5c4a;margin:0}
-.vhero{max-width:232px;margin:0 auto 18px}
+.vhero{max-width:216px;margin:0 auto 16px}
 
 /* ---------- cards + reveal ---------- */
 .card{transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease}
@@ -154,10 +159,22 @@ footer .legalrow a{color:#8FDBAF;margin:0 7px}
 .mkbtn{display:inline-block;background:#2FB56B;color:#fff;font-family:'Baloo 2',sans-serif;font-weight:700;font-size:14.5px;padding:8px 16px;border-radius:12px;text-decoration:none;margin-top:4px}
 .mkbtn span{font-family:'Nunito',sans-serif;font-size:10.5px;opacity:.8;font-weight:700}
 .mkbtn:hover{background:#28a05e}
+.mkchips{margin-bottom:8px}
 .mkchip{display:inline-block;background:#fff;border:2px solid #EDE4D2;border-radius:999px;padding:5px 14px;font-size:13px;font-weight:800;color:#4a5c4a;margin:0 6px 8px 0;cursor:pointer;user-select:none}
+.mksel{display:inline-block;font-size:13.5px;font-weight:800;color:#6E7F6E}
+.mksel select{font-family:'Nunito',sans-serif;font-weight:800;font-size:13.5px;color:#21351F;background:#fff;border:2px solid #EDE4D2;border-radius:999px;padding:6px 12px;margin-left:6px}
+.mkoffer{font-size:13.5px;color:#1E8A4E;font-weight:800;background:#E7F6ED;border-radius:10px;padding:5px 10px;display:inline-block}
+.mkpromo{font-size:13px;color:#9A6400;background:#FFF4E3;border-radius:10px;padding:4px 10px;display:inline-block}
+.plogos{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;align-items:center;padding:6px 0 30px}
+.plogos img{height:34px;width:auto;max-width:120px;object-fit:contain;opacity:.85;filter:grayscale(1);transition:opacity .25s ease,filter .25s ease}
+.plogos img:hover{opacity:1;filter:none}
 .mkchip.mkon{background:#2FB56B;border-color:#2FB56B;color:#fff}
 
 .blogcat{font-family:'Baloo 2',sans-serif;font-size:21px;color:#2FB56B;margin:26px 0 10px}
+
+.card .e,.why .w .e{color:#2FB56B;line-height:1;margin-bottom:2px}
+.card .e svg,.why .w .e svg{display:block}
+.hero .paw{color:#2FB56B;display:flex;justify-content:center}
 </style>
 <script>
 !function(t,e){var o,n,p,r;e.__SV||(window.posthog&&window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}p||((p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",p.onerror=function(){p=null},(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r));var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once unregister identify reset opt_in_capturing opt_out_capturing has_opted_out_capturing debug".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
@@ -170,8 +187,8 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 });
 </script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Dog hates nail trimming", "description": "One painful quick-cut creates a long memory. Cooperative care, one nail a day.", "author": {"@type": "Person", "name": "Matej Mesko"}, "publisher": {"@type": "Organization", "name": "Pawty"}, "mainEntityOfPage": "https://pawtyapp.com/guides/nail-trimming.html", "datePublished": "2026-09-02"}</script>
 </head><body>
-<nav><a class="logo" href="/index.html">🐾 Pawty</a>
-<span class="links"><a href="/index.html">Home</a><a href="/guides.html">Guides</a><a href="/blog.html">Blog</a><a href="/marketplace.html">Marketplace</a><a href="/approach.html">Approach</a><a href="/partners.html">Partners</a><a href="/support.html">Support</a></span></nav>
+<nav><a class="logo" href="/index.html"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="7.2" cy="8.4" r="2.1"/><circle cx="12" cy="6.6" r="2.2"/><circle cx="16.8" cy="8.4" r="2.1"/><circle cx="19.4" cy="12.8" r="1.8"/><path d="M12 21c-3.2 0-5.4-1.7-5.4-4 0-2.2 2.2-4.4 5.4-4.4s5.4 2.2 5.4 4.4c0 2.3-2.2 4-5.4 4z"/></svg>Pawty</a>
+<span class="links"><a href="/index.html">Home</a><a href="/guides.html">Guides</a><a href="/blog.html">Blog</a><a href="/marketplace.html">Marketplace</a><a href="/partners.html">Partners</a><a href="/approach.html">Approach</a><a href="/support.html">Support</a></span></nav>
 <div class="legal">
 <h1>Hates nail trimming</h1>
 <p class="meta"><a href="/guides.html">All behaviour guides</a></p>
@@ -267,6 +284,21 @@ Some links in the Pawty Marketplace are affiliate links. If you buy through them
     },{threshold:.25});
     document.querySelectorAll('video[data-auto]').forEach(function(v){ io3.observe(v); });
   }
+})();
+
+(function(){
+  var box=document.getElementById('plogos'); if(!box) return;
+  fetch('https://jjqfspknjpjkcuvtfsli.supabase.co/rest/v1/partners?select=name,logo_url,sort&active=eq.true&order=sort,name',
+    {headers:{apikey:'sb_publishable_h9cryFZyRED8rffIVPtBuw_klaQOTOJ',Authorization:'Bearer sb_publishable_h9cryFZyRED8rffIVPtBuw_klaQOTOJ'}})
+  .then(function(r){return r.ok?r.json():[];})
+  .then(function(rows){
+    var seen={}, out='';
+    (rows||[]).forEach(function(r){
+      if(!r.logo_url || seen[r.name]) return; seen[r.name]=1;
+      out+='<img src="'+r.logo_url.replace(/"/g,'')+'" alt="'+String(r.name).replace(/[<>"]/g,'')+'" loading="lazy">';
+    });
+    box.innerHTML=out;
+  }).catch(function(){ box.remove(); });
 })();
 </script>
 
