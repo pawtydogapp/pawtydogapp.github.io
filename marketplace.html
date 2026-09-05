@@ -191,7 +191,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 (function(){
   // ===== PASTE YOUR SUPABASE ANON KEY BETWEEN THE QUOTES BELOW =====
   var SUPABASE_URL = 'https://jjqfspknjpjkcuvtfsli.supabase.co';
-  var SUPABASE_ANON_KEY = 'PASTE_ANON_KEY_HERE';
+  var SUPABASE_ANON_KEY = 'sb_publishable_h9cryFZyRED8rffIVPtBuw_klaQOTOJ';
   // =================================================================
 
   var list = document.getElementById('mk-list');
@@ -213,7 +213,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 
   function get(path){
     return fetch(SUPABASE_URL + '/rest/v1/' + path, {
-      headers: { apikey: SUPABASE_ANON_KEY, Authorization: 'Bearer ' + SUPABASE_ANON_KEY }
+      headers: { apikey: sb_publishable_h9cryFZyRED8rffIVPtBuw_klaQOTOJ, Authorization: 'Bearer ' + SUPABASE_ANON_KEY }
     }).then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); });
   }
 
