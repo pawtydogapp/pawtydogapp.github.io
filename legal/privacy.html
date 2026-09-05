@@ -93,7 +93,7 @@ article li{margin-bottom:8px}
 .shothint{text-align:center;font-size:13px;color:#6E7F6E;font-weight:700;margin:-14px 0 26px}
 .phone{position:relative;border:7px solid #21351F;border-radius:28px;overflow:hidden;background:#21351F;box-shadow:0 8px 22px rgba(33,53,31,.15);transition:transform .3s ease}
 .phone:hover{transform:translateY(-5px)}
-.phone img,.phone video{width:100%;display:block;background:#FFF9EE}
+.phone img,.phone video{width:100%;height:auto;display:block;background:#FFF9EE}
 .phone .cap{position:absolute;left:0;right:0;bottom:0;background:linear-gradient(transparent,rgba(33,53,31,.82));color:#FFF9EE;font-size:12.5px;font-weight:800;padding:22px 10px 8px;text-align:center}
 
 /* ---------- video ---------- */
@@ -103,7 +103,7 @@ article li{margin-bottom:8px}
 .vcard .vt{padding:12px 16px 15px}
 .vcard .vt h3{font-family:'Baloo 2',sans-serif;font-size:18px;margin:0 0 3px}
 .vcard .vt p{font-size:14px;color:#4a5c4a;margin:0}
-.vhero{max-width:300px;margin:0 auto 20px}
+.vhero{max-width:232px;margin:0 auto 18px}
 
 /* ---------- cards + reveal ---------- */
 .card{transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease}
@@ -130,6 +130,15 @@ article li{margin-bottom:8px}
 .imprint{color:#9BB39B;font-size:12.5px;margin-top:14px;line-height:1.75;max-width:640px;margin-left:auto;margin-right:auto}
 footer .legalrow a{color:#8FDBAF;margin:0 7px}
 @media(max-width:520px){.hero h1{font-size:34px}.legal h1{font-size:29px}.stats{gap:22px}.stat .n{font-size:32px}}
+
+.why{display:grid;grid-template-columns:repeat(auto-fit,minmax(238px,1fr));gap:16px;padding:10px 0 34px;align-items:start}
+.why .w{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:20px 22px;transition:transform .28s ease,border-color .28s ease,box-shadow .28s ease}
+.why .w:hover{transform:translateY(-4px);border-color:#BFE3CE;box-shadow:0 8px 20px rgba(33,53,31,.08)}
+.why .w .e{font-size:30px;line-height:1}
+.why .w h3{font-family:'Baloo 2',sans-serif;font-size:19px;margin:6px 0 5px;color:#21351F}
+.why .w p{font-size:14.5px;color:#4a5c4a;margin:0}
+@media(prefers-reduced-motion:reduce){.why .w:hover{transform:none}}
+.ctastores{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:4px}
 </style>
 <script>
 !function(t,e){var o,n,p,r;e.__SV||(window.posthog&&window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}p||((p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",p.onerror=function(){p=null},(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r));var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once unregister identify reset opt_in_capturing opt_out_capturing has_opted_out_capturing debug".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
@@ -205,7 +214,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 </div>
 
 <h2>Children</h2>
-<p>Pawty is intended for users aged 16 and over. Slovenia sets the age at which a person can consent to data processing at 15, and the General Data Protection Regulation allows a provider to set a higher limit, which we do. If you are under 16, a parent or guardian must hold the account and supervise its use.</p>
+<p>Pawty is intended for users aged 16 and over. There is nothing in the app that is unsuitable for a child, and the store rating reflects that. The limit exists because of the data and advertising side, not the content. If you are under 16, a parent or guardian should hold the account.</p>
 
 <h2>Changes</h2>
 <p>We will update this page when the policy changes and note the new effective date at the top.</p>
@@ -223,7 +232,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 </div>
 <div class="imprint">
 Pawty is operated by Matej Mesko, Slovenia.<br>
-Contact: <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>. Replies within 2 working days.<br>
+Contact: <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>.<br>
 Some links in the Pawty Marketplace are affiliate links. If you buy through them, Pawty may earn a commission at no extra cost to you.
 </div>
 </footer><script>

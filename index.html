@@ -93,7 +93,7 @@ article li{margin-bottom:8px}
 .shothint{text-align:center;font-size:13px;color:#6E7F6E;font-weight:700;margin:-14px 0 26px}
 .phone{position:relative;border:7px solid #21351F;border-radius:28px;overflow:hidden;background:#21351F;box-shadow:0 8px 22px rgba(33,53,31,.15);transition:transform .3s ease}
 .phone:hover{transform:translateY(-5px)}
-.phone img,.phone video{width:100%;display:block;background:#FFF9EE}
+.phone img,.phone video{width:100%;height:auto;display:block;background:#FFF9EE}
 .phone .cap{position:absolute;left:0;right:0;bottom:0;background:linear-gradient(transparent,rgba(33,53,31,.82));color:#FFF9EE;font-size:12.5px;font-weight:800;padding:22px 10px 8px;text-align:center}
 
 /* ---------- video ---------- */
@@ -103,7 +103,7 @@ article li{margin-bottom:8px}
 .vcard .vt{padding:12px 16px 15px}
 .vcard .vt h3{font-family:'Baloo 2',sans-serif;font-size:18px;margin:0 0 3px}
 .vcard .vt p{font-size:14px;color:#4a5c4a;margin:0}
-.vhero{max-width:300px;margin:0 auto 20px}
+.vhero{max-width:232px;margin:0 auto 18px}
 
 /* ---------- cards + reveal ---------- */
 .card{transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease}
@@ -130,6 +130,15 @@ article li{margin-bottom:8px}
 .imprint{color:#9BB39B;font-size:12.5px;margin-top:14px;line-height:1.75;max-width:640px;margin-left:auto;margin-right:auto}
 footer .legalrow a{color:#8FDBAF;margin:0 7px}
 @media(max-width:520px){.hero h1{font-size:34px}.legal h1{font-size:29px}.stats{gap:22px}.stat .n{font-size:32px}}
+
+.why{display:grid;grid-template-columns:repeat(auto-fit,minmax(238px,1fr));gap:16px;padding:10px 0 34px;align-items:start}
+.why .w{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:20px 22px;transition:transform .28s ease,border-color .28s ease,box-shadow .28s ease}
+.why .w:hover{transform:translateY(-4px);border-color:#BFE3CE;box-shadow:0 8px 20px rgba(33,53,31,.08)}
+.why .w .e{font-size:30px;line-height:1}
+.why .w h3{font-family:'Baloo 2',sans-serif;font-size:19px;margin:6px 0 5px;color:#21351F}
+.why .w p{font-size:14.5px;color:#4a5c4a;margin:0}
+@media(prefers-reduced-motion:reduce){.why .w:hover{transform:none}}
+.ctastores{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:4px}
 </style>
 <script>
 !function(t,e){var o,n,p,r;e.__SV||(window.posthog&&window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}p||((p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",p.onerror=function(){p=null},(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r));var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once unregister identify reset opt_in_capturing opt_out_capturing has_opted_out_capturing debug".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
@@ -170,6 +179,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 </div>
 
 <div class="wrap">
+
 <div class="stats reveal">
 <div class="stat"><div class="n" data-to="99">0</div><div class="l">training skills</div></div>
 <div class="stat"><div class="n" data-to="32">0</div><div class="l">behaviour guides</div></div>
@@ -187,14 +197,12 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 <div class="phone"><img src="/img/shot-calendar.jpg" alt="The Pawty care calendar for vaccinations, grooming and dog school" width="560" height="1212" loading="lazy"><span class="cap">Care calendar</span></div>
 </div>
 <p class="shothint">Swipe to see more</p>
-</div>
-</div>
 
 <h2 class="sec">Why Pawty is different</h2>
-<div class="reveal" style="padding:6px 0 22px">
-<div class="postcard"><h3>It tells you the behaviour is normal</h3><p>31 of the 32 behaviour guides open by saying so, because usually it is true. Most training content is written to make you feel behind. This was written by someone who has been there at 21:00 with a puppy attached to his sleeve.</p></div>
-<div class="postcard"><h3>Falling behind is designed in</h3><p>Streaks freeze instead of resetting. The 12-week plan has review weeks built into it. No red badges, and no notification telling you that you have let your dog down.</p></div>
-<div class="postcard"><h3>Tested on a real dog first</h3><p>Nala is a cockapoo, food motivated, and completely deaf to recall when there is a squirrel. Every exercise is tried on her before it ships. She is the reason several of them were rewritten.</p></div>
+<div class="why reveal">
+<div class="w"><div class="e">💬</div><h3>It says the behaviour is normal</h3><p>31 of the 32 behaviour guides open by saying so, because usually it is true. Most training content is written to make you feel behind.</p></div>
+<div class="w"><div class="e">🧊</div><h3>Falling behind is designed in</h3><p>Streaks freeze instead of resetting. The 12-week plan has review weeks built into it. No red badges, and nothing telling you that you have let your dog down.</p></div>
+<div class="w"><div class="e">🐕</div><h3>Tested on a real dog first</h3><p>Nala is a cockapoo, food motivated, and completely deaf to recall when there is a squirrel. Every exercise is tried on her before it ships.</p></div>
 </div>
 
 <h2 class="sec">What is inside</h2>
@@ -204,7 +212,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 <div class="card"><div class="e">🔥</div><h3>Streaks and badges</h3><p>Daily streaks with a freeze instead of a reset, 36 badges, and a worldwide activity leaderboard with country flags.</p></div>
 <div class="card"><div class="e">🧠</div><h3>32 behaviour guides</h3><p>Biting, barking, pulling, guarding, recall and more. Most carry a badge that matters: this is normal. <a href="/guides.html" style="color:#2FB56B;font-weight:800">Read them</a></p></div>
 <div class="card"><div class="e">💉</div><h3>Care calendar</h3><p>Vaccinations, grooming and dog school with reminders, plus a food diary that grows with your puppy.</p></div>
-<div class="card"><div class="e">🍼</div><h3>Puppy corner</h3><p>9 guides on sleep, feeding, the socialisation window, first days at home and the first night.</p></div>
+<div class="card"><div class="e">🍼</div><h3>Puppy corner</h3><p>9 guides on sleep, treats, clicker basics, teething, the socialisation window and the first days at home.</p></div>
 </div>
 
 <h2 class="sec">Honest behaviour guides</h2>
@@ -222,6 +230,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 <div class="postcard"><a href="/post-sit.html"><h3>Teach your dog to sit in a week</h3></a><p>The lure method step by step, the mistakes that slow everyone down, and what success looks like on day 1.</p></div>
 <div class="postcard"><a href="/blog.html"><h3>All articles</h3></a><p>Teething, why short sessions beat weekend marathons, and more.</p></div>
 </div>
+
 </div>
 <footer>Pawty · Train together. Grow together.
 <div class="social">
@@ -236,7 +245,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 </div>
 <div class="imprint">
 Pawty is operated by Matej Mesko, Slovenia.<br>
-Contact: <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>. Replies within 2 working days.<br>
+Contact: <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>.<br>
 Some links in the Pawty Marketplace are affiliate links. If you buy through them, Pawty may earn a commission at no extra cost to you.
 </div>
 </footer><script>
