@@ -1,0 +1,94 @@
+{
+ "guides.html": {
+  "title": "32 poradniki o zachowaniu psa — Pawty",
+  "description": "Darmowe, szczere poradniki o zachowaniu psa: gryzienie u szczeniąt, szczekanie, ciągnięcie na smyczy, obrona zasobów, przywołanie, nauka czystości i 26 innych. Z aplikacji Pawty na iPhone i Androida."
+ },
+ "support.html": {
+  "title": "Pomoc — Pawty",
+  "description": "Pomoc z aplikacją do szkolenia psów Pawty na iPhone i Androida: usuwanie konta, problemy z logowaniem, serie, ranking i kontakt."
+ },
+ "approach.html": {
+  "title": "Nasze podejście — Pawty",
+  "description": "Jak uczy Pawty: tylko wzmocnienie pozytywne, 3-minutowe sesje, bez poczucia winy, i kiedy zamiast tego iść do weterynarza lub behawiorysty."
+ },
+ "partners.html": {
+  "title": "Partnerzy i prasa — Pawty",
+  "description": "Zostań partnerem Pawty, darmowej aplikacji do szkolenia psów na iPhone i Androida. Dotrzyj do zaangażowanych opiekunów psów dzięki miejscom na Rynku w aplikacji. Zestaw prasowy w środku."
+ },
+ "marketplace.html": {
+  "title": "Partnerzy Rynku — Pawty",
+  "description": "Partnerzy Rynku Pawty: karma dla psów, akcesoria, pielęgnacja i ubezpieczenia od Fressnapf, Maxi Zoo, tails.com, Bella & Duke i innych, filtrowane według kraju."
+ },
+ "index.html": {
+  "title": "Pawty — Duolingo dla psów",
+  "description": "Twój pies nie jest zepsuty, a Ty nie zawodzisz. 99 umiejętności treningowych w 3-minutowych sesjach, 32 szczere poradniki o zachowaniu, serie, które się zamrażają zamiast zerować. Za darmo na iPhone i Androida.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Darmowa aplikacja do szkolenia psów na iPhone i Androida z 99 umiejętnościami, 32 poradnikami o zachowaniu, ocenami w łapach, seriami i kalendarzem opieki.\",\"url\":\"https://pawtyapp.com/pl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pl\"}"
+ },
+ "blog.html": {
+  "title": "Blog Pawty — praktyczne szkolenie psa i życie z psem",
+  "description": "Praktyczne artykuły o psach od Pawty: ile kosztuje szczeniak, lista zakupów, terminy szczepień, sen, trening z klikerem, pielęgnacja sierści i psy adoptowane."
+ },
+ "post-puppy-cost.html": {
+  "title": "Ile naprawdę kosztuje szczeniak w pierwszym roku — Pawty",
+  "description": "Europejskie koszty pierwszego roku szczeniaka, pozycja po pozycji: klatka, weterynarz, karma, pielęgnacja i ubezpieczenie, oraz co możesz spokojnie pominąć.",
+  "headline": "Ile naprawdę kosztuje szczeniak w pierwszym roku"
+ },
+ "post-shopping-list.html": {
+  "title": "Lista zakupów dla szczeniaka i co możesz pominąć — Pawty",
+  "description": "Co kupić przed przyjazdem szczeniaka, co w 2. miesiącu i 6 rzeczy ze sklepów zoologicznych, których nie potrzebujesz.",
+  "headline": "Lista zakupów dla szczeniaka i co możesz pominąć"
+ },
+ "post-vaccination.html": {
+  "title": "Kalendarz szczepień szczeniaka w Europie — Pawty",
+  "description": "Standardowy europejski kalendarz szczepień szczeniaka, co obejmuje każda szczepionka i jak bezpiecznie socjalizować przed końcem szczepień.",
+  "headline": "Kalendarz szczepień szczeniaka w Europie"
+ },
+ "post-puppy-sleep.html": {
+  "title": "Ile snu potrzebuje szczeniak — Pawty",
+  "description": "Szczeniak potrzebuje 18 do 20 godzin snu na dobę. Dlaczego wieczorne gryzienie to przemęczenie i jak wymusić drzemkę bez walki.",
+  "headline": "Ile snu potrzebuje szczeniak"
+ },
+ "post-teething.html": {
+  "title": "Poradnik przetrwania wymiany zębów u szczeniaka — Blog Pawty",
+  "description": "Wymiana zębów od 3. do 7. miesiąca, co przynosi ulgę i jakich błędów unikać.",
+  "headline": "Poradnik przetrwania wymiany zębów u szczeniaka"
+ },
+ "post-walks.html": {
+  "title": "Jak długie powinny być spacery ze szczeniakiem? — Blog Pawty",
+  "description": "Zasada 5 minut na miesiąc życia, co się do niej liczy i jak czytać swojego szczeniaka.",
+  "headline": "Jak długie powinny być spacery ze szczeniakiem?"
+ },
+ "post-sit.html": {
+  "title": "Naucz psa siadać w tydzień — Blog Pawty",
+  "description": "Metoda wabienia przy nauce siadu, 2 klasyczne błędy i jak wygląda sukces w kolejnych sesjach.",
+  "headline": "Naucz psa siadać w tydzień"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Kliker czy słowo znacznik: czego używać — Pawty",
+  "description": "Oba zaznaczają dokładny moment, w którym pies robi coś dobrze. Kiedy używać którego, jak go naładować w 2 minuty i 4 błędy.",
+  "headline": "Kliker czy słowo znacznik: czego używać"
+ },
+ "post-5minutes.html": {
+  "title": "Dlaczego 5 minut dziennie wygrywa z weekendowymi maratonami — Blog Pawty",
+  "description": "Krótkie codzienne sesje szkolenia psa wygrywają z długimi weekendowymi: powtórzenia, nauka rozłożona w czasie i serie.",
+  "headline": "Dlaczego 5 minut dziennie wygrywa z weekendowymi maratonami"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Pielęgnacja cockapoo: czego nikt ci nie mówi — Pawty",
+  "description": "Kręcona sierść nigdy nie przestaje rosnąć. Prawdziwy roczny koszt, skąd biorą się kołtuny i metoda czesania warstwami, która im zapobiega.",
+  "headline": "Pielęgnacja cockapoo: czego nikt ci nie mówi"
+ },
+ "post-rescue-333.html": {
+  "title": "Adopcja dorosłego psa ze schroniska: zasada 3-3-3 — Pawty",
+  "description": "3 dni, 3 tygodnie, 3 miesiące. Jak naprawdę wygląda aklimatyzacja dorosłego psa ze schroniska i co robić na każdym etapie.",
+  "headline": "Adopcja dorosłego psa ze schroniska: zasada 3-3-3"
+ },
+ "legal/terms.html": {
+  "title": "Regulamin — Pawty",
+  "description": "Regulamin Pawty, aplikacji do szkolenia psów na iPhone i Androida, z zastrzeżeniem dotyczącym szkolenia i zasadami linków partnerskich."
+ },
+ "legal/privacy.html": {
+  "title": "Polityka prywatności — Pawty",
+  "description": "Jak Pawty przetwarza twoje dane: reklamy spersonalizowane i zgoda, prawa z RODO, hosting w UE i linki partnerskie."
+ }
+}

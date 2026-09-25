@@ -1,0 +1,98 @@
+
+<div class="wrap" style="padding-top:36px">
+<h2 class="sec" style="text-align:left">Marktplaats</h2>
+<p style="color:#4a5c4a;font-weight:600;margin:6px 0 6px;max-width:680px">De winkels en merken waarmee we werken, getoond in de Pawty app en hier opgesomd. Voer, uitrusting, verzorging en verzekering, gefilterd op de winkels die echt naar jouw land leveren.</p>
+<p style="color:#6E7F6E;font-size:14px;margin-bottom:16px">Dit zijn partnerlinks. Als je via een ervan koopt, kan Pawty een commissie verdienen zonder extra kosten voor jou.</p>
+
+<div id="mk-controls" style="margin-bottom:12px"></div>
+<div id="mk-list" class="mkgrid reveal"><p id="mk-loading" style="color:#6E7F6E;font-weight:700">Partners laden…</p></div>
+<noscript><p style="color:#6E7F6E;font-weight:700">De partnerlijst heeft JavaScript nodig. Open het tabblad Marktplaats in de Pawty app om hem te zien.</p></noscript>
+
+<div class="cta-box reveal"><b class="disp" style="font-size:20px">Ben je een winkel of merk</b>
+<p style="margin:8px 0 4px">Pawty brengt je aanbod bij eigenaren die hun hond actief trainen en de app meerdere keren per week openen. Bekijk de <a href="/partners.html">partnerpagina</a> of schrijf naar <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>.</p></div>
+</div>
+
+<script>
+(function(){
+  var URL='https://jjqfspknjpjkcuvtfsli.supabase.co/rest/v1/partners?select=*&active=eq.true&order=sort,name';
+  var KEY='sb_publishable_h9cryFZyRED8rffIVPtBuw_klaQOTOJ';
+  var CN={AT:'Austria',AU:'Australia',BE:'Belgium',BG:'Bulgaria',CH:'Switzerland',CZ:'Czechia',DE:'Germany',DK:'Denmark',ES:'Spain',FI:'Finland',FR:'France',GR:'Greece',HR:'Croatia',HU:'Hungary',IE:'Ireland',IT:'Italy',LT:'Lithuania',LV:'Latvia',NL:'Netherlands',NO:'Norway',NZ:'New Zealand',PL:'Poland',PT:'Portugal',RO:'Romania',SE:'Sweden',SI:'Slovenia',SK:'Slovakia',UK:'United Kingdom',US:'United States'};
+  var CAT={food:'Voer',gear:'Uitrusting',grooming:'Verzorging',insurance:'Verzekering',other:'Winkels'};
+  var DN=null; try{ DN=new Intl.DisplayNames([document.documentElement.lang],{type:'region'}); }catch(e){}
+  function cn(c){ try{ return (DN&&DN.of(c))||CN[c]||c; }catch(e){ return CN[c]||c; } }
+  var list=document.getElementById('mk-list'), loading=document.getElementById('mk-loading'), ctr=document.getElementById('mk-controls');
+  function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function fail(m){ if(loading){loading.textContent=m;} }
+  var country='ALL', cat='ALL', groups=[];
+
+  function inWindow(r){
+    var now=Date.now();
+    if(r.starts_at && new Date(r.starts_at).getTime()>now) return false;
+    if(r.ends_at && new Date(r.ends_at).getTime()<now) return false;
+    return true;
+  }
+
+  function render(){
+    var out='', shown=0;
+    groups.forEach(function(g){
+      if(cat!=='ALL' && g.category!==cat) return;
+      var row = country==='ALL' ? g.rows[0]
+              : g.rows.filter(function(r){return (r.countries||[]).indexOf(country)>-1;})[0];
+      if(!row) return;
+      shown++;
+      var all={}; g.rows.forEach(function(r){(r.countries||[]).forEach(function(c){all[c]=1;});});
+      var codes=Object.keys(all).sort();
+      var served = codes.length>8 ? codes.length+' landen'
+                 : codes.map(function(c){return cn(c);}).join(', ');
+      out+='<div class="mkcard">'
+        + (row.logo_url ? '<img class="mklogo" src="'+esc(row.logo_url)+'" alt="'+esc(row.name)+'" loading="lazy">'
+                        : '<div class="mklogo mkph">'+esc(row.emoji||row.name.charAt(0))+'</div>')
+        + '<div class="mkbody"><h3>'+esc(row.name)+'</h3>'
+        + (row.category?'<span class="mkcat">'+esc(CAT[row.category]||row.category)+'</span>':'')
+        + (row.description?'<p>'+esc(row.description)+'</p>':'')
+        + (row.offer?'<p class="mkoffer">'+esc(row.offer)+'</p>':'')
+        + (row.promo_code?'<p class="mkpromo">Code <b>'+esc(row.promo_code)+'</b></p>':'')
+        + (served?'<p class="mkserved">'+esc(served)+'</p>':'')
+        + (row.affiliate_url?'<a class="mkbtn" href="'+esc(row.affiliate_url)+'" target="_blank" rel="sponsored nofollow noopener">Naar '+esc(row.name)+' <span>partnerlink</span></a>':'')
+        + '</div></div>';
+    });
+    list.innerHTML = shown ? out : '<p style="color:#6E7F6E;font-weight:700">Nog geen partners voor deze combinatie. Probeer Alle landen.</p>';
+  }
+
+  fetch(URL,{headers:{apikey:KEY,Authorization:'Bearer '+KEY}})
+  .then(function(r){ if(!r.ok) return r.text().then(function(t){throw new Error('HTTP '+r.status+' '+t.slice(0,200));}); return r.json(); })
+  .then(function(rows){
+    rows=(rows||[]).filter(inWindow);
+    if(!rows.length){ fail('Nog geen partners. Kom snel terug.'); return; }
+    var byName={};
+    rows.forEach(function(r){
+      if(!byName[r.name]) { byName[r.name]={name:r.name,category:r.category,rows:[]}; groups.push(byName[r.name]); }
+      byName[r.name].rows.push(r);
+    });
+    groups.forEach(function(g){
+      g.rows.sort(function(a,b){ return (b.countries||[]).length-(a.countries||[]).length; });
+    });
+    var cats={}, ctry={};
+    rows.forEach(function(r){ if(r.category) cats[r.category]=1; (r.countries||[]).forEach(function(c){ctry[c]=1;}); });
+    var catKeys=Object.keys(cats).sort(), ctryKeys=Object.keys(ctry).sort(function(a,b){return cn(a).localeCompare(cn(b));});
+    var h='<div class="mkchips"><span class="mkchip mkon" data-c="ALL">Alle</span>';
+    catKeys.forEach(function(k){ h+='<span class="mkchip" data-c="'+esc(k)+'">'+esc(CAT[k]||k)+'</span>'; });
+    h+='</div><label class="mksel">Levert in <select id="mk-country"><option value="ALL">Alle landen</option>';
+    ctryKeys.forEach(function(c){ h+='<option value="'+esc(c)+'">'+esc(cn(c))+'</option>'; });
+    h+='</select></label>';
+    ctr.innerHTML=h;
+    ctr.addEventListener('click',function(e){
+      var t=e.target.closest('.mkchip'); if(!t) return;
+      cat=t.getAttribute('data-c');
+      Array.prototype.forEach.call(t.parentNode.children,function(el){el.classList.toggle('mkon',el===t);});
+      render();
+    });
+    document.getElementById('mk-country').addEventListener('change',function(e){ country=e.target.value; render(); });
+    render();
+  })
+  .catch(function(err){
+    fail('De partnerlijst kan nu niet laden. Open het tabblad Marktplaats in de Pawty app om de partners te bekijken.');
+    console.error('[Pawty marketplace]', err && err.message ? err.message : err);
+  });
+})();
+</script>

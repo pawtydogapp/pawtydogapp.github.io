@@ -1,0 +1,94 @@
+{
+ "guides.html": {
+  "title": "32 guide sul comportamento del cane — Pawty",
+  "description": "Guide gratuite e oneste sul comportamento del cane: morsi del cucciolo, abbaio, tirare al guinzaglio, difesa delle risorse, richiamo, educazione ai bisogni e altre 26. Dall'app Pawty per iPhone e Android."
+ },
+ "support.html": {
+  "title": "Assistenza — Pawty",
+  "description": "Aiuto per l'app di addestramento cani Pawty su iPhone e Android: eliminare l'account, problemi di accesso, serie, classifica e contatti."
+ },
+ "approach.html": {
+  "title": "Il nostro approccio — Pawty",
+  "description": "Come insegna Pawty: solo rinforzo positivo, sessioni da 3 minuti, niente sensi di colpa, e quando rivolgersi invece a un veterinario o a un comportamentalista."
+ },
+ "partners.html": {
+  "title": "Partner e stampa — Pawty",
+  "description": "Diventa partner di Pawty, app gratuita di addestramento cani per iPhone e Android. Raggiungi proprietari di cani coinvolti con spazi nel Marketplace dell'app. Kit stampa incluso."
+ },
+ "marketplace.html": {
+  "title": "Partner del Marketplace — Pawty",
+  "description": "Partner del Marketplace di Pawty: cibo per cani, accessori, toelettatura e assicurazioni da Fressnapf, Maxi Zoo, tails.com, Bella & Duke e altri, filtrati per paese."
+ },
+ "index.html": {
+  "title": "Pawty — Il Duolingo per cani",
+  "description": "Il tuo cane non è rotto e tu non stai fallendo. 99 abilità di addestramento in sessioni da 3 minuti, 32 guide oneste sul comportamento, serie che si congelano invece di azzerarsi. Gratis su iPhone e Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita di addestramento cani per iPhone e Android con 99 abilità, 32 guide sul comportamento, valutazioni a zampe, serie e un calendario delle cure.\",\"url\":\"https://pawtyapp.com/it/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"it\"}"
+ },
+ "blog.html": {
+  "title": "Blog Pawty — educazione del cane e vita con il cane, in pratica",
+  "description": "Articoli pratici sui cani da Pawty: quanto costa un cucciolo, la lista della spesa, i tempi delle vaccinazioni, il sonno, il clicker, la toelettatura e i cani adottati."
+ },
+ "post-puppy-cost.html": {
+  "title": "Quanto costa davvero un cucciolo nel primo anno — Pawty",
+  "description": "I costi europei del primo anno di un cucciolo, voce per voce: trasportino, veterinario, cibo, toelettatura e assicurazione, e cosa puoi saltare senza rischi.",
+  "headline": "Quanto costa davvero un cucciolo nel primo anno"
+ },
+ "post-shopping-list.html": {
+  "title": "La lista della spesa per il cucciolo, e cosa puoi saltare — Pawty",
+  "description": "Cosa comprare prima che arrivi il cucciolo, cosa comprare al 2° mese e le 6 cose che i negozi per animali vendono ma non ti servono.",
+  "headline": "La lista della spesa per il cucciolo, e cosa puoi saltare"
+ },
+ "post-vaccination.html": {
+  "title": "Il calendario vaccinale del cucciolo in Europa — Pawty",
+  "description": "Il calendario vaccinale standard europeo del cucciolo, cosa copre ogni vaccino e come socializzare in sicurezza prima che il ciclo sia finito.",
+  "headline": "Il calendario vaccinale del cucciolo in Europa"
+ },
+ "post-puppy-sleep.html": {
+  "title": "Quanto deve dormire un cucciolo — Pawty",
+  "description": "I cuccioli hanno bisogno di 18-20 ore di sonno al giorno. Perché i morsi serali sono stanchezza e come imporre un pisolino senza lotte.",
+  "headline": "Quanto deve dormire un cucciolo"
+ },
+ "post-teething.html": {
+  "title": "Guida di sopravvivenza alla dentizione del cucciolo — Blog Pawty",
+  "description": "La dentizione dal 3° al 7° mese, cosa dà sollievo e gli errori da evitare.",
+  "headline": "Guida di sopravvivenza alla dentizione del cucciolo"
+ },
+ "post-walks.html": {
+  "title": "Quanto devono durare le passeggiate del cucciolo? — Blog Pawty",
+  "description": "La regola dei 5 minuti per mese di età, cosa rientra nel conto e come leggere il tuo cucciolo.",
+  "headline": "Quanto devono durare le passeggiate del cucciolo?"
+ },
+ "post-sit.html": {
+  "title": "Insegna al cane a sedersi in una settimana — Blog Pawty",
+  "description": "Il metodo dell'adescamento per insegnare il seduto, i 2 errori classici e com'è il successo sessione per sessione.",
+  "headline": "Insegna al cane a sedersi in una settimana"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Clicker o parola marker: quale usare — Pawty",
+  "description": "Entrambi segnano il momento esatto in cui il cane fa la cosa giusta. Quale usare e quando, come caricarlo in 2 minuti e i 4 errori.",
+  "headline": "Clicker o parola marker: quale usare"
+ },
+ "post-5minutes.html": {
+  "title": "Perché 5 minuti al giorno battono le maratone del weekend — Blog Pawty",
+  "description": "Le sessioni brevi e quotidiane battono quelle lunghe del weekend: ripetizioni, apprendimento distribuito e serie.",
+  "headline": "Perché 5 minuti al giorno battono le maratone del weekend"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Toelettatura del cockapoo: quello che nessuno ti dice — Pawty",
+  "description": "Il pelo riccio non smette mai di crescere. Il vero costo annuale, perché si formano i nodi e il metodo della spazzolatura a strati che li previene.",
+  "headline": "Toelettatura del cockapoo: quello che nessuno ti dice"
+ },
+ "post-rescue-333.html": {
+  "title": "Adottare un cane adulto dal canile: la regola 3-3-3 — Pawty",
+  "description": "3 giorni, 3 settimane, 3 mesi. Come si ambienta davvero un cane adulto adottato e cosa fare in ogni fase.",
+  "headline": "Adottare un cane adulto dal canile: la regola 3-3-3"
+ },
+ "legal/terms.html": {
+  "title": "Termini di servizio — Pawty",
+  "description": "Termini di servizio di Pawty, l'app di addestramento cani per iPhone e Android, con l'avvertenza sull'addestramento e le regole sui link di affiliazione."
+ },
+ "legal/privacy.html": {
+  "title": "Informativa sulla privacy — Pawty",
+  "description": "Come Pawty tratta i tuoi dati: pubblicità personalizzata e consenso, diritti GDPR, hosting nell'UE e link di affiliazione."
+ }
+}

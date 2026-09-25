@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Dog chasing cars, bikes and wildlife",
+  "description": "A hardwired motor pattern that is self-rewarding. Management first, because every chase strengthens it.",
+  "card": "A hardwired motor pattern that is self-rewarding.",
+  "needs": [
+   "Long line",
+   "Flirt pole"
+  ]
+ },
+ "attention": {
+  "title": "Dog pawing, whining and nudging for attention",
+  "description": "Even annoyed attention counts. Flipping the maths so calm pays and pushy does not.",
+  "card": "Even annoyed attention counts.",
+  "needs": [
+   "Food puzzle",
+   "Chew"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Dog will not settle in the evening",
+  "description": "Evening restlessness usually means the day was under- or over-stimulating. A wind-down ritual that works.",
+  "card": "Evening restlessness usually means the day was under- or over-stimulating.",
+  "needs": [
+   "Frozen food toy",
+   "Lick mat",
+   "Dog bed"
+  ]
+ },
+ "biting": {
+  "title": "Why does my puppy bite? Puppy mouthing explained",
+  "description": "Puppies bite to explore and learn bite control. Why the shark phase happens, what stops it, and what makes it worse.",
+  "card": "Puppies bite to explore and learn bite control.",
+  "needs": [
+   "Tug toy",
+   "Rubber chew toy"
+  ]
+ },
+ "teething": {
+  "title": "Puppy teething: chewing during the teeth change",
+  "description": "28 puppy teeth out, 42 adult teeth in, between 3 and 7 months. Which chews help sore gums and which are dangerous.",
+  "card": "28 puppy teeth out, 42 adult teeth in, between 3 and 7 months.",
+  "needs": [
+   "Coffee tree wood chew",
+   "Olive wood chew",
+   "Rubber chew toy",
+   "Puppy chews"
+  ]
+ },
+ "chewadult": {
+  "title": "Adult dog chewing furniture out of boredom",
+  "description": "Chewing is self-soothing. What an under-stimulated adult dog is telling you, and how to redirect it.",
+  "card": "Chewing is self-soothing.",
+  "needs": [
+   "Rotating chews",
+   "Food puzzle"
+  ]
+ },
+ "jumping": {
+  "title": "Dog jumping up on people: how to stop it",
+  "description": "Jumping is excitement plus a history of being paid for it. The 4-paws rule and the incompatible job that replaces it.",
+  "card": "Jumping is excitement plus a history of being paid for it.",
+  "needs": [
+   "Treat pouch"
+  ]
+ },
+ "pulling": {
+  "title": "Dog pulling on the lead: why it happens and what works",
+  "description": "Dogs pull because it moved them forward. Stop-and-go, paying at your leg, and why prong collars create new problems.",
+  "card": "Dogs pull because it moved them forward.",
+  "needs": [
+   "Front-clip harness",
+   "Standard 2 m lead",
+   "Treat pouch"
+  ]
+ },
+ "doorbell": {
+  "title": "Dog barking at the doorbell",
+  "description": "The bell predicts an exciting event. How to recondition it so the bell predicts cheese instead of chaos.",
+  "card": "The bell predicts an exciting event.",
+  "needs": [
+   "Doorbell sound recording",
+   "Dog bed or mat"
+  ]
+ },
+ "barkdogs": {
+  "title": "Dog barking at other dogs on walks",
+  "description": "Usually frustration or discomfort. Finding the distance where your dog stays calm, and closing it over weeks.",
+  "card": "Usually frustration or discomfort.",
+  "needs": [
+   "Long line",
+   "High-value treats"
+  ]
+ },
+ "demand": {
+  "title": "Demand barking: dog barking at you for food or attention",
+  "description": "The dog barks because it has worked before. Why it gets louder before it gets better.",
+  "card": "The dog barks because it has worked before.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Puppy whining at night: what actually helps",
+  "description": "Night crying is separation distress, not manipulation. Why cry-it-out erodes trust at this age.",
+  "card": "Night crying is separation distress, not manipulation.",
+  "needs": [
+   "Crate",
+   "Puppy bed"
+  ]
+ },
+ "cratecry": {
+  "title": "Puppy crying in the crate",
+  "description": "Confinement is unnatural until the crate is trained as a den. Open-door games and second-by-second progress.",
+  "card": "Confinement is unnatural until the crate is trained as a den.",
+  "needs": [
+   "Crate",
+   "Crate cover",
+   "Food puzzle"
+  ]
+ },
+ "sepanx": {
+  "title": "Dog struggles being left alone",
+  "description": "Being alone is a learned skill, not a factory setting. Training absences in tiny doses, and when to film the dog.",
+  "card": "Being alone is a learned skill, not a factory setting.",
+  "needs": [
+   "Long-lasting chew",
+   "Pet camera"
+  ]
+ },
+ "digging": {
+  "title": "Dog digging in the garden",
+  "description": "Digging is hardwired. You cannot delete it, you can relocate it to a legal dig zone.",
+  "card": "Digging is hardwired.",
+  "needs": [
+   "Sandpit or dig box",
+   "Burial toys"
+  ]
+ },
+ "counter": {
+  "title": "Counter surfing: dog stealing food from worktops",
+  "description": "The counter paid out once. Why airtight management, not training, is the actual cure.",
+  "card": "The counter paid out once.",
+  "needs": [
+   "Dog mat for the kitchen"
+  ]
+ },
+ "poop": {
+  "title": "Dog eating poo (coprophagia)",
+  "description": "Common, rarely diet-related. Instant pickup, Leave it, and the vet check worth doing.",
+  "card": "Common, rarely diet-related.",
+  "needs": [
+   "Poo bags",
+   "Treat pouch"
+  ]
+ },
+ "scavenge": {
+  "title": "Dog eating things on walks",
+  "description": "Dogs are opportunistic scavengers by design. Street-level Leave it, and when a basket muzzle is a safety tool.",
+  "card": "Dogs are opportunistic scavengers by design.",
+  "needs": [
+   "Basket muzzle",
+   "Long line"
+  ]
+ },
+ "guard": {
+  "title": "Resource guarding: early signs over food and toys",
+  "description": "Freezing, hard stare or a growl means fear of loss. Why you must never punish a growl.",
+  "card": "Freezing, hard stare or a growl means fear of loss.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Lead reactivity: dog lunging and barking on the lead",
+  "description": "Big feelings with no escape option. Working below threshold, and progress measured in metres per month.",
+  "card": "Big feelings with no escape option.",
+  "needs": [
+   "Long line",
+   "Front-clip harness",
+   "High-value treats"
+  ]
+ },
+ "fireworks": {
+  "title": "Dog scared of fireworks and thunderstorms",
+  "description": "Preparing a den, why comforting your dog is fine, and the sound work to start in November.",
+  "card": "Preparing a den, why comforting your dog is fine, and the sound work to start in November.",
+  "needs": [
+   "White noise machine",
+   "Covered dog bed"
+  ]
+ },
+ "norecall": {
+  "title": "Dog not coming when called",
+  "description": "The environment pays better than you. Rebuilding recall on a long line, and protecting the cue.",
+  "card": "The environment pays better than you.",
+  "needs": [
+   "Long line",
+   "High-value treats"
+  ]
+ },
+ "housetrain": {
+  "title": "Puppy toilet training accidents",
+  "description": "A puppy bladder holds roughly its age in months in hours. Timing, and why enzymatic cleaner matters.",
+  "card": "A puppy bladder holds roughly its age in months in hours.",
+  "needs": [
+   "Enzymatic cleaner",
+   "Puppy pads"
+  ]
+ },
+ "marking": {
+  "title": "Dog marking indoors",
+  "description": "Small deliberate deposits on vertical spots. Rule out medical causes first.",
+  "card": "Small deliberate deposits on vertical spots.",
+  "needs": [
+   "Enzymatic cleaner",
+   "Belly band"
+  ]
+ },
+ "heat": {
+  "title": "A female dog's first heat: what to expect",
+  "description": "Between 6 and 15 months, lasting 2 to 4 weeks. Management for 3 weeks, then life resumes.",
+  "card": "Between 6 and 15 months, lasting 2 to 4 weeks.",
+  "needs": [
+   "Hygiene pants",
+   "Washable pads"
+  ]
+ },
+ "humping": {
+  "title": "Dog humping: what it actually means",
+  "description": "Mostly over-arousal and stress relief, not dominance and often not sexual.",
+  "card": "Mostly over-arousal and stress relief, not dominance and often not sexual.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Zoomies explained (frenetic random activity periods)",
+  "description": "Sudden racing laps are a normal, healthy energy release. Manage the terrain, not the joy.",
+  "card": "Sudden racing laps are a normal, healthy energy release.",
+  "needs": [
+   "Non-slip rug"
+  ]
+ },
+ "begging": {
+  "title": "Dog begging at the table",
+  "description": "Those eyes once earned a chip. A true zero-payout policy, and training the humans.",
+  "card": "Those eyes once earned a chip.",
+  "needs": [
+   "Dog mat for the kitchen",
+   "Long-lasting chew"
+  ]
+ },
+ "stealing": {
+  "title": "Dog stealing socks and running off with them",
+  "description": "Grab a sock, humans erupt into a chase. Killing the chase economy.",
+  "card": "Grab a sock, humans erupt into a chase.",
+  "needs": [
+   "Tug toy",
+   "Trade treats"
+  ]
+ },
+ "carfear": {
+  "title": "Dog scared of car rides",
+  "description": "Motion sickness, or the car only ever drives to the vet. Rebuilding in steps.",
+  "card": "Motion sickness, or the car only ever drives to the vet.",
+  "needs": [
+   "Car harness or crate",
+   "Boot liner"
+  ]
+ },
+ "greetpee": {
+  "title": "Puppy peeing when excited or greeting people",
+  "description": "Immature bladder control, not spite. Why punishment makes submissive peeing worse.",
+  "card": "Immature bladder control, not spite.",
+  "needs": [
+   "Enzymatic cleaner"
+  ]
+ },
+ "nailfear": {
+  "title": "Dog hates nail trimming",
+  "description": "One painful quick-cut creates a long memory. Cooperative care, one nail a day.",
+  "card": "One painful quick-cut creates a long memory.",
+  "needs": [
+   "Nail clippers",
+   "Nail grinder",
+   "Scratch board"
+  ]
+ }
+}

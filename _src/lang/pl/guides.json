@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Pies goni samochody, rowery i dzikie zwierzęta",
+  "description": "Wrodzony wzorzec ruchowy, który sam się nagradza. Najpierw zarządzanie, bo każda pogoń go wzmacnia.",
+  "card": "Wrodzony wzorzec ruchowy, który sam się nagradza.",
+  "needs": [
+   "Długa linka",
+   "Wędka z przynętą"
+  ]
+ },
+ "attention": {
+  "title": "Pies drapie łapą, skomli i szturcha, żeby zwrócić uwagę",
+  "description": "Nawet zirytowana uwaga się liczy. Jak odwrócić rachunek, żeby spokój się opłacał, a natarczywość nie.",
+  "card": "Nawet zirytowana uwaga się liczy.",
+  "needs": [
+   "Zabawka węchowa na jedzenie",
+   "Gryzak"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Pies nie może się wyciszyć wieczorem",
+  "description": "Wieczorny niepokój zwykle oznacza, że dzień był zbyt mało albo zbyt mocno stymulujący. Rytuał wyciszenia, który działa.",
+  "card": "Wieczorny niepokój zwykle oznacza, że dzień był zbyt mało albo zbyt mocno stymulujący.",
+  "needs": [
+   "Zamrożona zabawka z jedzeniem",
+   "Mata do lizania",
+   "Legowisko"
+  ]
+ },
+ "biting": {
+  "title": "Dlaczego mój szczeniak gryzie? Gryzienie wyjaśnione",
+  "description": "Szczenięta gryzą, żeby poznawać świat i uczyć się kontroli gryzienia. Skąd się bierze faza rekina, co ją kończy, a co pogarsza.",
+  "card": "Szczenięta gryzą, żeby poznawać świat i uczyć się kontroli gryzienia.",
+  "needs": [
+   "Szarpak",
+   "Gumowa zabawka do gryzienia"
+  ]
+ },
+ "teething": {
+  "title": "Wymiana zębów u szczeniaka: gryzienie w czasie ząbkowania",
+  "description": "28 mlecznych zębów wypada, 42 stałe wyrastają, między 3. a 7. miesiącem. Które gryzaki łagodzą bolące dziąsła, a które są niebezpieczne.",
+  "card": "28 mlecznych zębów wypada, 42 stałe wyrastają, między 3. a 7. miesiącem.",
+  "needs": [
+   "Gryzak z drewna kawowca",
+   "Gryzak z drewna oliwnego",
+   "Gumowa zabawka do gryzienia",
+   "Gryzaki dla szczeniąt"
+  ]
+ },
+ "chewadult": {
+  "title": "Dorosły pies gryzie meble z nudów",
+  "description": "Gryzienie uspokaja. Co mówi Ci niedostatecznie stymulowany dorosły pies i jak to przekierować.",
+  "card": "Gryzienie uspokaja.",
+  "needs": [
+   "Zmieniane gryzaki",
+   "Zabawka węchowa na jedzenie"
+  ]
+ },
+ "jumping": {
+  "title": "Pies skacze na ludzi: jak to zatrzymać",
+  "description": "Skakanie to ekscytacja plus historia, w której się opłacało. Zasada 4 łap na ziemi i sprzeczne zadanie, które je zastępuje.",
+  "card": "Skakanie to ekscytacja plus historia, w której się opłacało.",
+  "needs": [
+   "Saszetka na smakołyki"
+  ]
+ },
+ "pulling": {
+  "title": "Pies ciągnie na smyczy: dlaczego i co działa",
+  "description": "Psy ciągną, bo to je przybliżało do celu. Stój i idź, nagroda przy nodze, i dlaczego kolczatki tworzą nowe problemy.",
+  "card": "Psy ciągną, bo to je przybliżało do celu.",
+  "needs": [
+   "Szelki z przednim zaczepem",
+   "Zwykła smycz 2 m",
+   "Saszetka na smakołyki"
+  ]
+ },
+ "doorbell": {
+  "title": "Pies szczeka na dzwonek do drzwi",
+  "description": "Dzwonek zapowiada coś ekscytującego. Jak go przewarunkować, żeby zapowiadał ser, a nie chaos.",
+  "card": "Dzwonek zapowiada coś ekscytującego.",
+  "needs": [
+   "Nagranie dźwięku dzwonka",
+   "Legowisko lub mata"
+  ]
+ },
+ "barkdogs": {
+  "title": "Pies szczeka na inne psy na spacerze",
+  "description": "Zwykle frustracja albo dyskomfort. Znalezienie odległości, przy której pies zostaje spokojny, i zmniejszanie jej przez tygodnie.",
+  "card": "Zwykle frustracja albo dyskomfort.",
+  "needs": [
+   "Długa linka",
+   "Smakołyki wysokiej wartości"
+  ]
+ },
+ "demand": {
+  "title": "Szczekanie wymuszające: pies szczeka na Ciebie o jedzenie lub uwagę",
+  "description": "Pies szczeka, bo wcześniej to działało. Dlaczego robi się głośniej, zanim zrobi się lepiej.",
+  "card": "Pies szczeka, bo wcześniej to działało.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Szczeniak płacze w nocy: co naprawdę pomaga",
+  "description": "Nocny płacz to stres rozstania, a nie manipulacja. Dlaczego zostawianie go, żeby się wypłakał, niszczy zaufanie w tym wieku.",
+  "card": "Nocny płacz to stres rozstania, a nie manipulacja.",
+  "needs": [
+   "Klatka kennelowa",
+   "Legowisko dla szczeniaka"
+  ]
+ },
+ "cratecry": {
+  "title": "Szczeniak płacze w klatce",
+  "description": "Zamknięcie jest nienaturalne, dopóki klatka nie zostanie wytrenowana jako legowisko. Zabawy przy otwartych drzwiach i postęp sekunda po sekundzie.",
+  "card": "Zamknięcie jest nienaturalne, dopóki klatka nie zostanie wytrenowana jako legowisko.",
+  "needs": [
+   "Klatka kennelowa",
+   "Pokrowiec na klatkę",
+   "Zabawka węchowa na jedzenie"
+  ]
+ },
+ "sepanx": {
+  "title": "Pies źle znosi zostawanie samemu",
+  "description": "Bycie samemu to wyuczona umiejętność, a nie ustawienie fabryczne. Trening nieobecności w małych dawkach i kiedy nagrać psa.",
+  "card": "Bycie samemu to wyuczona umiejętność, a nie ustawienie fabryczne.",
+  "needs": [
+   "Długotrwały gryzak",
+   "Kamera dla zwierząt"
+  ]
+ },
+ "digging": {
+  "title": "Pies kopie w ogrodzie",
+  "description": "Kopanie jest wrodzone. Nie da się go usunąć, ale można je przenieść do dozwolonej strefy kopania.",
+  "card": "Kopanie jest wrodzone.",
+  "needs": [
+   "Piaskownica lub skrzynia do kopania",
+   "Zabawki do zakopywania"
+  ]
+ },
+ "counter": {
+  "title": "Pies kradnie jedzenie z blatu",
+  "description": "Blat raz się opłacił. Dlaczego szczelne zarządzanie, a nie trening, jest prawdziwym rozwiązaniem.",
+  "card": "Blat raz się opłacił.",
+  "needs": [
+   "Mata do kuchni"
+  ]
+ },
+ "poop": {
+  "title": "Pies zjada odchody (koprofagia)",
+  "description": "Częste, rzadko związane z dietą. Natychmiastowe sprzątanie, Zostaw, i wizyta u weterynarza, która ma sens.",
+  "card": "Częste, rzadko związane z dietą.",
+  "needs": [
+   "Woreczki na odchody",
+   "Saszetka na smakołyki"
+  ]
+ },
+ "scavenge": {
+  "title": "Pies zjada różne rzeczy na spacerze",
+  "description": "Psy z natury są oportunistycznymi padlinożercami. Zostaw na poziomie chodnika i kiedy kaganiec koszykowy jest narzędziem bezpieczeństwa.",
+  "card": "Psy z natury są oportunistycznymi padlinożercami.",
+  "needs": [
+   "Kaganiec koszykowy",
+   "Długa linka"
+  ]
+ },
+ "guard": {
+  "title": "Obrona zasobów: pierwsze sygnały przy jedzeniu i zabawkach",
+  "description": "Zamieranie, twarde spojrzenie lub warczenie oznaczają strach przed utratą. Dlaczego nigdy nie wolno karać warczenia.",
+  "card": "Zamieranie, twarde spojrzenie lub warczenie oznaczają strach przed utratą.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Reaktywność na smyczy: pies rzuca się i szczeka",
+  "description": "Wielkie emocje bez drogi ucieczki. Praca poniżej progu, z postępem mierzonym w metrach na miesiąc.",
+  "card": "Wielkie emocje bez drogi ucieczki.",
+  "needs": [
+   "Długa linka",
+   "Szelki z przednim zaczepem",
+   "Smakołyki wysokiej wartości"
+  ]
+ },
+ "fireworks": {
+  "title": "Pies boi się fajerwerków i burzy",
+  "description": "Przygotowanie kryjówki, dlaczego pocieszanie psa jest w porządku, i praca z dźwiękami, którą warto zacząć w listopadzie.",
+  "card": "Przygotowanie kryjówki, dlaczego pocieszanie psa jest w porządku, i praca z dźwiękami, którą warto zacząć w listopadzie.",
+  "needs": [
+   "Urządzenie z białym szumem",
+   "Zadaszone legowisko"
+  ]
+ },
+ "norecall": {
+  "title": "Pies nie przychodzi na zawołanie",
+  "description": "Otoczenie płaci lepiej niż Ty. Odbudowa przywołania na długiej lince i ochrona sygnału.",
+  "card": "Otoczenie płaci lepiej niż Ty.",
+  "needs": [
+   "Długa linka",
+   "Smakołyki wysokiej wartości"
+  ]
+ },
+ "housetrain": {
+  "title": "Wpadki w nauce czystości szczeniaka",
+  "description": "Pęcherz szczeniaka wytrzymuje mniej więcej tyle godzin, ile szczeniak ma miesięcy. Wyczucie czasu i dlaczego środek enzymatyczny ma znaczenie.",
+  "card": "Pęcherz szczeniaka wytrzymuje mniej więcej tyle godzin, ile szczeniak ma miesięcy.",
+  "needs": [
+   "Środek enzymatyczny",
+   "Maty chłonne dla szczeniąt"
+  ]
+ },
+ "marking": {
+  "title": "Pies znaczy w domu",
+  "description": "Małe, celowe oznaczenia na pionowych powierzchniach. Najpierw wyklucz przyczyny medyczne.",
+  "card": "Małe, celowe oznaczenia na pionowych powierzchniach.",
+  "needs": [
+   "Środek enzymatyczny",
+   "Pas dla samca"
+  ]
+ },
+ "heat": {
+  "title": "Pierwsza cieczka suczki: czego się spodziewać",
+  "description": "Między 6. a 15. miesiącem, trwa od 2 do 4 tygodni. 3 tygodnie zarządzania, a potem życie toczy się dalej.",
+  "card": "Między 6. a 15. miesiącem, trwa od 2 do 4 tygodni.",
+  "needs": [
+   "Majtki na cieczkę",
+   "Wkładki wielorazowe"
+  ]
+ },
+ "humping": {
+  "title": "Pies kopuluje na nogę: co to naprawdę znaczy",
+  "description": "Głównie nadmierne pobudzenie i rozładowanie stresu, a nie dominacja, i często nic seksualnego.",
+  "card": "Głównie nadmierne pobudzenie i rozładowanie stresu, a nie dominacja, i często nic seksualnego.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Zoomies wyjaśnione: nagłe szalone biegi",
+  "description": "Nagłe szalone okrążenia to normalne, zdrowe rozładowanie energii. Zadbaj o podłoże, nie o radość.",
+  "card": "Nagłe szalone okrążenia to normalne, zdrowe rozładowanie energii.",
+  "needs": [
+   "Dywanik antypoślizgowy"
+  ]
+ },
+ "begging": {
+  "title": "Pies żebrze przy stole",
+  "description": "Te oczy kiedyś zarobiły na chipsa. Prawdziwa zasada zero nagród i trening ludzi.",
+  "card": "Te oczy kiedyś zarobiły na chipsa.",
+  "needs": [
+   "Mata do kuchni",
+   "Długotrwały gryzak"
+  ]
+ },
+ "stealing": {
+  "title": "Pies kradnie skarpetki i ucieka",
+  "description": "Łapie skarpetkę, a ludzie ruszają w pogoń. Jak zamknąć ekonomię pościgu.",
+  "card": "Łapie skarpetkę, a ludzie ruszają w pogoń.",
+  "needs": [
+   "Szarpak",
+   "Smakołyki na wymianę"
+  ]
+ },
+ "carfear": {
+  "title": "Pies boi się jazdy samochodem",
+  "description": "Choroba lokomocyjna albo samochód jeździ tylko do weterynarza. Odbudowa krok po kroku.",
+  "card": "Choroba lokomocyjna albo samochód jeździ tylko do weterynarza.",
+  "needs": [
+   "Szelki samochodowe lub transporter",
+   "Mata do bagażnika"
+  ]
+ },
+ "greetpee": {
+  "title": "Szczeniak sika z ekscytacji lub przy powitaniu",
+  "description": "Niedojrzała kontrola pęcherza, a nie złośliwość. Dlaczego kara pogarsza sikanie z uległości.",
+  "card": "Niedojrzała kontrola pęcherza, a nie złośliwość.",
+  "needs": [
+   "Środek enzymatyczny"
+  ]
+ },
+ "nailfear": {
+  "title": "Pies nienawidzi obcinania pazurów",
+  "description": "Jedno bolesne cięcie za blisko zostawia długie wspomnienie. Pielęgnacja kooperacyjna, jeden pazur dziennie.",
+  "card": "Jedno bolesne cięcie za blisko zostawia długie wspomnienie.",
+  "needs": [
+   "Obcinacz do pazurów",
+   "Szlifierka do pazurów",
+   "Deska do drapania"
+  ]
+ }
+}

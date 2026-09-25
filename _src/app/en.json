@@ -1,0 +1,3176 @@
+{
+ "generated": "2026-09-18",
+ "ui": [
+  " · daily target {tgt} g",
+  " · every skill mastered",
+  " · freeze ready",
+  " · top level",
+  " · {x} XP to {n}",
+  " · {x} to {n}",
+  "+{xp} bonus XP. {dog} crushed the quest. A fresh one arrives tomorrow.",
+  ", first heat",
+  ", nothing scheduled yet",
+  "1 day before",
+  "1 month before",
+  "1 week before",
+  "12-week puppy plan",
+  "2 weeks before",
+  "3 to 5 minutes · {tier}",
+  "8-week adult plan",
+  "A session is 3 to 5 minutes. Then rate it honestly.",
+  "A warm-up {name} already knows",
+  "A week is nothing. {dog} remembers more than you think, pick one easy skill 🐾",
+  "AD",
+  "About Pawty",
+  "Account & profile",
+  "Add an entry",
+  "Add meal",
+  "Adjust the crop",
+  "Age",
+  "Agility",
+  "Albania",
+  "All",
+  "All levels",
+  "Almost there",
+  "Almost there. Confirm the link we sent to your email, then log in.",
+  "An account with this email already exists. Log in instead.",
+  "Argentina",
+  "Asking your phone...",
+  "Australia",
+  "Austria",
+  "Badges",
+  "Behaviours",
+  "Belgium",
+  "Bosnia and Herzegovina",
+  "Brazil",
+  "Breed (or best guess / mix)",
+  "Bulgaria",
+  "Canada",
+  "Care calendar",
+  "Care reminder from Pawty 🩺",
+  "Challenges",
+  "Change password",
+  "Chile",
+  "China",
+  "Choose a different nickname.",
+  "Collar vs harness & leashes",
+  "Colombia",
+  "Commands",
+  "Cons",
+  "Consistency. Earned by turning up.",
+  "Continue",
+  "Continue in the browser window that just opened. It brings you straight back.",
+  "Continue in the window that just opened. It brings you straight back.",
+  "Continue with Apple",
+  "Continue with Google",
+  "Copied ✓",
+  "Copy",
+  "Country",
+  "Create account",
+  "Creating an account stores your email, nickname and country in the European Union. Read the",
+  "Croatia",
+  "Current password",
+  "Current password is wrong.",
+  "Cyprus",
+  "Czechia",
+  "DD.MM.YYYY · tap to pick",
+  "Daily grams target and meal log",
+  "Daily target",
+  "Daily target saved. Recheck it monthly, it grows with the puppy.",
+  "Delete account",
+  "Delete my account…",
+  "Denmark",
+  "Dog",
+  "Dog photo (avatar)",
+  "Dog school reminder from Pawty 🎓",
+  "Dog's name",
+  "Egypt",
+  "Email",
+  "End every session on a success, even a tiny one. Both of you should walk away feeling good.",
+  "Enter a valid email address.",
+  "Enter the daily grams. The feeding table on your food bag gives it per weight and age.",
+  "Enter the grams of this meal.",
+  "Enter your account email first.",
+  "Equipment checklist",
+  "Estonia",
+  "Every {day} · {time}",
+  "FOLLOW ALONG",
+  "Female",
+  "Finished. Read it again or restart from week 1",
+  "Finland",
+  "First 5 paws",
+  "First dog",
+  "Food diary",
+  "Forgot password",
+  "France",
+  "Friday",
+  "Fully equipped. {name}-approved setup.",
+  "Germany",
+  "Google sign-in did not complete. Try again.",
+  "Greece",
+  "Grooming reminder from Pawty ✂️",
+  "Had dogs before",
+  "Have an account? Log in",
+  "Hi {nick} & {name} 👋",
+  "Home",
+  "Hong Kong",
+  "How did it go?",
+  "Hungary",
+  "IN PROGRESS",
+  "Iceland",
+  "If nothing happens, your phone has already been asked once. Use {path}.",
+  "India",
+  "Indonesia",
+  "Interface, skills and guides. Your country and the offers you see stay the same.",
+  "Ireland",
+  "Israel",
+  "Italy",
+  "Japan",
+  "Keep me logged in on this device",
+  "Keep my account",
+  "Kenya",
+  "LEASH TYPES",
+  "Language",
+  "Last sessions: {join}",
+  "Latvia",
+  "Leaderboard · Top 25",
+  "Learn",
+  "Left – right",
+  "Lithuania",
+  "Loading offers…",
+  "Log in",
+  "Log out",
+  "Loving Pawty?",
+  "Luxembourg",
+  "MASTERED · KEEP FRESH",
+  "MUST HAVE",
+  "Made with 🐾 in Slovenia",
+  "Malaysia",
+  "Male",
+  "Malta",
+  "Marketplace slots for treats, gear, insurance and grooming partners. Country-targeted placement with tracked promo codes and links. Write to info@pawtyapp.com.",
+  "Mastered",
+  "Mastered skills fade without occasional reps. These are due a quick refresher:",
+  "Maybe later",
+  "Mexico",
+  "Monday",
+  "Montenegro",
+  "More",
+  "Morocco",
+  "Most dogs need 20 to 40 repetitions before a new cue truly sticks, and every owner hits frustrating days. Both are part of the deal, and the payoff is a decade of easier life together.",
+  "Most items here carry a This is normal badge. That badge is the whole point: you are not failing, and your dog is not broken.",
+  "Must-haves and nice-to-haves, tick as you go",
+  "NICE TO HAVE",
+  "NOT STARTED",
+  "Name the entry, for example Rabies booster, Full groom or Puppy class.",
+  "Netherlands",
+  "New Zealand",
+  "New here? Create account",
+  "New password",
+  "New password needs at least 6 characters.",
+  "Nickname (public on leaderboard)",
+  "Nickname (public on the leaderboard)",
+  "Nickname needs at least 2 characters.",
+  "Nigeria",
+  "No account found for this email.",
+  "No entries yet. Rabies boosters, yearly combo shots and groom dates all belong here.",
+  "North Macedonia",
+  "Norway",
+  "Nothing is lost, your training data is safe. Go back and try another card, and tell us at info@pawtyapp.com if it keeps happening.",
+  "One honest thing first. The start is hard for the dog and for the owner. Every owner in this app felt overwhelmed in the beginning. But it gets easier, and it gets genuinely fun.",
+  "Open guides",
+  "Open the full guide in Learn",
+  "Open the plan",
+  "Open ›",
+  "Other",
+  "Over target by {x} g. One day is no drama, a pattern is worth adjusting.",
+  "Partner offers are on the way",
+  "Password",
+  "Password changed.",
+  "Password needs at least 6 characters.",
+  "Password updated. Log in with the new one.",
+  "Pawty",
+  "Pawty v1.4.0 · build 21",
+  "Perfect session.",
+  "Permanently removes your account and everything in it.",
+  "Peru",
+  "Philippines",
+  "Photo (optional, becomes the avatar)",
+  "Pick a date.",
+  "Pick a nickname, it shows on the leaderboard.",
+  "Pick at least 1 reminder.",
+  "Poland",
+  "Portugal",
+  "Press back again to exit",
+  "Privacy policy",
+  "Profile",
+  "Profile updated.",
+  "Progress",
+  "Progress logged. Tomorrow builds on today.",
+  "Pros",
+  "Pros, cons and honest verdicts, with drawings",
+  "Puppy corner ⭐",
+  "Puppy detected. We will highlight teething, house training and the Puppy corner for you.",
+  "Puppy or adult track, realistic pace",
+  "Puppy portions change roughly monthly as they grow, take the number from the feeding table on your food bag. Under 6 months: 3 to 4 meals a day. Adults: 2. Treats count too, keep them within about 10% of the daily total.",
+  "Qatar",
+  "Quest complete",
+  "Questions, ideas or a bug",
+  "Ranked by training activity (XP), not by dog talent. Nicknames and dog avatars are visible to other Pawty users.",
+  "Rate Pawty ⭐",
+  "Real deals with promo codes from pet shops, groomers and insurers land here soon. Check back after the next update.",
+  "Remind me",
+  "Reminders are blocked. Turn them on in {path}, then come back to this screen.",
+  "Reminders are off. Turn them on here and every date you save below gets a phone notification.",
+  "Reminders arrive as phone notifications, and the next one also shows on Home. Vaccination and grooming reminders arrive at 09:00, the day-before reminder at 18:00.",
+  "Reminders: {join}",
+  "Repeat new password",
+  "Repeat password",
+  "Repeats every week on",
+  "Reset email sent. Open the link on this device, it brings you back here to set a new password.",
+  "Restart the plan",
+  "Restarted. You are on week 1 and the weekly card is back on Home.",
+  "Romania",
+  "Rough session. Logged anyway, consistency beats perfection.",
+  "Saturday",
+  "Saudi Arabia",
+  "Save",
+  "Save entry",
+  "Save new password",
+  "Save profile",
+  "Save session",
+  "Saved. It will appear on Home when a reminder window opens.",
+  "Search 90+ skills",
+  "Search a skill",
+  "Select male or female, it personalises the guides.",
+  "Select your country, it shows as a flag on the leaderboard.",
+  "Select your country. It shows as a flag on the leaderboard and picks the offers you see.",
+  "Send reset email",
+  "Serbia",
+  "Session expired. Sign in with Google again.",
+  "Set new password",
+  "Sex",
+  "Shop",
+  "Short daily sessions beat weekend marathons. One skill, 3 minutes, done.",
+  "Show password",
+  "Sign-in with {provider} needs the live backend. Use email and password in demo mode.",
+  "Signed in as {email}. Two details and you are in.",
+  "Singapore",
+  "Skill. Earned by 3 perfect sessions in a row.",
+  "Skills & challenges",
+  "Slovakia",
+  "Slovenia",
+  "Solid middle ground. Getting there.",
+  "South Africa",
+  "South Korea",
+  "Spain",
+  "Start a session",
+  "Start the quest",
+  "Start training",
+  "Started over from week 1 by mistake, or want an early reset?",
+  "Streak freeze ready",
+  "Streak saved",
+  "Sunday",
+  "Sweden",
+  "Switzerland",
+  "Taiwan",
+  "Tap the paws",
+  "Teething, treats, clicker basics{x}. Everything a puppy month throws at you.",
+  "Tell us about your dog 🐶",
+  "Tell us your experience level.",
+  "Thailand",
+  "That email already has a Pawty account. Sign in with the method you used originally, or use a different Apple ID.",
+  "The dog needs a name.",
+  "The goal picture",
+  "The story, social links and what is coming",
+  "The two new passwords do not match.",
+  "The two passwords do not match.",
+  "This is normal",
+  "This permanently deletes: your login, {name}'s profile and photo, all training progress and paw ratings, streak and badges, leaderboard position, care calendar entries and food diary. There is no undo.",
+  "This plan is deliberately slow. Roughly 1 new skill per week, with review built in. Falling behind is allowed, repeat a week whenever needed. Dogs do not read calendars.",
+  "This screen did not load",
+  "This week",
+  "Thursday",
+  "Tier completion",
+  "Today",
+  "Today's 5 minutes are waiting.",
+  "Today's quest",
+  "Today: {name}",
+  "Train",
+  "Train this now",
+  "Train together. Grow together.",
+  "Training info is educational, not veterinary advice. For health or serious behaviour concerns, talk to your vet or a certified trainer.",
+  "Training plan",
+  "Tricks",
+  "Try again",
+  "Tuesday",
+  "Turkey",
+  "Ukraine",
+  "United Arab Emirates",
+  "United Kingdom",
+  "United States",
+  "Up – down",
+  "Uruguay",
+  "Use a different account",
+  "Vaccination reminder from Pawty 💉",
+  "Vaccinations, grooming and school with reminders",
+  "Very close. One more push.",
+  "Vietnam",
+  "Visit store →",
+  "WHAT THE DOG WEARS",
+  "We read every message. Partner enquiries welcome.",
+  "Wednesday",
+  "Week total {wTotal} g · average {round} g per logged day{x}",
+  "Week {w} · {n}",
+  "Welcome back",
+  "What is your dog's name?",
+  "Why it matters.",
+  "Why your dog does this.",
+  "Wrong password. Use Forgot password if needed.",
+  "XP earned this week. Resets every Monday, everyone gets a fresh race.",
+  "Yes, delete everything permanently",
+  "You",
+  "You missed a day, so Pawty spent your streak freeze. Your {streak}-day streak is intact. You earn a new freeze after 7 days in a row.",
+  "Your dog",
+  "Your experience",
+  "Your streak freeze is waiting. One 3-minute session with {dog} starts it again 💚",
+  "Zoom",
+  "agility",
+  "challenge",
+  "coming soon",
+  "command",
+  "current",
+  "day of",
+  "day streak{x}",
+  "days trained",
+  "e.g. Deworming",
+  "e.g. Full groom",
+  "e.g. Puppy class",
+  "e.g. Rabies booster",
+  "grams",
+  "grams per day",
+  "info@pawtyapp.com",
+  "last {r}/5",
+  "mastered",
+  "meal",
+  "meals",
+  "normal",
+  "of {tgt} g",
+  "on the day",
+  "or",
+  "pawtyapp.com",
+  "phone Settings, Apps, Pawty, Notifications, Allow notifications",
+  "phone Settings, Notifications, Pawty, Allow Notifications",
+  "privacy policy",
+  "pup",
+  "today · {time}",
+  "tomorrow · {time}",
+  "trick",
+  "you are here",
+  "your dog",
+  "{cmd} is officially mastered: 3 perfect sessions in a row. Keep it fresh with an occasional refresher.",
+  "{dogName} is through all {length} weeks, so the weekly card is off your Home screen. Every week below stays readable. Restarting sets the clock back to week 1, which makes a solid refresher.",
+  "{dog} has mastered 3 skills already. A quick store rating helps other dog owners find Pawty. It means a lot.",
+  "{dog} is ready for today's lesson: {skill} 🎯",
+  "{dog} is ready for today's quest. 5 minutes is all it takes 🎯",
+  "{dog} is ready when you are. Today's session is 3 minutes, no catching up needed 💚",
+  "{dog} nailed {cmd}. A perfect session. Well done, both of you.",
+  "{dog} would love 3 minutes today. Start anywhere, no catching up needed 🐾",
+  "{e} {n} is done for today. A fresh quest arrives tomorrow, the library below stays open.",
+  "{length} of {length2} skills mastered{x}",
+  "{n} d",
+  "{sum} g",
+  "{val} XP",
+  "{xpWeek} XP",
+  "{xp} XP{x}",
+  "{x} · +{xp} XP",
+  "— means nothing was logged that day, which is different from a day of zero grams.",
+  "← Back",
+  "← Pick another",
+  "▶️ Continue",
+  "✂️ Grooming",
+  "✅ Full steps",
+  "✅ How to teach it",
+  "✅ Quest complete · +{xp} XP",
+  "✅ Trained today. {name} is a lucky dog.",
+  "✅ What to do",
+  "❌ What not to do",
+  "🍼 Puppy corner",
+  "🍽️ Food diary",
+  "🎒 Equipment checklist",
+  "🎓 Plan complete",
+  "🎓 School (weekly)",
+  "🏆 All-time",
+  "🐾 About Pawty",
+  "👤 Account & profile",
+  "💉 Care calendar",
+  "💉 Care reminders",
+  "💉 Vaccination",
+  "📈 Coaching notes: stages and troubleshooting",
+  "📣 Whistle",
+  "📷 Choose photo",
+  "🔁 Another way in.",
+  "🔁 Keep it fresh",
+  "🔁 refresh due",
+  "🔔 Reminders are on{x}.",
+  "🔔 Turn on reminders",
+  "🔘 Clicker",
+  "🔥 {streak}-day streak · {xp} XP",
+  "🗓️ This week",
+  "🗓️ Week {week}: {n}",
+  "🛍️ Marketplace",
+  "🤝 Want your brand here?",
+  "🥣 {g} g",
+  "🦮 Collar, harness and leashes",
+  "🩺 Other"
+ ],
+ "plural": [
+  "in {n} day|in {n} days",
+  "overdue {n} day|overdue {n} days",
+  "{name} in {n} day|{name} in {n} days",
+  "{n} care reminder scheduled|{n} care reminders scheduled",
+  "{n} month|{n} months",
+  "{n} paw|{n} paws",
+  "{n} wk back|{n} wk back",
+  "{n} year|{n} years"
+ ],
+ "content": {
+  "cmds": {
+   "name": {
+    "n": "Name recognition",
+    "why": "The name means: attention on me now. Everything else builds on it.",
+    "steps": [
+     "First get attention without the name: make a kiss sound or rustle a treat, mark and reward the look at you. The look itself is the behaviour.",
+     "Now pair it: say the name once, help with the kiss sound if needed, mark the head turn, treat.",
+     "Fade the helper sound until the name alone turns the head. Repeat 5 to 10 times per session, in different rooms."
+    ],
+    "avoid": [
+     "Do not repeat the name 5 times in a row, it becomes background noise.",
+     "Never use the name before scolding, it must stay positive."
+    ],
+    "alt": "If your dog ignores you, make a kiss sound first, reward the look, then pair with the name.",
+    "tip": "Most dogs need 20 to 40 rewarded looks before the name reliably works."
+   },
+   "sit": {
+    "n": "Sit",
+    "why": "Sit is the default good manners position and the easiest first win.",
+    "steps": [
+     "Hold a treat at nose height.",
+     "Move it slowly up and back over the head. The rear drops naturally.",
+     "The moment the bottom touches the floor, mark and treat.",
+     "After 5 to 10 clean reps, add the word Sit just before luring."
+    ],
+    "avoid": [
+     "Do not push the rear down with your hand, dogs push back against pressure.",
+     "Do not say Sit repeatedly, one cue, then help with the lure."
+    ],
+    "alt": "Capture it: whenever your dog sits on its own, mark and treat.",
+    "tip": "Short sessions win. 3 minutes, 3 times a day beats one 20-minute session."
+   },
+   "down": {
+    "n": "Down",
+    "why": "Down is the calm settle position, useful in cafes and at home.",
+    "steps": [
+     "Start from Sit.",
+     "Lower a treat from the nose straight to the floor, then drag it slightly forward.",
+     "Mark and treat the instant elbows touch the floor.",
+     "Add the word Down once the movement is smooth."
+    ],
+    "avoid": [
+     "Do not press on the shoulders.",
+     "Do not reward half-downs where elbows hover, wait for full contact."
+    ],
+    "alt": "Lure under your bent knee so the dog must crawl low to follow the treat.",
+    "tip": "Slippery floors make Down harder. Train on a carpet or mat first."
+   },
+   "stand": {
+    "n": "Stand",
+    "why": "Needed at the vet and for grooming and brushing.",
+    "steps": [
+     "From Sit, hold a treat at nose level and pull it slowly straight away from the dog.",
+     "Mark the moment the rear lifts and all 4 paws are planted.",
+     "Treat while the dog stays standing, then add the word Stand."
+    ],
+    "avoid": [
+     "Do not lift the treat up, that cues Sit.",
+     "Do not let the dog walk forward more than 1 step."
+    ],
+    "alt": "Gently lure sideways along your leg, many dogs stand more easily that way.",
+    "tip": "Feed 2 to 3 treats in position so standing still becomes valuable."
+   },
+   "comein": {
+    "n": "Come (indoors)",
+    "why": "Recall starts at home with zero distractions. It can save your dog's life later.",
+    "steps": [
+     "From 2 meters away, say the name plus Come in a happy voice.",
+     "Crouch, open arms, even run backwards a little.",
+     "Party when the dog arrives: 3 treats one after another plus praise.",
+     "Increase distance room by room."
+    ],
+    "avoid": [
+     "Never call the dog to something unpleasant like nail clipping, recall must always pay.",
+     "Do not grab the collar the second the dog arrives, feed first, touch collar gently, then treat again."
+    ],
+    "alt": "Two-person ping-pong: family members call the dog between them across the flat.",
+    "tip": "Recall should be the best-paid job your dog has. Use the top treats here."
+   },
+   "watch": {
+    "n": "Watch me",
+    "why": "Eye contact is the on switch for everything else, especially outdoors.",
+    "steps": [
+     "Hold a treat to your eyes.",
+     "Say Watch. Mark the second the eyes meet yours.",
+     "Fade the treat: same hand motion without food, reward from the pouch."
+    ],
+    "avoid": [
+     "Do not demand long stares at first, half a second counts.",
+     "Do not train this while the dog is over-excited."
+    ],
+    "alt": "Just wait silently. Reward any voluntary glance at your face.",
+    "tip": "Great tool before crossing roads or passing other dogs."
+   },
+   "touch": {
+    "n": "Touch (hand target)",
+    "why": "Nose to palm. A movable magnet you can use to reposition your dog anywhere.",
+    "steps": [
+     "Present a flat palm 10 cm from the nose.",
+     "Dogs sniff it naturally. Mark and treat the nose contact.",
+     "Add the word Touch, then move the hand around: higher, lower, left, right."
+    ],
+    "avoid": [
+     "Do not shove the palm into the face, let the dog come to it.",
+     "Do not hold food in the target hand, treat from the other hand."
+    ],
+    "alt": "Rub a bit of treat smell on your palm for the first 2 reps only.",
+    "tip": "Touch later fixes leash pulling, recall and even fear of objects."
+   },
+   "leave1": {
+    "n": "Leave it (basic)",
+    "why": "Teaches impulse control around food. The foundation for street safety.",
+    "steps": [
+     "Treat in a closed fist. Let the dog sniff and lick, say nothing.",
+     "The instant the dog backs off, mark and reward from the other hand.",
+     "Add the words Leave it just before presenting the fist."
+    ],
+    "avoid": [
+     "Never reward with the item the dog left, always from the other hand.",
+     "Do not yank the dog away, this is about the dog choosing."
+    ],
+    "alt": "Cover a treat on the floor with your shoe, reward the moment the dog gives up.",
+    "tip": "Patience: the first rep can take a full minute of licking your fist. That is normal."
+   },
+   "drop": {
+    "n": "Drop it",
+    "why": "Getting things out of the mouth without a fight prevents guarding.",
+    "steps": [
+     "During tug or fetch, hold a smelly treat to the nose.",
+     "Say Drop. The dog opens the mouth for the treat, mark and reward.",
+     "Give the toy right back most of the time so dropping does not mean losing."
+    ],
+    "avoid": [
+     "Do not chase the dog or pry the mouth open, that turns it into a game of keep-away.",
+     "Do not only use Drop when you take things away forever."
+    ],
+    "alt": "Trade for a second identical toy instead of food.",
+    "tip": "Trade up: the reward should feel better than the item in the mouth."
+   },
+   "off": {
+    "n": "Off (furniture / people)",
+    "why": "A polite way to move the dog off the sofa or off a guest.",
+    "steps": [
+     "Toss a treat on the floor and say Off as the dog jumps down.",
+     "Mark all 4 paws on the floor, treat again there.",
+     "Fade the thrown treat, keep rewarding the floor position."
+    ],
+    "avoid": [
+     "Do not pull the dog off by the collar.",
+     "Do not sometimes allow the sofa and sometimes punish it, pick a house rule."
+    ],
+    "alt": "Teach a Place cue instead and send the dog to its mat.",
+    "tip": "Reward the floor generously, the floor must be the winning spot."
+   },
+   "wait": {
+    "n": "Wait at the door",
+    "why": "Stops door dashing, one of the most common accident causes.",
+    "steps": [
+     "Hand on the door handle. If the dog surges, hand comes off, wait.",
+     "Open 2 cm. If the dog stays put, mark and treat.",
+     "Build up until the door is fully open and you release with Okay."
+    ],
+    "avoid": [
+     "Do not open the door while the dog is mid-lunge, timing is everything.",
+     "Do not turn it into a long stay, 2 to 5 seconds is plenty."
+    ],
+    "alt": "Practice at the crate door first, the pattern transfers.",
+    "tip": "Release word matters. The dog learns: waiting makes the door open."
+   },
+   "crate": {
+    "n": "Crate / Kennel",
+    "why": "A crate is a den, not a jail. It helps house training, travel and calm sleep.",
+    "steps": [
+     "Toss treats inside, door open, zero pressure. Let the dog explore.",
+     "Feed meals inside. Add the word Kennel as the dog walks in.",
+     "Close the door for 2 seconds, treat through the bars, open. Build time slowly."
+    ],
+    "avoid": [
+     "Never use the crate as punishment.",
+     "Do not close the door on day 1 and leave, that creates panic."
+    ],
+    "alt": "Use a playpen or a dog bed with the same steps if you prefer no crate.",
+    "tip": "A chew toy inside makes the crate the best room in the house."
+   },
+   "place": {
+    "n": "Place (go to mat)",
+    "why": "Sends the dog to a defined spot to settle. Gold during dinner and visits.",
+    "steps": [
+     "Toss a treat on the mat, say Place as the dog steps on.",
+     "Ask for Down on the mat, reward calmly and often.",
+     "Add duration, then start sending from 1 step away, then 2."
+    ],
+    "avoid": [
+     "Do not expect a puppy to hold Place for 10 minutes, start with seconds.",
+     "Do not use an uncomfortable mat, comfort sells the behaviour."
+    ],
+    "alt": "Feed a chew or stuffed toy only on the mat so the mat predicts good things.",
+    "tip": "Reward calm postures extra: head down, hip rolled, slow blinks."
+   },
+   "pawl": {
+    "n": "Left paw",
+    "why": "A crowd favourite and a gentle start for handling paws (nail care later).",
+    "steps": [
+     "Dog sits. Hold a treat in a closed fist at chest height, slightly to the dog's left.",
+     "Dogs paw at fists. Mark the instant the left paw lifts, treat.",
+     "Add the cue Left just before the fist appears."
+    ],
+    "avoid": [
+     "Do not grab the paw, let the dog offer it.",
+     "Do not mix left and right in one session at first."
+    ],
+    "alt": "Tickle the back of the left leg lightly, mark the lift.",
+    "tip": "Pick one word per side and stay consistent: Left and Right."
+   },
+   "pawr": {
+    "n": "Right paw",
+    "why": "The mirror of Left paw. Two cues, two paws, double the party trick.",
+    "steps": [
+     "Same fist game, now slightly to the dog's right side.",
+     "Mark only right-paw lifts, ignore left ones.",
+     "Add the cue Right."
+    ],
+    "avoid": [
+     "Do not train it right after Left paw in the same minute, dogs blur the two.",
+     "Do not reward the wrong paw, just reset calmly."
+    ],
+    "alt": "Present your left hand (facing the dog's right), most dogs mirror the near paw.",
+    "tip": "Train the sides on different days first, mix them only once both are solid."
+   },
+   "spinl": {
+    "n": "Spin left",
+    "why": "Easy movement trick, warms the dog up and looks great.",
+    "steps": [
+     "Lure the nose in a flat circle to the left, treat at the end.",
+     "Shrink the lure to a small hand circle.",
+     "Add the cue Spin."
+    ],
+    "avoid": [
+     "Do not lure too high, the dog will jump instead of turning.",
+     "Stop if the dog gets dizzy or frantic, 3 spins max per set."
+    ],
+    "alt": "Toss the treat so the dog turns to chase it, mark the turn.",
+    "tip": "Older dogs with stiff hips: keep circles wide and slow."
+   },
+   "spinr": {
+    "n": "Spin right",
+    "why": "The mirror spin. Separate cue, separate muscle pattern.",
+    "steps": [
+     "Lure a flat circle to the right.",
+     "Shrink the lure, add the cue Twist so it never clashes with Spin."
+    ],
+    "avoid": [
+     "Do not use the same word for both directions.",
+     "Do not drill only one direction, balance the body."
+    ],
+    "alt": "Use the other hand as the visual cue for this direction.",
+    "tip": "Spin plus Twist alternating is a mini gym session for the spine."
+   },
+   "stayd": {
+    "n": "Stay (duration)",
+    "why": "The dog holds position while time passes. Distance comes later, separately.",
+    "steps": [
+     "Dog sits. Say Stay, open palm signal.",
+     "Wait 1 second, mark, treat in position, release with Okay.",
+     "Grow to 2, 4, 7, 10 seconds. If the dog breaks twice, make it easier."
+    ],
+    "avoid": [
+     "Do not add steps away yet, duration and distance are separate skills.",
+     "Do not call the dog out of a stay at first, walk back and release in place."
+    ],
+    "alt": "Feed a slow trickle of treats while the dog holds, then space them out.",
+    "tip": "Reward in position, not after the release, or you reward getting up."
+   },
+   "stayx": {
+    "n": "Stay (distance)",
+    "why": "Now you move, the dog does not. Needed for photos, doors, real life.",
+    "steps": [
+     "Solid 10-second Stay first.",
+     "Say Stay, take half a step back, return, mark, treat.",
+     "1 step, 2 steps, then side steps, then turning your back."
+    ],
+    "avoid": [
+     "Do not jump from 1 step to 5, dogs fail in big jumps.",
+     "Do not always call the dog to you at the end, mostly return to the dog."
+    ],
+    "alt": "Put the dog on its mat, the mat anchors the position.",
+    "tip": "3 Ds rule: train Duration, Distance and Distraction separately, then combine."
+   },
+   "comeout": {
+    "n": "Come (outdoors)",
+    "why": "Recall around smells, dogs and birds. This is the real exam.",
+    "steps": [
+     "Start on a 5 to 10 m long line in a quiet park.",
+     "Call once, run backwards, party with top treats on arrival.",
+     "Slowly add distractions: distance from other dogs, then closer over weeks."
+    ],
+    "avoid": [
+     "Never call when you know the dog will not come, you only teach the dog to ignore you.",
+     "Do not punish a slow recall, the dog still came. Punishing kills recall."
+    ],
+    "alt": "Whistle recall: 2 short pips, always followed by 3 treats. Whistles carry further than voices.",
+    "tip": "Pay every single outdoor recall for the first year. No exceptions."
+   },
+   "heell": {
+    "n": "Heel (left side)",
+    "why": "Formal close walking at your left leg, head roughly at your knee.",
+    "steps": [
+     "Stand still, lure the dog to your left side, treat there several times.",
+     "Take 1 step, treat at your left seam. Then 2, then 5.",
+     "Add the cue Heel when the position is reliable."
+    ],
+    "avoid": [
+     "Do not expect heel for a whole walk, it is a short precision exercise.",
+     "Do not treat from your right hand across your body, it pulls the dog out of position."
+    ],
+    "alt": "Walk along a wall on your left so the dog has a natural channel.",
+    "tip": "High rate of pay at the start: a treat every 1 to 2 steps is normal."
+   },
+   "heelr": {
+    "n": "Heel (right side)",
+    "why": "Same skill, right leg. Useful in traffic so the dog walks away from cars.",
+    "steps": [
+     "Same as left heel, mirrored. Lure to the right side, feed at the right seam.",
+     "Use a different cue, for example Side, so sides never blur."
+    ],
+    "avoid": [
+     "Do not switch sides mid-session at first.",
+     "Do not let the dog cross behind you constantly, reward staying on the chosen side."
+    ],
+    "alt": "Hold the leash and treats both in the right hand at first for clean mechanics.",
+    "tip": "Two side cues make city walking flexible: dog always on the safe side."
+   },
+   "loosel": {
+    "n": "Loose leash, dog on left",
+    "why": "Relaxed walking with slack in the leash, dog on your left. Not formal heel.",
+    "steps": [
+     "The rule: tight leash means we stop. Slack means we move.",
+     "Stop the instant the leash tightens. Wait. When slack returns, mark and walk on.",
+     "Reward often next to your left leg with treats delivered low."
+    ],
+    "avoid": [
+     "Do not yank the leash back, pressure invites counter-pressure.",
+     "Do not keep walking while the dog pulls, every pulled step pays the pulling."
+    ],
+    "alt": "Turn 180 degrees when pulling starts, reward when the dog catches up at your side.",
+    "tip": "Expect slow first walks. 100 m with slack beats 3 km of dragging."
+   },
+   "looser": {
+    "n": "Loose leash, dog on right",
+    "why": "Same relaxed walking, right side. Handy on narrow paths and roadsides.",
+    "steps": [
+     "Same stop-and-go rule, rewards delivered at your right leg.",
+     "Use your Side cue to set the position before walking off."
+    ],
+    "avoid": [
+     "Do not reward crossing in front of you, it becomes a tripping habit.",
+     "Do not mix sides in one street at the start."
+    ],
+    "alt": "Scatter 2 to 3 treats on the ground on your right during pauses to anchor the side.",
+    "tip": "Once both sides work, switch sides deliberately at curbs, it keeps the dog attentive."
+   },
+   "offleash": {
+    "n": "Walking off leash",
+    "why": "Freedom with connection: the dog checks in and stays in your bubble.",
+    "steps": [
+     "Only in safe, legal areas, after outdoor recall is strong.",
+     "Start with the leash dragging on the ground for quick pickup.",
+     "Reward every voluntary check-in (dog looks at you or returns) generously.",
+     "Change direction often, silently. The dog learns to track you."
+    ],
+    "avoid": [
+     "Do not go off leash near roads or livestock, ever.",
+     "Do not only call the dog to end the fun, call, treat, release back to play many times."
+    ],
+    "alt": "Use a 10 m long line as the intermediate step for months if needed.",
+    "tip": "The check-in is the product. Pay it like recall."
+   },
+   "leave2": {
+    "n": "Leave it (street level)",
+    "why": "Real-world version: chicken bones and pizza slices on Slovenian sidewalks.",
+    "steps": [
+     "Re-run basic Leave it outdoors with boring items first.",
+     "Plant items on a walk in advance, cue Leave it as you pass at distance.",
+     "Close the distance over sessions. Jackpot every success."
+    ],
+    "avoid": [
+     "Do not test with real found food too early, set up wins with planted items.",
+     "Do not rely on the cue alone with scavengers, manage with a shorter leash in risky streets."
+    ],
+    "alt": "Teach an auto leave: passing food without any cue earns a treat from you.",
+    "tip": "For heavy scavengers a basket muzzle on walks is safety, not cruelty."
+   },
+   "standg": {
+    "n": "Stand for grooming",
+    "why": "Cockapoos and other coated breeds need daily brushing. A calm stand makes it painless.",
+    "steps": [
+     "Cue Stand, feed a lick mat or slow treats while you touch the coat.",
+     "Brush 1 stroke, treat. 3 strokes, treat. Build up.",
+     "Name it Salon or similar so the dog knows what session it is."
+    ],
+    "avoid": [
+     "Do not pin the dog for mats and tangles, break the job into short sessions.",
+     "Do not start with the worst spots, begin where the dog enjoys touch."
+    ],
+    "alt": "Train Chin rest on your palm, it beautifully stabilises the head for face trims.",
+    "tip": "5 minutes daily prevents the 2-hour dematting nightmare."
+   },
+   "bedx": {
+    "n": "Go to bed (from distance)",
+    "why": "Send the dog to its bed from across the room. Place, upgraded.",
+    "steps": [
+     "Solid Place first. Stand 1 step from the mat, cue, reward on the mat.",
+     "2 steps, 4 steps, other side of the room.",
+     "Add an arm point as the visual cue."
+    ],
+    "avoid": [
+     "Do not increase distance and duration in the same rep.",
+     "Do not send the dog to bed as punishment."
+    ],
+    "alt": "Toss a visible treat onto the mat at first, fade it to the point gesture.",
+    "tip": "This becomes your doorbell answer: doorbell rings, dog goes to bed."
+   },
+   "curb": {
+    "n": "Wait at the curb",
+    "why": "An automatic sit or stop at every road edge. Cheap life insurance.",
+    "steps": [
+     "Stop at every curb, cue Sit, treat, then release Okay across the road.",
+     "After 2 weeks, pause at the curb and wait, many dogs offer the sit automatically.",
+     "Jackpot the first automatic curb sit."
+    ],
+    "avoid": [
+     "Do not skip curbs when in a hurry, consistency builds the automatic habit.",
+     "Do not release while cars are passing, the release must predict safety."
+    ],
+    "alt": "If your dog will not sit on cold, wet ground, a standing Wait is fine, the stop is what matters.",
+    "tip": "Automatic behaviours beat cued ones, they work even when you are distracted."
+   },
+   "middle": {
+    "n": "Middle",
+    "why": "The dog stands or sits between your legs. Cute, and a safe anchor in crowds.",
+    "steps": [
+     "Lure the dog from behind you through your legs, treat when the head pops through.",
+     "Ask for Sit in that position, reward several times.",
+     "Name it Middle."
+    ],
+    "avoid": [
+     "Do not use it on hot asphalt or slippery floors, comfort first.",
+     "Do not squeeze with your legs, the spot must feel safe, not trapping."
+    ],
+    "alt": "Back up a step while luring so the dog slides naturally into the gap.",
+    "tip": "Great safety station when a loose dog approaches or in a busy market."
+   },
+   "backup": {
+    "n": "Back up",
+    "why": "The dog walks backwards on cue. Body awareness plus practical spacing.",
+    "steps": [
+     "Walk gently into your standing dog, mark any backwards step.",
+     "Add the cue Back once steps are smooth.",
+     "Grow from 1 step to 3 to 5."
+    ],
+    "avoid": [
+     "Do not corner the dog against a wall while walking in.",
+     "Do not expect straight lines at first, wobbly is normal."
+    ],
+    "alt": "A treat lowered slightly toward the chest makes many dogs shift backwards.",
+    "tip": "A narrow channel between sofa and wall keeps the back-up straight."
+   },
+   "rolll": {
+    "n": "Roll over (left)",
+    "why": "Classic trick. Left and right are trained as separate movements.",
+    "steps": [
+     "From Down, lure the nose toward the left shoulder, the dog rolls onto the hip.",
+     "Continue the lure over the spine, the body follows into a full roll.",
+     "Mark and treat at the end, then add the cue Roll."
+    ],
+    "avoid": [
+     "Skip this on hard floors, use a carpet or grass.",
+     "Do not force with hands, some dogs need days at the hip-roll stage."
+    ],
+    "alt": "Capture it after a bath or in the park, many dogs roll on their own.",
+    "tip": "If the dog pops up mid-roll, reward the halfway point for a few sessions."
+   },
+   "rollr": {
+    "n": "Roll over (right)",
+    "why": "The mirror roll, separate cue, balanced muscles.",
+    "steps": [
+     "Same lure, opposite shoulder and direction.",
+     "Use a distinct cue, for example Over."
+    ],
+    "avoid": [
+     "Do not drill both directions back to back at first.",
+     "Stop if the dog shows stiffness, senior spines dislike rolling."
+    ],
+    "alt": "Lure from the other side of the dog for a cleaner mirror motion.",
+    "tip": "Film your sessions. You will spot lure mistakes instantly."
+   },
+   "dead": {
+    "n": "Play dead",
+    "why": "Dog flops on its side and stays. Peak dinner party content.",
+    "steps": [
+     "From Down, lure toward the shoulder so the dog rolls onto one hip and side.",
+     "Mark lying flat on the side. Feed 2 to 3 treats while flat.",
+     "Add your cue: Bang with a finger gun, or Sleep."
+    ],
+    "avoid": [
+     "Do not require frozen stillness at first, a relaxed flop is the goal.",
+     "Do not train right after rolling, the dog will keep rolling through."
+    ],
+    "alt": "Capture sunbathing flops with a marker word and treat.",
+    "tip": "Add duration slowly, dramatic tongue-out flair comes for free with relaxation."
+   },
+   "pretty": {
+    "n": "Sit pretty (beg)",
+    "why": "Sitting up with front paws lifted. Also a genuine core exercise.",
+    "steps": [
+     "From Sit, lift a treat slightly above the nose.",
+     "Mark tiny front-paw lifts at first, then higher.",
+     "Support the chest with your forearm at the start if the dog wobbles."
+    ],
+    "avoid": [
+     "Not for very young puppies or long-backed breeds like dachshunds, the spine load is real.",
+     "Keep sets short, 3 to 5 reps, it is a workout."
+    ],
+    "alt": "Let the dog balance its paws on your arm first, fade the arm later.",
+    "tip": "2 to 3 seconds of balance is advanced core strength, celebrate it."
+   },
+   "speak": {
+    "n": "Speak",
+    "why": "Barking on cue. Counterintuitively, it is step 1 toward teaching Quiet.",
+    "steps": [
+     "Trigger a natural bark, for example gentle excitement with a toy.",
+     "Mark the bark, treat, add the cue Speak.",
+     "Only reward barks that follow the cue."
+    ],
+    "avoid": [
+     "Do not teach this to a dog that already barks too much, teach Quiet first.",
+     "Do not reward barking at the doorbell as Speak practice."
+    ],
+    "alt": "Mimic a small woof yourself, many dogs answer.",
+    "tip": "One bark per cue is the standard, not a barking spree."
+   },
+   "quiet": {
+    "n": "Quiet",
+    "why": "Stopping barking on cue. Pairs with Speak or stands alone.",
+    "steps": [
+     "Wait for a pause in barking, even 1 second. Mark, say Quiet, treat.",
+     "Grow the required silence: 2, 4, 8 seconds before the treat.",
+     "Cue Quiet during mild barking, reward the stop."
+    ],
+    "avoid": [
+     "Do not yell Quiet over the barking, the dog hears you joining in.",
+     "Do not treat while the dog is still barking, timing is the whole trick."
+    ],
+    "alt": "Toss treats on the floor, sniffing and barking are hard to combine.",
+    "tip": "Reward silence at windows before barking even starts, prevention pays double."
+   },
+   "bow": {
+    "n": "Bow",
+    "why": "Front end down, rear up, the play-bow pose on cue.",
+    "steps": [
+     "From Stand, lure the nose down and slightly back between the front paws.",
+     "Mark elbows down while the rear stays up. Treat low.",
+     "Add the cue Bow, or Ta-da for style."
+    ],
+    "avoid": [
+     "Mark fast, dogs collapse into full Down in half a second.",
+     "Do not train right after Down practice, the dog will default to Down."
+    ],
+    "alt": "Capture morning stretches with a marker word, many dogs bow when waking.",
+    "tip": "Slide your forearm gently under the belly at first to prevent full collapse."
+   },
+   "weavelegs": {
+    "n": "Weave through legs",
+    "why": "The dog slaloms through your legs as you walk. Flashy and fun.",
+    "steps": [
+     "Stand with legs apart, lure the dog through from behind, treat in front.",
+     "Take a step, lure through the new gap from the other hand.",
+     "Chain 2 steps, then 4, then add the cue Weave."
+    ],
+    "avoid": [
+     "Small dogs plus fast legs equals stepped-on paws, go slow.",
+     "Do not bend fully over the dog, it can feel threatening."
+    ],
+    "alt": "Teach the figure 8 around planted feet first, then add walking.",
+    "tip": "Alternate hands for luring early, it makes the rhythm automatic."
+   },
+   "fetchh": {
+    "n": "Fetch to hand",
+    "why": "Real fetch: the ball comes back into your palm, not 2 meters away.",
+    "steps": [
+     "Two identical balls. Throw ball 1.",
+     "When the dog returns, show ball 2, cue Drop over your open palm.",
+     "Throw ball 2 the instant ball 1 lands in your hand."
+    ],
+    "avoid": [
+     "Do not chase the dog for the ball, you become the game.",
+     "Do not end fetch by confiscating the ball grumpily, end on a trade plus treat."
+    ],
+    "alt": "Play in a hallway first, geometry forces returns to you.",
+    "tip": "The second ball is the salary. The return gets paid instantly with the next throw."
+   },
+   "tug": {
+    "n": "Tug and release",
+    "why": "Structured tug builds drive, teaches Drop under excitement, burns energy.",
+    "steps": [
+     "Invite with a cue like Get it, tug with lively but low pulls.",
+     "Freeze, go boring, cue Drop, treat or restart the game as the reward.",
+     "Restart only after a Sit, tug becomes a self-rewarding obedience loop."
+    ],
+    "avoid": [
+     "No hard vertical yanking, necks and teeth are not crowbars.",
+     "Stop the game instantly if teeth touch skin, even by accident."
+    ],
+    "alt": "Use a long fleece tug so hands stay far from teeth.",
+    "tip": "Letting the dog win pulls often builds confidence, you are not losing authority."
+   },
+   "emrec": {
+    "n": "Emergency recall",
+    "why": "A separate, sacred recall word that means: drop everything, sprint to me, jackpot.",
+    "steps": [
+     "Pick a fresh word never used before, for example Turbo.",
+     "For 2 weeks, say it at random calm moments at home, then deliver 10 tiny treats one by one.",
+     "Only then test it outdoors at low distraction. Keep it rare and always jackpot it."
+    ],
+    "avoid": [
+     "Never use it casually or for bath time, one bad pairing weakens it.",
+     "Do not overuse it, twice a week practice keeps it loaded."
+    ],
+    "alt": "A distinct whistle pattern works as the emergency signal too.",
+    "tip": "This cue is a fire extinguisher: charged, protected, rarely used."
+   },
+   "distdown": {
+    "n": "Down at a distance",
+    "why": "Dropping the dog into Down mid-run, 20 m away. Serious safety tool.",
+    "steps": [
+     "Solid Down first. Cue it with the dog 1 step away, mark, walk in to treat.",
+     "Grow distance: 2, 5, 10 steps. Always walk in to reward, never call in.",
+     "Later cue it while the dog trots past you, then during play."
+    ],
+    "avoid": [
+     "Do not let the dog creep toward you before downing, reward position where it happened.",
+     "Do not rush distance, this skill takes months, not days."
+    ],
+    "alt": "Put the dog on a raised platform or mat far away, platforms anchor position.",
+    "tip": "A hand signal (arm straight up) carries further than voice in wind."
+   },
+   "sendaway": {
+    "n": "Send away",
+    "why": "The dog runs away from you to a target on cue. Base for agility and dog sport.",
+    "steps": [
+     "Place a target (mat or cone with a treat) 2 m away.",
+     "Cue Go, arm point. Mark when the dog reaches it.",
+     "Grow to 5, 10, 20 m. Fade the visible treat, run in to reward."
+    ],
+    "avoid": [
+     "Do not fade the target too early, the dog needs a clear destination.",
+     "Do not mix send away and recall in the same early sessions."
+    ],
+    "alt": "Send the dog to its known bed first, then generalise to new targets.",
+    "tip": "Throw the reward beyond the target sometimes, going away from you gets paid."
+   },
+   "castl": {
+    "n": "Directional cast left",
+    "why": "Redirecting a moving dog to your left at distance. Sheepdog-style handling.",
+    "steps": [
+     "Dog at a distance target. Place a second target to its left.",
+     "Cue Left with a clear left arm sweep, mark movement toward the new target.",
+     "Grow the angle and distance over weeks."
+    ],
+    "avoid": [
+     "Do not add both directions in the same week, one at a time.",
+     "Do not use the same arm for both directions."
+    ],
+    "alt": "Toss a visible treat to the left on the cue at first, fade to the arm only.",
+    "tip": "Consistent body cues do the heavy lifting, dogs read arms better than words."
+   },
+   "castr": {
+    "n": "Directional cast right",
+    "why": "The mirror cast. Full remote steering unlocked.",
+    "steps": [
+     "Mirror of cast left with the word Right and right arm sweep.",
+     "Then alternate targets randomly so the dog listens instead of guessing."
+    ],
+    "avoid": [
+     "Do not drill patterns like left-right-left-right, dogs memorise sequences.",
+     "Keep sessions under 5 minutes, distance work is mentally exhausting."
+    ],
+    "alt": "Two food bowls at the ends, you decide which one unlocks.",
+    "tip": "When both casts work, you can steer your dog around a whole meadow."
+   },
+   "namedtoy": {
+    "n": "Retrieve by name",
+    "why": "The dog learns toy names and fetches the right one. Real vocabulary building.",
+    "steps": [
+     "Play fetch with 1 toy while naming it every time: Ball, Ball.",
+     "Add a second, boring object next to it. Cue Ball, reward only the correct pick.",
+     "Add toy 2 with its own name in separate sessions, then mix."
+    ],
+    "avoid": [
+     "Do not start with 2 similar toys, contrast helps: ball vs rope.",
+     "Do not punish wrong picks, just no reward, reset."
+    ],
+    "alt": "Teach Hold first, then naming becomes cleaner.",
+    "tip": "Border collie Chaser learned over 1,000 names. Two is a fine start."
+   },
+   "tidy": {
+    "n": "Tidy up toys",
+    "why": "The dog puts its toys into a basket. Chores as a game.",
+    "steps": [
+     "Chain known parts: Take it, carry 1 step, Drop over the basket.",
+     "Mark the toy landing in the basket, jackpot.",
+     "Grow distance to the basket, then add multiple toys."
+    ],
+    "avoid": [
+     "Do not train all pieces at once, chain skills that already work.",
+     "Do not laugh-reward misses, the basket is the only paid outcome."
+    ],
+    "alt": "Start with the basket directly under the dog's chin, misses become impossible.",
+    "tip": "Back-chaining wins: perfect the last step (drop in basket) first."
+   },
+   "crosspaws": {
+    "n": "Cross paws",
+    "why": "The elegant lying pose with one paw crossed over the other. Photo gold.",
+    "steps": [
+     "Dog in Down. Cue a paw target on your hand held over the other paw.",
+     "Mark the paw landing across the other one, treat.",
+     "Fade the hand to a floor target, then to the cue Fancy."
+    ],
+    "avoid": [
+     "Do not push the paw over, targeting keeps it voluntary.",
+     "Ignore rolled hips at first, tidy posture comes later."
+    ],
+    "alt": "Use a sticky note as the paw target, fade it gradually.",
+    "tip": "Teach one direction first, the mirror cross is a separate trick."
+   },
+   "takehold": {
+    "n": "Take it and hold",
+    "why": "Calm holding of an item until released. Gateway to retrieving anything.",
+    "steps": [
+     "Offer a soft item, mark any mouth contact, treat.",
+     "Grow to a real grip, then 1 second of holding, then 3, then 5.",
+     "Add Take it at the start and Give at the end."
+    ],
+    "avoid": [
+     "Do not start with metal or hard items, soft and pleasant first.",
+     "Do not let chewing creep in, mark still jaws only."
+    ],
+    "alt": "Clicker training shines here, precise timing on the grip.",
+    "tip": "Hold is patience made visible. Progress in seconds, literally."
+   },
+   "carry": {
+    "n": "Carry an item",
+    "why": "The dog carries a small item while walking with you. Hold, in motion.",
+    "steps": [
+     "Solid 5-second Hold first.",
+     "Cue Take it, then take 1 step and invite the dog along, mark movement with the item.",
+     "Grow to 5 steps, 10, then short stretches on walks."
+    ],
+    "avoid": [
+     "Do not use valuable items, drops happen for months.",
+     "Do not carry food wrappers or heavy things, light and neutral objects."
+    ],
+    "alt": "A small dog-sized dummy or a soft toy works perfectly.",
+    "tip": "Cockapoos often love carrying, retriever genes at work."
+   },
+   "findit": {
+    "n": "Find it (scent search)",
+    "why": "Nose work. 10 minutes of sniffing tires a dog like a 1-hour walk.",
+    "steps": [
+     "Show a treat, toss it in easy sight, cue Find it.",
+     "Hide treats while the dog waits in another room, cue the search.",
+     "Grow difficulty: higher, under things, multiple rooms."
+    ],
+    "avoid": [
+     "Do not help by pointing at the hide, the nose must do the work.",
+     "Do not hide in spots the dog must destroy to reach."
+    ],
+    "alt": "Move to a specific target odour later, that is the full sport of nose work.",
+    "tip": "Rainy-day gold. Sniffing measurably lowers dog stress levels."
+   },
+   "findperson": {
+    "n": "Find a person",
+    "why": "The dog searches for a named family member. Hide and seek with a job.",
+    "steps": [
+     "Person A holds the dog, person B shows a treat and hides in easy sight.",
+     "Cue Find Darija (use the real name), release. The found person pays with treats and a party.",
+     "Grow to real hiding spots, other rooms, the garden."
+    ],
+    "avoid": [
+     "Do not make early hides too hard, success builds the search drive.",
+     "One name per person, keep them consistent."
+    ],
+    "alt": "Start with Find it for treats, then transfer the pattern to people.",
+    "tip": "Kids adore this game and it deepens the dog's bond with everyone."
+   },
+   "balance": {
+    "n": "Treat on the nose",
+    "why": "The dog balances a treat on its snout, then flips and catches it. Patience on display.",
+    "steps": [
+     "Hold the dog's chin gently, place a treat on the flat of the snout for half a second, then release with Catch and let the dog take it.",
+     "Grow the wait: 1, 2, 4 seconds before the release.",
+     "Fade the chin hold."
+    ],
+    "avoid": [
+     "Not comfortable for very short-nosed breeds, skip for them.",
+     "Do not scold dropped treats, resets are free."
+    ],
+    "alt": "Start by balancing on the head instead, some dogs find it easier.",
+    "tip": "The dramatic flip-and-catch develops on its own with practice."
+   },
+   "wavel": {
+    "n": "Wave (left paw)",
+    "why": "A raised-paw wave in the air, no touching. Grown out of Left paw.",
+    "steps": [
+     "Cue Left paw but pull your hand back before contact.",
+     "Mark the paw movement in the air, treat.",
+     "Raise your hand higher over sessions, the wave grows, add the cue Wave."
+    ],
+    "avoid": [
+     "Expect confusion at first, the dog thinks it is missing your hand. Reward generously.",
+     "Do not require height early, any air movement pays."
+    ],
+    "alt": "Wave back at the dog, some dogs mirror the motion.",
+    "tip": "Left and right wave are separate cues, just like the paws."
+   },
+   "waver": {
+    "n": "Wave (right paw)",
+    "why": "The mirror wave for a two-sided goodbye.",
+    "steps": [
+     "Same fade-the-target method from Right paw.",
+     "Distinct cue or distinct hand as the signal."
+    ],
+    "avoid": [
+     "Do not train both waves in one session at first.",
+     "Do not let it collapse back into paw touching, keep your hand out of reach."
+    ],
+    "alt": "Height target: a sticky note on the wall at nose height for the paw to aim toward.",
+    "tip": "Both waves plus Sit pretty combine into a spectacular greeting routine."
+   },
+   "crawl": {
+    "n": "Crawl",
+    "why": "Army crawl along the floor. Great body control and core work.",
+    "steps": [
+     "Dog in Down. Drag a treat along the floor 10 cm away.",
+     "Mark any forward slide with elbows staying down.",
+     "Grow to half a meter, a meter, add the cue Crawl."
+    ],
+    "avoid": [
+     "Hard floors hurt elbows, use carpet, mat or grass.",
+     "If the dog keeps standing, your lure is too high or too fast."
+    ],
+    "alt": "Lure under a low obstacle like a stretched blanket between chairs.",
+    "tip": "3 meters of crawling is a serious workout, keep reps low."
+   },
+   "bell": {
+    "n": "Ring the bell to go out",
+    "why": "The dog rings a bell at the door to ask for a toilet break. Communication, not just a trick.",
+    "steps": [
+     "Teach a nose Touch to the hanging bell, mark the ring sound.",
+     "Ring happens, door opens, straight to the toilet spot, reward outside after peeing.",
+     "Within days many dogs connect ring equals door opens."
+    ],
+    "avoid": [
+     "Do not reward rings with play or walks, only toilet trips, or the bell becomes a demand button.",
+     "Do not ignore real rings early on, the contract must hold."
+    ],
+    "alt": "A push-button doorbell for dogs works the same way.",
+    "tip": "House-training accidents drop sharply once the dog can ask."
+   },
+   "jump": {
+    "n": "Jump over a bar",
+    "why": "The entry agility skill. Controlled jumping over a low bar on cue.",
+    "steps": [
+     "Bar on the ground first. Lure the dog across, mark, treat.",
+     "Raise to 10 cm, then 20. Cue Hop as the dog commits.",
+     "Send from 2 steps back, reward after landing, not before takeoff."
+    ],
+    "avoid": [
+     "No serious jump height before 12 to 15 months, growth plates must close first.",
+     "No slippery floors, ever, for jumping."
+    ],
+    "alt": "A broomstick on two flowerpots is a perfectly fine first jump.",
+    "tip": "Keep heights low forever for pet dogs, elbow-height is plenty."
+   },
+   "tunnel": {
+    "n": "Tunnel",
+    "why": "Running through a tunnel. Most dogs learn to love it loudly.",
+    "steps": [
+     "Compress the tunnel short and straight. A helper holds the dog, you call from the far end.",
+     "Mark and party at the exit.",
+     "Lengthen the tunnel, then add a gentle curve, then the cue Tunnel."
+    ],
+    "avoid": [
+     "Do not push a hesitant dog in, fear in tunnels sticks.",
+     "Secure the tunnel so it cannot roll, one scary wobble costs weeks."
+    ],
+    "alt": "A kids' play tunnel from a toy store works for small and medium dogs.",
+    "tip": "Tunnel becomes many dogs' favourite obstacle, prepare for tunnel obsession."
+   },
+   "weavepoles": {
+    "n": "Weave poles",
+    "why": "The slalom. The most technical agility obstacle, trained with patience.",
+    "steps": [
+     "Start with 2 poles, lure the dog through the single gap, mark.",
+     "Grow to 4, then 6 poles using a channel: two offset rows the dog runs between.",
+     "Narrow the channel over weeks until the poles form one line and the dog weaves."
+    ],
+    "avoid": [
+     "Adult bodies only, weaving loads the spine, wait past 12 to 15 months.",
+     "Do not rush the channel narrowing, this obstacle takes months everywhere."
+    ],
+    "alt": "Wire guides on the poles are another proven method.",
+    "tip": "Slalom entries always happen with the first pole at the dog's left shoulder, teach the entry early."
+   },
+   "table": {
+    "n": "Pause table",
+    "why": "Jump on a low platform, hold a position, wait for release. Stillness inside speed.",
+    "steps": [
+     "Lure the dog onto a stable low platform, mark 4 paws on, treat on the table.",
+     "Add Down on the table, then a 3 to 5 second wait.",
+     "Release with Okay off the table, then send from a short run-up."
+    ],
+    "avoid": [
+     "The table must not tip or slide, test it yourself first.",
+     "Do not nag the dog into stillness, reward calm rather than commanding it."
+    ],
+    "alt": "A wooden pallet with a non-slip top makes a fine garden table.",
+    "tip": "The pause teaches the most useful sport skill of all: thinking while excited."
+   },
+   "fig8": {
+    "n": "Figure 8 around cones",
+    "why": "Smooth figure-8 running around two cones. Steering, flexion and focus.",
+    "steps": [
+     "Two cones or buckets 2 m apart. Lure a circle around cone 1, treat.",
+     "Lure the crossover to cone 2, circle, treat.",
+     "Chain full 8s, add the cue Eight, fade the lure to arm signals."
+    ],
+    "avoid": [
+     "Keep circles wide for big dogs, tight bending needs warm muscles.",
+     "Do not train on slick tiles."
+    ],
+    "alt": "Trees in the park are free cones.",
+    "tip": "Alternate directions evenly, dogs get one-sided exactly like people."
+   },
+   "highfive": {
+    "n": "High five",
+    "why": "The dog slaps its raised paw against your palm in the air. Grown straight out of the Paw trick.",
+    "steps": [
+     "Start from a solid Paw. Present your palm facing the dog, just above nose height.",
+     "Mark the instant the paw hits the palm in the air, treat.",
+     "Raise the palm gradually so the dog reaches higher. Add the cue High five."
+    ],
+    "avoid": [
+     "Do not raise the palm so high the dog must jump wildly, keep 8 out of 10 reps successful.",
+     "Do not grab or hold the paw, contact only."
+    ],
+    "alt": "If the dog paws at air, lower the palm back to where Paw worked and rebuild in 2 cm steps.",
+    "tip": "The flat palm itself becomes the visual cue, dogs read it instantly."
+   },
+   "highten": {
+    "n": "High ten",
+    "why": "Both paws hit both palms. The double version needs real balance, so it counts as advanced.",
+    "steps": [
+     "Solid Sit pretty and High five first.",
+     "From Sit pretty, offer both palms at the dog's chest height.",
+     "Mark any double contact, treat, add the cue High ten.",
+     "Raise the palms slowly over sessions as balance improves."
+    ],
+    "avoid": [
+     "Skip for young puppies and long-backed breeds, the upright load on the spine is real.",
+     "Do not let it become jumping on you, paws meet palms, body stays down."
+    ],
+    "alt": "Train facing a wall behind the dog so it can balance without tipping backwards.",
+    "tip": "3 to 5 reps per set. It is core training disguised as a party trick."
+   },
+   "visitors": {
+    "n": "Visitor manners",
+    "why": "The doorbell circus, barking and jumping on guests' legs, is the most common complaint in dog households. This challenge installs a calm routine instead.",
+    "steps": [
+     "Train the pieces alone first: Place (or the crate) plus a doorbell sound game, bell rings, treats rain on the mat.",
+     "Recruit a helper to ring. Send the dog to Place, pay heavily there while the door opens.",
+     "Guests ignore the dog completely until it is calm. Calm plus 4 paws on the floor earns a short greeting.",
+     "Repeat with different guests until arrivals are boring."
+    ],
+    "avoid": [
+     "Do not let excited guests greet a jumping dog, one enthusiastic uncle undoes weeks of work.",
+     "Do not shout over the barking, it reads as you joining the alarm."
+    ],
+    "alt": "During retraining keep a leash by the door and step on it, jumping becomes simply impossible while you pay calm behaviour.",
+    "tip": "Message guests before they arrive: ignore the dog until she is calm. It works and everyone survives."
+   },
+   "busride": {
+    "n": "Bus and train rides",
+    "why": "Public transport is a real dog skill: floors vibrate, doors hiss, strangers crowd in. A calm rider can go anywhere with you.",
+    "steps": [
+     "Visit a quiet stop or platform first, just watch the traffic, treat calm observation, leave.",
+     "Board off-peak for 1 stop. The dog settles on the floor at your feet, pay quietly, get off, party.",
+     "Grow to 2 or 3 stops, then a short train ride. Bring a chew for longer trips.",
+     "Practice the boarding moment separately, the gap and the step scare some dogs."
+    ],
+    "avoid": [
+     "Do not start at rush hour with a full carriage.",
+     "Do not force a frozen dog aboard, back up and rebuild at the platform."
+    ],
+    "alt": "For small dogs, a carrier bag trained as a cosy den at home makes transit trivial.",
+    "tip": "Check carrier rules before travelling: leashes are standard and muzzles are required for larger dogs on many Slovenian buses and trains."
+   },
+   "boat": {
+    "n": "Boat ride",
+    "why": "Moving decks, engine noise and water everywhere. A prepared dog enjoys it, an unprepared one panics.",
+    "steps": [
+     "Acclimatise on a moored boat first: board, treat, sniff around, leave.",
+     "Fit a dog life jacket at home days earlier so it is boring by boat day.",
+     "Keep the first trip short and calm. Give the dog a fixed non-slip spot and pay settling there.",
+     "Watch for stress signals: drooling, pacing, yawning. End early if they stack up."
+    ],
+    "avoid": [
+     "Never skip the life jacket on open water, even for strong swimmers.",
+     "Do not let the dog roam the deck on the first trips."
+    ],
+    "alt": "A ferry as a foot passenger is a gentler first boat than a small motorboat.",
+    "tip": "Dogs get seasick too. Light meal hours before departure, not right before boarding."
+   },
+   "plane": {
+    "n": "Flying with your dog",
+    "why": "The hardest travel challenge: security, noise, hours in a carrier. Preparation starts weeks ahead, not at the airport.",
+    "steps": [
+     "Check airline rules early: in the EU the cabin allowance is typically a dog up to 8 kg including the carrier, larger dogs travel in the hold. Book the pet spot early, cabins have quotas.",
+     "Make the approved carrier the dog's favourite bed at home for 2 to 4 weeks: meals inside, naps inside.",
+     "Simulate the day: carrier rides in the car, busy places, the airport hall on a non-flying day.",
+     "Flight day: long walk first, toilet stop before security, light food well in advance, water available."
+    ],
+    "avoid": [
+     "Do not sedate without explicit vet advice, sedation at altitude carries real risks.",
+     "Do not fly snub-nosed breeds in the hold, most airlines rightly refuse."
+    ],
+    "alt": "For trips under 800 km in Europe the train is usually kinder to the dog than the cargo hold.",
+    "tip": "EU pet passport, microchip and valid rabies vaccination are the paperwork trio. Check them a month before, not a day before."
+   },
+   "vetvisit": {
+    "n": "Happy vet visits",
+    "why": "If the clinic only ever means needles, fear compounds yearly. Happy visits rewrite the story.",
+    "steps": [
+     "Drop by the clinic for nothing: walk in, staff give a treat, step on the scale, leave. Many clinics welcome this, ask yours.",
+     "Train handling at home: touch paws, ears, mouth and tail, each touch pays.",
+     "Teach a chin rest on your palm, it becomes the examination position.",
+     "Pair the car ride or carrier with treats so arrival is already positive."
+    ],
+    "avoid": [
+     "Do not only appear when something hurts, the maths turns against you.",
+     "Do not pin the dog while soothing loudly, calm brief handling beats restraint."
+    ],
+    "alt": "If fear is already deep, ask about fear-free or cooperative-care oriented clinics, they exist in Slovenia too.",
+    "tip": "Muzzle training in calm times is a gift: an injured dog in pain may snap at anyone, and a muzzle-comfortable dog gets treated faster."
+   },
+   "groomer": {
+    "n": "Groomer visits",
+    "why": "Coated breeds like cockapoos see the salon every 6 to 8 weeks for life. Making it pleasant is a core life skill.",
+    "steps": [
+     "Meet-and-greet first: visit the salon, treats from the groomer, no grooming, leave.",
+     "At home, acclimatise to the tools: brush daily, run a trimmer nearby, first off, then on, while treating.",
+     "Keep the first real session short: a wash and dry or partial trim, not the full programme.",
+     "Debrief with the groomer, a good one paces sessions to the dog."
+    ],
+    "avoid": [
+     "Do not book a 3-hour full dematting as the first-ever visit.",
+     "Do not let mats build up between visits, dematting hurts and undoes trust."
+    ],
+    "alt": "Home grooming works too if you learn the coat, the acclimatisation steps are identical.",
+    "tip": "Daily 5-minute brushing at home is the difference between a spa day and a wrestling match."
+   },
+   "nails": {
+    "n": "Nail clipping",
+    "why": "Overgrown nails change the gait and load the joints. Most dogs hate clipping only because it was rushed once.",
+    "steps": [
+     "Break it into micro-steps, each paid: touch paw, hold paw, clippers appear, clippers touch the nail, clip 1 nail. Days per step is fine.",
+     "One nail per day is a respectable, sustainable pace.",
+     "Clip tiny slivers, in dark nails the quick is invisible, err small.",
+     "Pair the whole ritual with a lick mat smeared with something great."
+    ],
+    "avoid": [
+     "Never pin the dog for a full 18-nail pedicure, you buy 1 session and pay with 50.",
+     "Do not continue after cutting into the quick, stop, jackpot, retry days later."
+    ],
+    "alt": "A scratch board, sandpaper glued to a plank, lets the dog file its own front nails as a trick.",
+    "tip": "If you hear clicking on the floor, the nails are already too long."
+   },
+   "ears": {
+    "n": "Ear cleaning",
+    "why": "Floppy-eared and swimming dogs collect wax and moisture. Routine checks prevent painful infections.",
+    "steps": [
+     "Start with ear touches only: lift the flap, look, treat, done.",
+     "Add a cotton pad with vet-approved ear cleaner, wipe only what you can see.",
+     "Weekly quick check, cleaning only when dirty, over-cleaning irritates.",
+     "Sniff test: a yeasty or foul smell means vet, not more cleaning."
+    ],
+    "avoid": [
+     "Never push cotton buds into the canal, you compact wax and risk damage.",
+     "Do not use alcohol or vinegar mixes from the internet."
+    ],
+    "alt": "Massage the cleaner in at the ear base and let the dog shake it out, most of the work happens by itself.",
+    "tip": "Red skin, head shaking or constant scratching are vet signals, not grooming signals."
+   },
+   "meetdog": {
+    "n": "Calm dog-to-dog greeting",
+    "why": "Polite dog greetings are curved, brief and sniff-based. Straight-line leash rushes are how squabbles start.",
+    "steps": [
+     "Start with parallel walking: both dogs heading the same direction, 5 to 10 m apart, both paid for calm.",
+     "Close the gap gradually across the walk, loose leashes always.",
+     "Allow a 3-second sniff, then call away cheerfully and pay the leaving. Short and sweet.",
+     "Repeat with known, stable dogs before random park encounters."
+    ],
+    "avoid": [
+     "No frontal face-to-face approaches on tight leashes, that reads as confrontation in dog language.",
+     "Do not force greetings, not every dog wants friends and that is fine."
+    ],
+    "alt": "If your dog is too excited, add distance and more parallel walking. The greeting is the graduation, not the starting point.",
+    "tip": "The call-away is the real skill. A dog that leaves a greeting happily is safe everywhere."
+   },
+   "meetcat": {
+    "n": "Meeting a cat",
+    "why": "Dogs and cats can live beautifully together, if the first weeks are managed and chasing never pays a single time.",
+    "steps": [
+     "Separate first: swap blankets so both know the other's smell before any meeting.",
+     "First visual contact through a baby gate or door gap, dog on leash, pay calm looking heavily.",
+     "Short sessions: dog leashed, cat free with escape routes and high perches available.",
+     "Grow duration only while both stay relaxed. Weeks, not hours."
+    ],
+    "avoid": [
+     "Never allow even 1 chase, chasing is self-rewarding and a single rep installs the habit.",
+     "Do not carry the cat toward the dog for introductions, that is how everyone gets scratched."
+    ],
+    "alt": "Feed both on opposite sides of a closed door for days, the smell of the other starts predicting dinner.",
+    "tip": "The cat sets the pace. Always."
+   },
+   "hotelday": {
+    "n": "Dog hotel: day visit",
+    "why": "Daycare or a sitter for a day is the entry level of being cared for by someone else. Train it before you need it.",
+    "steps": [
+     "Visit the facility together first: sniff around, meet the staff, treats, leave together.",
+     "Book a 2 to 3 hour trial. The goodbye must be boring, no dramatic farewell scenes.",
+     "Pickup equally calm. Ask the staff how eating, toileting and mood looked.",
+     "Repeat a few times so the pattern becomes: you always come back."
+    ],
+    "avoid": [
+     "Do not make the first-ever visit an 8-hour day.",
+     "Do not sneak away without the routine goodbye cue, predictability lowers stress."
+    ],
+    "alt": "A trusted friend's home works the same way, trial hours first.",
+    "tip": "Send the dog with its own blanket, familiar smell is portable security."
+   },
+   "hotelnight": {
+    "n": "Dog hotel: 1 night",
+    "why": "The first sleepover away from you. With a good day-visit history, most dogs handle it well.",
+    "steps": [
+     "Only after 2 to 3 successful day visits at the same place.",
+     "Pack home smells: own bed or blanket, own food, a worn t-shirt of yours.",
+     "Keep the drop-off boring and brief. Hand the staff the full routine: feeding times, cues, quirks.",
+     "Ask for a short update in the evening, then trust the professionals."
+    ],
+    "avoid": [
+     "Do not schedule the first night in the same week as another big change: moving, a new baby, fireworks season.",
+     "Do not change the food for hotel stays, travel plus new food equals stomach trouble."
+    ],
+    "alt": "A sitter sleeping at your home is the gentler alternative for velcro dogs.",
+    "tip": "Most dogs settle within an hour of the owner leaving. The hard part of the first night is usually yours, not hers."
+   },
+   "hotelweek": {
+    "n": "Dog hotel: 1 week",
+    "why": "The full vacation scenario. Built on day visits and single nights, it becomes routine instead of abandonment.",
+    "steps": [
+     "Prerequisites: several day visits plus at least 1 successful night at the same place.",
+     "Do a 2-night trial run 2 to 4 weeks before the actual vacation, it exposes problems while you can still fix them.",
+     "Book early, good places fill months ahead of summer and New Year.",
+     "Leave detailed instructions and your vet's contact. Ask for photo updates, then resist calling hourly."
+    ],
+    "avoid": [
+     "Never make a 7-day stay the dog's first hotel experience.",
+     "No dramatic goodbyes, your calm is the message that everything is fine."
+    ],
+    "alt": "A house sitter or trusted family keeps the dog's whole routine intact, often the best option for anxious dogs.",
+    "tip": "Dogs live in routines, not calendars. With the ladder built, day, night, week, a week away is just a longer Tuesday."
+   },
+   "jumpon": {
+    "n": "Jump on an object (paws up)",
+    "why": "On cue the dog hops onto a bench, a rock or the vet's scale. Confidence work with a very practical payoff at weigh-ins.",
+    "steps": [
+     "Start with a low, stable, non-slip object. Lure the front paws up, mark, treat on the object.",
+     "Lure all 4 paws up, mark, feed several treats up there so staying pays.",
+     "Add the cue Up just before the hop, then Okay to release off.",
+     "Generalise: park benches, tree stumps, the bathroom scale at home, the vet scale."
+    ],
+    "avoid": [
+     "No slippery or wobbly surfaces, one bad slip costs weeks of confidence.",
+     "Keep heights at knee level or lower, this is confidence work, not stunt work."
+    ],
+    "alt": "For hesitant dogs, front paws only for a week is a perfectly good stage.",
+    "tip": "A dog that loves the scale makes every vet visit 5 minutes shorter."
+   },
+   "under": {
+    "n": "Settle under (table or legs)",
+    "why": "The dog tucks under your chair, table or bent legs and lies still. The cafe and restaurant superpower.",
+    "steps": [
+     "At home, sit on a chair and lure the dog under the table or under your legs into a Down.",
+     "Feed a slow trickle of treats while the dog stays flat under there.",
+     "Add the cue Under. Grow duration from 10 seconds to minutes with a chew.",
+     "Take it on the road: quiet cafe terrace first, busy restaurant much later."
+    ],
+    "avoid": [
+     "Do not push the dog into the space, luring keeps it voluntary and safe.",
+     "Do not forget the dog is under there, release with Okay before you stand up."
+    ],
+    "alt": "Bring a small mat as the portable target. Under then means: onto the mat below.",
+    "tip": "Order a coffee, practice 10 minutes, leave. Short wins build the cafe dog."
+   },
+   "carride": {
+    "n": "First car rides",
+    "why": "The car unlocks the vet, the mountains and the sea. Early good rides prevent years of drooling misery.",
+    "steps": [
+     "Sessions in the parked car first: hop in, treats, hop out. Engine off, then engine on.",
+     "First real drive: 5 minutes to somewhere great, a meadow or a friend, party there, drive home.",
+     "Secure the dog every single time: crash-tested crate or car harness, never loose on the seat.",
+     "Grow trip length gradually. Most rides should end somewhere fun, not only at the vet."
+    ],
+    "avoid": [
+     "No meal right before early drives, motion sickness builds bad associations fast.",
+     "Do not flood a whining puppy with dramatic comforting mid-drive, stay calm, arrive, then reward calm."
+    ],
+    "alt": "For queasy puppies, feed meals in the standing car for a week before any driving.",
+    "tip": "Most puppies outgrow motion sickness by 12 months. Structure the rides and time does the rest."
+   },
+   "bikeride": {
+    "n": "Bike training",
+    "why": "Small dogs ride in a basket or trailer, larger dogs trot alongside. Both need real training before the first shared ride.",
+    "steps": [
+     "Basket or trailer dogs: train it as a bed at home first, meals and naps inside, then short pushed walks, then slow rides with the harness clipped in.",
+     "Running dogs: walk beside the pushed bike for days, reward position level with the rear wheel, away from the pedals.",
+     "First rides slow and short on quiet paths, dog on the side away from traffic.",
+     "Use a spring-loaded bike attachment or ride hands-free areas only, never tie the leash to the handlebars."
+    ],
+    "avoid": [
+     "No trotting alongside a bike before the dog is fully grown, roughly 12 to 18 months, joints first.",
+     "No basket rides without a secured harness clip, one squirrel changes everything."
+    ],
+    "alt": "A dog trailer is the comfortable option for medium dogs and seniors.",
+    "tip": "Summer asphalt burns pads. Back of your hand on the road for 5 seconds is the test."
+   },
+   "potty": {
+    "n": "Potty training routine",
+    "why": "House training is a timing game, not an obedience test. A puppy bladder holds roughly its age in months in hours.",
+    "steps": [
+     "Out after every sleep, every meal, every play burst, and every 1 to 2 awake hours. Set phone timers, seriously.",
+     "Same door, same spot, same boring word like Go potty while the dog sniffs.",
+     "Pay within 2 seconds of finishing, at the spot outside, never back inside at the door.",
+     "Supervise indoors or confine to a small dog-proofed zone. Freedom of the whole flat is earned, room by room.",
+     "Clean any accident with enzymatic cleaner, normal detergent leaves a scent invitation."
+    ],
+    "avoid": [
+     "Never scold or rub the nose in it, the dog only learns to hide peeing from you.",
+     "Do not open the door and watch from inside in bad weather, go out together, the payment happens out there."
+    ],
+    "alt": "Pair it with the Ring the bell trick so the dog can ask to go out.",
+    "tip": "Rate the session by your timing, not the puppy's bladder. A dry day is a 5 for both of you."
+   },
+   "teeth": {
+    "n": "Teeth brushing session",
+    "why": "Dental disease hits most dogs by age 3 and cleanings under anaesthesia are expensive. Brushing is the cheapest health insurance you can train.",
+    "steps": [
+     "Let the dog lick dog toothpaste off your finger for a few days, it tastes like a treat.",
+     "Rub a pasted finger along the outer teeth for 5 seconds, treat. Days per step is fine.",
+     "Introduce the brush: touch 2 teeth, treat. Grow to the outer surfaces of one side, then both.",
+     "Outer surfaces are the job, the tongue handles the inside. 30 to 60 seconds is a full session."
+    ],
+    "avoid": [
+     "Never use human toothpaste, xylitol and fluoride are toxic to dogs.",
+     "Do not pry the mouth open and scrub, this is a cooperation game like nails and ears."
+    ],
+    "alt": "A finger brush beats a long brush for many dogs. Dental chews complement brushing, they do not replace it.",
+    "tip": "3 times a week is the realistic gold standard. Rate the session on calm cooperation."
+   },
+   "chinrest": {
+    "n": "Chin rest",
+    "why": "The dog parks its chin in your open palm and holds still. The Swiss army knife of cooperative care: eye drops, ear checks, face trims, vet exams.",
+    "steps": [
+     "Hold a flat palm under the chin, mark any contact, treat with the other hand.",
+     "Grow duration: 1 second of resting chin, then 3, then 5, with treats trickling in.",
+     "Add the cue Chin. Then practice while your other hand touches an ear or lifts a lip."
+    ],
+    "avoid": [
+     "Do not grab the muzzle to place it, the dog must lower the chin itself.",
+     "Do not jump to long holds, duration is built in seconds."
+    ],
+    "alt": "A rolled towel on your lap works as the chin target for face-shy dogs.",
+    "tip": "A solid chin rest turns vet handling from wrestling into teamwork. Groomers love it too."
+   },
+   "swim": {
+    "n": "Swimming introduction",
+    "why": "Not every dog swims by default. A calm introduction makes lake and sea holidays safe fun instead of panic.",
+    "steps": [
+     "Pick a warm day and a shallow, gradual entry, a lake beach beats a pool ladder.",
+     "You go in first, ankle deep. Let the dog follow at its own pace, pay every voluntary step.",
+     "A dog life vest for the first sessions keeps the rear from sinking and builds confidence.",
+     "Keep sessions short, 5 to 10 minutes, swimming exhausts beginners."
+    ],
+    "avoid": [
+     "Never throw a dog in to teach it, that is the classic trust destroyer and creates water fear.",
+     "Watch cold water, shivering means out and dry, now."
+    ],
+    "alt": "A kiddie pool in the garden with floating treats is a fine step zero.",
+    "tip": "Rinse off salt and chlorine, and dry the ears afterwards, floppy ears especially."
+   },
+   "blades": {
+    "n": "Running next to rollerblades",
+    "why": "Faster than a bike and with less braking control. For fit adult dogs and confident skaters only, but a great energy burner done right.",
+    "steps": [
+     "Prerequisites: rock-solid loose leash, bike training done, dog fully grown.",
+     "Use a hands-free belt with a shock-absorbing line, never the leash around your wrist.",
+     "Start on smooth, empty paths at walking pace, dog at your side. Build distance over weeks.",
+     "Build in sniffing breaks, sustained trotting is athlete work."
+    ],
+    "avoid": [
+     "Not before roughly 12 to 18 months depending on size, growing joints come first.",
+     "No blades in crowds or near roads, your braking distance is your safety budget."
+    ],
+    "alt": "Jogging together builds the same side-by-side skill with more control.",
+    "tip": "You cannot brake fast on blades. Route choice is the real safety tool."
+   },
+   "firstwalk": {
+    "n": "The first walk outside",
+    "why": "After vaccinations clear, the first real street walk is a sensory explosion for a puppy. Managed well, it sets the tone for years of relaxed walks.",
+    "steps": [
+     "Keep it tiny: 5 to 10 minutes, quiet street, no destination. Sitting and watching the world counts as the whole walk.",
+     "Let the puppy set the pace, stopping to stare at a leaf is learning, not disobedience.",
+     "Pay every brave step past something new: a bin, a bike, a stranger at distance.",
+     "End before overwhelm: better 3 short outings a day than 1 long one."
+    ],
+    "avoid": [
+     "Do not flood the puppy with the market square on day 1, build up from quiet to busy over weeks.",
+     "Do not drag a frozen puppy forward, crouch, wait, pay the first voluntary step."
+    ],
+    "alt": "Carry the puppy for part of the route, watching from your arms is valuable exposure too.",
+    "tip": "Rate the session on confidence, not distance. 50 brave meters is a 5."
+   },
+   "firstbath": {
+    "n": "The first bath",
+    "why": "The first bath decides whether bath time becomes routine or wrestling. Warm, short and heavily paid wins forever.",
+    "steps": [
+     "Dry rehearsal first: empty tub, treats scattered in, puppy hops in and out, done.",
+     "Bath day: lukewarm water, a lick mat with paste stuck to the tub wall as the distraction.",
+     "Wet from the neck down with a cup or gentle spray, dog shampoo only, keep the head dry the first time.",
+     "Rinse thoroughly, towel wrap, party. 5 to 10 minutes total."
+    ],
+    "avoid": [
+     "No human shampoo, dog skin has a different pH.",
+     "Do not spray the face or ears, wipe them with a damp cloth instead."
+    ],
+    "alt": "A non-slip mat in the tub changes everything for a nervous dog.",
+    "tip": "After-bath zoomies are guaranteed and glorious. Clear the hallway."
+   },
+   "cityrail": {
+    "n": "Tram and metro rides",
+    "why": "Trams and undergrounds add crowds, screeching brakes and moving floors. City freedom for you both, trained in small doses.",
+    "steps": [
+     "Platform sessions first: watch trains and trams arrive, feed calm watching, leave.",
+     "First ride: 1 stop, off-peak, dog tucked between your legs or on a settle mat.",
+     "Escalators are a real hazard for paws: carry small dogs, take the lift or stairs with large ones.",
+     "Grow to longer rides and busier times over weeks, always with an exit plan."
+    ],
+    "avoid": [
+     "Do not board a packed rush-hour carriage with a beginner dog.",
+     "Never let paws walk on a moving escalator, fur and paws catch in the mechanism."
+    ],
+    "alt": "Start on the quietest suburban tram line, not the central station.",
+    "tip": "Check your city's rules, many systems require a muzzle or a ticket for dogs."
+   },
+   "elevator": {
+    "n": "Elevator confidence",
+    "why": "A moving box with sliding doors is genuinely weird for dogs. Apartment life and vet visits need it boring.",
+    "steps": [
+     "Doors game first: approach, doors open, treat, walk away. No ride.",
+     "First ride: 1 floor, treats flowing, exit calmly.",
+     "Teach a position: dog sits in the corner or between your legs, away from the door gap.",
+     "Grow to longer rides and rides with strangers aboard."
+    ],
+    "avoid": [
+     "Watch the door gap with the leash, never let the leash catch between closing doors.",
+     "Do not crowd a fearful dog against other passengers, wait for an empty cabin while training."
+    ],
+    "alt": "Stairs remain a fine choice for small buildings, elevator skills matter most for high floors and vets.",
+    "tip": "A dog that rides elevators calmly opens up city life, vet clinics and holiday apartments."
+   },
+   "vacation": {
+    "n": "First vacation together",
+    "why": "The first trip with a dog is a logistics exam: transport, sleeping in a new place, new routines. Preparation turns it into pure joy.",
+    "steps": [
+     "Book dog-friendly explicitly and confirm by message, surprises at check-in ruin day 1.",
+     "Pack the dog bag: own food for the whole stay, bed or blanket, bowls, meds, vaccination booklet, poop bags, a familiar toy.",
+     "First evening ritual: a long sniffy walk around the new home base, then dinner, then calm. Arrival day is not sightseeing day.",
+     "Keep meal and walk times close to home rhythm, routine is a portable safety blanket."
+    ],
+    "avoid": [
+     "Do not switch food for the trip, pack enough of the usual.",
+     "Do not plan wall-to-wall activities, dogs need decompression naps in new places."
+    ],
+    "alt": "A trial weekend 1 hour away beats discovering problems 800 km from home.",
+    "tip": "Log the trip in your care calendar, the packing list gets faster every time."
+   },
+   "officeday": {
+    "n": "Office dog day",
+    "why": "Dog-friendly offices are spreading. A dog that settles under a desk for hours is welcome everywhere, one that patrols the floor is not.",
+    "steps": [
+     "Prerequisite: a rock-solid Settle under and alone-time basics.",
+     "Rehearse at home: full office simulation, dog on a mat under your desk while you work 1, then 2 hours.",
+     "First office day a half-day: mat, chew, water bowl, and a walk at lunch.",
+     "Brief the colleagues: greetings only when the dog is calm and released, no desk-to-desk treat tour."
+    ],
+    "avoid": [
+     "Do not bring an under-exercised dog, a morning walk before the office is non-negotiable.",
+     "Do not let every colleague feed the dog, one designated treat person keeps the peace and the diet."
+    ],
+    "alt": "Start with a quiet Friday when half the office is remote.",
+    "tip": "A tired, chewing, settled dog under a desk is the best recruitment ad your company has."
+   },
+   "meetkids": {
+    "n": "Meeting children politely",
+    "why": "Children move fast, squeal and hug. Dogs that stay relaxed around them are safer, and so are the children. This is managed exposure, not free play.",
+    "steps": [
+     "Distance first: watch a playground from across the park, pay calm observation.",
+     "Structured greeting with a calm, instructed child: child stands still, dog approaches to sniff, 3 seconds, dog is called back and paid.",
+     "Teach the child the rules out loud: no hugging, no face-to-face, pet the chest or side, stop when the dog moves away.",
+     "Adult supervision always, and the dog always keeps an exit route."
+    ],
+    "avoid": [
+     "Never allow hugging or climbing on the dog, most bites to children come from cornered, over-touched dogs.",
+     "Do not punish a growl around children, it is the warning system, remove the dog calmly and add distance next time."
+    ],
+    "alt": "Parallel walking with a family beats face-to-face meetings for the first sessions.",
+    "tip": "A dog that chooses to walk away is being polite. Protect that choice and praise it."
+   },
+   "skates": {
+    "n": "Run beside inline skates",
+    "why": "Feels faster than a bike, with less control and longer braking. Only for fit adult dogs and skaters who can actually stop.",
+    "steps": [
+     "Prerequisites: dog fully grown, 12 to 18 months, solid loose leash and Leave it, and you brake reliably.",
+     "Walk beside carried skates first, then let the dog watch you skate at a distance, treats throughout.",
+     "First runs short and slow on smooth empty paths, dog on the grass side.",
+     "Use a hands-free waist leash with a bungee section. Never a handheld loop, a squirrel plus wheels equals a fall."
+    ],
+    "avoid": [
+     "No skating with reactive dogs and none on hot asphalt.",
+     "Do not attach the leash to your hand or wrist on wheels, ever."
+    ],
+    "alt": "A dog with a strong pull drive is better matched to canicross or bikejoring gear.",
+    "tip": "3 to 5 km maximum at the start. Paws and joints adapt slower than enthusiasm."
+   },
+   "muzzle": {
+    "n": "Muzzle training (happy muzzle)",
+    "why": "A basket muzzle is a seatbelt, not a punishment. Vets, some trains and some countries require one, and it is a scavenger's best insurance.",
+    "steps": [
+     "Show the muzzle, feed through it from the outside, remove, repeat. The muzzle predicts snacks.",
+     "Smear paste inside so the dog pushes its own nose in. Mark and pay the voluntary insertion.",
+     "Fasten for 2 seconds, treat through the basket, remove. Grow to minutes over 2 weeks.",
+     "Wear it on happy walks occasionally so it never predicts only the vet."
+    ],
+    "avoid": [
+     "Only basket muzzles that allow panting and drinking. Fabric sleeves are for 1 minute at the vet, nothing more.",
+     "Do not introduce it for the first time in a vet waiting room, train at home in advance."
+    ],
+    "alt": "A DIY start: feed treats through a plastic cup with the bottom cut off.",
+    "tip": "A happily muzzled dog can go more places, not fewer. Counterintuitive but true."
+   },
+   "school1": {
+    "n": "Dog school: first class",
+    "why": "Group classes add distraction and a coach's eye. The first class is about arriving, settling and surviving the excitement.",
+    "steps": [
+     "Pick a reward-based school. Visit once without the dog to check methods and group sizes.",
+     "Arrive 10 minutes early and let the dog decompress on leash at a distance from the group.",
+     "Goals for class 1: some focus on you, a few paid sits, no rehearsing chaos.",
+     "Bring the best treats you own. School is the Champions League of distractions."
+    ],
+    "avoid": [
+     "Do not compare your dog with the calmest one in the group, every dog debuts differently.",
+     "Do not skip week 2 because week 1 was messy. A messy week 1 is the norm."
+    ],
+    "alt": "Private first lessons suit reactive or very shy dogs better than groups.",
+    "tip": "Rate the session on recovery and focus moments, not on perfection."
+   },
+   "school2": {
+    "n": "Dog school: semester complete",
+    "why": "Finishing a full course, usually 8 to 12 group sessions, builds skills no living room can: focus around dogs, people and noise.",
+    "steps": [
+     "Attend consistently. The dogs that improve are the dogs that show up.",
+     "Do the 5-minute homework between classes. The class teaches you, home teaches the dog.",
+     "Log each class here as a session and rate the focus honestly."
+    ],
+    "avoid": [
+     "Do not put school on the dog's most tired day of the week.",
+     "Do not let one bad class end the course, talk to the trainer instead."
+    ],
+    "alt": "If groups overwhelm your dog, many schools run semi-private courses of 2 to 3 dogs.",
+    "tip": "Mastering this challenge means the course is finished. A real diploma moment."
+   },
+   "school3": {
+    "n": "Dog school: exam passed",
+    "why": "Many schools close with an exam: heelwork, stays, recall under distraction. Passing it is the graduation of foundational training.",
+    "steps": [
+     "Ask for the exam criteria early and rehearse the exact exercises in your weekly sessions.",
+     "Simulate exam pressure once: a friend as judge, full sequence, no treats mid-sequence.",
+     "On the day: light exercise before, arrive early, breathe. Your calm travels down the leash."
+    ],
+    "avoid": [
+     "Do not debut new gear or new treats on exam day.",
+     "A failed first attempt is data, not a verdict. Most schools allow a retake."
+    ],
+    "alt": "No exam at your school? Define your own: 10 steps of heel, a 30-second stay, a recall past another dog.",
+    "tip": "Mastering this one earns the Honour student badge. Frame the certificate, seriously."
+   }
+  },
+  "behav": {
+   "chasing": {
+    "n": "Chasing cars, bikes and wildlife",
+    "why": "Chasing is a hardwired motor pattern, movement triggers pursuit. It feels amazing to the dog and is self-rewarding, which is why yelling changes nothing.",
+    "fix": [
+     "Management first: long line or leash anywhere chase targets appear, every successful chase strengthens the habit.",
+     "Play the engage-disengage game: dog looks at the trigger at a distance, you mark and pay the look-back at you. Distance shrinks over weeks.",
+     "Feed the instinct legally: flirt pole sessions, chase games with a thrown toy on your terms.",
+     "Train a stop-dead emergency cue separately from the recall, pay it like a jackpot every time."
+    ],
+    "avoid": [
+     "Never let a dog rehearse chasing traffic, even once, the risk is life-level.",
+     "Do not punish after the chase ends, the dog links the punishment to returning."
+    ],
+    "calm": "Herding and hunting breeds carry this stronger, it is genetics, not disobedience. If traffic chasing is involved, work with a certified trainer, this one is safety-critical."
+   },
+   "attention": {
+    "n": "Pawing, whining and nudging for attention",
+    "why": "Somewhere along the way, pawing or whining produced attention, even annoyed attention counts. The dog repeats what pays.",
+    "fix": [
+     "Decide as a household what earns attention: calm sitting or lying nearby does, pawing does not.",
+     "When the pawing starts, go neutral: no eye contact, no talking, turn slightly away. Pay the very first calm pause instead.",
+     "Pre-empt it: scheduled attention, sniff walks, chew sessions and training bursts drain the need before it demands.",
+     "Teach a polite ask: sitting quietly in front of you becomes the magic button that works."
+    ],
+    "avoid": [
+     "Do not push the dog off while talking to it, being pushed and spoken to IS attention.",
+     "Do not ignore real needs, a dog asking at the door or at the empty water bowl is communicating, not manipulating."
+    ],
+    "calm": "This behaviour fades fast once the maths flips, calm pays, pushy does not. Consistency from every family member is the whole trick."
+   },
+   "eveningsettle": {
+    "n": "Trouble settling in the evening",
+    "why": "Evening zoomies and restlessness in adult dogs usually mean the day was either under-stimulating or over-stimulating. Both end in a dog that cannot switch off.",
+    "fix": [
+     "Audit the day: enough sniffing, chewing and brain work, not just steps. Mental work settles dogs better than mileage.",
+     "Build a wind-down ritual at the same hour: last garden visit, then a long-lasting chew on the dog's bed, lights lower, voices calmer.",
+     "Train Settle on cue during calm daytime moments, then use it in the evening.",
+     "A stuffed, frozen food toy 30 to 60 minutes before bedtime is a legal off switch, licking and chewing lower arousal."
+    ],
+    "avoid": [
+     "Do not answer evening restlessness with a hyped play session, it buys 10 minutes and pays back double arousal.",
+     "Do not confine an unexercised dog and expect silence, meet the needs first."
+    ],
+    "calm": "Most evening chaos is a scheduling problem, not a behaviour problem. Two weeks of a consistent wind-down ritual usually transforms the household evening."
+   },
+   "biting": {
+    "n": "Puppy biting and mouthing",
+    "why": "Puppies explore the world with their mouths and learn bite control by playing. It is not aggression.",
+    "fix": [
+     "Yelp or say Ouch calmly and stop play for 10 seconds, then resume. Teeth end the fun.",
+     "Redirect to a tug or chew toy the moment teeth aim at skin.",
+     "Give more daytime naps, overtired puppies bite most."
+    ],
+    "avoid": [
+     "Do not hold the muzzle shut or push into the mouth, it escalates the game.",
+     "Do not use hands as toys, ever, even when it is cute."
+    ],
+    "calm": "Nearly every puppy owner goes through the shark phase. It peaks around 3 to 5 months and fades with consistency."
+   },
+   "teething": {
+    "n": "Chewing during teeth change",
+    "why": "Between roughly 3 and 7 months the 28 puppy teeth fall out and 42 adult teeth erupt. Gums ache, chewing relieves the pressure.",
+    "fix": [
+     "Offer rotating legal chews: rubber toys, puppy chews, a wet frozen cloth for sore gums, and splinter-resistant coffee tree or olive wood chews.",
+     "Manage the space: shoes and cables out of reach, this phase is temporary.",
+     "Trade calmly when the wrong item is grabbed, never chase."
+    ],
+    "avoid": [
+     "Do not punish chewing itself, the need is physical and real.",
+     "No cooked bones or very hard antlers for puppy teeth, fractures happen."
+    ],
+    "calm": "Finding tiny teeth on the floor is normal, most are swallowed harmlessly. The storm largely passes by month 7."
+   },
+   "chewadult": {
+    "n": "Adult chewing (boredom)",
+    "why": "Chewing is self-soothing and entertainment. An under-stimulated adult dog finds its own hobbies, usually your furniture.",
+    "fix": [
+     "Add 10 to 15 minutes of sniffing games or training daily, mental work tires more than walks.",
+     "Keep 2 to 3 attractive chews in rotation so they stay novel.",
+     "Confine to a dog-proofed zone when alone until habits improve."
+    ],
+    "avoid": [
+     "Do not scold discoveries hours later, dogs cannot connect it, they only learn you are scary near chewed items.",
+     "Do not give an old shoe as a toy, dogs cannot tell it from your new pair."
+    ],
+    "calm": "Chewing needs an outlet at every age. Redirected, it becomes free calm time instead of damage."
+   },
+   "jumping": {
+    "n": "Jumping on people",
+    "why": "Dogs greet faces. Jumping is excitement plus a history of being paid with attention for it.",
+    "fix": [
+     "All 4 paws on the floor earns greeting, jumping makes people turn away silently.",
+     "Teach an incompatible job: Sit to say hi, paid heavily.",
+     "Brief guests in advance, one exciting uncle can undo a month of work."
+    ],
+    "avoid": [
+     "No kneeing or pushing, to a dog pushing is wrestling, which is attention.",
+     "Do not greet dramatically after coming home, keep arrivals boring for 2 minutes."
+    ],
+    "calm": "Jumping means your dog loves people, the enthusiasm just needs a polite shape. Very fixable."
+   },
+   "pulling": {
+    "n": "Pulling on the leash",
+    "why": "Dogs walk faster than us and pulling has worked, it moved them forward. Simple learned economics.",
+    "fix": [
+     "Stop dead when the leash tightens, walk on when it slackens. Every time.",
+     "Pay heavily at your leg, make your side the best place on the street.",
+     "Use a front-clip harness while retraining, it reduces pull power without pain."
+    ],
+    "avoid": [
+     "No leash jerks and no choke or prong collars, pain creates new problems.",
+     "Avoid retractable leashes during training, they teach that pulling extends the range."
+    ],
+    "calm": "Loose-leash walking is one of the slowest skills for every owner. Weeks of stop-and-go is completely normal."
+   },
+   "doorbell": {
+    "n": "Barking at the doorbell",
+    "why": "The bell reliably predicts an exciting or alarming event. Barking is the announcement.",
+    "fix": [
+     "Recondition: play a recorded bell quietly, treat, repeat until the bell predicts cheese, not chaos.",
+     "Teach Go to bed as the doorbell routine and pay it richly.",
+     "Thank and interrupt: a calm Thanks, I got it plus a treat scatter works for many watchdog types."
+    ],
+    "avoid": [
+     "Do not shout, the dog hears backup barking.",
+     "Do not let visitors greet a barking dog, calm earns the greeting."
+    ],
+    "calm": "Alert barking is deep in the dog operating system. The goal is a short announcement, not silence."
+   },
+   "barkdogs": {
+    "n": "Barking at other dogs",
+    "why": "Usually frustration (wants to greet) or discomfort (wants space). Both look loud.",
+    "fix": [
+     "Find the distance where your dog notices but stays calm, pay calm looking heavily.",
+     "Close distance over weeks, not minutes.",
+     "Turn and add space early when you see stiffening, prevention beats reaction."
+    ],
+    "avoid": [
+     "Do not force face-to-face greetings on a barking dog.",
+     "Do not punish the bark, it removes the warning, not the emotion."
+    ],
+    "calm": "Leash frustration is among the most common issues trainers see. You are far from alone on this one."
+   },
+   "demand": {
+    "n": "Demand barking",
+    "why": "The dog barks at you for food, play or attention because it has worked before. Smart, not naughty.",
+    "fix": [
+     "Barking makes the resource disappear: turn away, wait for quiet, then engage.",
+     "Pay quiet heavily and pre-emptively, catch the polite sit before the bark.",
+     "Meet real needs on schedule, bored dogs invoice loudly."
+    ],
+    "avoid": [
+     "Do not give in on attempt 15, that teaches persistence pays.",
+     "Do not yell, attention is attention."
+    ],
+    "calm": "Consistency wins in days to weeks. Expect an extinction burst first, it gets louder right before it gets better. That spike means it is working."
+   },
+   "nightcry": {
+    "n": "Whining at night",
+    "why": "A puppy just left its litter. Night crying is separation distress, not manipulation.",
+    "fix": [
+     "Sleep the puppy next to your bed at first, a crate or bed within touching distance.",
+     "Respond calmly to real needs, young puppies genuinely need 1 to 2 night toilet trips.",
+     "Move the sleeping spot away gradually over weeks if you want distance."
+    ],
+    "avoid": [
+     "Do not leave a new puppy to cry it out alone, distress this young erodes trust.",
+     "No dramatic 3 a.m. play sessions, night service is calm and boring."
+    ],
+    "calm": "Most puppies settle into nights within 1 to 3 weeks. You will sleep again, this phase is short."
+   },
+   "cratecry": {
+    "n": "Crying in the crate",
+    "why": "The crate is new and confinement is unnatural until it is trained as a den.",
+    "fix": [
+     "Rewind to open-door crate games, meals inside, zero pressure.",
+     "Grow closed-door time in seconds, treat through the bars for silence.",
+     "Exercise and toilet before crate time, an empty and tired puppy settles."
+    ],
+    "avoid": [
+     "Do not open the door mid-crying, that makes crying the door handle. Wait for a 2-second pause, then open.",
+     "Do not use the crate for punishment or for hours beyond age-appropriate limits."
+    ],
+    "calm": "Crate protests are near universal in week 1. Trained gradually, most dogs later walk in on their own."
+   },
+   "sepanx": {
+    "n": "Home alone struggles",
+    "why": "Dogs are social animals, being alone is a learned skill, not a factory setting.",
+    "fix": [
+     "Train absences in tiny doses: 30 seconds out the door, return calmly, grow slowly.",
+     "Leave a long-lasting chew, departures should predict good things.",
+     "Keep exits and arrivals boring, no dramatic goodbyes.",
+     "Film the dog when out, the video tells you the real state."
+    ],
+    "avoid": [
+     "Do not jump from 1 minute to 4 hours, panic is not stubbornness.",
+     "Do not punish destruction found later, it deepens the anxiety."
+    ],
+    "calm": "Mild alone-time trouble is common and trainable. True separation anxiety exists too, if the video shows panic, a certified trainer or vet behaviourist is the right call, and asking for help is good ownership."
+   },
+   "digging": {
+    "n": "Digging",
+    "why": "Digging is hardwired: cooling off, burying, hunting ground smells, or plain fun. Terriers doubly so.",
+    "fix": [
+     "Give a legal dig zone: a sandbox corner with buried toys, pay digging there.",
+     "More sniffing and chew outlets, digging often drains surplus energy.",
+     "Supervise garden time until the legal zone habit sticks."
+    ],
+    "avoid": [
+     "Do not punish after the fact, holes are hours old in dog memory.",
+     "Do not leave a digger unsupervised near prize flowerbeds during retraining."
+    ],
+    "calm": "You cannot delete digging, you can relocate it. A 1 square meter sacrifice zone saves the rest of the garden."
+   },
+   "counter": {
+    "n": "Counter surfing",
+    "why": "The counter paid out once, a sandwich, and dogs are excellent statisticians.",
+    "fix": [
+     "Management first: clear counters for months, the habit starves without wins.",
+     "Pay heavily for 4 paws on the floor and for settling on a mat in the kitchen.",
+     "Teach a strong Leave it and Place for cooking time."
+    ],
+    "avoid": [
+     "Booby traps and shouting create kitchen anxiety, not learning.",
+     "Do not eat toast while the dog jumps at you, no exceptions from anyone at home."
+    ],
+    "calm": "One stolen schnitzel funds weeks of attempts. Airtight management is the actual cure, and it works."
+   },
+   "poop": {
+    "n": "Eating poop (coprophagia)",
+    "why": "Disgusting to us, common in dogs. Causes range from exploration in puppies to habit, rarely diet gaps.",
+    "fix": [
+     "Instant pickup policy, no access means no habit.",
+     "Train Leave it plus a paid recall away from finds.",
+     "Mention it at the next vet visit to rule out the rare medical causes."
+    ],
+    "avoid": [
+     "No panic chasing, it turns poop into a prized contested resource.",
+     "Food additives from the internet mostly disappoint, management beats powder."
+    ],
+    "calm": "Vets hear this weekly, it is far more common than dinner-party conversation suggests. Most puppies simply grow out of it."
+   },
+   "scavenge": {
+    "n": "Eating things on walks",
+    "why": "Dogs are opportunistic scavengers by design. Sidewalk buffets are self-rewarding.",
+    "fix": [
+     "Street-level Leave it plus an auto check-in past food, both heavily paid.",
+     "Scan ahead yourself and steer around known hot spots.",
+     "For committed vacuum cleaners, a comfortable basket muzzle on risky routes is a safety tool."
+    ],
+    "avoid": [
+     "Do not finger-sweep the mouth for everything, save it for real dangers, it teaches swallow faster.",
+     "Do not punish after swallowing, the eating already paid."
+    ],
+    "calm": "Scavenging is normal dog economics, not bad character. Poison-bait awareness is the real reason to train this seriously."
+   },
+   "guard": {
+    "n": "Resource guarding (early signs)",
+    "why": "Freezing, hard stare or a growl over food or toys means: I am worried you will take this. It is fear of loss.",
+    "fix": [
+     "Become the giver: walk past the bowl and drop a bonus treat, your approach starts predicting gains.",
+     "Trade up, never confiscate, swap the guarded item for something better, then often give it back.",
+     "With growling over many items or any snap, book a qualified force-free trainer early."
+    ],
+    "avoid": [
+     "Never take the bowl away to show who is boss, that manufactures serious guarding.",
+     "Do not punish growling, a growl is information. Silencing it leaves only the bite."
+    ],
+    "calm": "Mild guarding is common and responds very well to early, calm work. Acting now is exactly right."
+   },
+   "reactive": {
+    "n": "Leash reactivity (lunging)",
+    "why": "Barking and lunging on leash at dogs, bikes or joggers is usually big feelings, frustration or fear, with no escape option.",
+    "fix": [
+     "Work below threshold: the distance where your dog can see the trigger and still eat. Pay looking calmly.",
+     "Pattern games help: trigger appears, treat scatter follows, every time.",
+     "Progress is measured in meters per month. Log it in this app and you will see it."
+    ],
+    "avoid": [
+     "Do not correct with leash jerks, pairing pain with other dogs makes it worse.",
+     "Do not flood the dog by walking straight through busy dog zones during retraining."
+    ],
+    "calm": "Reactivity is probably the number 1 issue in group training classes across Europe. Whole classes exist just for this, you are in very large company."
+   },
+   "fireworks": {
+    "n": "Fear of fireworks and storms",
+    "why": "Sudden loud noise with no source visible is legitimately scary. Noise sensitivity is partly genetic.",
+    "fix": [
+     "Prepare a den: an inner room, blinds down, white noise or music, favourite bed.",
+     "Comfort your dog freely, you cannot reinforce fear by being kind, that myth is dead.",
+     "Off season, play firework sounds at whisper volume paired with treats, raise volume over weeks.",
+     "For severe panic, ask the vet about event medication well before New Year."
+    ],
+    "avoid": [
+     "Never take a noise-fearful dog to a fireworks display to get used to it, flooding backfires.",
+     "Do not leave the dog alone on the worst nights if avoidable."
+    ],
+    "calm": "Around New Year every vet in Slovenia fields these calls. Preparation from November makes December manageable."
+   },
+   "norecall": {
+    "n": "Not coming when called",
+    "why": "The environment pays better than you: smells, dogs, freedom. Recall failed because the deal was bad, not because the dog is defiant.",
+    "fix": [
+     "Rebuild on a long line with top-tier pay: chicken, cheese, sausage.",
+     "Never call for endings only: call, treat, release back to play, repeat 5 to 1 in favour of releases.",
+     "Protect the cue: if you cannot enforce it, do not say it, go collect the dog instead."
+    ],
+    "avoid": [
+     "Do not punish a dog that finally came, you punish the arrival.",
+     "Do not chant the cue at a dog mid-sniff, every ignored repeat weakens the word."
+    ],
+    "calm": "Recall famously collapses in adolescence, around 6 to 18 months, and then rebuilds. It is a phase with a name, not a broken dog."
+   },
+   "housetrain": {
+    "n": "House training accidents",
+    "why": "A puppy bladder physically holds roughly its age in months in hours. Accidents are biology plus missed timing.",
+    "fix": [
+     "Out after every sleep, meal, play burst and roughly every 1 to 2 hours awake.",
+     "Reward the act outdoors within 2 seconds, treat at the spot, not back inside at the door.",
+     "Clean accidents with enzymatic cleaner, ordinary detergents leave scent invitations."
+    ],
+    "avoid": [
+     "Never rub the nose in it or scold, the dog learns to hide peeing from you, hello behind-the-sofa puddles.",
+     "Do not free-roam an untrained puppy through the whole flat unsupervised."
+    ],
+    "calm": "Regressions around 4 to 6 months are textbook. Most dogs are reliable by 6 to 8 months, some honest souls take 12."
+   },
+   "marking": {
+    "n": "Marking indoors",
+    "why": "Small, deliberate urine deposits on vertical spots, communication, not emptying. More common in intact males and in multi-dog homes.",
+    "fix": [
+     "Rule out medical causes first, a urine test is cheap certainty.",
+     "Supervise, interrupt calmly mid-lift and head straight out, pay outdoor marking.",
+     "Enzymatic cleaning of every historical spot, old scent is an invitation."
+    ],
+    "avoid": [
+     "Do not punish found marks, it increases sneaky marking.",
+     "Belly bands manage laundry, they do not train anything on their own."
+    ],
+    "calm": "Marking responds well to the supervise-clean-redirect triangle. Neutering reduces it in many but not all males, discuss timing with your vet."
+   },
+   "heat": {
+    "n": "First heat",
+    "why": "Females typically have their first heat between 6 and 15 months, small breeds earlier, large later. It lasts around 2 to 4 weeks with swelling, bloody discharge and behaviour changes. It is a normal, healthy cycle.",
+    "fix": [
+     "Leash only for the whole heat, no dog parks and no off-leash, males detect it from kilometers away.",
+     "Hygiene pants for the flat help with discharge, most dogs also self-clean a lot.",
+     "Expect clinginess, moodiness or appetite dips, offer calm routines and patience.",
+     "Log the dates, cycles repeat roughly every 6 to 8 months, and discuss spay timing and options with your vet after the first heat."
+    ],
+    "avoid": [
+     "Never leave her unattended in the garden, determined suitors climb fences.",
+     "Do not book training classes or dog gatherings mid-heat, it is unfair to everyone."
+    ],
+    "calm": "The first heat surprises almost every owner of a female puppy. Nothing is wrong with your dog, mark the calendar, manage 3 weeks, life resumes."
+   },
+   "humping": {
+    "n": "Humping",
+    "why": "Mostly over-arousal and stress relief, not dominance and often not sexual. Cushions, legs and dog friends are all targets.",
+    "fix": [
+     "Interrupt calmly and redirect to a chew or a known cue like Place.",
+     "Spot the pattern: it usually spikes when excitement peaks, add calm breaks earlier.",
+     "If it targets one specific dog friend, give both more structured breaks in play."
+    ],
+    "avoid": [
+     "Do not laugh and film it every time, attention feeds it.",
+     "Do not punish harshly, the underlying arousal needs an outlet, not a lid."
+    ],
+    "calm": "Embarrassing for owners, meaningless for dogs. Every dog owner has a humping story, ask any of them."
+   },
+   "zoomies": {
+    "n": "Zoomies (FRAP)",
+    "why": "Frenetic Random Activity Periods, sudden racing laps, are a normal energy release, classic after baths and in the evening.",
+    "fix": [
+     "Let them run in a safe space, zoomies are healthy and self-limiting, usually under 5 minutes.",
+     "Move the party: open the garden door or clear the hallway of obstacles.",
+     "Frequent frantic zoomies can signal under-stimulation, add daytime sniffing and training."
+    ],
+    "avoid": [
+     "Do not chase to stop it, you just joined the game.",
+     "No zoomies near stairs, slippery floors or roads, manage the terrain, not the joy."
+    ],
+    "calm": "Zoomies are one of the purest expressions of dog happiness. Enjoy the show, it is free entertainment."
+   },
+   "begging": {
+    "n": "Begging at the table",
+    "why": "Those eyes once earned a chip. Dogs repeat what pays, dinner theatre included.",
+    "fix": [
+     "Total embargo on table food from every family member, one leak funds the whole operation.",
+     "Give the dog a paid job at dinner: Place with a stuffed chew.",
+     "Pay the dog after dinner, away from the table, calm waiting earns the bonus."
+    ],
+    "avoid": [
+     "No exceptions for guests or holidays, intermittent wins make begging bulletproof.",
+     "Do not shove the dog away repeatedly, boring consistency beats conflict."
+    ],
+    "calm": "With a true zero-payout policy, begging fades in a few weeks. The hard part is training the humans at the table."
+   },
+   "stealing": {
+    "n": "Stealing items and running",
+    "why": "Grab a sock, humans erupt into a chase, best game ever invented. Attention and play are the jackpot.",
+    "fix": [
+     "Kill the chase: ignore low-value thefts completely, the game dies without a second player.",
+     "Trade calmly for real contraband, treat appears, sock drops, no drama.",
+     "Pre-load: more legal toys, more play initiated by you, fewer reasons to invoice you with socks."
+    ],
+    "avoid": [
+     "Do not corner and grab, that builds guarding on top of stealing.",
+     "Do not chase around the coffee table, you are the entertainment."
+    ],
+    "calm": "The sock thief phase is a rite of passage, especially with retrieving breeds. It fades once the chase economy collapses."
+   },
+   "carfear": {
+    "n": "Fear of car rides",
+    "why": "Motion sickness, or the car only ever drives to the vet. Both create bad math about cars.",
+    "fix": [
+     "Rebuild in steps: meals near the parked car, then in it, engine off, then engine on, then 100 m drives.",
+     "Drive to great places: 5 minutes to the meadow, party, home.",
+     "For drooling and vomiting, ask the vet about motion sickness treatment, puppies often outgrow it."
+    ],
+    "avoid": [
+     "Do not force a trembling dog in and drive off, each flooded ride deepens it.",
+     "Do not feed a full meal right before early practice drives."
+    ],
+    "calm": "Very common, very fixable. Many former car-haters end up sleeping through highway trips within a couple of months."
+   },
+   "greetpee": {
+    "n": "Excited peeing at greetings",
+    "why": "Young dogs have immature bladder control, big greetings overflow it. Submissive peeing is a related appeasement signal, not spite.",
+    "fix": [
+     "Make arrivals boring: no eye contact, low voice, greet after 2 minutes outside if possible.",
+     "Greet crouched sideways instead of looming over the puppy.",
+     "Confidence work helps the submissive type: reward-based training, no scolding."
+    ],
+    "avoid": [
+     "Never punish it, punishment increases submissive peeing directly.",
+     "Do not let guests squeal over the puppy at the door, brief them first."
+    ],
+    "calm": "The majority of puppies simply outgrow this by 12 months as the bladder matures. Manage the entrance hall, not the dog."
+   },
+   "nailfear": {
+    "n": "Hates nail trimming",
+    "why": "Paws are sensitive, clippers are weird, and one painful quick-cut can create a long memory.",
+    "fix": [
+     "Break it down: touch paw, treat. Hold paw, treat. Clipper appears, treat. Clipper touches, treat. One nail, jackpot. Days per step is fine.",
+     "One nail a day is a perfectly respectable pace.",
+     "A scratch board (sandpaper on wood) lets the dog file its own front nails as a trick."
+    ],
+    "avoid": [
+     "Do not pin the dog down for a full pedicure, you buy 1 session and pay with 50.",
+     "Do not cut into the quick in dark nails, trim tiny slivers."
+    ],
+    "calm": "Nail fear is one of the most common handling issues. The cooperative-care approach works, thousands of scratch-board dogs prove it."
+   }
+  },
+  "equip": {
+   "must": {
+    "collar": {
+     "n": "Flat collar with ID tag",
+     "note": "Legally required tag data varies, phone number on it always."
+    },
+    "harness": {
+     "n": "Y-front harness",
+     "note": "Daily walking and training, no throat pressure."
+    },
+    "leash": {
+     "n": "Fixed leash 1.5 to 2 m",
+     "note": "The standard training and city leash."
+    },
+    "pouch": {
+     "n": "Treat pouch",
+     "note": "Fast pay is good training. Pockets are too slow."
+    },
+    "treats": {
+     "n": "Soft pea-sized treats",
+     "note": "Small and soft, 50 rewards per session must be possible."
+    },
+    "bags": {
+     "n": "Poop bags plus holder",
+     "note": "Non-negotiable public duty."
+    },
+    "bowls": {
+     "n": "Food and water bowls",
+     "note": "Non-slip. Ceramic or steel beats plastic."
+    },
+    "bed": {
+     "n": "Bed or mat",
+     "note": "The Place target and the nap headquarters."
+    },
+    "crate": {
+     "n": "Crate or playpen",
+     "note": "Den, house-training aid, travel safety."
+    },
+    "chews": {
+     "n": "2 to 3 chew toys",
+     "note": "Rotate to keep novelty. Teething insurance."
+    },
+    "brush": {
+     "n": "Brush or comb for the coat type",
+     "note": "Coated breeds: daily. Ask a groomer which tool."
+    },
+    "vetkit": {
+     "n": "Basic care kit",
+     "note": "Tick remover, dog nail clippers, dog-safe shampoo."
+    },
+    "dental": {
+     "n": "Dog toothbrush and toothpaste",
+     "note": "Enzymatic dog toothpaste only, never human paste. Daily is ideal, 3 times a week is real life."
+    }
+   },
+   "nice": {
+    "clicker": {
+     "n": "Clicker",
+     "note": "Precision marker. See Puppy corner."
+    },
+    "longline": {
+     "n": "Long line 5 to 10 m",
+     "note": "The recall training bridge to off-leash."
+    },
+    "kong": {
+     "n": "Stuffable rubber toy",
+     "note": "Freeze filled, buys 20 quiet minutes."
+    },
+    "snuffle": {
+     "n": "Snuffle mat",
+     "note": "Sniffing dinner tires the brain."
+    },
+    "lickmat": {
+     "n": "Lick mat",
+     "note": "Grooming and bath-time distraction tool."
+    },
+    "carrest": {
+     "n": "Crash-tested car crate or harness",
+     "note": "Safety on every drive."
+    },
+    "whistle": {
+     "n": "Recall whistle",
+     "note": "Consistent sound, carries further than voice."
+    },
+    "raincoat": {
+     "n": "Raincoat for thin-coated dogs",
+     "note": "Some dogs need it, many do not."
+    },
+    "gps": {
+     "n": "GPS tracker",
+     "note": "Peace of mind for off-leash phases."
+    },
+    "puzzle": {
+     "n": "Food puzzle toys",
+     "note": "Rainy-day brain work."
+    },
+    "agility": {
+     "n": "Mini agility set",
+     "note": "Garden fun once the dog is grown."
+    },
+    "gate": {
+     "n": "Baby gate",
+     "note": "Cheap room management during training."
+    },
+    "basket": {
+     "n": "Bike basket or trailer",
+     "note": "Small and medium dogs. Train it as a bed first, always clip the harness in."
+    }
+   }
+  },
+  "leash": {
+   "gear": {
+    "collar": {
+     "n": "Collar",
+     "pros": [
+      "Light and simple, carries the ID tag",
+      "Quick on and off",
+      "Fine for trained non-pullers"
+     ],
+     "cons": [
+      "All pressure lands on the throat",
+      "Risky for pullers: trachea, thyroid and neck strain",
+      "Some dogs slip out of loose collars"
+     ],
+     "verdict": "Keep it on for the ID tag. Walk on it only if the leash stays loose."
+    },
+    "yharness": {
+     "n": "Y-harness",
+     "pros": [
+      "Pressure on the chest and shoulders, not the throat",
+      "Escape-resistant when fitted well",
+      "Best default for puppies and training"
+     ],
+     "cons": [
+      "Fitting matters, straps must not cut across shoulder movement",
+      "Marginally slower to put on",
+      "A badly designed harness can rub armpits"
+     ],
+     "verdict": "Opinion: the right default for most dogs. Y-shape on the chest, 2 fingers of slack everywhere."
+    },
+    "frontclip": {
+     "n": "Front-clip harness",
+     "pros": [
+      "Turns the dog toward you when pulling, mechanics help retraining",
+      "No pain involved"
+     ],
+     "cons": [
+      "A tool, not a cure, training still required",
+      "Constant front-clip walking can affect gait, use during retraining"
+     ],
+     "verdict": "Good temporary aid for strong pullers alongside loose-leash training."
+    }
+   },
+   "leashes": {
+    "fixed": {
+     "n": "Fixed leash 1.5 to 2 m",
+     "pros": [
+      "Predictable length, clear communication",
+      "Standard for training and city"
+     ],
+     "cons": [
+      "Short radius for sniffing on rural walks"
+     ],
+     "verdict": "The default. Buy quality once."
+    },
+    "longline": {
+     "n": "Long line 5 to 10 m",
+     "pros": [
+      "Freedom with a safety net",
+      "The recall and off-leash training tool"
+     ],
+     "cons": [
+      "Rope burn risk, gloves help",
+      "Needs open space and some handling skill"
+     ],
+     "verdict": "Best training investment after treats."
+    },
+    "flexi": {
+     "n": "Retractable (flexi)",
+     "pros": [
+      "Convenient radius for trained, calm dogs in open areas"
+     ],
+     "cons": [
+      "Teaches pulling, tension extends the range",
+      "Cord injuries to human and dog are documented",
+      "No control in sudden traffic situations",
+      "Banned or frowned upon in many training schools"
+     ],
+     "verdict": "Opinion: skip it during training entirely. If ever, only tape type, only open spaces."
+    },
+    "slip": {
+     "n": "Slip lead",
+     "pros": [
+      "Fast for quick transfers, common at vets and shelters"
+     ],
+     "cons": [
+      "Tightens on the neck without limit",
+      "Wrong tool for pullers and for daily walks"
+     ],
+     "verdict": "Professional short-transfer tool, not a daily walking leash."
+    }
+   }
+  },
+  "puppy": {
+   "treatsguide": {
+    "n": "Treats: your training currency",
+    "body": [
+     "Size: pea-sized or smaller. A 5-minute session can burn 30 treats, small keeps the calorie math sane.",
+     "Soft beats crunchy, chewing pauses kill training rhythm.",
+     "Build a value menu: kibble for easy jobs at home, cheese, chicken or sausage for recall and hard outdoor work.",
+     "Take treats out of the daily food ration, training calories count too. Rule of thumb: treats within about 10% of daily intake.",
+     "Toxic and off-limits: chocolate, grapes and raisins, onion, garlic, xylitol sweetener, alcohol, cooked bones."
+    ]
+   },
+   "clickerguide": {
+    "n": "Clicker basics",
+    "body": [
+     "A clicker is a precision instrument: the click marks the exact moment the dog earned the reward.",
+     "Charging it: click, then treat, 10 to 15 times, until the click makes the ears perk. That is the whole setup.",
+     "The contract: every click is always paid. No exceptions, or the instrument loses value.",
+     "Click timing beats treat timing, the treat can arrive 2 seconds later, the click cannot.",
+     "No clicker at hand: a short marker word like Yes, said the same way every time, does the same job slightly less precisely."
+    ]
+   },
+   "teethguide": {
+    "n": "Teething timeline",
+    "body": [
+     "Weeks 3 to 6: 28 baby teeth arrive.",
+     "Months 3 to 7: baby teeth fall out, 42 adult teeth erupt. Peak chewing pressure, sore gums, occasional blood spots on toys, all normal.",
+     "Relief menu: rubber chews, a wet frozen washcloth, frozen carrot pieces under supervision, and coffee tree or olive wood chews, which crumble instead of splintering like garden sticks.",
+     "Check occasionally for retained baby teeth, a double row of fangs needs a vet look, common in small breeds.",
+     "By month 7 the storm is mostly over. Protect cables and shoes until then, not forever."
+    ]
+   },
+   "sleepguide": {
+    "n": "Sleep and naps",
+    "body": [
+     "Puppies need 16 to 20 hours of sleep per day. Most biting, zoomie and whining meltdowns are simply an overtired puppy past its bedtime.",
+     "Build a nap rhythm: roughly 1 hour awake, then a nap, for young puppies. Play, potty, then into the safe space for sleep.",
+     "Enforce naps in a calm, dim spot, a covered crate or pen works. An overtired puppy often cannot fall asleep alone in the middle of household action.",
+     "Protect night sleep: last potty late in the evening, then boring darkness. Young puppies may need 1 night toilet trip, keep it silent and businesslike.",
+     "If the puppy turns into a landshark, do not train through it. It is nap time, not discipline time."
+    ]
+   },
+   "homeguide": {
+    "n": "First days in the new home",
+    "body": [
+     "Shrink the world: 1 room plus the safe space for the first days. The whole flat is earned gradually, room by room, it keeps toileting and chewing manageable.",
+     "Set up a base: bed or crate, water, a chew, in a corner where the puppy can see you but rest undisturbed. This is the retreat, never the punishment spot.",
+     "First night: sleeping distance matters. Many puppies settle faster next to the bed for the first nights, you can migrate the bed later.",
+     "Keep the first week boring on purpose: no visitor parades, no puppy parties. The puppy is processing losing its litter, the household is enough excitement.",
+     "Start routines from day 1: same feeding times, same potty door, same words. Predictability is how a puppy learns the world is safe."
+    ]
+   },
+   "socialguide": {
+    "n": "The socialisation window",
+    "body": [
+     "Roughly 3 to 14 weeks of age is the period when puppies file experiences as normal. What is calmly met now is boring for life, what is missed can need real work later.",
+     "Socialisation means calm exposure, not maximum contact. Watching a bus from 30 meters while eating treats is perfect socialisation, being mobbed by 5 dogs is not.",
+     "Work a checklist: surfaces (grass, metal grates, stairs), sounds (traffic, vacuum, thunder recordings at low volume), people (hats, beards, wheelchairs, children at distance), handling (paws, ears, mouth).",
+     "Before full vaccination: carry the puppy through busy places, visit vaccinated friend dogs at home, sit on a bench near life. Exposure does not require pavement contact.",
+     "One rule above all: the puppy sets the pace. Forced greetings teach fear, voluntary approach teaches confidence."
+    ]
+   },
+   "aloneguide": {
+    "n": "Alone time from day 1",
+    "body": [
+     "Being alone is a skill, not a default. Puppies that never practice it become dogs that panic, start with seconds, not hours.",
+     "Day 1: step out of the room for 10 seconds while the puppy eats from a food toy, return before any fuss. That is a rep.",
+     "Grow slowly: seconds to minutes to a quiet coffee outside the door. Leave a stuffed chew, keep departures and returns completely boring, no dramatic goodbyes.",
+     "Aim for a puppy that can nap alone for 30 to 60 minutes within the first weeks, always after exercise, potty and with something to chew.",
+     "If the puppy panics rather than protests, do not push through the crying, shrink the step. Real separation distress deserves a professional plan early, it does not fix itself."
+    ]
+   },
+   "walksguide": {
+    "n": "Puppy walks: how long, how often",
+    "body": [
+     "Rule of thumb: about 5 minutes of structured walking per month of age, 1 to 2 times a day. A 4-month puppy: around 20 minutes per walk.",
+     "This caps forced marching, not movement. Free play, sniffing and soft-ground time regulate themselves.",
+     "Sniffing IS the walk. A slow 20-minute sniffing tour tires a puppy more than 40 brisk minutes.",
+     "Growing joints dislike long hikes, stair marathons, jumps from height and running on asphalt. Save jogging and bike training for 12 to 18 months.",
+     "Watch the puppy, not the clock: lagging, lying down or frantic biting mid-walk means it was too much. Carry a small puppy home rather than dragging it.",
+     "3 to 4 short outings beat 1 long one, and every outing doubles as toilet training."
+    ]
+   },
+   "heatguide": {
+    "n": "First heat guide",
+    "body": [
+     "Timing: first heat between 6 and 15 months, small breeds earlier, large breeds later. It repeats roughly every 6 to 8 months.",
+     "Duration: around 2 to 4 weeks. Signs: swollen vulva, bloody discharge, more frequent peeing, mood swings, magnetic attractiveness to every male in the postcode.",
+     "Management: leash only for the full duration, no dog parks, no unattended garden time, hygiene pants indoors if needed.",
+     "She may be clingy, tired or picky with food. All normal, keep routines calm.",
+     "After the first heat, discuss spaying pros, cons and timing with your vet. There are real arguments on both sides and breed size matters, it is a personal decision, not a default.",
+     "Log the dates in your calendar. Predictability makes round 2 easy."
+    ]
+   }
+  },
+  "planAdult": [
+   {
+    "n": "Foundations audit",
+    "items": [
+     "Test the basics honestly: sit, down, stay, recall, each in the living room and in the garden",
+     "Re-train anything shaky with 3-minute sessions, no shame, rust is normal",
+     "Pick your reward currency: which treat makes your dog's eyes light up"
+    ],
+    "note": "Do not assume anything is solid. Testing honestly this week saves 6 weeks of frustration later."
+   },
+   {
+    "n": "Loose lead reset",
+    "items": [
+     "Loose leash walking, 10 minutes daily on a quiet route",
+     "The stop-when-it-tightens rule, every single time",
+     "Sniffing breaks on cue as the walk's salary"
+    ],
+    "note": "Loose lead is a habit, not a trick. Consistency beats intensity every single time."
+   },
+   {
+    "n": "Impulse control",
+    "items": [
+     "Leave it, from floor food to dropped food",
+     "Wait at doors and before the food bowl",
+     "Stay: grow duration to 30 seconds with you stepping away"
+    ],
+    "note": "Recall is a life skill. Never call your dog to end something fun, or the cue starts to mean the fun stops."
+   },
+   {
+    "n": "Settle on cue",
+    "items": [
+     "Settle on a mat during dinner and TV evenings",
+     "Calm behaviour gets quiet payment, chaos gets nothing",
+     "First cafe rehearsal at home: mat, chew, 20 minutes"
+    ],
+    "note": "Settle work looks like doing nothing. It is the single most useful thing an adult dog can learn."
+   },
+   {
+    "n": "Recall proofing",
+    "items": [
+     "Recall on a long line in the park, pay like a lottery win",
+     "Add distractions gradually: distance from other dogs, then closer",
+     "Emergency stop cue as a separate skill"
+    ],
+    "note": "Impulse control is built in seconds, not minutes. Short reps, high value, walk away winning."
+   },
+   {
+    "n": "Handling and care",
+    "items": [
+     "Chin rest for husbandry: ears, eyes, paws",
+     "Teeth brushing 3 times this week",
+     "Nail trim or grinder session, 1 paw at a time"
+    ],
+    "note": "Distraction is the real test. Drop your criteria in a new place, that is not backsliding, that is training."
+   },
+   {
+    "n": "Public manners",
+    "items": [
+     "Cafe or restaurant visit for real, short and successful",
+     "Polite greetings: sit to say hello, no jumping",
+     "Waiting calmly while you chat with someone on the street"
+    ],
+    "note": "Adult dogs learn tricks faster than puppies. Use them to rebuild confidence after a hard week."
+   },
+   {
+    "n": "Enrichment and graduation",
+    "items": [
+     "Scent games: find-the-treat around the flat and garden",
+     "Teach 1 pure fun trick as a reward for you both",
+     "Review week: retest week 1, celebrate the difference, plan what is next"
+    ],
+    "note": "Maintenance beats perfection. 5 minutes on 5 days a week keeps everything you have built."
+   }
+  ],
+  "planPup": [
+   {
+    "n": "Arrive and connect",
+    "items": [
+     "Name recognition",
+     "Charge your marker word or clicker",
+     "House-training rhythm, out every 1 to 2 hours"
+    ],
+    "note": "No commands pressure this week. Bonding, sleep and toilet timing are the curriculum."
+   },
+   {
+    "n": "First skill: Sit",
+    "items": [
+     "Sit, 3 short sessions a day",
+     "Keep paying name recognition",
+     "Crate games with the door open"
+    ],
+    "note": "3 minutes counts as a session. Short and happy beats long and tense."
+   },
+   {
+    "n": "Down joins in",
+    "items": [
+     "Down",
+     "Review Sit in new rooms",
+     "Handling: touch paws and ears, pay each touch"
+    ],
+    "note": "If Down is not smooth by Sunday, that is fine. Carry it into next week."
+   },
+   {
+    "n": "Come, the foundation",
+    "items": [
+     "Come indoors, hallway ping-pong",
+     "Review week: Sit and Down before meals",
+     "Wait at the food bowl, 2 seconds"
+    ],
+    "note": "Recall is a marathon skill. Indoors only for now."
+   },
+   {
+    "n": "Impulse control",
+    "items": [
+     "Leave it, basic fist game",
+     "Drop it during play",
+     "Keep paying indoor recall"
+    ],
+    "note": "Half of dog training is teaching the dog that giving up pays better than grabbing."
+   },
+   {
+    "n": "Out into the world",
+    "items": [
+     "Loose leash, first 100 slack meters",
+     "Watch me on the street",
+     "Sit at 1 curb per walk"
+    ],
+    "note": "Pulling is normal at this age. Stop-and-go, no yanking, tiny distances."
+   },
+   {
+    "n": "Stay begins",
+    "items": [
+     "Stay, 1 to 5 seconds duration only",
+     "Place on the mat",
+     "Review recall, now with mild distractions"
+    ],
+    "note": "Seconds, not minutes. Breaking a stay twice in a row means make it easier."
+   },
+   {
+    "n": "Consolidation week",
+    "items": [
+     "No new skills",
+     "Mixed 5-minute review sessions of everything",
+     "1 fun trick of your choice as dessert"
+    ],
+    "note": "Review weeks are progress. A skill is only real once it survives a week of mixed practice."
+   },
+   {
+    "n": "Out and about",
+    "items": [
+     "Wait at the curb, every crossing",
+     "Loose leash on busier streets",
+     "Calm visitor routine, first setups"
+    ],
+    "note": "The world is the classroom now. Shorter routes at higher quality beat long marches."
+   },
+   {
+    "n": "Distance and duration",
+    "items": [
+     "Stay with 2 to 5 steps of distance",
+     "Recall outdoors on the long line",
+     "Down on the mat while you cook"
+    ],
+    "note": "If any skill wobbles, drop back a week. The calendar serves you, not the other way around."
+   },
+   {
+    "n": "Life skills",
+    "items": [
+     "Settle under the table, first cafe visit",
+     "First calm car rides",
+     "Vet-style handling: paws, ears, teeth check"
+    ],
+    "note": "These are the skills that make the next 10 years easy. Worth every rep."
+   },
+   {
+    "n": "Graduation week",
+    "items": [
+     "No new skills",
+     "Mixed 5-minute reviews of the whole toolbox",
+     "1 favourite trick, polished for show"
+    ],
+    "note": "12 weeks in: you have a trained young dog and a daily habit. The habit is the real graduation gift."
+   }
+  ],
+  "badges": {
+   "b_first": {
+    "n": "First session",
+    "d": "Logged your very first training session."
+   },
+   "b_five": {
+    "n": "First 5 paws",
+    "d": "A command scored 5 out of 5 for the first time."
+   },
+   "b_master1": {
+    "n": "First mastery",
+    "d": "First command mastered: 3 clean 5s in a row."
+   },
+   "b_master5": {
+    "n": "High five, times five",
+    "d": "5 commands mastered."
+   },
+   "b_master10": {
+    "n": "Double digits",
+    "d": "10 commands mastered."
+   },
+   "b_streak3": {
+    "n": "3-day streak",
+    "d": "Trained 3 days in a row."
+   },
+   "b_streak7": {
+    "n": "7-day streak",
+    "d": "A full week of daily training."
+   },
+   "b_streak14": {
+    "n": "14-day streak",
+    "d": "Two weeks straight. The routine is real."
+   },
+   "b_streak30": {
+    "n": "30-day streak",
+    "d": "A month of consistency. Elite territory."
+   },
+   "b_streak60": {
+    "n": "60-day streak",
+    "d": "Two months without missing. Remarkable team."
+   },
+   "b_streak100": {
+    "n": "100-day streak",
+    "d": "One hundred days in a row. Legend status."
+   },
+   "b_gear": {
+    "n": "Fully equipped",
+    "d": "Every must-have item ticked off."
+   },
+   "b_scholar": {
+    "n": "Dog scholar",
+    "d": "Read 10 guides in the Learn library."
+   },
+   "b_fixer": {
+    "n": "Behaviour reader",
+    "d": "Read 5 behaviour guides. Understanding beats correcting."
+   },
+   "b_life1": {
+    "n": "Out in the world",
+    "d": "Logged your first life-skill session."
+   },
+   "b_travel": {
+    "n": "Ticket to ride",
+    "d": "Mastered a travel skill: bus, boat or plane."
+   },
+   "b_social": {
+    "n": "Social butterfly",
+    "d": "Mastered a calm dog or cat meeting."
+   },
+   "b_spa": {
+    "n": "Spa regular",
+    "d": "Mastered grooming, nail or ear care."
+   },
+   "b_vet": {
+    "n": "Vet's favourite",
+    "d": "Mastered happy vet visits."
+   },
+   "b_hotel": {
+    "n": "Sleepover champ",
+    "d": "Mastered a dog hotel stay."
+   },
+   "b_trick1": {
+    "n": "Showtime",
+    "d": "First trick mastered."
+   },
+   "b_agi1": {
+    "n": "Agility rookie",
+    "d": "First agility obstacle mastered."
+   },
+   "b_sess50": {
+    "n": "50 sessions",
+    "d": "Logged 50 training sessions."
+   },
+   "b_sess100": {
+    "n": "Century club",
+    "d": "Logged 100 training sessions."
+   },
+   "b_xp500": {
+    "n": "500 XP",
+    "d": "Reached 500 XP."
+   },
+   "b_xp1000": {
+    "n": "1,000 XP",
+    "d": "Reached 1,000 XP."
+   },
+   "b_read25": {
+    "n": "Library card",
+    "d": "Read 25 guides."
+   },
+   "b_school": {
+    "n": "Honour student",
+    "d": "All 3 dog school milestones mastered: first class, semester, exam."
+   },
+   "b_quest7": {
+    "n": "Week Wonder",
+    "d": "7 daily quests completed. The habit is forming."
+   },
+   "b_quest21": {
+    "n": "Habit Hero",
+    "d": "21 daily quests completed. This is a lifestyle now."
+   },
+   "b_master25": {
+    "n": "Quarter century",
+    "d": "25 skills mastered."
+   },
+   "b_master50": {
+    "n": "Halfway there",
+    "d": "50 skills mastered. Half the library."
+   },
+   "b_master99": {
+    "n": "Every last skill",
+    "d": "All 99 skills mastered. Nothing left to teach."
+   },
+   "b_xp3000": {
+    "n": "3,000 XP",
+    "d": "Champion level reached."
+   },
+   "b_xp10000": {
+    "n": "10,000 XP",
+    "d": "Ten thousand XP of showing up."
+   },
+   "b_sess250": {
+    "n": "250 sessions",
+    "d": "250 training sessions logged."
+   }
+  },
+  "levels": [
+   {
+    "n": "Beginner"
+   },
+   {
+    "n": "Student"
+   },
+   {
+    "n": "Graduate"
+   },
+   {
+    "n": "Pro"
+   },
+   {
+    "n": "Champion"
+   },
+   {
+    "n": "Master"
+   },
+   {
+    "n": "Legend"
+   }
+  ],
+  "ranks": [
+   {
+    "n": "Newcomer"
+   },
+   {
+    "n": "Apprentice"
+   },
+   {
+    "n": "Handler"
+   },
+   {
+    "n": "Trainer"
+   },
+   {
+    "n": "Expert"
+   },
+   {
+    "n": "Specialist"
+   },
+   {
+    "n": "Complete"
+   }
+  ],
+  "ladders": {
+   "cmd": [
+    [
+     "Session 1 · Show, do not test",
+     "Lure every rep with a treat in your hand, reward within 1 second. Success = the behaviour happened at all, with your full help."
+    ],
+    [
+     "Sessions 2 to 4 · Lure and name it",
+     "Keep luring, say the cue once just before the behaviour. Success = 3 to 5 helped reps in a row."
+    ],
+    [
+     "Sessions 5 to 7 · Fade the lure",
+     "Empty hand, same motion, reward from the pouch. Positions earn 1 to 3 seconds of waiting before the pay."
+    ],
+    [
+     "Session 8 and on · Cue first",
+     "One cue, no lure. Grow one difficulty at a time: duration past 5 seconds, new rooms, mild distraction."
+    ]
+   ],
+   "trick": [
+    [
+     "Session 1 · Chase the lure",
+     "Big obvious lure, instant pay for any movement in the right direction. Success = a rough version happened once."
+    ],
+    [
+     "Sessions 2 to 4 · Shape it",
+     "Pay the best 3 of 5 attempts, ignore the rest. Say the cue once per rep. Keep sets to 3 to 5 reps, tricks tire the brain."
+    ],
+    [
+     "Sessions 5 to 7 · Shrink the help",
+     "The lure becomes a small hand signal. Precision rises: the cleanest reps earn a double treat."
+    ],
+    [
+     "Session 8 and on · Showtime",
+     "Cue first, hand signal only as backup. New rooms, then in front of people. Applause counts as distraction."
+    ]
+   ],
+   "agi": [
+    [
+     "Session 1 · Make it tiny",
+     "Bar on the ground, tunnel short, table low. Success = 1 happy attempt, paid like a jackpot."
+    ],
+    [
+     "Sessions 2 to 4 · Build love, not height",
+     "Repeat the easy version until the dog drags you toward the obstacle. Confidence first, criteria later."
+    ],
+    [
+     "Sessions 5 to 7 · Raise one thing",
+     "Height, length or angle, never two in one session. Say the obstacle cue as the dog commits."
+    ],
+    [
+     "Session 8 and on · Speed and sequence",
+     "Send from a few steps back, chain 2 obstacles, keep sessions under 10 minutes. Joy is the engine of agility."
+    ]
+   ],
+   "life": [
+    [
+     "Outing 1 · Scout, do not push",
+     "Short and easy version, below the point of stress. Success = calm moments in the situation, then leaving on a good note."
+    ],
+    [
+     "Outings 2 to 4 · Distance is your dial",
+     "Repeat at a distance or duration where the dog can still eat, sniff and look at you. Pay calm constantly."
+    ],
+    [
+     "Outings 5 to 7 · Close the gap",
+     "Closer, longer or busier, one knob per outing. Retreating is a strategy, not a failure."
+    ],
+    [
+     "Outing 8 and on · Make it routine",
+     "Vary days, places and times so the calm generalises. A 5 means relaxed from arrival to exit."
+    ]
+   ]
+  },
+  "stucks": {
+   "cmd": "Stuck? Make it easier, not louder. Go back one step, collect 2 easy wins, end there. Show again with a lure instead of repeating the cue. If the dog stands up from a position, reward faster next rep.",
+   "trick": "Stuck? Split the trick into smaller pieces and pay the smallest one. Film a session, most trick problems hide in the human hand, not in the dog.",
+   "agi": "Refusing the obstacle? Lower it, shorten it, or go back to paying mere attempts. Never push or lift the dog onto equipment, one scared rep costs weeks.",
+   "life": "Overwhelmed rather than stuck? Add distance, shorten the outing, end on calm and try again another day. Exposure work fails loudly but recovers quickly."
+  },
+  "tier": {
+   "1": "Easy",
+   "2": "Intermediate",
+   "3": "Advanced"
+  },
+  "quest": {
+   "new": "New skill",
+   "cont": "Keep going",
+   "prac": "Refresher"
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "guides.html": {
+  "title": "32 vodnikov o vedenju psov — Pawty",
+  "description": "Brezplačni in iskreni vodniki o vedenju psov: grizenje pri mladičkih, lajanje, vlečenje na povodcu, varovanje virov, odpoklic, navajanje na čistočo in še 26 drugih. Iz aplikacije Pawty za iPhone in Android."
+ },
+ "support.html": {
+  "title": "Pomoč — Pawty",
+  "description": "Pomoč pri aplikaciji za šolanje psov Pawty za iPhone in Android: brisanje računa, težave s prijavo, nizi, lestvica in kontakt."
+ },
+ "approach.html": {
+  "title": "Naš pristop — Pawty",
+  "description": "Kako uči Pawty: samo pozitivna okrepitev, 3-minutne vaje, brez občutka krivde, in kdaj raje pojdi k veterinarju ali vedenjskemu strokovnjaku."
+ },
+ "partners.html": {
+  "title": "Partnerji in mediji — Pawty",
+  "description": "Postanite partner Pawty, brezplačne aplikacije za šolanje psov za iPhone in Android. Dosezite zavzete lastnike psov z mesti na Tržnici v aplikaciji. Vključen je paket za medije."
+ },
+ "marketplace.html": {
+  "title": "Partnerji Tržnice — Pawty",
+  "description": "Partnerji Pawty Tržnice: hrana za pse, oprema, nega in zavarovanje od Fressnapfa, Maxi Zooja, tails.com, Bella & Duke in drugih, filtrirano po državi."
+ },
+ "index.html": {
+  "title": "Pawty — Duolingo za pse",
+  "description": "Tvoj pes ni pokvarjen in ti ne odpoveduješ. 99 veščin šolanja v 3-minutnih vajah, 32 iskrenih vodnikov o vedenju, nizi, ki zamrznejo namesto da se ponastavijo. Brezplačno za iPhone in Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Brezplačna aplikacija za šolanje psov za iPhone in Android s 99 veščinami, 32 vodniki o vedenju, ocenami s tačkami, nizi in koledarjem nege.\",\"url\":\"https://pawtyapp.com/sl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"sl\"}"
+ },
+ "blog.html": {
+  "title": "Pawty blog — praktično šolanje psov in življenje s psom",
+  "description": "Praktični članki o psih od Pawty: koliko stane mladiček, nakupovalni seznam, časovnica cepljenj, spanje, trening s klikerjem, nega dlake in posvojeni psi."
+ },
+ "post-puppy-cost.html": {
+  "title": "Koliko mladiček v resnici stane v prvem letu — Pawty",
+  "description": "Evropski stroški mladička v prvem letu po postavkah: boks, veterinar, hrana, nega in zavarovanje, ter kaj lahko mirno izpustiš.",
+  "headline": "Koliko mladiček v resnici stane v prvem letu"
+ },
+ "post-shopping-list.html": {
+  "title": "Nakupovalni seznam za mladička in kaj lahko izpustiš — Pawty",
+  "description": "Kaj kupiti pred prihodom mladička, kaj v 2. mesecu, in 6 stvari, ki jih prodajajo trgovine za ljubljenčke, pa jih ne potrebuješ.",
+  "headline": "Nakupovalni seznam za mladička in kaj lahko izpustiš"
+ },
+ "post-vaccination.html": {
+  "title": "Časovnica cepljenj mladička v Evropi — Pawty",
+  "description": "Običajna evropska časovnica cepljenj mladička, pred čim ščiti posamezno cepivo in kako varno socializirati, preden je cepljenje končano.",
+  "headline": "Časovnica cepljenj mladička v Evropi"
+ },
+ "post-puppy-sleep.html": {
+  "title": "Koliko spanja potrebuje mladiček — Pawty",
+  "description": "Mladiček potrebuje 18 do 20 ur spanja na dan. Zakaj je večerno grizenje utrujenost in kako uveljaviti dremež brez boja.",
+  "headline": "Koliko spanja potrebuje mladiček"
+ },
+ "post-teething.html": {
+  "title": "Vodnik za preživetje menjave zob pri mladičku — Pawty blog",
+  "description": "Časovnica menjave zob od 3. do 7. meseca, kaj pomaga in katerim napakam se izogniti.",
+  "headline": "Vodnik za preživetje menjave zob pri mladičku"
+ },
+ "post-walks.html": {
+  "title": "Kako dolgi naj bodo sprehodi z mladičkom? — Pawty blog",
+  "description": "Pravilo 5 minut na mesec starosti za sprehode z mladičkom, kaj šteje vanj in kako brati mladička.",
+  "headline": "Kako dolgi naj bodo sprehodi z mladičkom?"
+ },
+ "post-sit.html": {
+  "title": "Nauči psa sedeti v enem tednu — Pawty blog",
+  "description": "Metoda z vabo za učenje ukaza sedi, 2 klasični napaki in kaj je uspeh pri posamezni vaji.",
+  "headline": "Nauči psa sedeti v enem tednu"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Kliker ali markerska beseda: kaj uporabiti — Pawty",
+  "description": "Oba označita točen trenutek, ko pes naredi prav. Kdaj uporabiti katerega, kako ga napolniti v 2 minutah in 4 napake.",
+  "headline": "Kliker ali markerska beseda: kaj uporabiti"
+ },
+ "post-5minutes.html": {
+  "title": "Zakaj 5 minut na dan premaga vikend maratone — Pawty blog",
+  "description": "Kratke dnevne vaje s psom premagajo dolge vikend treninge: ponovitve, razporejeno učenje in nizi.",
+  "headline": "Zakaj 5 minut na dan premaga vikend maratone"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Nega cockapooja: česar ti nihče ne pove — Pawty",
+  "description": "Kodrasta dlaka nikoli ne neha rasti. Pravi letni strošek, zakaj nastajajo zavozlanine in metoda krtačenja po pasovih, ki jih prepreči.",
+  "headline": "Nega cockapooja: česar ti nihče ne pove"
+ },
+ "post-rescue-333.html": {
+  "title": "Posvojitev odraslega psa iz zavetišča: pravilo 3-3-3 — Pawty",
+  "description": "3 dnevi, 3 tedni, 3 meseci. Kako je v resnici videti privajanje odraslega psa iz zavetišča in kaj narediti v vsaki fazi.",
+  "headline": "Posvojitev odraslega psa iz zavetišča: pravilo 3-3-3"
+ },
+ "legal/terms.html": {
+  "title": "Pogoji uporabe — Pawty",
+  "description": "Pogoji uporabe aplikacije za šolanje psov Pawty za iPhone in Android, vključno z opozorilom o šolanju in pravili za partnerske povezave."
+ },
+ "legal/privacy.html": {
+  "title": "Pravilnik o zasebnosti — Pawty",
+  "description": "Kako Pawty ravna s tvojimi podatki: prilagojeno oglaševanje in privolitev, pravice po GDPR, gostovanje v EU in partnerske povezave."
+ }
+}

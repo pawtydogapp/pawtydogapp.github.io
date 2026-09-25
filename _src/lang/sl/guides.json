@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Pes lovi avtomobile, kolesa in divjad",
+  "description": "Prirojen gibalni vzorec, ki se nagrajuje sam. Najprej upravljanje, ker ga vsak lov okrepi.",
+  "card": "Prirojen gibalni vzorec, ki se nagrajuje sam.",
+  "needs": [
+   "Dolg povodec",
+   "Palica z vabo"
+  ]
+ },
+ "attention": {
+  "title": "Pes praska s tačko, cvili in suva za pozornost",
+  "description": "Šteje tudi razdražena pozornost. Kako obrniti račun, da se mir splača, vsiljivost pa ne.",
+  "card": "Šteje tudi razdražena pozornost.",
+  "needs": [
+   "Uganka za hrano",
+   "Žvečilka"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Pes se zvečer ne umiri",
+  "description": "Večerni nemir navadno pomeni, da je bil dan premalo ali preveč spodbuden. Obred umirjanja, ki deluje.",
+  "card": "Večerni nemir navadno pomeni, da je bil dan premalo ali preveč spodbuden.",
+  "needs": [
+   "Zamrznjena igrača s hrano",
+   "Podloga za lizanje",
+   "Pasja postelja"
+  ]
+ },
+ "biting": {
+  "title": "Zakaj moj mladiček grize? Grizenje razloženo",
+  "description": "Mladički grizejo, da raziskujejo in se naučijo nadzora ugriza. Zakaj pride faza morskega psa, kaj jo ustavi in kaj jo poslabša.",
+  "card": "Mladički grizejo, da raziskujejo in se naučijo nadzora ugriza.",
+  "needs": [
+   "Igrača za vlečenje",
+   "Gumijasta igrača za žvečenje"
+  ]
+ },
+ "teething": {
+  "title": "Menjava zob pri mladičku: grizenje med menjavo",
+  "description": "28 mlečnih zob ven, 42 stalnih noter, med 3. in 7. mesecem. Katere žvečilke pomirijo boleče dlesni in katere so nevarne.",
+  "card": "28 mlečnih zob ven, 42 stalnih noter, med 3. in 7. mesecem.",
+  "needs": [
+   "Žvečilka iz lesa kavovca",
+   "Žvečilka iz oljčnega lesa",
+   "Gumijasta igrača za žvečenje",
+   "Žvečilke za mladičke"
+  ]
+ },
+ "chewadult": {
+  "title": "Odrasel pes iz dolgčasa grize pohištvo",
+  "description": "Žvečenje pomirja. Kaj ti sporoča premalo zaposlen odrasel pes in kako to preusmeriti.",
+  "card": "Žvečenje pomirja.",
+  "needs": [
+   "Žvečilke, ki jih menjavaš",
+   "Uganka za hrano"
+  ]
+ },
+ "jumping": {
+  "title": "Pes skače na ljudi: kako to ustaviti",
+  "description": "Skakanje je vznemirjenost plus zgodovina, v kateri se je splačalo. Pravilo 4 tačk na tleh in nezdružljiva naloga, ki ga nadomesti.",
+  "card": "Skakanje je vznemirjenost plus zgodovina, v kateri se je splačalo.",
+  "needs": [
+   "Torbica za priboljške"
+  ]
+ },
+ "pulling": {
+  "title": "Pes vleče na povodcu: zakaj in kaj pomaga",
+  "description": "Psi vlečejo, ker jih je to pripeljalo naprej. Stoj in pojdi, nagrada ob tvoji nogi, in zakaj ovratnice z bodicami ustvarijo nove težave.",
+  "card": "Psi vlečejo, ker jih je to pripeljalo naprej.",
+  "needs": [
+   "Oprsnik s sprednjo pritrditvijo",
+   "Navaden 2-metrski povodec",
+   "Torbica za priboljške"
+  ]
+ },
+ "doorbell": {
+  "title": "Pes laja na hišni zvonec",
+  "description": "Zvonec napove nekaj vznemirljivega. Kako ga prepogojiti, da zvonec napove sir namesto kaosa.",
+  "card": "Zvonec napove nekaj vznemirljivega.",
+  "needs": [
+   "Posnetek zvoka zvonca",
+   "Pasja postelja ali podloga"
+  ]
+ },
+ "barkdogs": {
+  "title": "Pes na sprehodu laja na druge pse",
+  "description": "Navadno frustracija ali nelagodje. Najdi razdaljo, pri kateri pes ostane miren, in jo v tednih zmanjšuj.",
+  "card": "Navadno frustracija ali nelagodje.",
+  "needs": [
+   "Dolg povodec",
+   "Zelo okusni priboljški"
+  ]
+ },
+ "demand": {
+  "title": "Zahtevno lajanje: pes laja nate za hrano ali pozornost",
+  "description": "Pes laja, ker je to že delovalo. Zakaj postane glasneje, preden postane bolje.",
+  "card": "Pes laja, ker je to že delovalo.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Mladiček ponoči joka: kaj res pomaga",
+  "description": "Nočni jok je stiska zaradi ločitve, ne manipulacija. Zakaj puščanje, da se izjoče, v tej starosti načenja zaupanje.",
+  "card": "Nočni jok je stiska zaradi ločitve, ne manipulacija.",
+  "needs": [
+   "Boks",
+   "Postelja za mladička"
+  ]
+ },
+ "cratecry": {
+  "title": "Mladiček joka v boksu",
+  "description": "Zaprtost ni naravna, dokler boks ni natreniran kot brlog. Igre z odprtimi vrati in napredek sekundo za sekundo.",
+  "card": "Zaprtost ni naravna, dokler boks ni natreniran kot brlog.",
+  "needs": [
+   "Boks",
+   "Prevleka za boks",
+   "Uganka za hrano"
+  ]
+ },
+ "sepanx": {
+  "title": "Pes težko ostane sam",
+  "description": "Biti sam je naučena veščina, ne tovarniška nastavitev. Treniranje odsotnosti v drobnih odmerkih, in kdaj psa posneti.",
+  "card": "Biti sam je naučena veščina, ne tovarniška nastavitev.",
+  "needs": [
+   "Dolgotrajna žvečilka",
+   "Kamera za hišne ljubljenčke"
+  ]
+ },
+ "digging": {
+  "title": "Pes koplje po vrtu",
+  "description": "Kopanje je prirojeno. Ne moreš ga izbrisati, lahko pa ga preseliš v dovoljeno cono za kopanje.",
+  "card": "Kopanje je prirojeno.",
+  "needs": [
+   "Peskovnik ali zaboj za kopanje",
+   "Igrače za zakopavanje"
+  ]
+ },
+ "counter": {
+  "title": "Pes krade hrano s kuhinjskega pulta",
+  "description": "Pult se je enkrat splačal. Zakaj je pravo zdravilo brezhibno upravljanje, ne šolanje.",
+  "card": "Pult se je enkrat splačal.",
+  "needs": [
+   "Podloga za kuhinjo"
+  ]
+ },
+ "poop": {
+  "title": "Pes je iztrebke (koprofagija)",
+  "description": "Pogosto in redko povezano s prehrano. Takojšnje pobiranje, Pusti, in veterinarski pregled, ki se splača.",
+  "card": "Pogosto in redko povezano s prehrano.",
+  "needs": [
+   "Vrečke za iztrebke",
+   "Torbica za priboljške"
+  ]
+ },
+ "scavenge": {
+  "title": "Pes na sprehodu je vse, kar najde",
+  "description": "Psi so po naravi priložnostni mrhovinarji. Pusti na ulici, in kdaj je košarasti nagobčnik varnostno orodje.",
+  "card": "Psi so po naravi priložnostni mrhovinarji.",
+  "needs": [
+   "Košarasti nagobčnik",
+   "Dolg povodec"
+  ]
+ },
+ "guard": {
+  "title": "Varovanje virov: prvi znaki pri hrani in igračah",
+  "description": "Otrplost, trd pogled ali renčanje pomenijo strah pred izgubo. Zakaj renčanja nikoli ne smeš kaznovati.",
+  "card": "Otrplost, trd pogled ali renčanje pomenijo strah pred izgubo.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Reaktivnost na povodcu: pes plane in laja",
+  "description": "Velika čustva brez izhoda. Delo pod pragom, z napredkom, merjenim v metrih na mesec.",
+  "card": "Velika čustva brez izhoda.",
+  "needs": [
+   "Dolg povodec",
+   "Oprsnik s sprednjo pritrditvijo",
+   "Zelo okusni priboljški"
+  ]
+ },
+ "fireworks": {
+  "title": "Pes se boji ognjemetov in neviht",
+  "description": "Priprava brloga, zakaj je tolaženje psa v redu, in delo z zvoki, ki ga začneš novembra.",
+  "card": "Priprava brloga, zakaj je tolaženje psa v redu, in delo z zvoki, ki ga začneš novembra.",
+  "needs": [
+   "Naprava za beli šum",
+   "Pokrita pasja postelja"
+  ]
+ },
+ "norecall": {
+  "title": "Pes ne pride na klic",
+  "description": "Okolica plačuje bolje kot ti. Ponovna gradnja odpoklica na dolgem povodcu in zaščita signala.",
+  "card": "Okolica plačuje bolje kot ti.",
+  "needs": [
+   "Dolg povodec",
+   "Zelo okusni priboljški"
+  ]
+ },
+ "housetrain": {
+  "title": "Nezgode pri navajanju mladička na čistočo",
+  "description": "Mehur mladička zdrži približno toliko ur, kolikor mesecev je star. Časovna usklajenost, in zakaj je encimsko čistilo pomembno.",
+  "card": "Mehur mladička zdrži približno toliko ur, kolikor mesecev je star.",
+  "needs": [
+   "Encimsko čistilo",
+   "Vpojne podloge za mladičke"
+  ]
+ },
+ "marking": {
+  "title": "Pes markira v stanovanju",
+  "description": "Majhne namerne oznake na navpičnih mestih. Najprej izključi zdravstvene vzroke.",
+  "card": "Majhne namerne oznake na navpičnih mestih.",
+  "needs": [
+   "Encimsko čistilo",
+   "Trebušni pas za samce"
+  ]
+ },
+ "heat": {
+  "title": "Prva gonitev psičke: kaj pričakovati",
+  "description": "Med 6. in 15. mesecem, traja 2 do 4 tedne. 3 tedne upravljanja, potem se življenje nadaljuje.",
+  "card": "Med 6. in 15. mesecem, traja 2 do 4 tedne.",
+  "needs": [
+   "Higienske hlačke",
+   "Pralni vložki"
+  ]
+ },
+ "humping": {
+  "title": "Pes zaskakuje: kaj to v resnici pomeni",
+  "description": "Večinoma prevelika vzburjenost in sproščanje stresa, ne dominanca in pogosto nič spolnega.",
+  "card": "Večinoma prevelika vzburjenost in sproščanje stresa, ne dominanca in pogosto nič spolnega.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Zoomies razloženi: nenadni divji tek",
+  "description": "Nenadni divji krogi so normalno in zdravo sproščanje energije. Uredi podlago, ne veselja.",
+  "card": "Nenadni divji krogi so normalno in zdravo sproščanje energije.",
+  "needs": [
+   "Nedrseča preproga"
+  ]
+ },
+ "begging": {
+  "title": "Pes prosjači pri mizi",
+  "description": "Tiste oči so si enkrat prislužile čips. Resnično pravilo ničelnega izplačila in šolanje ljudi.",
+  "card": "Tiste oči so si enkrat prislužile čips.",
+  "needs": [
+   "Podloga za kuhinjo",
+   "Dolgotrajna žvečilka"
+  ]
+ },
+ "stealing": {
+  "title": "Pes krade nogavice in beži z njimi",
+  "description": "Zgrabi nogavico in ljudje planejo za njim. Kako ukiniti ekonomijo lovljenja.",
+  "card": "Zgrabi nogavico in ljudje planejo za njim.",
+  "needs": [
+   "Igrača za vlečenje",
+   "Priboljški za menjavo"
+  ]
+ },
+ "carfear": {
+  "title": "Pes se boji vožnje z avtom",
+  "description": "Slabost med vožnjo, ali pa avto vozi samo k veterinarju. Ponovna gradnja korak za korakom.",
+  "card": "Slabost med vožnjo, ali pa avto vozi samo k veterinarju.",
+  "needs": [
+   "Avtomobilski oprsnik ali transporter",
+   "Zaščita za prtljažnik"
+  ]
+ },
+ "greetpee": {
+  "title": "Mladiček lula od vznemirjenja ali ob pozdravu",
+  "description": "Nezrel nadzor mehurja, ne kljubovanje. Zakaj kazen poslabša podrejeno lulanje.",
+  "card": "Nezrel nadzor mehurja, ne kljubovanje.",
+  "needs": [
+   "Encimsko čistilo"
+  ]
+ },
+ "nailfear": {
+  "title": "Pes sovraži striženje krempljev",
+  "description": "En boleč rez v živo pusti dolg spomin. Sodelovalna nega, en krempelj na dan.",
+  "card": "En boleč rez v živo pusti dolg spomin.",
+  "needs": [
+   "Ščipalke za kremplje",
+   "Brusilnik za kremplje",
+   "Deska za praskanje"
+  ]
+ }
+}

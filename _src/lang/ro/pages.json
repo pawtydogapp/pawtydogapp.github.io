@@ -1,0 +1,94 @@
+{
+ "guides.html": {
+  "title": "32 de ghiduri despre comportamentul câinelui — Pawty",
+  "description": "Ghiduri gratuite și oneste despre comportamentul câinelui: mușcatul puiului, lătratul, tragerea în lesă, apărarea resurselor, rechemarea, învățarea curățeniei și încă 26. Din aplicația Pawty pentru iPhone și Android."
+ },
+ "support.html": {
+  "title": "Ajutor — Pawty",
+  "description": "Ajutor pentru aplicația de dresaj canin Pawty pe iPhone și Android: ștergerea contului, probleme de autentificare, serii, clasament și contact."
+ },
+ "approach.html": {
+  "title": "Abordarea noastră — Pawty",
+  "description": "Cum predă Pawty: doar întărire pozitivă, sesiuni de 3 minute, fără vinovăție, și când să mergi în schimb la veterinar sau la un comportamentalist."
+ },
+ "partners.html": {
+  "title": "Parteneri și presă — Pawty",
+  "description": "Deveniți partener Pawty, o aplicație gratuită de dresaj canin pentru iPhone și Android. Ajungeți la stăpâni de câini implicați prin plasări în Magazinul aplicației. Include kit de presă."
+ },
+ "marketplace.html": {
+  "title": "Partenerii Magazinului — Pawty",
+  "description": "Partenerii Magazinului Pawty: hrană pentru câini, echipament, îngrijire și asigurări de la Fressnapf, Maxi Zoo, tails.com, Bella & Duke și alții, filtrați pe țări."
+ },
+ "index.html": {
+  "title": "Pawty — Duolingo pentru câini",
+  "description": "Câinele tău nu e stricat și tu nu dai greș. 99 de abilități de dresaj în sesiuni de 3 minute, 32 de ghiduri de comportament oneste, serii care îngheață în loc să se reseteze. Gratuit pe iPhone și Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplicație gratuită de dresaj canin pentru iPhone și Android cu 99 de abilități, 32 de ghiduri de comportament, note în lăbuțe, serii și un calendar de îngrijire.\",\"url\":\"https://pawtyapp.com/ro/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"ro\"}"
+ },
+ "blog.html": {
+  "title": "Blogul Pawty — dresaj practic și viața cu un câine",
+  "description": "Articole practice despre câini de la Pawty: cât costă un cățel, lista de cumpărături, calendarul vaccinărilor, somnul, antrenamentul cu clicker, toaletajul și câinii adoptați."
+ },
+ "post-puppy-cost.html": {
+  "title": "Cât costă de fapt un cățel în primul an — Pawty",
+  "description": "Costurile europene din primul an al unui cățel, poziție cu poziție: cușcă, veterinar, hrană, toaletaj și asigurare, plus ce poți sări fără grijă.",
+  "headline": "Cât costă de fapt un cățel în primul an"
+ },
+ "post-shopping-list.html": {
+  "title": "Lista de cumpărături pentru cățel și ce poți sări — Pawty",
+  "description": "Ce cumperi înainte să vină cățelul, ce cumperi în luna 2 și cele 6 lucruri pe care le vând magazinele de animale, dar de care nu ai nevoie.",
+  "headline": "Lista de cumpărături pentru cățel și ce poți sări"
+ },
+ "post-vaccination.html": {
+  "title": "Calendarul de vaccinare al cățelului în Europa — Pawty",
+  "description": "Calendarul european standard de vaccinare a cățelului, ce acoperă fiecare vaccin și cum socializezi în siguranță înainte să se termine seria.",
+  "headline": "Calendarul de vaccinare al cățelului în Europa"
+ },
+ "post-puppy-sleep.html": {
+  "title": "Cât somn îi trebuie unui cățel — Pawty",
+  "description": "Cățeii au nevoie de 18 până la 20 de ore de somn pe zi. De ce mușcăturile de seară sunt oboseală și cum impui un pui de somn fără luptă.",
+  "headline": "Cât somn îi trebuie unui cățel"
+ },
+ "post-teething.html": {
+  "title": "Ghid de supraviețuire pentru schimbarea dinților la cățel — Blogul Pawty",
+  "description": "Schimbarea dinților din luna 3 până în luna 7, ce aduce alinare și ce greșeli să eviți.",
+  "headline": "Ghid de supraviețuire pentru schimbarea dinților la cățel"
+ },
+ "post-walks.html": {
+  "title": "Cât de lungi ar trebui să fie plimbările cățelului? — Blogul Pawty",
+  "description": "Regula de 5 minute pentru fiecare lună de vârstă, ce intră în calcul și cum îți citești cățelul.",
+  "headline": "Cât de lungi ar trebui să fie plimbările cățelului?"
+ },
+ "post-sit.html": {
+  "title": "Învață-ți câinele să stea jos într-o săptămână — Blogul Pawty",
+  "description": "Metoda cu momeală pentru șezi, cele 2 greșeli clasice și cum arată succesul la fiecare sesiune.",
+  "headline": "Învață-ți câinele să stea jos într-o săptămână"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Clicker sau cuvânt marker: pe care să-l folosești — Pawty",
+  "description": "Amândouă marchează momentul exact în care câinele face bine. Pe care să-l folosești și când, cum îl încarci în 2 minute și cele 4 greșeli.",
+  "headline": "Clicker sau cuvânt marker: pe care să-l folosești"
+ },
+ "post-5minutes.html": {
+  "title": "De ce 5 minute pe zi bat maratoanele de weekend — Blogul Pawty",
+  "description": "Sesiunile scurte zilnice bat antrenamentele lungi de weekend: repetări, învățare distribuită în timp și serii.",
+  "headline": "De ce 5 minute pe zi bat maratoanele de weekend"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Toaletajul cockapoo: ce nu-ți spune nimeni — Pawty",
+  "description": "Blana creață nu se oprește niciodată din crescut. Costul real pe an, de ce apar nodurile și metoda de periere pe straturi care le previne.",
+  "headline": "Toaletajul cockapoo: ce nu-ți spune nimeni"
+ },
+ "post-rescue-333.html": {
+  "title": "Adopția unui câine adult din adăpost: regula 3-3-3 — Pawty",
+  "description": "3 zile, 3 săptămâni, 3 luni. Cum arată de fapt acomodarea unui câine adult adoptat și ce faci în fiecare etapă.",
+  "headline": "Adopția unui câine adult din adăpost: regula 3-3-3"
+ },
+ "legal/terms.html": {
+  "title": "Termeni și condiții — Pawty",
+  "description": "Termenii și condițiile Pawty, aplicația de dresaj canin pentru iPhone și Android, cu avertismentul despre dresaj și politica privind linkurile de afiliere."
+ },
+ "legal/privacy.html": {
+  "title": "Politica de confidențialitate — Pawty",
+  "description": "Cum tratează Pawty datele tale: publicitate personalizată și consimțământ, drepturi GDPR, găzduire în UE și linkuri de afiliere."
+ }
+}

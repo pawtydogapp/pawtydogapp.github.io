@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Câinele fugărește mașini, biciclete și animale sălbatice",
+  "description": "Un tipar motor înnăscut care se recompensează singur. Mai întâi managementul, pentru că fiecare urmărire îl întărește.",
+  "card": "Un tipar motor înnăscut care se recompensează singur.",
+  "needs": [
+   "Lesă lungă",
+   "Undiță cu nadă"
+  ]
+ },
+ "attention": {
+  "title": "Câinele dă cu laba, scâncește și împinge pentru atenție",
+  "description": "Chiar și atenția enervată contează. Cum întorci socoteala ca liniștea să merite, iar insistența nu.",
+  "card": "Chiar și atenția enervată contează.",
+  "needs": [
+   "Puzzle cu mâncare",
+   "Obiect de ros"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Câinele nu se liniștește seara",
+  "description": "Neliniștea de seară înseamnă de obicei că ziua a fost prea puțin sau prea mult stimulantă. Un ritual de relaxare care funcționează.",
+  "card": "Neliniștea de seară înseamnă de obicei că ziua a fost prea puțin sau prea mult stimulantă.",
+  "needs": [
+   "Jucărie cu mâncare congelată",
+   "Covoraș de lins",
+   "Pat pentru câine"
+  ]
+ },
+ "biting": {
+  "title": "De ce mușcă puiul meu? Mușcatul puiului explicat",
+  "description": "Puii mușcă pentru a explora și a învăța controlul mușcăturii. De ce apare faza de rechin, ce o oprește și ce o înrăutățește.",
+  "card": "Puii mușcă pentru a explora și a învăța controlul mușcăturii.",
+  "needs": [
+   "Jucărie de tras",
+   "Jucărie de ros din cauciuc"
+  ]
+ },
+ "teething": {
+  "title": "Dentiția puiului: rosul în perioada schimbării dinților",
+  "description": "Cad 28 de dinți de lapte și cresc 42 de dinți permanenți, între 3 și 7 luni. Ce obiecte de ros calmează gingiile și care sunt periculoase.",
+  "card": "Cad 28 de dinți de lapte și cresc 42 de dinți permanenți, între 3 și 7 luni.",
+  "needs": [
+   "Os din lemn de cafea",
+   "Os din lemn de măslin",
+   "Jucărie de ros din cauciuc",
+   "Obiecte de ros pentru pui"
+  ]
+ },
+ "chewadult": {
+  "title": "Câine adult care roade mobila din plictiseală",
+  "description": "Rosul liniștește. Ce îți spune un câine adult prea puțin stimulat și cum îl redirecționezi.",
+  "card": "Rosul liniștește.",
+  "needs": [
+   "Obiecte de ros prin rotație",
+   "Puzzle cu mâncare"
+  ]
+ },
+ "jumping": {
+  "title": "Câinele sare pe oameni: cum oprești asta",
+  "description": "Săritul este entuziasm plus un istoric în care a meritat. Regula celor 4 labe pe podea și sarcina incompatibilă care îl înlocuiește.",
+  "card": "Săritul este entuziasm plus un istoric în care a meritat.",
+  "needs": [
+   "Borsetă pentru recompense"
+  ]
+ },
+ "pulling": {
+  "title": "Câinele trage în lesă: de ce și ce funcționează",
+  "description": "Câinii trag pentru că asta i-a dus înainte. Stop și pornire, recompensă lângă piciorul tău și de ce zgărzile cu țepi creează probleme noi.",
+  "card": "Câinii trag pentru că asta i-a dus înainte.",
+  "needs": [
+   "Ham cu prindere în față",
+   "Lesă obișnuită de 2 m",
+   "Borsetă pentru recompense"
+  ]
+ },
+ "doorbell": {
+  "title": "Câinele latră la sonerie",
+  "description": "Soneria anunță ceva palpitant. Cum o recondiționezi ca soneria să anunțe brânză în loc de haos.",
+  "card": "Soneria anunță ceva palpitant.",
+  "needs": [
+   "Înregistrare cu soneria",
+   "Pat sau saltea"
+  ]
+ },
+ "barkdogs": {
+  "title": "Câinele latră la alți câini la plimbare",
+  "description": "De obicei frustrare sau disconfort. Găsești distanța la care câinele rămâne calm și o reduci de-a lungul săptămânilor.",
+  "card": "De obicei frustrare sau disconfort.",
+  "needs": [
+   "Lesă lungă",
+   "Recompense de mare valoare"
+  ]
+ },
+ "demand": {
+  "title": "Lătratul de cerere: câinele te latră pentru mâncare sau atenție",
+  "description": "Câinele latră pentru că a mai funcționat. De ce se înrăutățește înainte să se îmbunătățească.",
+  "card": "Câinele latră pentru că a mai funcționat.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Puiul plânge noaptea: ce ajută cu adevărat",
+  "description": "Plânsul de noapte este anxietate de separare, nu manipulare. De ce lăsatul să plângă erodează încrederea la vârsta asta.",
+  "card": "Plânsul de noapte este anxietate de separare, nu manipulare.",
+  "needs": [
+   "Cușcă",
+   "Pat pentru pui"
+  ]
+ },
+ "cratecry": {
+  "title": "Puiul plânge în cușcă",
+  "description": "Închiderea nu e naturală până când cușca nu e antrenată ca vizuină. Jocuri cu ușa deschisă și progres secundă cu secundă.",
+  "card": "Închiderea nu e naturală până când cușca nu e antrenată ca vizuină.",
+  "needs": [
+   "Cușcă",
+   "Husă pentru cușcă",
+   "Puzzle cu mâncare"
+  ]
+ },
+ "sepanx": {
+  "title": "Câinele suportă greu să rămână singur",
+  "description": "Singurătatea este o abilitate învățată, nu o setare din fabrică. Antrenarea absențelor în doze foarte mici și când să filmezi câinele.",
+  "card": "Singurătatea este o abilitate învățată, nu o setare din fabrică.",
+  "needs": [
+   "Obiect de ros de lungă durată",
+   "Cameră pentru animale"
+  ]
+ },
+ "digging": {
+  "title": "Câinele sapă în grădină",
+  "description": "Săpatul este înnăscut. Nu îl poți șterge, dar îl poți muta într-o zonă de săpat permisă.",
+  "card": "Săpatul este înnăscut.",
+  "needs": [
+   "Groapă cu nisip sau cutie de săpat",
+   "Jucării de îngropat"
+  ]
+ },
+ "counter": {
+  "title": "Câinele fură mâncare de pe blat",
+  "description": "Blatul a plătit o dată. De ce managementul fără scăpări, și nu dresajul, este leacul real.",
+  "card": "Blatul a plătit o dată.",
+  "needs": [
+   "Saltea pentru bucătărie"
+  ]
+ },
+ "poop": {
+  "title": "Câinele mănâncă fecale (coprofagie)",
+  "description": "Frecvent, rareori legat de hrană. Strânsul imediat, Lasă, și controlul la veterinar care merită făcut.",
+  "card": "Frecvent, rareori legat de hrană.",
+  "needs": [
+   "Pungi pentru excremente",
+   "Borsetă pentru recompense"
+  ]
+ },
+ "scavenge": {
+  "title": "Câinele mănâncă lucruri la plimbare",
+  "description": "Câinii sunt din fire scormonitori oportuniști. Lasă la nivelul străzii și când botnița coș este un instrument de siguranță.",
+  "card": "Câinii sunt din fire scormonitori oportuniști.",
+  "needs": [
+   "Botniță coș",
+   "Lesă lungă"
+  ]
+ },
+ "guard": {
+  "title": "Apărarea resurselor: primele semne la mâncare și jucării",
+  "description": "Înghețatul, privirea fixă sau mârâitul înseamnă teama de a pierde. De ce nu trebuie să pedepsești niciodată un mârâit.",
+  "card": "Înghețatul, privirea fixă sau mârâitul înseamnă teama de a pierde.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Reactivitate în lesă: câinele se aruncă și latră",
+  "description": "Emoții mari fără cale de scăpare. Lucrul sub prag, cu progres măsurat în metri pe lună.",
+  "card": "Emoții mari fără cale de scăpare.",
+  "needs": [
+   "Lesă lungă",
+   "Ham cu prindere în față",
+   "Recompense de mare valoare"
+  ]
+ },
+ "fireworks": {
+  "title": "Câinele se teme de artificii și furtuni",
+  "description": "Pregătirea unei vizuini, de ce e în regulă să-ți liniștești câinele și lucrul cu sunete de început în noiembrie.",
+  "card": "Pregătirea unei vizuini, de ce e în regulă să-ți liniștești câinele și lucrul cu sunete de început în noiembrie.",
+  "needs": [
+   "Aparat cu zgomot alb",
+   "Pat acoperit"
+  ]
+ },
+ "norecall": {
+  "title": "Câinele nu vine când e chemat",
+  "description": "Mediul plătește mai bine decât tine. Reconstruirea rechemării pe lesă lungă și protejarea semnalului.",
+  "card": "Mediul plătește mai bine decât tine.",
+  "needs": [
+   "Lesă lungă",
+   "Recompense de mare valoare"
+  ]
+ },
+ "housetrain": {
+  "title": "Accidente la învățarea curățeniei la pui",
+  "description": "Vezica unui pui ține cam atâtea ore câte luni are. Momentul potrivit și de ce contează soluția enzimatică.",
+  "card": "Vezica unui pui ține cam atâtea ore câte luni are.",
+  "needs": [
+   "Soluție enzimatică",
+   "Pad-uri absorbante pentru pui"
+  ]
+ },
+ "marking": {
+  "title": "Câinele marchează în casă",
+  "description": "Mici marcaje intenționate pe suprafețe verticale. Exclude mai întâi cauzele medicale.",
+  "card": "Mici marcaje intenționate pe suprafețe verticale.",
+  "needs": [
+   "Soluție enzimatică",
+   "Bandă pentru masculi"
+  ]
+ },
+ "heat": {
+  "title": "Primele călduri ale cățelei: la ce să te aștepți",
+  "description": "Între 6 și 15 luni, durează 2 până la 4 săptămâni. 3 săptămâni de management, apoi viața merge mai departe.",
+  "card": "Între 6 și 15 luni, durează 2 până la 4 săptămâni.",
+  "needs": [
+   "Chiloți igienici",
+   "Absorbante lavabile"
+  ]
+ },
+ "humping": {
+  "title": "Câinele încalecă: ce înseamnă de fapt",
+  "description": "Mai ales supraexcitare și descărcare de stres, nu dominanță și adesea nimic sexual.",
+  "card": "Mai ales supraexcitare și descărcare de stres, nu dominanță și adesea nimic sexual.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Zoomies explicate: alergări nebune bruște",
+  "description": "Turele bruște de alergat sunt o descărcare de energie normală și sănătoasă. Ai grijă de teren, nu de bucurie.",
+  "card": "Turele bruște de alergat sunt o descărcare de energie normală și sănătoasă.",
+  "needs": [
+   "Covor antiderapant"
+  ]
+ },
+ "begging": {
+  "title": "Câinele cerșește la masă",
+  "description": "Ochii ăia au câștigat odată un cartof prăjit. O politică reală de zero recompense și dresajul oamenilor.",
+  "card": "Ochii ăia au câștigat odată un cartof prăjit.",
+  "needs": [
+   "Saltea pentru bucătărie",
+   "Obiect de ros de lungă durată"
+  ]
+ },
+ "stealing": {
+  "title": "Câinele fură șosete și fuge cu ele",
+  "description": "Ia o șosetă, iar oamenii pornesc după el. Cum închizi economia urmăririi.",
+  "card": "Ia o șosetă, iar oamenii pornesc după el.",
+  "needs": [
+   "Jucărie de tras",
+   "Recompense de schimb"
+  ]
+ },
+ "carfear": {
+  "title": "Câinele se teme de drumurile cu mașina",
+  "description": "Rău de mașină, sau mașina merge doar la veterinar. Reconstruire pas cu pas.",
+  "card": "Rău de mașină, sau mașina merge doar la veterinar.",
+  "needs": [
+   "Ham de mașină sau cușcă",
+   "Husă pentru portbagaj"
+  ]
+ },
+ "greetpee": {
+  "title": "Puiul face pipi de emoție sau la salut",
+  "description": "Control al vezicii încă imatur, nu răzbunare. De ce pedeapsa înrăutățește pipi-ul de supunere.",
+  "card": "Control al vezicii încă imatur, nu răzbunare.",
+  "needs": [
+   "Soluție enzimatică"
+  ]
+ },
+ "nailfear": {
+  "title": "Câinele urăște tăiatul unghiilor",
+  "description": "O singură tăietură dureroasă lasă o amintire lungă. Îngrijire cooperativă, o unghie pe zi.",
+  "card": "O singură tăietură dureroasă lasă o amintire lungă.",
+  "needs": [
+   "Clește de unghii",
+   "Pilă electrică de unghii",
+   "Placă de zgâriat"
+  ]
+ }
+}

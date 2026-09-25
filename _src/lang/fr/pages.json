@@ -1,0 +1,94 @@
+{
+ "guides.html": {
+  "title": "32 guides sur le comportement du chien — Pawty",
+  "description": "Guides gratuits et honnêtes sur le comportement du chien : mordillements du chiot, aboiements, tirer en laisse, protection des ressources, rappel, propreté et 26 autres. Issus de l'application Pawty pour iPhone et Android."
+ },
+ "support.html": {
+  "title": "Aide — Pawty",
+  "description": "Aide pour l'application d'éducation canine Pawty sur iPhone et Android : suppression du compte, problèmes de connexion, séries, classement et contact."
+ },
+ "approach.html": {
+  "title": "Notre approche — Pawty",
+  "description": "Comment Pawty enseigne : uniquement le renforcement positif, des séances de 3 minutes, sans culpabilité, et quand consulter un vétérinaire ou un comportementaliste."
+ },
+ "partners.html": {
+  "title": "Partenaires et presse — Pawty",
+  "description": "Devenez partenaire de Pawty, une application gratuite d'éducation canine pour iPhone et Android. Touchez des maîtres engagés grâce à des emplacements dans la Boutique de l'application. Kit presse inclus."
+ },
+ "marketplace.html": {
+  "title": "Partenaires de la Boutique — Pawty",
+  "description": "Partenaires de la Boutique Pawty : alimentation, équipement, toilettage et assurance de Fressnapf, Maxi Zoo, tails.com, Bella & Duke et d'autres, filtrés par pays."
+ },
+ "index.html": {
+  "title": "Pawty — Le Duolingo des chiens",
+  "description": "Ton chien n'est pas cassé et tu n'es pas en échec. 99 compétences d'éducation canine en séances de 3 minutes, 32 guides de comportement honnêtes, des séries qui se figent au lieu de repartir à zéro. Gratuit sur iPhone et Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Application gratuite d'éducation canine pour iPhone et Android avec 99 compétences, 32 guides de comportement, des notes en pattes, des séries et un calendrier des soins.\",\"url\":\"https://pawtyapp.com/fr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"fr\"}"
+ },
+ "blog.html": {
+  "title": "Blog Pawty — éducation canine pratique et vie avec un chien",
+  "description": "Des articles pratiques de Pawty : ce que coûte un chiot, la liste de courses, le calendrier des vaccins, le sommeil, le clicker, le toilettage et les chiens adoptés."
+ },
+ "post-puppy-cost.html": {
+  "title": "Ce que coûte vraiment un chiot la première année — Pawty",
+  "description": "Les coûts européens de la première année d'un chiot, poste par poste : caisse, vétérinaire, alimentation, toilettage et assurance, et ce dont tu peux te passer.",
+  "headline": "Ce que coûte vraiment un chiot la première année"
+ },
+ "post-shopping-list.html": {
+  "title": "La liste de courses du chiot, et ce dont tu peux te passer — Pawty",
+  "description": "Quoi acheter avant l'arrivée du chiot, quoi acheter au 2e mois, et les 6 articles d'animalerie dont tu n'as pas besoin.",
+  "headline": "La liste de courses du chiot, et ce dont tu peux te passer"
+ },
+ "post-vaccination.html": {
+  "title": "Le calendrier de vaccination du chiot en Europe — Pawty",
+  "description": "Le calendrier européen habituel de vaccination du chiot, contre quoi protège chaque vaccin et comment socialiser en sécurité avant la fin du protocole.",
+  "headline": "Le calendrier de vaccination du chiot en Europe"
+ },
+ "post-puppy-sleep.html": {
+  "title": "Combien de temps un chiot doit-il dormir — Pawty",
+  "description": "Un chiot a besoin de 18 à 20 heures de sommeil par jour. Pourquoi les morsures du soir sont de la fatigue, et comment imposer une sieste sans bataille.",
+  "headline": "Combien de temps un chiot doit-il dormir"
+ },
+ "post-teething.html": {
+  "title": "Guide de survie de la dentition du chiot — Blog Pawty",
+  "description": "Le calendrier de la dentition du 3e au 7e mois, ce qui soulage et les erreurs à éviter.",
+  "headline": "Guide de survie de la dentition du chiot"
+ },
+ "post-walks.html": {
+  "title": "Combien de temps doivent durer les promenades d'un chiot ? — Blog Pawty",
+  "description": "La règle des 5 minutes par mois d'âge pour les promenades du chiot, ce qui compte et comment lire ton chiot.",
+  "headline": "Combien de temps doivent durer les promenades d'un chiot ?"
+ },
+ "post-sit.html": {
+  "title": "Apprends le assis à ton chien en une semaine — Blog Pawty",
+  "description": "La méthode du leurre pour apprendre le assis, les 2 erreurs classiques et à quoi ressemble la réussite à chaque séance.",
+  "headline": "Apprends le assis à ton chien en une semaine"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Clicker ou mot marqueur : lequel utiliser — Pawty",
+  "description": "Les deux marquent le moment exact où ton chien réussit. Quand utiliser lequel, comment le charger en 2 minutes, et les 4 erreurs.",
+  "headline": "Clicker ou mot marqueur : lequel utiliser"
+ },
+ "post-5minutes.html": {
+  "title": "Pourquoi 5 minutes par jour battent les marathons du week-end — Blog Pawty",
+  "description": "Les courtes séances quotidiennes battent les longues séances du week-end : répétitions, apprentissage espacé et séries.",
+  "headline": "Pourquoi 5 minutes par jour battent les marathons du week-end"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Toilettage du cockapoo : ce que personne ne te dit — Pawty",
+  "description": "Le poil bouclé ne s'arrête jamais de pousser. Le vrai coût annuel, pourquoi les nœuds se forment et le brossage par raies qui les évite.",
+  "headline": "Toilettage du cockapoo : ce que personne ne te dit"
+ },
+ "post-rescue-333.html": {
+  "title": "Adopter un chien adulte de refuge : la règle 3-3-3 — Pawty",
+  "description": "3 jours, 3 semaines, 3 mois. À quoi ressemble vraiment l'adaptation d'un chien adulte adopté, et que faire à chaque étape.",
+  "headline": "Adopter un chien adulte de refuge : la règle 3-3-3"
+ },
+ "legal/terms.html": {
+  "title": "Conditions d'utilisation — Pawty",
+  "description": "Conditions d'utilisation de Pawty, l'application d'éducation canine pour iPhone et Android, avec l'avertissement sur l'éducation et la politique de liens d'affiliation."
+ },
+ "legal/privacy.html": {
+  "title": "Politique de confidentialité — Pawty",
+  "description": "Comment Pawty traite tes données : publicité personnalisée et consentement, droits RGPD, hébergement dans l'UE et liens d'affiliation."
+ }
+}

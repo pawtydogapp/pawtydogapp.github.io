@@ -1,0 +1,194 @@
+[
+ {
+  "slug": "chasing",
+  "id": "chasing",
+  "date": "2026-09-02",
+  "critical": true
+ },
+ {
+  "slug": "attention-seeking",
+  "id": "attention",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "evening-settling",
+  "id": "eveningsettle",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "puppy-biting",
+  "id": "biting",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "puppy-teething",
+  "id": "teething",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "adult-chewing",
+  "id": "chewadult",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "jumping-up",
+  "id": "jumping",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "pulling-on-lead",
+  "id": "pulling",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "barking-at-doorbell",
+  "id": "doorbell",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "barking-at-other-dogs",
+  "id": "barkdogs",
+  "date": "2026-09-02",
+  "critical": true
+ },
+ {
+  "slug": "demand-barking",
+  "id": "demand",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "puppy-crying-at-night",
+  "id": "nightcry",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "crate-crying",
+  "id": "cratecry",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "home-alone",
+  "id": "sepanx",
+  "date": "2026-09-02",
+  "critical": true
+ },
+ {
+  "slug": "digging",
+  "id": "digging",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "counter-surfing",
+  "id": "counter",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "eating-poo",
+  "id": "poop",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "eating-things-on-walks",
+  "id": "scavenge",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "resource-guarding",
+  "id": "guard",
+  "date": "2026-09-02",
+  "critical": true
+ },
+ {
+  "slug": "lead-reactivity",
+  "id": "reactive",
+  "date": "2026-09-02",
+  "critical": true
+ },
+ {
+  "slug": "fear-of-fireworks",
+  "id": "fireworks",
+  "date": "2026-09-02",
+  "critical": true
+ },
+ {
+  "slug": "recall-problems",
+  "id": "norecall",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "toilet-training",
+  "id": "housetrain",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "marking-indoors",
+  "id": "marking",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "first-heat",
+  "id": "heat",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "humping",
+  "id": "humping",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "zoomies",
+  "id": "zoomies",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "begging",
+  "id": "begging",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "stealing-and-running",
+  "id": "stealing",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "car-fear",
+  "id": "carfear",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "excited-peeing",
+  "id": "greetpee",
+  "date": "2026-09-02",
+  "critical": false
+ },
+ {
+  "slug": "nail-trimming",
+  "id": "nailfear",
+  "date": "2026-09-02",
+  "critical": false
+ }
+]

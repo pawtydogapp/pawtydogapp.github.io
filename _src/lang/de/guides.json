@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Hund jagt Autos, Räder und Wildtiere",
+  "description": "Ein fest verdrahtetes Bewegungsmuster, das sich selbst belohnt. Management zuerst, denn jede Jagd verstärkt es.",
+  "card": "Ein fest verdrahtetes Bewegungsmuster, das sich selbst belohnt.",
+  "needs": [
+   "Schleppleine",
+   "Reizangel"
+  ]
+ },
+ "attention": {
+  "title": "Hund stupst, fiept und scharrt nach Aufmerksamkeit",
+  "description": "Auch genervte Aufmerksamkeit zählt. So drehst du die Rechnung um, damit Ruhe sich lohnt und Drängeln nicht.",
+  "card": "Auch genervte Aufmerksamkeit zählt.",
+  "needs": [
+   "Futterpuzzle",
+   "Kauartikel"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Hund kommt abends nicht zur Ruhe",
+  "description": "Abendliche Unruhe heißt meist, der Tag war zu wenig oder zu viel. Ein Abendritual, das funktioniert.",
+  "card": "Abendliche Unruhe heißt meist, der Tag war zu wenig oder zu viel.",
+  "needs": [
+   "Gefrorenes Futterspielzeug",
+   "Schleckmatte",
+   "Hundebett"
+  ]
+ },
+ "biting": {
+  "title": "Warum beißt mein Welpe? Welpenbeißen erklärt",
+  "description": "Welpen beißen, um die Welt zu erkunden und Beißhemmung zu lernen. Warum die Haifisch-Phase kommt, was sie beendet und was sie schlimmer macht.",
+  "card": "Welpen beißen, um die Welt zu erkunden und Beißhemmung zu lernen.",
+  "needs": [
+   "Zerrspielzeug",
+   "Kauspielzeug aus Gummi"
+  ]
+ },
+ "teething": {
+  "title": "Zahnwechsel beim Welpen: Kauen während der Zahnung",
+  "description": "28 Milchzähne raus, 42 bleibende Zähne rein, zwischen 3 und 7 Monaten. Welche Kauartikel wunde Zahnfleisch lindern und welche gefährlich sind.",
+  "card": "28 Milchzähne raus, 42 bleibende Zähne rein, zwischen 3 und 7 Monaten.",
+  "needs": [
+   "Kauwurzel aus Kaffeeholz",
+   "Kauknochen aus Olivenholz",
+   "Kauspielzeug aus Gummi",
+   "Welpen-Kauartikel"
+  ]
+ },
+ "chewadult": {
+  "title": "Erwachsener Hund zerkaut Möbel aus Langeweile",
+  "description": "Kauen beruhigt. Was dir ein unterforderter erwachsener Hund sagen will und wie du es umlenkst.",
+  "card": "Kauen beruhigt.",
+  "needs": [
+   "Wechselnde Kauartikel",
+   "Futterpuzzle"
+  ]
+ },
+ "jumping": {
+  "title": "Hund springt Menschen an: so hört es auf",
+  "description": "Hochspringen ist Aufregung plus eine Vorgeschichte, in der es sich gelohnt hat. Die 4-Pfoten-Regel und die unvereinbare Aufgabe, die es ersetzt.",
+  "card": "Hochspringen ist Aufregung plus eine Vorgeschichte, in der es sich gelohnt hat.",
+  "needs": [
+   "Leckerlibeutel"
+  ]
+ },
+ "pulling": {
+  "title": "Hund zieht an der Leine: warum und was hilft",
+  "description": "Hunde ziehen, weil es sie vorwärtsgebracht hat. Stehen und Gehen, Belohnung am Bein, und warum Stachelhalsbänder neue Probleme schaffen.",
+  "card": "Hunde ziehen, weil es sie vorwärtsgebracht hat.",
+  "needs": [
+   "Geschirr mit Brustring",
+   "Normale 2-m-Leine",
+   "Leckerlibeutel"
+  ]
+ },
+ "doorbell": {
+  "title": "Hund bellt bei der Türklingel",
+  "description": "Die Klingel kündigt etwas Aufregendes an. So konditionierst du sie um, damit die Klingel Käse statt Chaos bedeutet.",
+  "card": "Die Klingel kündigt etwas Aufregendes an.",
+  "needs": [
+   "Aufnahme des Klingelgeräuschs",
+   "Hundebett oder Decke"
+  ]
+ },
+ "barkdogs": {
+  "title": "Hund bellt beim Spaziergang andere Hunde an",
+  "description": "Meist Frust oder Unbehagen. Den Abstand finden, bei dem dein Hund ruhig bleibt, und ihn über Wochen verkürzen.",
+  "card": "Meist Frust oder Unbehagen.",
+  "needs": [
+   "Schleppleine",
+   "Hochwertige Leckerlis"
+  ]
+ },
+ "demand": {
+  "title": "Forderndes Bellen: Hund bellt dich für Futter oder Aufmerksamkeit an",
+  "description": "Der Hund bellt, weil es schon einmal funktioniert hat. Warum es erst lauter wird, bevor es besser wird.",
+  "card": "Der Hund bellt, weil es schon einmal funktioniert hat.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Welpe weint nachts: was wirklich hilft",
+  "description": "Nächtliches Weinen ist Trennungsstress, keine Manipulation. Warum Schreienlassen in diesem Alter Vertrauen zerstört.",
+  "card": "Nächtliches Weinen ist Trennungsstress, keine Manipulation.",
+  "needs": [
+   "Hundebox",
+   "Welpenbett"
+  ]
+ },
+ "cratecry": {
+  "title": "Welpe weint in der Box",
+  "description": "Eingesperrtsein ist unnatürlich, bis die Box als Höhle trainiert ist. Spiele mit offener Tür und Fortschritt Sekunde für Sekunde.",
+  "card": "Eingesperrtsein ist unnatürlich, bis die Box als Höhle trainiert ist.",
+  "needs": [
+   "Hundebox",
+   "Boxabdeckung",
+   "Futterpuzzle"
+  ]
+ },
+ "sepanx": {
+  "title": "Hund kann nicht allein bleiben",
+  "description": "Alleinsein ist eine gelernte Fähigkeit, keine Werkseinstellung. Abwesenheit in winzigen Dosen trainieren, und wann du den Hund filmen solltest.",
+  "card": "Alleinsein ist eine gelernte Fähigkeit, keine Werkseinstellung.",
+  "needs": [
+   "Langlebiger Kauartikel",
+   "Haustierkamera"
+  ]
+ },
+ "digging": {
+  "title": "Hund buddelt im Garten",
+  "description": "Buddeln ist fest verdrahtet. Du kannst es nicht löschen, aber in eine erlaubte Buddelzone verlegen.",
+  "card": "Buddeln ist fest verdrahtet.",
+  "needs": [
+   "Sandkasten oder Buddelkiste",
+   "Spielzeug zum Vergraben"
+  ]
+ },
+ "counter": {
+  "title": "Hund klaut Essen von der Arbeitsplatte",
+  "description": "Die Arbeitsplatte hat sich einmal gelohnt. Warum lückenloses Management und nicht Training die eigentliche Lösung ist.",
+  "card": "Die Arbeitsplatte hat sich einmal gelohnt.",
+  "needs": [
+   "Hundedecke für die Küche"
+  ]
+ },
+ "poop": {
+  "title": "Hund frisst Kot (Koprophagie)",
+  "description": "Häufig, selten eine Frage des Futters. Sofort aufheben, Lass es, und der Tierarzt-Check, der sich lohnt.",
+  "card": "Häufig, selten eine Frage des Futters.",
+  "needs": [
+   "Kotbeutel",
+   "Leckerlibeutel"
+  ]
+ },
+ "scavenge": {
+  "title": "Hund frisst beim Spaziergang alles auf",
+  "description": "Hunde sind von Natur aus opportunistische Resteverwerter. Lass es auf Straßenniveau, und wann ein Maulkorb ein Sicherheitswerkzeug ist.",
+  "card": "Hunde sind von Natur aus opportunistische Resteverwerter.",
+  "needs": [
+   "Korbmaulkorb",
+   "Schleppleine"
+  ]
+ },
+ "guard": {
+  "title": "Ressourcenverteidigung: erste Anzeichen bei Futter und Spielzeug",
+  "description": "Erstarren, starrer Blick oder Knurren bedeuten Verlustangst. Warum du ein Knurren nie bestrafen darfst.",
+  "card": "Erstarren, starrer Blick oder Knurren bedeuten Verlustangst.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Leinenaggression: Hund springt und bellt an der Leine",
+  "description": "Große Gefühle ohne Ausweg. Unter der Reizschwelle arbeiten, und Fortschritt in Metern pro Monat.",
+  "card": "Große Gefühle ohne Ausweg.",
+  "needs": [
+   "Schleppleine",
+   "Geschirr mit Brustring",
+   "Hochwertige Leckerlis"
+  ]
+ },
+ "fireworks": {
+  "title": "Hund hat Angst vor Feuerwerk und Gewitter",
+  "description": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist, und das Geräuschtraining, das im November beginnt.",
+  "card": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist, und das Geräuschtraining, das im November beginnt.",
+  "needs": [
+   "White-Noise-Gerät",
+   "Überdachtes Hundebett"
+  ]
+ },
+ "norecall": {
+  "title": "Hund kommt nicht, wenn man ihn ruft",
+  "description": "Die Umgebung zahlt besser als du. Den Rückruf an der Schleppleine neu aufbauen und das Signal schützen.",
+  "card": "Die Umgebung zahlt besser als du.",
+  "needs": [
+   "Schleppleine",
+   "Hochwertige Leckerlis"
+  ]
+ },
+ "housetrain": {
+  "title": "Welpe macht noch in die Wohnung: Stubenreinheit",
+  "description": "Eine Welpenblase hält ungefähr so viele Stunden, wie der Welpe Monate alt ist. Timing, und warum Enzymreiniger wichtig ist.",
+  "card": "Eine Welpenblase hält ungefähr so viele Stunden, wie der Welpe Monate alt ist.",
+  "needs": [
+   "Enzymreiniger",
+   "Welpenunterlagen"
+  ]
+ },
+ "marking": {
+  "title": "Hund markiert in der Wohnung",
+  "description": "Kleine, gezielte Markierungen an senkrechten Stellen. Zuerst medizinische Ursachen ausschließen.",
+  "card": "Kleine, gezielte Markierungen an senkrechten Stellen.",
+  "needs": [
+   "Enzymreiniger",
+   "Rüdenbauchband"
+  ]
+ },
+ "heat": {
+  "title": "Die erste Läufigkeit der Hündin: was dich erwartet",
+  "description": "Zwischen 6 und 15 Monaten, Dauer 2 bis 4 Wochen. 3 Wochen Management, dann geht das Leben weiter.",
+  "card": "Zwischen 6 und 15 Monaten, Dauer 2 bis 4 Wochen.",
+  "needs": [
+   "Schutzhöschen",
+   "Waschbare Einlagen"
+  ]
+ },
+ "humping": {
+  "title": "Hund rammelt: was es wirklich bedeutet",
+  "description": "Meist Übererregung und Stressabbau, keine Dominanz und oft nicht sexuell.",
+  "card": "Meist Übererregung und Stressabbau, keine Dominanz und oft nicht sexuell.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Zoomies erklärt: plötzliche wilde Rennphasen",
+  "description": "Plötzliche Rennrunden sind ein normales, gesundes Ablassen von Energie. Sichere den Untergrund, nicht die Freude.",
+  "card": "Plötzliche Rennrunden sind ein normales, gesundes Ablassen von Energie.",
+  "needs": [
+   "Rutschfester Teppich"
+  ]
+ },
+ "begging": {
+  "title": "Hund bettelt am Tisch",
+  "description": "Diese Augen haben einmal einen Chip verdient. Eine echte Null-Auszahlungs-Regel, und das Training der Menschen.",
+  "card": "Diese Augen haben einmal einen Chip verdient.",
+  "needs": [
+   "Hundedecke für die Küche",
+   "Langlebiger Kauartikel"
+  ]
+ },
+ "stealing": {
+  "title": "Hund klaut Socken und rennt damit weg",
+  "description": "Socke schnappen, und die Menschen jagen hinterher. So beendest du die Verfolgungsjagd-Wirtschaft.",
+  "card": "Socke schnappen, und die Menschen jagen hinterher.",
+  "needs": [
+   "Zerrspielzeug",
+   "Tausch-Leckerlis"
+  ]
+ },
+ "carfear": {
+  "title": "Hund hat Angst vor dem Autofahren",
+  "description": "Reiseübelkeit, oder das Auto fährt immer nur zur Tierarztpraxis. Schritt für Schritt neu aufbauen.",
+  "card": "Reiseübelkeit, oder das Auto fährt immer nur zur Tierarztpraxis.",
+  "needs": [
+   "Autogeschirr oder Transportbox",
+   "Kofferraumschutz"
+  ]
+ },
+ "greetpee": {
+  "title": "Welpe pinkelt vor Aufregung oder bei der Begrüßung",
+  "description": "Unreife Blasenkontrolle, kein Trotz. Warum Strafe das unterwürfige Pinkeln verschlimmert.",
+  "card": "Unreife Blasenkontrolle, kein Trotz.",
+  "needs": [
+   "Enzymreiniger"
+  ]
+ },
+ "nailfear": {
+  "title": "Hund hasst Krallenschneiden",
+  "description": "Ein schmerzhafter Schnitt ins Leben bleibt lange im Gedächtnis. Kooperative Pflege, eine Kralle pro Tag.",
+  "card": "Ein schmerzhafter Schnitt ins Leben bleibt lange im Gedächtnis.",
+  "needs": [
+   "Krallenzange",
+   "Krallenschleifer",
+   "Kratzbrett"
+  ]
+ }
+}

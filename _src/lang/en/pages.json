@@ -1,0 +1,98 @@
+{
+ "404.html": {
+  "title": "Page not found — Pawty",
+  "description": "Page not found on pawtyapp.com."
+ },
+ "approach.html": {
+  "title": "Our approach — Pawty",
+  "description": "How Pawty teaches: positive reinforcement only, 3-minute sessions, no guilt, and when to see a vet or behaviourist instead."
+ },
+ "blog.html": {
+  "title": "Pawty blog — practical dog training and dog ownership",
+  "description": "Practical dog articles from Pawty: what a puppy costs, the shopping list, vaccination timing, sleep, clicker training, grooming and rescue dogs."
+ },
+ "guides.html": {
+  "title": "32 dog behaviour guides — Pawty",
+  "description": "Free, honest dog behaviour guides on puppy biting, barking, pulling on the lead, resource guarding, recall, toilet training and 26 more. From the Pawty app for iPhone and Android."
+ },
+ "index.html": {
+  "title": "Pawty — Duolingo for dogs",
+  "description": "Your dog is not broken and you are not failing. 99 dog training skills in 3-minute sessions, 32 honest behaviour guides, streaks that freeze instead of reset. Free on iPhone and Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Free dog training app for iPhone and Android with 99 skills, 32 behaviour guides, paw ratings, streaks and a care calendar.\",\"url\":\"https://pawtyapp.com/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"}}"
+ },
+ "legal/privacy.html": {
+  "title": "Privacy Policy — Pawty",
+  "description": "How Pawty handles your data: personalised advertising and consent, GDPR rights, EU hosting and affiliate links."
+ },
+ "legal/terms.html": {
+  "title": "Terms of Service — Pawty",
+  "description": "Terms of Service for the Pawty dog training app for iPhone and Android, including the training disclaimer and affiliate link policy."
+ },
+ "marketplace.html": {
+  "title": "Marketplace partners — Pawty",
+  "description": "Pawty Marketplace partners: dog food, gear, grooming and insurance from Fressnapf, Maxi Zoo, tails.com, Bella & Duke and more, filtered by country."
+ },
+ "partners.html": {
+  "title": "Partners & Press — Pawty",
+  "description": "Partner with Pawty, a free dog training app for iPhone and Android. Reach engaged dog owners through in-app Marketplace placements. Press kit included."
+ },
+ "post-5minutes.html": {
+  "title": "Why 5 minutes a day beats weekend marathons — Pawty blog",
+  "description": "Short daily dog training sessions beat long weekend ones: repetitions, spaced learning and streaks.",
+  "headline": "Why 5 minutes a day beats weekend marathons"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Clicker or marker word: which should you use — Pawty",
+  "description": "Both mark the exact moment your dog gets it right. Which to use when, how to load it in 2 minutes, and the 4 mistakes.",
+  "headline": "Clicker or marker word: which should you use"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Cockapoo grooming: what nobody tells you — Pawty",
+  "description": "Curly coats never stop growing. The real yearly cost, why matting happens, and the line-brushing method that prevents it.",
+  "headline": "Cockapoo grooming: what nobody tells you"
+ },
+ "post-puppy-cost.html": {
+  "title": "What a puppy actually costs in the first year — Pawty",
+  "description": "Line-by-line European costs for a puppy's first year: crate, vet, food, grooming and insurance, with what you can safely skip.",
+  "headline": "What a puppy actually costs in the first year"
+ },
+ "post-puppy-sleep.html": {
+  "title": "How much sleep does a puppy need — Pawty",
+  "description": "Puppies need 18 to 20 hours of sleep a day. Why the evening biting is overtiredness, and how to enforce a nap without a fight.",
+  "headline": "How much sleep does a puppy need"
+ },
+ "post-rescue-333.html": {
+  "title": "Adopting an adult rescue dog: the 3-3-3 rule — Pawty",
+  "description": "3 days, 3 weeks, 3 months. What settling in actually looks like for an adult rescue dog, and what to do in each phase.",
+  "headline": "Adopting an adult rescue dog: the 3-3-3 rule"
+ },
+ "post-shopping-list.html": {
+  "title": "The puppy shopping list, and what you can skip — Pawty",
+  "description": "What to buy before a puppy arrives, what to buy in month 2, and the 6 things pet shops sell that you do not need.",
+  "headline": "The puppy shopping list, and what you can skip"
+ },
+ "post-sit.html": {
+  "title": "Teach your dog to sit in a week — Pawty blog",
+  "description": "The lure method for teaching sit, the 2 classic mistakes, and what success looks like per session.",
+  "headline": "Teach your dog to sit in a week"
+ },
+ "post-teething.html": {
+  "title": "Puppy teething survival guide — Pawty blog",
+  "description": "Teething timeline months 3 to 7, the relief menu, and the mistakes to avoid.",
+  "headline": "Puppy teething survival guide"
+ },
+ "post-vaccination.html": {
+  "title": "The puppy vaccination schedule in Europe — Pawty",
+  "description": "The standard European puppy vaccination timetable, what each vaccine covers, and how to socialise safely before the course is finished.",
+  "headline": "The puppy vaccination schedule in Europe"
+ },
+ "post-walks.html": {
+  "title": "How long should puppy walks be? — Pawty blog",
+  "description": "The 5-minutes-per-month puppy walk rule, what counts toward it, and how to read your puppy.",
+  "headline": "How long should puppy walks be?"
+ },
+ "support.html": {
+  "title": "Support — Pawty",
+  "description": "Help with the Pawty dog training app for iPhone and Android: account deletion, sign-in problems, streaks, leaderboard and contact."
+ }
+}

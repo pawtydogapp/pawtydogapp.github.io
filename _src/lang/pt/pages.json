@@ -1,0 +1,94 @@
+{
+ "guides.html": {
+  "title": "32 guias de comportamento canino — Pawty",
+  "description": "Guias gratuitos e honestos sobre comportamento canino: mordidelas de cachorro, ladrar, puxar a trela, guarda de recursos, chamada, fazer as necessidades no sítio certo e mais 26. Da app Pawty para iPhone e Android."
+ },
+ "support.html": {
+  "title": "Ajuda — Pawty",
+  "description": "Ajuda com a app de treino de cães Pawty para iPhone e Android: apagar a conta, problemas de início de sessão, sequências, classificação e contacto."
+ },
+ "approach.html": {
+  "title": "A nossa abordagem — Pawty",
+  "description": "Como a Pawty ensina: só reforço positivo, sessões de 3 minutos, sem culpa, e quando ir antes ao veterinário ou a um comportamentalista."
+ },
+ "partners.html": {
+  "title": "Parceiros e imprensa — Pawty",
+  "description": "Seja parceiro da Pawty, uma app gratuita de treino de cães para iPhone e Android. Chegue a donos de cães empenhados através de espaços no Mercado da app. Inclui kit de imprensa."
+ },
+ "marketplace.html": {
+  "title": "Parceiros do Mercado — Pawty",
+  "description": "Parceiros do Mercado da Pawty: comida para cães, acessórios, higiene e seguros da Fressnapf, Maxi Zoo, tails.com, Bella & Duke e outros, filtrados por país."
+ },
+ "index.html": {
+  "title": "Pawty — O Duolingo para cães",
+  "description": "O teu cão não está avariado e tu não estás a falhar. 99 competências de treino em sessões de 3 minutos, 32 guias de comportamento honestos e sequências que congelam em vez de reiniciar. Grátis para iPhone e Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita de treino de cães para iPhone e Android com 99 competências, 32 guias de comportamento, avaliações em patas, sequências e um calendário de cuidados.\",\"url\":\"https://pawtyapp.com/pt/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pt\"}"
+ },
+ "blog.html": {
+  "title": "Blog Pawty — treino de cães e vida com um cão, na prática",
+  "description": "Artigos práticos sobre cães da Pawty: quanto custa um cachorro, a lista de compras, o calendário de vacinas, o sono, o treino com clicker, a tosquia e os cães adotados."
+ },
+ "post-puppy-cost.html": {
+  "title": "Quanto custa realmente um cachorro no primeiro ano — Pawty",
+  "description": "Custos europeus do primeiro ano de um cachorro, linha a linha: transportadora, veterinário, comida, tosquia e seguro, e o que podes dispensar sem problema.",
+  "headline": "Quanto custa realmente um cachorro no primeiro ano"
+ },
+ "post-shopping-list.html": {
+  "title": "A lista de compras para o cachorro, e o que podes dispensar — Pawty",
+  "description": "O que comprar antes de o cachorro chegar, o que comprar no 2.º mês e as 6 coisas que as lojas de animais vendem e de que não precisas.",
+  "headline": "A lista de compras para o cachorro, e o que podes dispensar"
+ },
+ "post-vaccination.html": {
+  "title": "O calendário de vacinação do cachorro na Europa — Pawty",
+  "description": "O calendário europeu padrão de vacinação do cachorro, o que cada vacina cobre e como socializar em segurança antes de a série terminar.",
+  "headline": "O calendário de vacinação do cachorro na Europa"
+ },
+ "post-puppy-sleep.html": {
+  "title": "Quanto sono precisa um cachorro — Pawty",
+  "description": "Os cachorros precisam de 18 a 20 horas de sono por dia. Porque as mordidelas ao fim do dia são cansaço, e como impor uma sesta sem luta.",
+  "headline": "Quanto sono precisa um cachorro"
+ },
+ "post-teething.html": {
+  "title": "Guia de sobrevivência à troca de dentes do cachorro — Blog Pawty",
+  "description": "A troca de dentes do 3.º ao 7.º mês, o que dá alívio e os erros a evitar.",
+  "headline": "Guia de sobrevivência à troca de dentes do cachorro"
+ },
+ "post-walks.html": {
+  "title": "Quanto tempo devem durar os passeios do cachorro? — Blog Pawty",
+  "description": "A regra dos 5 minutos por mês de idade, o que conta para ela e como ler o teu cachorro.",
+  "headline": "Quanto tempo devem durar os passeios do cachorro?"
+ },
+ "post-sit.html": {
+  "title": "Ensina o teu cão a sentar numa semana — Blog Pawty",
+  "description": "O método do engodo para ensinar o senta, os 2 erros clássicos e como é o sucesso em cada sessão.",
+  "headline": "Ensina o teu cão a sentar numa semana"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Clicker ou palavra marcadora: qual usar — Pawty",
+  "description": "Ambos marcam o momento exato em que o teu cão acerta. Qual usar e quando, como carregá-lo em 2 minutos e os 4 erros.",
+  "headline": "Clicker ou palavra marcadora: qual usar"
+ },
+ "post-5minutes.html": {
+  "title": "Porque 5 minutos por dia batem as maratonas de fim de semana — Blog Pawty",
+  "description": "Sessões curtas e diárias de treino batem as longas de fim de semana: repetições, aprendizagem espaçada e sequências.",
+  "headline": "Porque 5 minutos por dia batem as maratonas de fim de semana"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Tosquia do cockapoo: o que ninguém te diz — Pawty",
+  "description": "O pelo encaracolado nunca para de crescer. O custo real por ano, porque se formam nós e o método de escovar por camadas que os evita.",
+  "headline": "Tosquia do cockapoo: o que ninguém te diz"
+ },
+ "post-rescue-333.html": {
+  "title": "Adotar um cão adulto de um abrigo: a regra 3-3-3 — Pawty",
+  "description": "3 dias, 3 semanas, 3 meses. Como é realmente a adaptação de um cão adulto adotado, e o que fazer em cada fase.",
+  "headline": "Adotar um cão adulto de um abrigo: a regra 3-3-3"
+ },
+ "legal/terms.html": {
+  "title": "Termos de utilização — Pawty",
+  "description": "Termos de utilização da Pawty, a app de treino de cães para iPhone e Android, com o aviso sobre treino e a política de links de afiliado."
+ },
+ "legal/privacy.html": {
+  "title": "Política de privacidade — Pawty",
+  "description": "Como a Pawty trata os teus dados: publicidade personalizada e consentimento, direitos do RGPD, alojamento na UE e links de afiliado."
+ }
+}

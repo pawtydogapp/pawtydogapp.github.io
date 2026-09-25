@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Chien qui poursuit voitures, vélos et animaux sauvages",
+  "description": "Un schéma moteur inné qui se récompense tout seul. D'abord la gestion, car chaque poursuite le renforce.",
+  "card": "Un schéma moteur inné qui se récompense tout seul.",
+  "needs": [
+   "Longe",
+   "Canne à leurre"
+  ]
+ },
+ "attention": {
+  "title": "Chien qui gratte, gémit et pousse pour avoir de l'attention",
+  "description": "Même une attention agacée compte. Inverser le calcul pour que le calme paie et l'insistance non.",
+  "card": "Même une attention agacée compte.",
+  "needs": [
+   "Puzzle alimentaire",
+   "Objet à mâcher"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Chien qui ne se pose pas le soir",
+  "description": "L'agitation du soir signifie souvent que la journée était trop ou pas assez stimulante. Un rituel de retour au calme qui fonctionne.",
+  "card": "L'agitation du soir signifie souvent que la journée était trop ou pas assez stimulante.",
+  "needs": [
+   "Jouet à remplir congelé",
+   "Tapis de léchage",
+   "Panier pour chien"
+  ]
+ },
+ "biting": {
+  "title": "Pourquoi mon chiot mord-il ? Les mordillements expliqués",
+  "description": "Les chiots mordent pour explorer et apprendre à contrôler leur morsure. Pourquoi la phase requin arrive, ce qui l'arrête et ce qui l'aggrave.",
+  "card": "Les chiots mordent pour explorer et apprendre à contrôler leur morsure.",
+  "needs": [
+   "Jouet à tirer",
+   "Jouet à mâcher en caoutchouc"
+  ]
+ },
+ "teething": {
+  "title": "Dentition du chiot : mâchonner pendant le changement de dents",
+  "description": "28 dents de lait qui tombent, 42 dents adultes qui poussent, entre 3 et 7 mois. Quels objets à mâcher soulagent les gencives et lesquels sont dangereux.",
+  "card": "28 dents de lait qui tombent, 42 dents adultes qui poussent, entre 3 et 7 mois.",
+  "needs": [
+   "Bâton de caféier à mâcher",
+   "Bâton en bois d'olivier",
+   "Jouet à mâcher en caoutchouc",
+   "Friandises à mâcher pour chiot"
+  ]
+ },
+ "chewadult": {
+  "title": "Chien adulte qui mâchonne les meubles par ennui",
+  "description": "Mâcher apaise. Ce que te dit un chien adulte sous-stimulé, et comment rediriger ce besoin.",
+  "card": "Mâcher apaise.",
+  "needs": [
+   "Objets à mâcher en rotation",
+   "Puzzle alimentaire"
+  ]
+ },
+ "jumping": {
+  "title": "Chien qui saute sur les gens : comment l'arrêter",
+  "description": "Sauter, c'est de l'excitation plus un historique où ça a payé. La règle des 4 pattes au sol et le comportement incompatible qui le remplace.",
+  "card": "Sauter, c'est de l'excitation plus un historique où ça a payé.",
+  "needs": [
+   "Pochette à friandises"
+  ]
+ },
+ "pulling": {
+  "title": "Chien qui tire en laisse : pourquoi et ce qui marche",
+  "description": "Les chiens tirent parce que ça les a fait avancer. Stop and go, récompense contre ta jambe, et pourquoi les colliers à pointes créent de nouveaux problèmes.",
+  "card": "Les chiens tirent parce que ça les a fait avancer.",
+  "needs": [
+   "Harnais à attache frontale",
+   "Laisse classique de 2 m",
+   "Pochette à friandises"
+  ]
+ },
+ "doorbell": {
+  "title": "Chien qui aboie à la sonnette",
+  "description": "La sonnette annonce un événement excitant. Comment la reconditionner pour qu'elle annonce du fromage au lieu du chaos.",
+  "card": "La sonnette annonce un événement excitant.",
+  "needs": [
+   "Enregistrement du son de la sonnette",
+   "Panier ou tapis"
+  ]
+ },
+ "barkdogs": {
+  "title": "Chien qui aboie sur les autres chiens en promenade",
+  "description": "Le plus souvent de la frustration ou un malaise. Trouver la distance à laquelle ton chien reste calme, puis la réduire sur des semaines.",
+  "card": "Le plus souvent de la frustration ou un malaise.",
+  "needs": [
+   "Longe",
+   "Friandises de grande valeur"
+  ]
+ },
+ "demand": {
+  "title": "Aboiements de demande : le chien t'aboie dessus pour de la nourriture ou de l'attention",
+  "description": "Le chien aboie parce que ça a déjà marché. Pourquoi ça empire avant de s'améliorer.",
+  "card": "Le chien aboie parce que ça a déjà marché.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Chiot qui pleure la nuit : ce qui aide vraiment",
+  "description": "Les pleurs nocturnes sont une détresse de séparation, pas de la manipulation. Pourquoi le laisser pleurer abîme la confiance à cet âge.",
+  "card": "Les pleurs nocturnes sont une détresse de séparation, pas de la manipulation.",
+  "needs": [
+   "Caisse",
+   "Panier pour chiot"
+  ]
+ },
+ "cratecry": {
+  "title": "Chiot qui pleure dans sa caisse",
+  "description": "Être enfermé n'a rien de naturel tant que la caisse n'est pas devenue une tanière. Jeux porte ouverte et progrès seconde par seconde.",
+  "card": "Être enfermé n'a rien de naturel tant que la caisse n'est pas devenue une tanière.",
+  "needs": [
+   "Caisse",
+   "Housse de caisse",
+   "Puzzle alimentaire"
+  ]
+ },
+ "sepanx": {
+  "title": "Chien qui supporte mal de rester seul",
+  "description": "Rester seul s'apprend, ce n'est pas un réglage d'usine. Entraîner les absences à toutes petites doses, et quand filmer le chien.",
+  "card": "Rester seul s'apprend, ce n'est pas un réglage d'usine.",
+  "needs": [
+   "Objet à mâcher longue durée",
+   "Caméra pour animaux"
+  ]
+ },
+ "digging": {
+  "title": "Chien qui creuse dans le jardin",
+  "description": "Creuser est inné. Tu ne peux pas le supprimer, mais tu peux le déplacer vers une zone de fouille autorisée.",
+  "card": "Creuser est inné.",
+  "needs": [
+   "Bac à sable ou bac à fouille",
+   "Jouets à enterrer"
+  ]
+ },
+ "counter": {
+  "title": "Chien qui vole de la nourriture sur le plan de travail",
+  "description": "Le plan de travail a payé une fois. Pourquoi une gestion sans faille, et non l'éducation, est le vrai remède.",
+  "card": "Le plan de travail a payé une fois.",
+  "needs": [
+   "Tapis pour la cuisine"
+  ]
+ },
+ "poop": {
+  "title": "Chien qui mange ses excréments (coprophagie)",
+  "description": "Fréquent, rarement lié à l'alimentation. Ramasser tout de suite, le Laisse, et le contrôle vétérinaire qui vaut la peine.",
+  "card": "Fréquent, rarement lié à l'alimentation.",
+  "needs": [
+   "Sacs à crottes",
+   "Pochette à friandises"
+  ]
+ },
+ "scavenge": {
+  "title": "Chien qui mange tout en promenade",
+  "description": "Les chiens sont des charognards opportunistes par nature. Le Laisse au niveau du trottoir, et quand une muselière panier est un outil de sécurité.",
+  "card": "Les chiens sont des charognards opportunistes par nature.",
+  "needs": [
+   "Muselière panier",
+   "Longe"
+  ]
+ },
+ "guard": {
+  "title": "Protection des ressources : premiers signes avec la nourriture et les jouets",
+  "description": "Se figer, fixer du regard ou grogner signifie la peur de perdre. Pourquoi il ne faut jamais punir un grognement.",
+  "card": "Se figer, fixer du regard ou grogner signifie la peur de perdre.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Réactivité en laisse : chien qui bondit et aboie",
+  "description": "De grosses émotions sans issue. Travailler sous le seuil, avec des progrès mesurés en mètres par mois.",
+  "card": "De grosses émotions sans issue.",
+  "needs": [
+   "Longe",
+   "Harnais à attache frontale",
+   "Friandises de grande valeur"
+  ]
+ },
+ "fireworks": {
+  "title": "Chien qui a peur des feux d'artifice et de l'orage",
+  "description": "Préparer une tanière, pourquoi rassurer ton chien est très bien, et le travail sur les sons à commencer en novembre.",
+  "card": "Préparer une tanière, pourquoi rassurer ton chien est très bien, et le travail sur les sons à commencer en novembre.",
+  "needs": [
+   "Appareil à bruit blanc",
+   "Panier couvert"
+  ]
+ },
+ "norecall": {
+  "title": "Chien qui ne revient pas quand on l'appelle",
+  "description": "L'environnement paie mieux que toi. Reconstruire le rappel avec une longe et protéger le signal.",
+  "card": "L'environnement paie mieux que toi.",
+  "needs": [
+   "Longe",
+   "Friandises de grande valeur"
+  ]
+ },
+ "housetrain": {
+  "title": "Accidents pendant l'apprentissage de la propreté du chiot",
+  "description": "La vessie d'un chiot tient à peu près autant d'heures qu'il a de mois. Le timing, et pourquoi le nettoyant enzymatique compte.",
+  "card": "La vessie d'un chiot tient à peu près autant d'heures qu'il a de mois.",
+  "needs": [
+   "Nettoyant enzymatique",
+   "Tapis éducateurs"
+  ]
+ },
+ "marking": {
+  "title": "Chien qui marque à l'intérieur",
+  "description": "Petits marquages volontaires sur des surfaces verticales. Écarte d'abord les causes médicales.",
+  "card": "Petits marquages volontaires sur des surfaces verticales.",
+  "needs": [
+   "Nettoyant enzymatique",
+   "Bande de propreté pour mâle"
+  ]
+ },
+ "heat": {
+  "title": "Les premières chaleurs d'une chienne : à quoi s'attendre",
+  "description": "Entre 6 et 15 mois, pendant 2 à 4 semaines. 3 semaines de gestion, puis la vie reprend.",
+  "card": "Entre 6 et 15 mois, pendant 2 à 4 semaines.",
+  "needs": [
+   "Culotte hygiénique",
+   "Protections lavables"
+  ]
+ },
+ "humping": {
+  "title": "Chien qui chevauche : ce que ça veut vraiment dire",
+  "description": "Surtout de la surexcitation et une décharge de stress, pas de la dominance, et souvent rien de sexuel.",
+  "card": "Surtout de la surexcitation et une décharge de stress, pas de la dominance, et souvent rien de sexuel.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Les zoomies expliqués : les folles courses soudaines",
+  "description": "Les tours de course soudains sont une décharge d'énergie normale et saine. Gère le terrain, pas la joie.",
+  "card": "Les tours de course soudains sont une décharge d'énergie normale et saine.",
+  "needs": [
+   "Tapis antidérapant"
+  ]
+ },
+ "begging": {
+  "title": "Chien qui mendie à table",
+  "description": "Ces yeux ont gagné une chips un jour. Une vraie politique de zéro récompense, et l'éducation des humains.",
+  "card": "Ces yeux ont gagné une chips un jour.",
+  "needs": [
+   "Tapis pour la cuisine",
+   "Objet à mâcher longue durée"
+  ]
+ },
+ "stealing": {
+  "title": "Chien qui vole les chaussettes et s'enfuit avec",
+  "description": "Une chaussette volée, et les humains se lancent à sa poursuite. Mettre fin à l'économie de la course-poursuite.",
+  "card": "Une chaussette volée, et les humains se lancent à sa poursuite.",
+  "needs": [
+   "Jouet à tirer",
+   "Friandises d'échange"
+  ]
+ },
+ "carfear": {
+  "title": "Chien qui a peur de la voiture",
+  "description": "Mal des transports, ou la voiture ne mène qu'au vétérinaire. Tout reconstruire par étapes.",
+  "card": "Mal des transports, ou la voiture ne mène qu'au vétérinaire.",
+  "needs": [
+   "Harnais de voiture ou caisse",
+   "Protection de coffre"
+  ]
+ },
+ "greetpee": {
+  "title": "Chiot qui fait pipi d'excitation ou pour saluer",
+  "description": "Un contrôle de la vessie immature, pas de la rancune. Pourquoi la punition aggrave le pipi de soumission.",
+  "card": "Un contrôle de la vessie immature, pas de la rancune.",
+  "needs": [
+   "Nettoyant enzymatique"
+  ]
+ },
+ "nailfear": {
+  "title": "Chien qui déteste la coupe des griffes",
+  "description": "Une seule coupe douloureuse laisse un long souvenir. Des soins coopératifs, une griffe par jour.",
+  "card": "Une seule coupe douloureuse laisse un long souvenir.",
+  "needs": [
+   "Coupe-griffes",
+   "Ponceuse à griffes",
+   "Planche à griffer"
+  ]
+ }
+}

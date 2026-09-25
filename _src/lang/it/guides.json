@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Cane che insegue auto, bici e animali selvatici",
+  "description": "Uno schema motorio innato che si autoricompensa. Prima la gestione, perché ogni inseguimento lo rafforza.",
+  "card": "Uno schema motorio innato che si autoricompensa.",
+  "needs": [
+   "Lunghina",
+   "Canna con richiamo"
+  ]
+ },
+ "attention": {
+  "title": "Cane che dà la zampa, guaisce e spinge per avere attenzione",
+  "description": "Anche l'attenzione infastidita conta. Ribaltare i conti perché la calma paghi e l'insistenza no.",
+  "card": "Anche l'attenzione infastidita conta.",
+  "needs": [
+   "Gioco rompicapo per cibo",
+   "Masticativo"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Cane che la sera non si calma",
+  "description": "L'agitazione serale di solito significa che la giornata è stata troppo o troppo poco stimolante. Un rituale per rallentare che funziona.",
+  "card": "L'agitazione serale di solito significa che la giornata è stata troppo o troppo poco stimolante.",
+  "needs": [
+   "Gioco con cibo congelato",
+   "Tappetino da leccare",
+   "Cuccia"
+  ]
+ },
+ "biting": {
+  "title": "Perché il mio cucciolo morde? I morsi spiegati",
+  "description": "I cuccioli mordono per esplorare e imparare a controllare il morso. Perché arriva la fase squalo, cosa la ferma e cosa la peggiora.",
+  "card": "I cuccioli mordono per esplorare e imparare a controllare il morso.",
+  "needs": [
+   "Gioco da tiro",
+   "Gioco da masticare in gomma"
+  ]
+ },
+ "teething": {
+  "title": "Dentizione del cucciolo: masticare durante il cambio dei denti",
+  "description": "Escono 28 denti da latte ed entrano 42 denti adulti, tra i 3 e i 7 mesi. Quali masticativi leniscono le gengive e quali sono pericolosi.",
+  "card": "Escono 28 denti da latte ed entrano 42 denti adulti, tra i 3 e i 7 mesi.",
+  "needs": [
+   "Masticativo in legno di caffè",
+   "Masticativo in legno d'ulivo",
+   "Gioco da masticare in gomma",
+   "Masticativi per cuccioli"
+  ]
+ },
+ "chewadult": {
+  "title": "Cane adulto che rosicchia i mobili per noia",
+  "description": "Masticare calma. Cosa ti sta dicendo un cane adulto poco stimolato, e come reindirizzarlo.",
+  "card": "Masticare calma.",
+  "needs": [
+   "Masticativi a rotazione",
+   "Gioco rompicapo per cibo"
+  ]
+ },
+ "jumping": {
+  "title": "Cane che salta addosso alle persone: come smettere",
+  "description": "Saltare è eccitazione più una storia in cui ha pagato. La regola delle 4 zampe a terra e il compito incompatibile che lo sostituisce.",
+  "card": "Saltare è eccitazione più una storia in cui ha pagato.",
+  "needs": [
+   "Marsupio porta premi"
+  ]
+ },
+ "pulling": {
+  "title": "Cane che tira al guinzaglio: perché succede e cosa funziona",
+  "description": "I cani tirano perché li ha fatti avanzare. Fermati e riparti, premio vicino alla gamba, e perché i collari a punte creano nuovi problemi.",
+  "card": "I cani tirano perché li ha fatti avanzare.",
+  "needs": [
+   "Pettorina con aggancio frontale",
+   "Guinzaglio standard da 2 m",
+   "Marsupio porta premi"
+  ]
+ },
+ "doorbell": {
+  "title": "Cane che abbaia al campanello",
+  "description": "Il campanello annuncia qualcosa di eccitante. Come ricondizionarlo perché annunci formaggio invece del caos.",
+  "card": "Il campanello annuncia qualcosa di eccitante.",
+  "needs": [
+   "Registrazione del suono del campanello",
+   "Cuccia o tappetino"
+  ]
+ },
+ "barkdogs": {
+  "title": "Cane che abbaia agli altri cani in passeggiata",
+  "description": "Di solito frustrazione o disagio. Trovare la distanza a cui il tuo cane resta calmo e ridurla nel corso delle settimane.",
+  "card": "Di solito frustrazione o disagio.",
+  "needs": [
+   "Lunghina",
+   "Premi di alto valore"
+  ]
+ },
+ "demand": {
+  "title": "Abbaio di richiesta: il cane ti abbaia per cibo o attenzione",
+  "description": "Il cane abbaia perché ha già funzionato. Perché peggiora prima di migliorare.",
+  "card": "Il cane abbaia perché ha già funzionato.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Cucciolo che piange di notte: cosa aiuta davvero",
+  "description": "Il pianto notturno è disagio da separazione, non manipolazione. Perché lasciarlo piangere a questa età intacca la fiducia.",
+  "card": "Il pianto notturno è disagio da separazione, non manipolazione.",
+  "needs": [
+   "Trasportino",
+   "Cuccia per cucciolo"
+  ]
+ },
+ "cratecry": {
+  "title": "Cucciolo che piange nel trasportino",
+  "description": "Stare chiusi non è naturale finché il trasportino non diventa una tana. Giochi a porta aperta e progressi secondo per secondo.",
+  "card": "Stare chiusi non è naturale finché il trasportino non diventa una tana.",
+  "needs": [
+   "Trasportino",
+   "Copertura per trasportino",
+   "Gioco rompicapo per cibo"
+  ]
+ },
+ "sepanx": {
+  "title": "Cane che fatica a restare solo",
+  "description": "Stare da soli è un'abilità che si impara, non un'impostazione di fabbrica. Allenare le assenze in dosi minime, e quando filmare il cane.",
+  "card": "Stare da soli è un'abilità che si impara, non un'impostazione di fabbrica.",
+  "needs": [
+   "Masticativo a lunga durata",
+   "Telecamera per animali"
+  ]
+ },
+ "digging": {
+  "title": "Cane che scava in giardino",
+  "description": "Scavare è innato. Non puoi cancellarlo, ma puoi spostarlo in una zona di scavo permessa.",
+  "card": "Scavare è innato.",
+  "needs": [
+   "Sabbiera o cassa da scavo",
+   "Giochi da sotterrare"
+  ]
+ },
+ "counter": {
+  "title": "Cane che ruba il cibo dal piano di lavoro",
+  "description": "Il piano di lavoro ha pagato una volta. Perché la vera cura è una gestione a tenuta stagna, non l'addestramento.",
+  "card": "Il piano di lavoro ha pagato una volta.",
+  "needs": [
+   "Tappetino per la cucina"
+  ]
+ },
+ "poop": {
+  "title": "Cane che mangia le feci (coprofagia)",
+  "description": "Comune, raramente legato alla dieta. Raccogliere subito, Lascia, e il controllo dal veterinario che vale la pena fare.",
+  "card": "Comune, raramente legato alla dieta.",
+  "needs": [
+   "Sacchetti per deiezioni",
+   "Marsupio porta premi"
+  ]
+ },
+ "scavenge": {
+  "title": "Cane che mangia cose in passeggiata",
+  "description": "I cani sono spazzini opportunisti per natura. Il Lascia a livello strada, e quando la museruola a cestello è uno strumento di sicurezza.",
+  "card": "I cani sono spazzini opportunisti per natura.",
+  "needs": [
+   "Museruola a cestello",
+   "Lunghina"
+  ]
+ },
+ "guard": {
+  "title": "Difesa delle risorse: primi segnali con cibo e giochi",
+  "description": "Irrigidirsi, fissare o ringhiare indica paura di perdere qualcosa. Perché non devi mai punire un ringhio.",
+  "card": "Irrigidirsi, fissare o ringhiare indica paura di perdere qualcosa.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Reattività al guinzaglio: il cane scatta e abbaia",
+  "description": "Emozioni forti senza via d'uscita. Lavorare sotto soglia, con progressi misurati in metri al mese.",
+  "card": "Emozioni forti senza via d'uscita.",
+  "needs": [
+   "Lunghina",
+   "Pettorina con aggancio frontale",
+   "Premi di alto valore"
+  ]
+ },
+ "fireworks": {
+  "title": "Cane che ha paura dei fuochi d'artificio e dei temporali",
+  "description": "Preparare una tana, perché consolare il tuo cane va bene, e il lavoro sui suoni da iniziare a novembre.",
+  "card": "Preparare una tana, perché consolare il tuo cane va bene, e il lavoro sui suoni da iniziare a novembre.",
+  "needs": [
+   "Dispositivo a rumore bianco",
+   "Cuccia coperta"
+  ]
+ },
+ "norecall": {
+  "title": "Cane che non torna quando lo chiami",
+  "description": "L'ambiente paga meglio di te. Ricostruire il richiamo con la lunghina e proteggere il segnale.",
+  "card": "L'ambiente paga meglio di te.",
+  "needs": [
+   "Lunghina",
+   "Premi di alto valore"
+  ]
+ },
+ "housetrain": {
+  "title": "Incidenti nell'educazione del cucciolo ai bisogni",
+  "description": "La vescica di un cucciolo tiene più o meno tante ore quanti mesi ha. I tempi, e perché il detergente enzimatico conta.",
+  "card": "La vescica di un cucciolo tiene più o meno tante ore quanti mesi ha.",
+  "needs": [
+   "Detergente enzimatico",
+   "Traversine per cuccioli"
+  ]
+ },
+ "marking": {
+  "title": "Cane che marca in casa",
+  "description": "Piccole marcature volute su superfici verticali. Escludi prima le cause mediche.",
+  "card": "Piccole marcature volute su superfici verticali.",
+  "needs": [
+   "Detergente enzimatico",
+   "Fascia per maschi"
+  ]
+ },
+ "heat": {
+  "title": "Il primo calore della cagnolina: cosa aspettarsi",
+  "description": "Tra i 6 e i 15 mesi, dura da 2 a 4 settimane. 3 settimane di gestione, poi la vita riprende.",
+  "card": "Tra i 6 e i 15 mesi, dura da 2 a 4 settimane.",
+  "needs": [
+   "Mutandine igieniche",
+   "Assorbenti lavabili"
+  ]
+ },
+ "humping": {
+  "title": "Cane che monta: cosa significa davvero",
+  "description": "Soprattutto sovraeccitazione e sfogo dello stress, non dominanza e spesso niente di sessuale.",
+  "card": "Soprattutto sovraeccitazione e sfogo dello stress, non dominanza e spesso niente di sessuale.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Gli zoomies spiegati: le improvvise corse pazze",
+  "description": "I giri di corsa improvvisi sono uno sfogo di energia normale e sano. Gestisci il terreno, non la gioia.",
+  "card": "I giri di corsa improvvisi sono uno sfogo di energia normale e sano.",
+  "needs": [
+   "Tappeto antiscivolo"
+  ]
+ },
+ "begging": {
+  "title": "Cane che chiede cibo a tavola",
+  "description": "Quegli occhi una volta hanno guadagnato una patatina. Una vera politica di zero premi, e l'addestramento degli umani.",
+  "card": "Quegli occhi una volta hanno guadagnato una patatina.",
+  "needs": [
+   "Tappetino per la cucina",
+   "Masticativo a lunga durata"
+  ]
+ },
+ "stealing": {
+  "title": "Cane che ruba i calzini e scappa",
+  "description": "Prende un calzino e gli umani partono all'inseguimento. Come chiudere l'economia dell'inseguimento.",
+  "card": "Prende un calzino e gli umani partono all'inseguimento.",
+  "needs": [
+   "Gioco da tiro",
+   "Premi di scambio"
+  ]
+ },
+ "carfear": {
+  "title": "Cane che ha paura di andare in auto",
+  "description": "Mal d'auto, oppure l'auto va sempre e solo dal veterinario. Ricostruire un passo alla volta.",
+  "card": "Mal d'auto, oppure l'auto va sempre e solo dal veterinario.",
+  "needs": [
+   "Pettorina da auto o trasportino",
+   "Telo per bagagliaio"
+  ]
+ },
+ "greetpee": {
+  "title": "Cucciolo che fa pipì per l'emozione o nel salutare",
+  "description": "Controllo della vescica ancora immaturo, non dispetto. Perché la punizione peggiora la pipì di sottomissione.",
+  "card": "Controllo della vescica ancora immaturo, non dispetto.",
+  "needs": [
+   "Detergente enzimatico"
+  ]
+ },
+ "nailfear": {
+  "title": "Cane che odia il taglio delle unghie",
+  "description": "Un solo taglio doloroso lascia un ricordo lungo. Cure cooperative, un'unghia al giorno.",
+  "card": "Un solo taglio doloroso lascia un ricordo lungo.",
+  "needs": [
+   "Tagliaunghie",
+   "Lima elettrica per unghie",
+   "Tavola da grattare"
+  ]
+ }
+}

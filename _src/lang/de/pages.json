@@ -1,0 +1,94 @@
+{
+ "guides.html": {
+  "title": "32 Ratgeber zum Hundeverhalten — Pawty",
+  "description": "Kostenlose, ehrliche Ratgeber zum Hundeverhalten: Welpenbeißen, Bellen, Ziehen an der Leine, Ressourcenverteidigung, Rückruf, Stubenreinheit und 26 weitere. Aus der Pawty App für iPhone und Android."
+ },
+ "support.html": {
+  "title": "Hilfe — Pawty",
+  "description": "Hilfe zur Hundetrainings-App Pawty für iPhone und Android: Konto löschen, Probleme bei der Anmeldung, Streaks, Rangliste und Kontakt."
+ },
+ "approach.html": {
+  "title": "Unser Ansatz — Pawty",
+  "description": "Wie Pawty trainiert: nur positive Verstärkung, 3-Minuten-Einheiten, keine Schuldgefühle, und wann du stattdessen zur Tierarztpraxis oder Verhaltensberatung solltest."
+ },
+ "partners.html": {
+  "title": "Partner und Presse — Pawty",
+  "description": "Werde Partner von Pawty, einer kostenlosen Hundetrainings-App für iPhone und Android. Erreiche engagierte Hundehalter über Platzierungen im Marktplatz der App. Mit Pressemappe."
+ },
+ "marketplace.html": {
+  "title": "Marktplatz-Partner — Pawty",
+  "description": "Pawty Marktplatz-Partner: Hundefutter, Ausrüstung, Pflege und Versicherung von Fressnapf, Maxi Zoo, tails.com, Bella & Duke und weiteren, gefiltert nach Land."
+ },
+ "index.html": {
+  "title": "Pawty — Duolingo für Hunde",
+  "description": "Dein Hund ist nicht kaputt und du versagst nicht. 99 Trainings-Skills in 3-Minuten-Einheiten, 32 ehrliche Verhaltensratgeber, Streaks, die einfrieren statt zurückzusetzen. Kostenlos für iPhone und Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Kostenlose Hundetrainings-App für iPhone und Android mit 99 Skills, 32 Verhaltensratgebern, Pfoten-Bewertungen, Streaks und einem Pflegekalender.\",\"url\":\"https://pawtyapp.com/de/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"de\"}"
+ },
+ "blog.html": {
+  "title": "Pawty Blog — praktisches Hundetraining und Leben mit Hund",
+  "description": "Praktische Hundeartikel von Pawty: was ein Welpe kostet, die Einkaufsliste, Impftermine, Schlaf, Clickertraining, Fellpflege und Hunde aus dem Tierschutz."
+ },
+ "post-puppy-cost.html": {
+  "title": "Was ein Welpe im ersten Jahr wirklich kostet — Pawty",
+  "description": "Europäische Kosten für das erste Welpenjahr, Posten für Posten: Box, Tierarzt, Futter, Fellpflege und Versicherung, und was du dir sparen kannst.",
+  "headline": "Was ein Welpe im ersten Jahr wirklich kostet"
+ },
+ "post-shopping-list.html": {
+  "title": "Die Einkaufsliste für den Welpen, und was du weglassen kannst — Pawty",
+  "description": "Was du vor dem Einzug des Welpen kaufst, was im 2. Monat, und die 6 Dinge aus dem Tierladen, die du nicht brauchst.",
+  "headline": "Die Einkaufsliste für den Welpen, und was du weglassen kannst"
+ },
+ "post-vaccination.html": {
+  "title": "Der Impfplan für Welpen in Europa — Pawty",
+  "description": "Der übliche europäische Impfplan für Welpen, wogegen jede Impfung schützt und wie du sicher sozialisierst, bevor die Grundimmunisierung abgeschlossen ist.",
+  "headline": "Der Impfplan für Welpen in Europa"
+ },
+ "post-puppy-sleep.html": {
+  "title": "Wie viel Schlaf braucht ein Welpe — Pawty",
+  "description": "Welpen brauchen 18 bis 20 Stunden Schlaf am Tag. Warum das abendliche Beißen Übermüdung ist und wie du ein Nickerchen ohne Kampf durchsetzt.",
+  "headline": "Wie viel Schlaf braucht ein Welpe"
+ },
+ "post-teething.html": {
+  "title": "Überlebensratgeber für den Zahnwechsel beim Welpen — Pawty Blog",
+  "description": "Zeitplan des Zahnwechsels vom 3. bis 7. Monat, was hilft und welche Fehler du vermeiden solltest.",
+  "headline": "Überlebensratgeber für den Zahnwechsel beim Welpen"
+ },
+ "post-walks.html": {
+  "title": "Wie lang sollten Spaziergänge mit dem Welpen sein? — Pawty Blog",
+  "description": "Die 5-Minuten-pro-Monat-Regel für Welpenspaziergänge, was dazuzählt und wie du deinen Welpen liest.",
+  "headline": "Wie lang sollten Spaziergänge mit dem Welpen sein?"
+ },
+ "post-sit.html": {
+  "title": "Bring deinem Hund in einer Woche Sitz bei — Pawty Blog",
+  "description": "Die Lockmethode für Sitz, die 2 klassischen Fehler und wie Erfolg pro Einheit aussieht.",
+  "headline": "Bring deinem Hund in einer Woche Sitz bei"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Clicker oder Markerwort: was solltest du nutzen — Pawty",
+  "description": "Beide markieren den genauen Moment, in dem dein Hund es richtig macht. Wann du was nutzt, wie du es in 2 Minuten konditionierst, und die 4 Fehler.",
+  "headline": "Clicker oder Markerwort: was solltest du nutzen"
+ },
+ "post-5minutes.html": {
+  "title": "Warum 5 Minuten am Tag Wochenend-Marathons schlagen — Pawty Blog",
+  "description": "Kurze tägliche Trainingseinheiten schlagen lange am Wochenende: Wiederholungen, verteiltes Lernen und Streaks.",
+  "headline": "Warum 5 Minuten am Tag Wochenend-Marathons schlagen"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Cockapoo-Fellpflege: was dir niemand sagt — Pawty",
+  "description": "Lockiges Fell hört nie auf zu wachsen. Die echten Kosten pro Jahr, warum Verfilzungen entstehen und die Scheitel-Bürstmethode, die sie verhindert.",
+  "headline": "Cockapoo-Fellpflege: was dir niemand sagt"
+ },
+ "post-rescue-333.html": {
+  "title": "Einen erwachsenen Hund aus dem Tierschutz adoptieren: die 3-3-3-Regel — Pawty",
+  "description": "3 Tage, 3 Wochen, 3 Monate. Wie das Ankommen eines erwachsenen Tierschutzhundes wirklich aussieht und was du in jeder Phase tust.",
+  "headline": "Einen erwachsenen Hund aus dem Tierschutz adoptieren: die 3-3-3-Regel"
+ },
+ "legal/terms.html": {
+  "title": "Nutzungsbedingungen — Pawty",
+  "description": "Nutzungsbedingungen der Hundetraining-App Pawty für iPhone und Android, mit Trainingshinweis und Regeln zu Affiliate-Links."
+ },
+ "legal/privacy.html": {
+  "title": "Datenschutzerklärung — Pawty",
+  "description": "Wie Pawty mit deinen Daten umgeht: personalisierte Werbung und Einwilligung, Rechte nach DSGVO, Hosting in der EU und Affiliate-Links."
+ }
+}

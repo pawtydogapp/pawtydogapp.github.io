@@ -1,0 +1,434 @@
+{
+ "domain": "https://pawtyapp.com",
+ "languages": [
+  [
+   "en",
+   "English",
+   "en_GB"
+  ],
+  [
+   "de",
+   "Deutsch",
+   "de_DE"
+  ],
+  [
+   "es",
+   "Español",
+   "es_ES"
+  ],
+  [
+   "fr",
+   "Français",
+   "fr_FR"
+  ],
+  [
+   "hr",
+   "Hrvatski",
+   "hr_HR"
+  ],
+  [
+   "it",
+   "Italiano",
+   "it_IT"
+  ],
+  [
+   "nl",
+   "Nederlands",
+   "nl_NL"
+  ],
+  [
+   "pl",
+   "Polski",
+   "pl_PL"
+  ],
+  [
+   "pt",
+   "Português",
+   "pt_PT"
+  ],
+  [
+   "ro",
+   "Română",
+   "ro_RO"
+  ],
+  [
+   "sl",
+   "Slovenščina",
+   "sl_SI"
+  ]
+ ],
+ "pages": [
+  {
+   "path": "index.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "1.0",
+   "ld": "raw"
+  },
+  {
+   "path": "blog.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7"
+  },
+  {
+   "path": "guides.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7"
+  },
+  {
+   "path": "marketplace.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7"
+  },
+  {
+   "path": "approach.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7"
+  },
+  {
+   "path": "partners.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7"
+  },
+  {
+   "path": "support.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7"
+  },
+  {
+   "path": "post-walks.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-sit.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-teething.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-5minutes.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-puppy-cost.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-shopping-list.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-vaccination.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-puppy-sleep.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-clicker-vs-marker.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-cockapoo-grooming.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "post-rescue-333.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "date": "2026-09-05",
+   "ld": "article"
+  },
+  {
+   "path": "legal/privacy.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.5"
+  },
+  {
+   "path": "legal/terms.html",
+   "kind": "page",
+   "lastmod": "2026-09-05",
+   "priority": "0.5"
+  },
+  {
+   "path": "guides/chasing.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/attention-seeking.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/evening-settling.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/puppy-biting.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/puppy-teething.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/adult-chewing.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/jumping-up.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/pulling-on-lead.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/barking-at-doorbell.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/barking-at-other-dogs.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/demand-barking.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/puppy-crying-at-night.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/crate-crying.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/home-alone.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/digging.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/counter-surfing.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/eating-poo.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/eating-things-on-walks.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/resource-guarding.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/lead-reactivity.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/fear-of-fireworks.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/recall-problems.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/toilet-training.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/marking-indoors.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/first-heat.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/humping.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/zoomies.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/begging.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/stealing-and-running.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/car-fear.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/excited-peeing.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "guides/nail-trimming.html",
+   "kind": "guide",
+   "lastmod": "2026-09-05",
+   "priority": "0.7",
+   "ld": "article"
+  },
+  {
+   "path": "404.html",
+   "kind": "page",
+   "noindex": true
+  }
+ ]
+}

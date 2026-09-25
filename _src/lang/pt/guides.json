@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Cão que persegue carros, bicicletas e animais",
+  "description": "Um padrão motor inato que se recompensa a si próprio. Primeiro a gestão, porque cada perseguição o reforça.",
+  "card": "Um padrão motor inato que se recompensa a si próprio.",
+  "needs": [
+   "Trela longa",
+   "Cana com isco"
+  ]
+ },
+ "attention": {
+  "title": "Cão que dá a pata, choraminga e empurra para ter atenção",
+  "description": "Até a atenção irritada conta. Virar as contas para que a calma compense e a insistência não.",
+  "card": "Até a atenção irritada conta.",
+  "needs": [
+   "Puzzle de comida",
+   "Mastigável"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Cão que não sossega à noite",
+  "description": "A agitação ao fim do dia costuma significar que o dia teve estímulo a menos ou a mais. Um ritual para abrandar que funciona.",
+  "card": "A agitação ao fim do dia costuma significar que o dia teve estímulo a menos ou a mais.",
+  "needs": [
+   "Brinquedo com comida congelada",
+   "Tapete de lamber",
+   "Cama para cão"
+  ]
+ },
+ "biting": {
+  "title": "Porque é que o meu cachorro morde? As mordidelas explicadas",
+  "description": "Os cachorros mordem para explorar e aprender a controlar a mordida. Porque chega a fase tubarão, o que a trava e o que a piora.",
+  "card": "Os cachorros mordem para explorar e aprender a controlar a mordida.",
+  "needs": [
+   "Brinquedo de puxar",
+   "Brinquedo de borracha para roer"
+  ]
+ },
+ "teething": {
+  "title": "Dentição do cachorro: roer durante a troca de dentes",
+  "description": "Saem 28 dentes de leite e entram 42 definitivos, entre os 3 e os 7 meses. Que mastigáveis aliviam as gengivas e quais são perigosos.",
+  "card": "Saem 28 dentes de leite e entram 42 definitivos, entre os 3 e os 7 meses.",
+  "needs": [
+   "Mastigável de madeira de cafeeiro",
+   "Mastigável de madeira de oliveira",
+   "Brinquedo de borracha para roer",
+   "Mastigáveis para cachorros"
+  ]
+ },
+ "chewadult": {
+  "title": "Cão adulto que rói móveis por tédio",
+  "description": "Roer acalma. O que te está a dizer um cão adulto pouco estimulado e como redirecionar isso.",
+  "card": "Roer acalma.",
+  "needs": [
+   "Mastigáveis alternados",
+   "Puzzle de comida"
+  ]
+ },
+ "jumping": {
+  "title": "Cão que salta para cima das pessoas: como parar",
+  "description": "Saltar é excitação mais um historial em que compensou. A regra das 4 patas no chão e a tarefa incompatível que a substitui.",
+  "card": "Saltar é excitação mais um historial em que compensou.",
+  "needs": [
+   "Bolsa de guloseimas"
+  ]
+ },
+ "pulling": {
+  "title": "Cão que puxa a trela: porque acontece e o que funciona",
+  "description": "Os cães puxam porque isso os levou para a frente. Parar e avançar, recompensa junto à tua perna, e porque as coleiras de picos criam novos problemas.",
+  "card": "Os cães puxam porque isso os levou para a frente.",
+  "needs": [
+   "Arnês com fixação frontal",
+   "Trela normal de 2 m",
+   "Bolsa de guloseimas"
+  ]
+ },
+ "doorbell": {
+  "title": "Cão que ladra à campainha",
+  "description": "A campainha anuncia algo empolgante. Como a recondicionar para que anuncie queijo em vez de caos.",
+  "card": "A campainha anuncia algo empolgante.",
+  "needs": [
+   "Gravação do som da campainha",
+   "Cama ou tapete"
+  ]
+ },
+ "barkdogs": {
+  "title": "Cão que ladra a outros cães no passeio",
+  "description": "Normalmente frustração ou desconforto. Encontrar a distância a que o teu cão fica calmo e reduzi-la ao longo de semanas.",
+  "card": "Normalmente frustração ou desconforto.",
+  "needs": [
+   "Trela longa",
+   "Guloseimas de alto valor"
+  ]
+ },
+ "demand": {
+  "title": "Ladrar de exigência: o cão ladra-te por comida ou atenção",
+  "description": "O cão ladra porque já resultou antes. Porque piora antes de melhorar.",
+  "card": "O cão ladra porque já resultou antes.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Cachorro que chora à noite: o que ajuda mesmo",
+  "description": "O choro noturno é angústia de separação, não manipulação. Porque deixá-lo chorar mina a confiança nesta idade.",
+  "card": "O choro noturno é angústia de separação, não manipulação.",
+  "needs": [
+   "Caixa",
+   "Cama para cachorro"
+  ]
+ },
+ "cratecry": {
+  "title": "Cachorro que chora na caixa",
+  "description": "Estar fechado não é natural até a caixa ser treinada como toca. Jogos de porta aberta e progresso segundo a segundo.",
+  "card": "Estar fechado não é natural até a caixa ser treinada como toca.",
+  "needs": [
+   "Caixa",
+   "Capa para a caixa",
+   "Puzzle de comida"
+  ]
+ },
+ "sepanx": {
+  "title": "Cão que tem dificuldade em ficar sozinho",
+  "description": "Ficar sozinho é uma competência aprendida, não uma definição de fábrica. Treinar ausências em doses mínimas, e quando filmar o cão.",
+  "card": "Ficar sozinho é uma competência aprendida, não uma definição de fábrica.",
+  "needs": [
+   "Mastigável de longa duração",
+   "Câmara para animais"
+  ]
+ },
+ "digging": {
+  "title": "Cão que escava no jardim",
+  "description": "Escavar é inato. Não o consegues apagar, mas podes mudá-lo para uma zona de escavação permitida.",
+  "card": "Escavar é inato.",
+  "needs": [
+   "Caixa de areia para escavar",
+   "Brinquedos para enterrar"
+  ]
+ },
+ "counter": {
+  "title": "Cão que rouba comida da bancada",
+  "description": "A bancada compensou uma vez. Porque a verdadeira cura é uma gestão sem falhas, e não o treino.",
+  "card": "A bancada compensou uma vez.",
+  "needs": [
+   "Tapete para a cozinha"
+  ]
+ },
+ "poop": {
+  "title": "Cão que come fezes (coprofagia)",
+  "description": "Comum e raramente ligado à alimentação. Apanhar logo, Deixa, e a consulta veterinária que vale a pena.",
+  "card": "Comum e raramente ligado à alimentação.",
+  "needs": [
+   "Sacos para dejetos",
+   "Bolsa de guloseimas"
+  ]
+ },
+ "scavenge": {
+  "title": "Cão que come coisas no passeio",
+  "description": "Os cães são necrófagos oportunistas por natureza. O Deixa ao nível da rua, e quando um açaime de cesto é uma ferramenta de segurança.",
+  "card": "Os cães são necrófagos oportunistas por natureza.",
+  "needs": [
+   "Açaime de cesto",
+   "Trela longa"
+  ]
+ },
+ "guard": {
+  "title": "Guarda de recursos: primeiros sinais com comida e brinquedos",
+  "description": "Ficar imóvel, olhar fixo ou rosnar significa medo de perder algo. Porque nunca deves castigar um rosnado.",
+  "card": "Ficar imóvel, olhar fixo ou rosnar significa medo de perder algo.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Reatividade à trela: cão que se atira e ladra",
+  "description": "Emoções fortes sem saída. Trabalhar abaixo do limiar, com progresso medido em metros por mês.",
+  "card": "Emoções fortes sem saída.",
+  "needs": [
+   "Trela longa",
+   "Arnês com fixação frontal",
+   "Guloseimas de alto valor"
+  ]
+ },
+ "fireworks": {
+  "title": "Cão com medo de fogo de artifício e trovoada",
+  "description": "Preparar uma toca, porque confortar o teu cão é aceitável, e o trabalho com sons para começar em novembro.",
+  "card": "Preparar uma toca, porque confortar o teu cão é aceitável, e o trabalho com sons para começar em novembro.",
+  "needs": [
+   "Aparelho de ruído branco",
+   "Cama coberta"
+  ]
+ },
+ "norecall": {
+  "title": "Cão que não vem quando é chamado",
+  "description": "O ambiente paga melhor do que tu. Reconstruir a chamada com uma trela longa e proteger o sinal.",
+  "card": "O ambiente paga melhor do que tu.",
+  "needs": [
+   "Trela longa",
+   "Guloseimas de alto valor"
+  ]
+ },
+ "housetrain": {
+  "title": "Acidentes a ensinar o cachorro a fazer as necessidades",
+  "description": "A bexiga de um cachorro aguenta mais ou menos tantas horas quantos meses ele tem. O timing, e porque o limpador enzimático importa.",
+  "card": "A bexiga de um cachorro aguenta mais ou menos tantas horas quantos meses ele tem.",
+  "needs": [
+   "Limpador enzimático",
+   "Resguardos para cachorros"
+  ]
+ },
+ "marking": {
+  "title": "Cão que marca dentro de casa",
+  "description": "Pequenas marcas deliberadas em superfícies verticais. Exclui primeiro as causas médicas.",
+  "card": "Pequenas marcas deliberadas em superfícies verticais.",
+  "needs": [
+   "Limpador enzimático",
+   "Faixa para machos"
+  ]
+ },
+ "heat": {
+  "title": "O primeiro cio de uma cadela: o que esperar",
+  "description": "Entre os 6 e os 15 meses, dura de 2 a 4 semanas. 3 semanas de gestão, e depois a vida continua.",
+  "card": "Entre os 6 e os 15 meses, dura de 2 a 4 semanas.",
+  "needs": [
+   "Cuecas higiénicas",
+   "Pensos laváveis"
+  ]
+ },
+ "humping": {
+  "title": "Cão que monta: o que significa realmente",
+  "description": "Sobretudo excesso de excitação e alívio do stress, não dominância e muitas vezes nada sexual.",
+  "card": "Sobretudo excesso de excitação e alívio do stress, não dominância e muitas vezes nada sexual.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Os zoomies explicados: corridas loucas repentinas",
+  "description": "As voltas a correr repentinas são uma libertação de energia normal e saudável. Gere o chão, não a alegria.",
+  "card": "As voltas a correr repentinas são uma libertação de energia normal e saudável.",
+  "needs": [
+   "Tapete antiderrapante"
+  ]
+ },
+ "begging": {
+  "title": "Cão que pede à mesa",
+  "description": "Aqueles olhos já ganharam uma batata frita. Uma verdadeira política de zero recompensas, e o treino dos humanos.",
+  "card": "Aqueles olhos já ganharam uma batata frita.",
+  "needs": [
+   "Tapete para a cozinha",
+   "Mastigável de longa duração"
+  ]
+ },
+ "stealing": {
+  "title": "Cão que rouba meias e foge com elas",
+  "description": "Agarra uma meia e os humanos desatam a persegui-lo. Como acabar com a economia da perseguição.",
+  "card": "Agarra uma meia e os humanos desatam a persegui-lo.",
+  "needs": [
+   "Brinquedo de puxar",
+   "Guloseimas de troca"
+  ]
+ },
+ "carfear": {
+  "title": "Cão com medo de andar de carro",
+  "description": "Enjoo, ou o carro só vai ao veterinário. Reconstruir passo a passo.",
+  "card": "Enjoo, ou o carro só vai ao veterinário.",
+  "needs": [
+   "Arnês de carro ou transportadora",
+   "Proteção para a mala do carro"
+  ]
+ },
+ "greetpee": {
+  "title": "Cachorro que faz xixi de excitação ou ao cumprimentar",
+  "description": "Controlo da bexiga imaturo, não birra. Porque o castigo piora o xixi de submissão.",
+  "card": "Controlo da bexiga imaturo, não birra.",
+  "needs": [
+   "Limpador enzimático"
+  ]
+ },
+ "nailfear": {
+  "title": "Cão que detesta o corte das unhas",
+  "description": "Um só corte doloroso deixa uma memória longa. Cuidados cooperativos, uma unha por dia.",
+  "card": "Um só corte doloroso deixa uma memória longa.",
+  "needs": [
+   "Corta-unhas",
+   "Lima elétrica de unhas",
+   "Tábua de arranhar"
+  ]
+ }
+}

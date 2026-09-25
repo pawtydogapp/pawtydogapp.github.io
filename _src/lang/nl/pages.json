@@ -1,0 +1,94 @@
+{
+ "guides.html": {
+  "title": "32 gidsen over hondengedrag — Pawty",
+  "description": "Gratis, eerlijke gidsen over hondengedrag: bijten bij pups, blaffen, trekken aan de lijn, resource guarding, terugroepen, zindelijkheid en 26 meer. Uit de Pawty app voor iPhone en Android."
+ },
+ "support.html": {
+  "title": "Hulp — Pawty",
+  "description": "Hulp bij de hondentrainingsapp Pawty voor iPhone en Android: account verwijderen, problemen met inloggen, reeksen, ranglijst en contact."
+ },
+ "approach.html": {
+  "title": "Onze aanpak — Pawty",
+  "description": "Hoe Pawty traint: alleen positieve bekrachtiging, sessies van 3 minuten, geen schuldgevoel, en wanneer je beter naar een dierenarts of gedragsdeskundige gaat."
+ },
+ "partners.html": {
+  "title": "Partners en pers — Pawty",
+  "description": "Word partner van Pawty, een gratis hondentrainingsapp voor iPhone en Android. Bereik betrokken hondeneigenaren via plaatsingen in de Marktplaats van de app. Inclusief perskit."
+ },
+ "marketplace.html": {
+  "title": "Marktplaats-partners — Pawty",
+  "description": "Partners in de Pawty Marktplaats: hondenvoer, uitrusting, verzorging en verzekering van Fressnapf, Maxi Zoo, tails.com, Bella & Duke en meer, gefilterd per land."
+ },
+ "index.html": {
+  "title": "Pawty — Duolingo voor honden",
+  "description": "Je hond is niet kapot en jij faalt niet. 99 trainingsvaardigheden in sessies van 3 minuten, 32 eerlijke gedragsgidsen, reeksen die bevriezen in plaats van resetten. Gratis voor iPhone en Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Gratis hondentrainingsapp voor iPhone en Android met 99 vaardigheden, 32 gedragsgidsen, pootbeoordelingen, reeksen en een verzorgingskalender.\",\"url\":\"https://pawtyapp.com/nl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"nl\"}"
+ },
+ "blog.html": {
+  "title": "Pawty blog — praktische hondentraining en leven met een hond",
+  "description": "Praktische hondenartikelen van Pawty: wat een pup kost, de boodschappenlijst, het vaccinatieschema, slaap, clickertraining, vachtverzorging en asielhonden."
+ },
+ "post-puppy-cost.html": {
+  "title": "Wat een pup echt kost in het eerste jaar — Pawty",
+  "description": "Europese kosten voor het eerste jaar van een pup, post voor post: bench, dierenarts, voer, trimmen en verzekering, plus wat je gerust kunt overslaan.",
+  "headline": "Wat een pup echt kost in het eerste jaar"
+ },
+ "post-shopping-list.html": {
+  "title": "De boodschappenlijst voor je pup, en wat je kunt overslaan — Pawty",
+  "description": "Wat je koopt voordat de pup komt, wat in maand 2, en de 6 dingen die dierenwinkels verkopen maar die je niet nodig hebt.",
+  "headline": "De boodschappenlijst voor je pup, en wat je kunt overslaan"
+ },
+ "post-vaccination.html": {
+  "title": "Het vaccinatieschema voor pups in Europa — Pawty",
+  "description": "Het standaard Europese vaccinatieschema voor pups, wat elk vaccin dekt en hoe je veilig socialiseert voordat de reeks klaar is.",
+  "headline": "Het vaccinatieschema voor pups in Europa"
+ },
+ "post-puppy-sleep.html": {
+  "title": "Hoeveel slaap heeft een pup nodig — Pawty",
+  "description": "Pups hebben 18 tot 20 uur slaap per dag nodig. Waarom het bijten in de avond oververmoeidheid is, en hoe je een dutje afdwingt zonder strijd.",
+  "headline": "Hoeveel slaap heeft een pup nodig"
+ },
+ "post-teething.html": {
+  "title": "Overlevingsgids voor de tandenwisseling van je pup — Pawty blog",
+  "description": "De tandenwisseling van maand 3 tot 7, wat verlichting geeft en welke fouten je vermijdt.",
+  "headline": "Overlevingsgids voor de tandenwisseling van je pup"
+ },
+ "post-walks.html": {
+  "title": "Hoe lang moeten wandelingen met een pup zijn? — Pawty blog",
+  "description": "De regel van 5 minuten per maand leeftijd, wat meetelt en hoe je je pup leest.",
+  "headline": "Hoe lang moeten wandelingen met een pup zijn?"
+ },
+ "post-sit.html": {
+  "title": "Leer je hond zitten in een week — Pawty blog",
+  "description": "De lokmethode voor zit, de 2 klassieke fouten en hoe succes eruitziet per sessie.",
+  "headline": "Leer je hond zitten in een week"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Clicker of markerwoord: wat gebruik je — Pawty",
+  "description": "Allebei markeren ze het precieze moment waarop je hond het goed doet. Wanneer je welke gebruikt, hoe je hem in 2 minuten oplaadt, en de 4 fouten.",
+  "headline": "Clicker of markerwoord: wat gebruik je"
+ },
+ "post-5minutes.html": {
+  "title": "Waarom 5 minuten per dag beter werkt dan weekendmarathons — Pawty blog",
+  "description": "Korte dagelijkse trainingen verslaan lange weekendsessies: herhalingen, gespreid leren en reeksen.",
+  "headline": "Waarom 5 minuten per dag beter werkt dan weekendmarathons"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Cockapoo verzorgen: wat niemand je vertelt — Pawty",
+  "description": "Een krullende vacht stopt nooit met groeien. De echte kosten per jaar, waarom klitten ontstaan en de laag-voor-laag borstelmethode die ze voorkomt.",
+  "headline": "Cockapoo verzorgen: wat niemand je vertelt"
+ },
+ "post-rescue-333.html": {
+  "title": "Een volwassen asielhond adopteren: de 3-3-3-regel — Pawty",
+  "description": "3 dagen, 3 weken, 3 maanden. Hoe het wennen van een volwassen asielhond er echt uitziet, en wat je in elke fase doet.",
+  "headline": "Een volwassen asielhond adopteren: de 3-3-3-regel"
+ },
+ "legal/terms.html": {
+  "title": "Gebruiksvoorwaarden — Pawty",
+  "description": "Gebruiksvoorwaarden van Pawty, de app voor hondentraining op iPhone en Android, met de trainingsdisclaimer en het beleid voor affiliatelinks."
+ },
+ "legal/privacy.html": {
+  "title": "Privacybeleid — Pawty",
+  "description": "Hoe Pawty met je gegevens omgaat: gepersonaliseerde advertenties en toestemming, AVG-rechten, hosting in de EU en affiliatelinks."
+ }
+}

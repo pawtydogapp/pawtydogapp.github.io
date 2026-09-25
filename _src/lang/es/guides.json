@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Perro que persigue coches, bicis y animales",
+  "description": "Un patrón motor innato que se recompensa solo. Primero el control, porque cada persecución lo refuerza.",
+  "card": "Un patrón motor innato que se recompensa solo.",
+  "needs": [
+   "Correa larga",
+   "Caña de juego"
+  ]
+ },
+ "attention": {
+  "title": "Perro que da con la pata, gime y empuja para llamar la atención",
+  "description": "Incluso la atención molesta cuenta. Cambiar las cuentas para que la calma compense y la insistencia no.",
+  "card": "Incluso la atención molesta cuenta.",
+  "needs": [
+   "Juguete rompecabezas de comida",
+   "Mordedor"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Perro que no se calma por la noche",
+  "description": "La inquietud nocturna suele significar que el día tuvo poco o demasiado estímulo. Un ritual para bajar revoluciones que funciona.",
+  "card": "La inquietud nocturna suele significar que el día tuvo poco o demasiado estímulo.",
+  "needs": [
+   "Juguete de comida congelada",
+   "Alfombrilla para lamer",
+   "Cama para perro"
+  ]
+ },
+ "biting": {
+  "title": "¿Por qué muerde mi cachorro? Los mordiscos explicados",
+  "description": "Los cachorros muerden para explorar y aprender a controlar la mordida. Por qué llega la fase tiburón, qué la frena y qué la empeora.",
+  "card": "Los cachorros muerden para explorar y aprender a controlar la mordida.",
+  "needs": [
+   "Juguete para tirar",
+   "Juguete de goma para morder"
+  ]
+ },
+ "teething": {
+  "title": "Dentición del cachorro: mordisquear durante el cambio de dientes",
+  "description": "Salen 28 dientes de leche y entran 42 definitivos, entre los 3 y los 7 meses. Qué mordedores alivian las encías y cuáles son peligrosos.",
+  "card": "Salen 28 dientes de leche y entran 42 definitivos, entre los 3 y los 7 meses.",
+  "needs": [
+   "Mordedor de madera de cafeto",
+   "Mordedor de madera de olivo",
+   "Juguete de goma para morder",
+   "Mordedores para cachorro"
+  ]
+ },
+ "chewadult": {
+  "title": "Perro adulto que muerde muebles por aburrimiento",
+  "description": "Morder calma. Qué te está diciendo un perro adulto con poca estimulación y cómo redirigirlo.",
+  "card": "Morder calma.",
+  "needs": [
+   "Mordedores variados",
+   "Juguete rompecabezas de comida"
+  ]
+ },
+ "jumping": {
+  "title": "Perro que salta sobre la gente: cómo evitarlo",
+  "description": "Saltar es emoción más un historial en el que le ha salido a cuenta. La regla de las 4 patas y la tarea incompatible que lo sustituye.",
+  "card": "Saltar es emoción más un historial en el que le ha salido a cuenta.",
+  "needs": [
+   "Bolsa de premios"
+  ]
+ },
+ "pulling": {
+  "title": "Perro que tira de la correa: por qué pasa y qué funciona",
+  "description": "Los perros tiran porque así avanzaron. Parar y seguir, premiar junto a tu pierna, y por qué los collares de púas crean problemas nuevos.",
+  "card": "Los perros tiran porque así avanzaron.",
+  "needs": [
+   "Arnés con enganche delantero",
+   "Correa normal de 2 m",
+   "Bolsa de premios"
+  ]
+ },
+ "doorbell": {
+  "title": "Perro que ladra al timbre",
+  "description": "El timbre anuncia algo emocionante. Cómo recondicionarlo para que el timbre anuncie queso en lugar de caos.",
+  "card": "El timbre anuncia algo emocionante.",
+  "needs": [
+   "Grabación del sonido del timbre",
+   "Cama o manta para perro"
+  ]
+ },
+ "barkdogs": {
+  "title": "Perro que ladra a otros perros en el paseo",
+  "description": "Suele ser frustración o incomodidad. Encontrar la distancia a la que tu perro está tranquilo y acortarla durante semanas.",
+  "card": "Suele ser frustración o incomodidad.",
+  "needs": [
+   "Correa larga",
+   "Premios de alto valor"
+  ]
+ },
+ "demand": {
+  "title": "Ladrido de exigencia: el perro te ladra por comida o atención",
+  "description": "El perro ladra porque antes le ha funcionado. Por qué empeora antes de mejorar.",
+  "card": "El perro ladra porque antes le ha funcionado.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Cachorro que llora por la noche: lo que de verdad ayuda",
+  "description": "El llanto nocturno es angustia por separación, no manipulación. Por qué dejarlo llorar erosiona la confianza a esta edad.",
+  "card": "El llanto nocturno es angustia por separación, no manipulación.",
+  "needs": [
+   "Transportín",
+   "Cama para cachorro"
+  ]
+ },
+ "cratecry": {
+  "title": "Cachorro que llora en el transportín",
+  "description": "Estar encerrado no es natural hasta que el transportín se entrena como guarida. Juegos con la puerta abierta y avances segundo a segundo.",
+  "card": "Estar encerrado no es natural hasta que el transportín se entrena como guarida.",
+  "needs": [
+   "Transportín",
+   "Funda para transportín",
+   "Juguete rompecabezas de comida"
+  ]
+ },
+ "sepanx": {
+  "title": "Perro al que le cuesta quedarse solo",
+  "description": "Estar solo es una habilidad aprendida, no algo de fábrica. Entrenar ausencias en dosis mínimas, y cuándo grabar al perro.",
+  "card": "Estar solo es una habilidad aprendida, no algo de fábrica.",
+  "needs": [
+   "Mordedor de larga duración",
+   "Cámara para mascotas"
+  ]
+ },
+ "digging": {
+  "title": "Perro que escarba en el jardín",
+  "description": "Escarbar es innato. No puedes borrarlo, pero sí trasladarlo a una zona de excavación permitida.",
+  "card": "Escarbar es innato.",
+  "needs": [
+   "Arenero o caja para escarbar",
+   "Juguetes para enterrar"
+  ]
+ },
+ "counter": {
+  "title": "Perro que roba comida de la encimera",
+  "description": "La encimera le salió a cuenta una vez. Por qué el control sin fisuras, y no el entrenamiento, es la verdadera solución.",
+  "card": "La encimera le salió a cuenta una vez.",
+  "needs": [
+   "Manta para la cocina"
+  ]
+ },
+ "poop": {
+  "title": "Perro que come heces (coprofagia)",
+  "description": "Es frecuente y rara vez tiene que ver con la dieta. Recoger al instante, Déjalo, y la revisión veterinaria que merece la pena.",
+  "card": "Es frecuente y rara vez tiene que ver con la dieta.",
+  "needs": [
+   "Bolsas para excrementos",
+   "Bolsa de premios"
+  ]
+ },
+ "scavenge": {
+  "title": "Perro que come cosas en el paseo",
+  "description": "Los perros son carroñeros oportunistas por naturaleza. Déjalo a pie de calle, y cuándo un bozal de cesta es una herramienta de seguridad.",
+  "card": "Los perros son carroñeros oportunistas por naturaleza.",
+  "needs": [
+   "Bozal de cesta",
+   "Correa larga"
+  ]
+ },
+ "guard": {
+  "title": "Protección de recursos: primeras señales con comida y juguetes",
+  "description": "Quedarse rígido, mirar fijamente o gruñir indica miedo a perder algo. Por qué nunca debes castigar un gruñido.",
+  "card": "Quedarse rígido, mirar fijamente o gruñir indica miedo a perder algo.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Reactividad con correa: el perro se abalanza y ladra",
+  "description": "Emociones intensas sin vía de escape. Trabajar por debajo del umbral, y un progreso que se mide en metros al mes.",
+  "card": "Emociones intensas sin vía de escape.",
+  "needs": [
+   "Correa larga",
+   "Arnés con enganche delantero",
+   "Premios de alto valor"
+  ]
+ },
+ "fireworks": {
+  "title": "Perro con miedo a los petardos y las tormentas",
+  "description": "Preparar una guarida, por qué consolar a tu perro está bien y el trabajo con sonidos que hay que empezar en noviembre.",
+  "card": "Preparar una guarida, por qué consolar a tu perro está bien y el trabajo con sonidos que hay que empezar en noviembre.",
+  "needs": [
+   "Aparato de ruido blanco",
+   "Cama cubierta"
+  ]
+ },
+ "norecall": {
+  "title": "Perro que no viene cuando lo llamas",
+  "description": "El entorno paga mejor que tú. Reconstruir la llamada con correa larga y proteger la señal.",
+  "card": "El entorno paga mejor que tú.",
+  "needs": [
+   "Correa larga",
+   "Premios de alto valor"
+  ]
+ },
+ "housetrain": {
+  "title": "Accidentes al enseñar al cachorro a hacer sus necesidades",
+  "description": "La vejiga de un cachorro aguanta aproximadamente tantas horas como meses tiene. Los tiempos, y por qué importa el limpiador enzimático.",
+  "card": "La vejiga de un cachorro aguanta aproximadamente tantas horas como meses tiene.",
+  "needs": [
+   "Limpiador enzimático",
+   "Empapadores para cachorro"
+  ]
+ },
+ "marking": {
+  "title": "Perro que marca dentro de casa",
+  "description": "Pequeñas marcas deliberadas en superficies verticales. Descarta primero las causas médicas.",
+  "card": "Pequeñas marcas deliberadas en superficies verticales.",
+  "needs": [
+   "Limpiador enzimático",
+   "Faja para machos"
+  ]
+ },
+ "heat": {
+  "title": "El primer celo de una perra: qué esperar",
+  "description": "Entre los 6 y los 15 meses, dura de 2 a 4 semanas. 3 semanas de control y después la vida sigue.",
+  "card": "Entre los 6 y los 15 meses, dura de 2 a 4 semanas.",
+  "needs": [
+   "Braguitas higiénicas",
+   "Compresas lavables"
+  ]
+ },
+ "humping": {
+  "title": "Perro que monta: lo que significa de verdad",
+  "description": "Sobre todo exceso de excitación y descarga de estrés, no dominancia, y a menudo no es sexual.",
+  "card": "Sobre todo exceso de excitación y descarga de estrés, no dominancia, y a menudo no es sexual.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Los zoomies explicados: carreras locas repentinas",
+  "description": "Las carreras repentinas son una descarga de energía normal y sana. Controla el suelo, no la alegría.",
+  "card": "Las carreras repentinas son una descarga de energía normal y sana.",
+  "needs": [
+   "Alfombra antideslizante"
+  ]
+ },
+ "begging": {
+  "title": "Perro que pide en la mesa",
+  "description": "Esos ojos consiguieron una patata frita una vez. Una política real de cero premios, y entrenar a los humanos.",
+  "card": "Esos ojos consiguieron una patata frita una vez.",
+  "needs": [
+   "Manta para la cocina",
+   "Mordedor de larga duración"
+  ]
+ },
+ "stealing": {
+  "title": "Perro que roba calcetines y sale corriendo",
+  "description": "Coge un calcetín y los humanos empiezan a perseguirlo. Cómo acabar con la economía de la persecución.",
+  "card": "Coge un calcetín y los humanos empiezan a perseguirlo.",
+  "needs": [
+   "Juguete para tirar",
+   "Premios de intercambio"
+  ]
+ },
+ "carfear": {
+  "title": "Perro con miedo a ir en coche",
+  "description": "Mareo, o el coche solo va al veterinario. Reconstruir paso a paso.",
+  "card": "Mareo, o el coche solo va al veterinario.",
+  "needs": [
+   "Arnés de coche o transportín",
+   "Protector de maletero"
+  ]
+ },
+ "greetpee": {
+  "title": "Cachorro que se hace pis de emoción o al saludar",
+  "description": "Control de la vejiga inmaduro, no rencor. Por qué el castigo empeora la micción de sumisión.",
+  "card": "Control de la vejiga inmaduro, no rencor.",
+  "needs": [
+   "Limpiador enzimático"
+  ]
+ },
+ "nailfear": {
+  "title": "Perro que odia que le corten las uñas",
+  "description": "Un corte doloroso en la parte viva deja un recuerdo largo. Cuidados cooperativos, una uña al día.",
+  "card": "Un corte doloroso en la parte viva deja un recuerdo largo.",
+  "needs": [
+   "Cortaúñas",
+   "Lima eléctrica de uñas",
+   "Tabla de lijado"
+  ]
+ }
+}

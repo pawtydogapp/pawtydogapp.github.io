@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Pas juri automobile, bicikle i divlje životinje",
+  "description": "Urođeni motorički obrazac koji sam sebe nagrađuje. Najprije upravljanje, jer svaka potjera to jača.",
+  "card": "Urođeni motorički obrazac koji sam sebe nagrađuje.",
+  "needs": [
+   "Dugi povodac",
+   "Štap s mamcem"
+  ]
+ },
+ "attention": {
+  "title": "Pas grebe šapom, cvili i gura njuškom za pažnju",
+  "description": "I iznervirana pažnja se računa. Kako okrenuti računicu da se mir isplati, a navaljivanje ne.",
+  "card": "I iznervirana pažnja se računa.",
+  "needs": [
+   "Slagalica za hranu",
+   "Žvakalica"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Pas se navečer ne može smiriti",
+  "description": "Večernji nemir obično znači da je dan bio premalo ili previše stimulativan. Ritual smirivanja koji djeluje.",
+  "card": "Večernji nemir obično znači da je dan bio premalo ili previše stimulativan.",
+  "needs": [
+   "Smrznuta igračka s hranom",
+   "Podloga za lizanje",
+   "Ležaj za psa"
+  ]
+ },
+ "biting": {
+  "title": "Zašto moje štene grize? Grizenje kod štenaca objašnjeno",
+  "description": "Štenci grizu kako bi istraživali i naučili kontrolirati ugriz. Zašto dolazi faza morskog psa, što je zaustavlja i što je pogoršava.",
+  "card": "Štenci grizu kako bi istraživali i naučili kontrolirati ugriz.",
+  "needs": [
+   "Igračka za povlačenje",
+   "Gumena igračka za žvakanje"
+  ]
+ },
+ "teething": {
+  "title": "Mijenjanje zubi kod šteneta: grickanje tijekom promjene zubi",
+  "description": "28 mliječnih zubi van, 42 trajna unutra, između 3. i 7. mjeseca. Koje žvakalice smiruju bolne desni, a koje su opasne.",
+  "card": "28 mliječnih zubi van, 42 trajna unutra, između 3. i 7. mjeseca.",
+  "needs": [
+   "Žvakalica od drva kave",
+   "Žvakalica od maslinova drva",
+   "Gumena igračka za žvakanje",
+   "Žvakalice za štence"
+  ]
+ },
+ "chewadult": {
+  "title": "Odrasli pas grize namještaj iz dosade",
+  "description": "Žvakanje smiruje. Što ti poručuje nedovoljno stimuliran odrasli pas i kako to preusmjeriti.",
+  "card": "Žvakanje smiruje.",
+  "needs": [
+   "Žvakalice koje se izmjenjuju",
+   "Slagalica za hranu"
+  ]
+ },
+ "jumping": {
+  "title": "Pas skače na ljude: kako to zaustaviti",
+  "description": "Skakanje je uzbuđenje plus povijest u kojoj se isplatilo. Pravilo 4 šape i nespojivi zadatak koji ga zamjenjuje.",
+  "card": "Skakanje je uzbuđenje plus povijest u kojoj se isplatilo.",
+  "needs": [
+   "Torbica za poslastice"
+  ]
+ },
+ "pulling": {
+  "title": "Pas vuče na povodcu: zašto i što pomaže",
+  "description": "Psi vuku jer ih je to odvelo naprijed. Stani i kreni, nagrada uz tvoju nogu, i zašto ogrlice s bodljama stvaraju nove probleme.",
+  "card": "Psi vuku jer ih je to odvelo naprijed.",
+  "needs": [
+   "Oprsnica s prednjom kopčom",
+   "Obični povodac od 2 m",
+   "Torbica za poslastice"
+  ]
+ },
+ "doorbell": {
+  "title": "Pas laje na zvono na vratima",
+  "description": "Zvono najavljuje nešto uzbudljivo. Kako ga prekondicionirati da zvono najavljuje sir umjesto kaosa.",
+  "card": "Zvono najavljuje nešto uzbudljivo.",
+  "needs": [
+   "Snimka zvuka zvona",
+   "Ležaj ili podloga"
+  ]
+ },
+ "barkdogs": {
+  "title": "Pas laje na druge pse u šetnji",
+  "description": "Obično frustracija ili nelagoda. Pronađi udaljenost na kojoj tvoj pas ostaje miran i smanjuj je tijekom tjedana.",
+  "card": "Obično frustracija ili nelagoda.",
+  "needs": [
+   "Dugi povodac",
+   "Vrlo vrijedne poslastice"
+  ]
+ },
+ "demand": {
+  "title": "Zahtjevno lajanje: pas laje na tebe za hranu ili pažnju",
+  "description": "Pas laje jer mu je to već uspjelo. Zašto postaje glasnije prije nego što postane bolje.",
+  "card": "Pas laje jer mu je to već uspjelo.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Štene plače noću: što stvarno pomaže",
+  "description": "Noćni plač je stres zbog odvajanja, a ne manipulacija. Zašto ostavljanje da se isplače u ovoj dobi narušava povjerenje.",
+  "card": "Noćni plač je stres zbog odvajanja, a ne manipulacija.",
+  "needs": [
+   "Kavez",
+   "Ležaj za štene"
+  ]
+ },
+ "cratecry": {
+  "title": "Štene plače u kavezu",
+  "description": "Zatvorenost je neprirodna dok se kavez ne uvježba kao jazbina. Igre s otvorenim vratima i napredak sekundu po sekundu.",
+  "card": "Zatvorenost je neprirodna dok se kavez ne uvježba kao jazbina.",
+  "needs": [
+   "Kavez",
+   "Prekrivač za kavez",
+   "Slagalica za hranu"
+  ]
+ },
+ "sepanx": {
+  "title": "Pas teško podnosi samoću",
+  "description": "Biti sam je naučena vještina, a ne tvornička postavka. Treniranje odsutnosti u malim dozama, i kada snimiti psa.",
+  "card": "Biti sam je naučena vještina, a ne tvornička postavka.",
+  "needs": [
+   "Dugotrajna žvakalica",
+   "Kamera za ljubimce"
+  ]
+ },
+ "digging": {
+  "title": "Pas kopa po vrtu",
+  "description": "Kopanje je urođeno. Ne možeš ga izbrisati, ali ga možeš preseliti u dopuštenu zonu za kopanje.",
+  "card": "Kopanje je urođeno.",
+  "needs": [
+   "Pješčanik ili kutija za kopanje",
+   "Igračke za zakopavanje"
+  ]
+ },
+ "counter": {
+  "title": "Pas krade hranu s kuhinjskog pulta",
+  "description": "Pult se jednom isplatio. Zašto je potpuno upravljanje, a ne dresura, pravo rješenje.",
+  "card": "Pult se jednom isplatio.",
+  "needs": [
+   "Podloga za kuhinju"
+  ]
+ },
+ "poop": {
+  "title": "Pas jede izmet (koprofagija)",
+  "description": "Često, rijetko povezano s prehranom. Odmah pokupiti, Ostavi, i veterinarski pregled koji se isplati.",
+  "card": "Često, rijetko povezano s prehranom.",
+  "needs": [
+   "Vrećice za izmet",
+   "Torbica za poslastice"
+  ]
+ },
+ "scavenge": {
+  "title": "Pas jede stvari u šetnji",
+  "description": "Psi su po prirodi oportunistički strvinari. Ostavi na razini ulice, i kada je košarasta brnjica sigurnosni alat.",
+  "card": "Psi su po prirodi oportunistički strvinari.",
+  "needs": [
+   "Košarasta brnjica",
+   "Dugi povodac"
+  ]
+ },
+ "guard": {
+  "title": "Čuvanje resursa: prvi znakovi kod hrane i igračaka",
+  "description": "Ukočenost, ukočen pogled ili režanje znače strah od gubitka. Zašto nikada ne smiješ kazniti režanje.",
+  "card": "Ukočenost, ukočen pogled ili režanje znače strah od gubitka.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Reaktivnost na povodcu: pas se baca i laje",
+  "description": "Velike emocije bez izlaza. Rad ispod praga, uz napredak koji se mjeri u metrima mjesečno.",
+  "card": "Velike emocije bez izlaza.",
+  "needs": [
+   "Dugi povodac",
+   "Oprsnica s prednjom kopčom",
+   "Vrlo vrijedne poslastice"
+  ]
+ },
+ "fireworks": {
+  "title": "Pas se boji vatrometa i grmljavine",
+  "description": "Priprema jazbine, zašto je u redu tješiti psa, i rad sa zvukovima koji treba započeti u studenom.",
+  "card": "Priprema jazbine, zašto je u redu tješiti psa, i rad sa zvukovima koji treba započeti u studenom.",
+  "needs": [
+   "Uređaj za bijeli šum",
+   "Natkriveni ležaj"
+  ]
+ },
+ "norecall": {
+  "title": "Pas ne dolazi na poziv",
+  "description": "Okolina plaća bolje od tebe. Ponovna izgradnja dozivanja na dugom povodcu i zaštita signala.",
+  "card": "Okolina plaća bolje od tebe.",
+  "needs": [
+   "Dugi povodac",
+   "Vrlo vrijedne poslastice"
+  ]
+ },
+ "housetrain": {
+  "title": "Nezgode kod navikavanja šteneta na čistoću",
+  "description": "Mjehur šteneta izdrži otprilike onoliko sati koliko je štene mjeseci staro. Tajming, i zašto je enzimsko sredstvo za čišćenje važno.",
+  "card": "Mjehur šteneta izdrži otprilike onoliko sati koliko je štene mjeseci staro.",
+  "needs": [
+   "Enzimsko sredstvo za čišćenje",
+   "Upijajuće podloge za štence"
+  ]
+ },
+ "marking": {
+  "title": "Pas markira u kući",
+  "description": "Male namjerne oznake na okomitim mjestima. Najprije isključi medicinske uzroke.",
+  "card": "Male namjerne oznake na okomitim mjestima.",
+  "needs": [
+   "Enzimsko sredstvo za čišćenje",
+   "Pojas za mužjake"
+  ]
+ },
+ "heat": {
+  "title": "Prvo tjeranje kujice: što očekivati",
+  "description": "Između 6. i 15. mjeseca, traje 2 do 4 tjedna. 3 tjedna upravljanja, a onda se život nastavlja.",
+  "card": "Između 6. i 15. mjeseca, traje 2 do 4 tjedna.",
+  "needs": [
+   "Higijenske gaćice",
+   "Perivi ulošci"
+  ]
+ },
+ "humping": {
+  "title": "Pas zaskakuje: što to zapravo znači",
+  "description": "Uglavnom pretjerano uzbuđenje i otpuštanje stresa, a ne dominacija i često ništa seksualno.",
+  "card": "Uglavnom pretjerano uzbuđenje i otpuštanje stresa, a ne dominacija i često ništa seksualno.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Zoomies objašnjeni: nagli ludi napadi trčanja",
+  "description": "Nagli krugovi trčanja normalno su i zdravo otpuštanje energije. Pazi na podlogu, ne na veselje.",
+  "card": "Nagli krugovi trčanja normalno su i zdravo otpuštanje energije.",
+  "needs": [
+   "Protuklizni tepih"
+  ]
+ },
+ "begging": {
+  "title": "Pas prosi za stolom",
+  "description": "Te su oči jednom zaradile čips. Pravo pravilo nulte isplate, i dresura ljudi.",
+  "card": "Te su oči jednom zaradile čips.",
+  "needs": [
+   "Podloga za kuhinju",
+   "Dugotrajna žvakalica"
+  ]
+ },
+ "stealing": {
+  "title": "Pas krade čarape i bježi s njima",
+  "description": "Zgrabi čarapu i ljudi krenu u potjeru. Kako ukinuti ekonomiju potjere.",
+  "card": "Zgrabi čarapu i ljudi krenu u potjeru.",
+  "needs": [
+   "Igračka za povlačenje",
+   "Poslastice za zamjenu"
+  ]
+ },
+ "carfear": {
+  "title": "Pas se boji vožnje autom",
+  "description": "Mučnina u vožnji, ili auto uvijek vozi samo veterinaru. Ponovna izgradnja korak po korak.",
+  "card": "Mučnina u vožnji, ili auto uvijek vozi samo veterinaru.",
+  "needs": [
+   "Pojas za auto ili transporter",
+   "Zaštita za prtljažnik"
+  ]
+ },
+ "greetpee": {
+  "title": "Štene piški od uzbuđenja ili pri pozdravu",
+  "description": "Nezrela kontrola mjehura, a ne inat. Zašto kazna pogoršava piškenje iz podložnosti.",
+  "card": "Nezrela kontrola mjehura, a ne inat.",
+  "needs": [
+   "Enzimsko sredstvo za čišćenje"
+  ]
+ },
+ "nailfear": {
+  "title": "Pas mrzi rezanje noktiju",
+  "description": "Jedan bolan rez u živac ostavlja dugo sjećanje. Kooperativna njega, jedan nokat na dan.",
+  "card": "Jedan bolan rez u živac ostavlja dugo sjećanje.",
+  "needs": [
+   "Grickalica za nokte",
+   "Brusilica za nokte",
+   "Daska za grebanje"
+  ]
+ }
+}

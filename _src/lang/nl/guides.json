@@ -1,0 +1,284 @@
+{
+ "chasing": {
+  "title": "Hond jaagt op auto's, fietsen en wild",
+  "description": "Een aangeboren bewegingspatroon dat zichzelf beloont. Eerst management, want elke achtervolging versterkt het.",
+  "card": "Een aangeboren bewegingspatroon dat zichzelf beloont.",
+  "needs": [
+   "Lange lijn",
+   "Flirtstok"
+  ]
+ },
+ "attention": {
+  "title": "Hond pootjet, piept en duwt voor aandacht",
+  "description": "Ook geïrriteerde aandacht telt. De rekensom omdraaien zodat rust loont en opdringerigheid niet.",
+  "card": "Ook geïrriteerde aandacht telt.",
+  "needs": [
+   "Voerpuzzel",
+   "Kauwartikel"
+  ]
+ },
+ "eveningsettle": {
+  "title": "Hond komt 's avonds niet tot rust",
+  "description": "Onrust in de avond betekent meestal dat de dag te weinig of te veel prikkels had. Een afbouwritueel dat werkt.",
+  "card": "Onrust in de avond betekent meestal dat de dag te weinig of te veel prikkels had.",
+  "needs": [
+   "Bevroren voerspeeltje",
+   "Likmat",
+   "Hondenmand"
+  ]
+ },
+ "biting": {
+  "title": "Waarom bijt mijn pup? Bijten en happen uitgelegd",
+  "description": "Pups bijten om te ontdekken en om bijtremming te leren. Waarom de haaienfase komt, wat haar stopt en wat haar erger maakt.",
+  "card": "Pups bijten om te ontdekken en om bijtremming te leren.",
+  "needs": [
+   "Trekspeeltje",
+   "Rubberen kauwspeeltje"
+  ]
+ },
+ "teething": {
+  "title": "Tandenwissel bij pups: kauwen tijdens het wisselen",
+  "description": "28 melktanden eruit, 42 blijvende tanden erin, tussen 3 en 7 maanden. Welke kauwartikelen pijnlijk tandvlees helpen en welke gevaarlijk zijn.",
+  "card": "28 melktanden eruit, 42 blijvende tanden erin, tussen 3 en 7 maanden.",
+  "needs": [
+   "Kauwhout van koffieboom",
+   "Kauwhout van olijfhout",
+   "Rubberen kauwspeeltje",
+   "Kauwartikelen voor pups"
+  ]
+ },
+ "chewadult": {
+  "title": "Volwassen hond kauwt uit verveling op meubels",
+  "description": "Kauwen kalmeert. Wat een onderprikkelde volwassen hond je vertelt, en hoe je het omleidt.",
+  "card": "Kauwen kalmeert.",
+  "needs": [
+   "Afwisselende kauwartikelen",
+   "Voerpuzzel"
+  ]
+ },
+ "jumping": {
+  "title": "Hond springt tegen mensen op: zo stop je het",
+  "description": "Opspringen is opwinding plus een geschiedenis waarin het loonde. De 4-poten-regel en de onverenigbare taak die het vervangt.",
+  "card": "Opspringen is opwinding plus een geschiedenis waarin het loonde.",
+  "needs": [
+   "Beloningszakje"
+  ]
+ },
+ "pulling": {
+  "title": "Hond trekt aan de lijn: waarom en wat werkt",
+  "description": "Honden trekken omdat het ze vooruit bracht. Stoppen en gaan, belonen bij je been, en waarom prikbanden nieuwe problemen maken.",
+  "card": "Honden trekken omdat het ze vooruit bracht.",
+  "needs": [
+   "Tuig met bevestiging voor",
+   "Gewone lijn van 2 m",
+   "Beloningszakje"
+  ]
+ },
+ "doorbell": {
+  "title": "Hond blaft bij de deurbel",
+  "description": "De bel voorspelt iets spannends. Hoe je hem herconditioneert zodat de bel kaas voorspelt in plaats van chaos.",
+  "card": "De bel voorspelt iets spannends.",
+  "needs": [
+   "Opname van het deurbelgeluid",
+   "Hondenmand of kleed"
+  ]
+ },
+ "barkdogs": {
+  "title": "Hond blaft naar andere honden tijdens de wandeling",
+  "description": "Meestal frustratie of ongemak. De afstand vinden waarop je hond rustig blijft, en die in weken verkleinen.",
+  "card": "Meestal frustratie of ongemak.",
+  "needs": [
+   "Lange lijn",
+   "Superlekkere beloningen"
+  ]
+ },
+ "demand": {
+  "title": "Eisblaffen: hond blaft naar je voor eten of aandacht",
+  "description": "De hond blaft omdat het eerder werkte. Waarom het erger wordt voordat het beter wordt.",
+  "card": "De hond blaft omdat het eerder werkte.",
+  "needs": []
+ },
+ "nightcry": {
+  "title": "Pup huilt 's nachts: wat echt helpt",
+  "description": "Huilen 's nachts is scheidingsstress, geen manipulatie. Waarom laten uithuilen op deze leeftijd vertrouwen afbreekt.",
+  "card": "Huilen 's nachts is scheidingsstress, geen manipulatie.",
+  "needs": [
+   "Bench",
+   "Puppymand"
+  ]
+ },
+ "cratecry": {
+  "title": "Pup huilt in de bench",
+  "description": "Opgesloten zijn is onnatuurlijk tot de bench als hol is getraind. Spelletjes met open deur en vooruitgang per seconde.",
+  "card": "Opgesloten zijn is onnatuurlijk tot de bench als hol is getraind.",
+  "needs": [
+   "Bench",
+   "Benchhoes",
+   "Voerpuzzel"
+  ]
+ },
+ "sepanx": {
+  "title": "Hond kan slecht alleen zijn",
+  "description": "Alleen zijn is een aangeleerde vaardigheid, geen fabrieksinstelling. Afwezigheid trainen in piepkleine stapjes, en wanneer je de hond filmt.",
+  "card": "Alleen zijn is een aangeleerde vaardigheid, geen fabrieksinstelling.",
+  "needs": [
+   "Langdurig kauwartikel",
+   "Huisdiercamera"
+  ]
+ },
+ "digging": {
+  "title": "Hond graaft in de tuin",
+  "description": "Graven is aangeboren. Je kunt het niet wissen, wel verplaatsen naar een toegestane graafplek.",
+  "card": "Graven is aangeboren.",
+  "needs": [
+   "Zandbak of graafbak",
+   "Speelgoed om te begraven"
+  ]
+ },
+ "counter": {
+  "title": "Hond steelt eten van het aanrecht",
+  "description": "Het aanrecht heeft één keer uitbetaald. Waarom waterdicht management, en niet training, de echte oplossing is.",
+  "card": "Het aanrecht heeft één keer uitbetaald.",
+  "needs": [
+   "Hondenkleed voor de keuken"
+  ]
+ },
+ "poop": {
+  "title": "Hond eet poep (coprofagie)",
+  "description": "Veel voorkomend, zelden door het voer. Direct opruimen, Laat maar, en de controle bij de dierenarts die de moeite waard is.",
+  "card": "Veel voorkomend, zelden door het voer.",
+  "needs": [
+   "Poepzakjes",
+   "Beloningszakje"
+  ]
+ },
+ "scavenge": {
+  "title": "Hond eet dingen op tijdens de wandeling",
+  "description": "Honden zijn van nature opportunistische aaseters. Laat maar op straatniveau, en wanneer een korfmuilkorf een veiligheidsmiddel is.",
+  "card": "Honden zijn van nature opportunistische aaseters.",
+  "needs": [
+   "Korfmuilkorf",
+   "Lange lijn"
+  ]
+ },
+ "guard": {
+  "title": "Resource guarding: eerste signalen bij eten en speelgoed",
+  "description": "Verstijven, strak staren of grommen betekent angst om iets te verliezen. Waarom je grommen nooit mag straffen.",
+  "card": "Verstijven, strak staren of grommen betekent angst om iets te verliezen.",
+  "needs": []
+ },
+ "reactive": {
+  "title": "Lijnreactiviteit: hond valt uit en blaft aan de lijn",
+  "description": "Grote gevoelens zonder uitweg. Onder de drempel werken, met vooruitgang in meters per maand.",
+  "card": "Grote gevoelens zonder uitweg.",
+  "needs": [
+   "Lange lijn",
+   "Tuig met bevestiging voor",
+   "Superlekkere beloningen"
+  ]
+ },
+ "fireworks": {
+  "title": "Hond is bang voor vuurwerk en onweer",
+  "description": "Een hol voorbereiden, waarom troosten prima is, en het geluidswerk dat je in november start.",
+  "card": "Een hol voorbereiden, waarom troosten prima is, en het geluidswerk dat je in november start.",
+  "needs": [
+   "Witte-ruisapparaat",
+   "Overdekte hondenmand"
+  ]
+ },
+ "norecall": {
+  "title": "Hond komt niet als je roept",
+  "description": "De omgeving betaalt beter dan jij. Terugroepen opnieuw opbouwen aan een lange lijn en het signaal beschermen.",
+  "card": "De omgeving betaalt beter dan jij.",
+  "needs": [
+   "Lange lijn",
+   "Superlekkere beloningen"
+  ]
+ },
+ "housetrain": {
+  "title": "Ongelukjes bij het zindelijk maken van een pup",
+  "description": "Een pupblaas houdt het ongeveer zoveel uur vol als de pup maanden oud is. Timing, en waarom een enzymreiniger ertoe doet.",
+  "card": "Een pupblaas houdt het ongeveer zoveel uur vol als de pup maanden oud is.",
+  "needs": [
+   "Enzymreiniger",
+   "Puppytrainingsmatjes"
+  ]
+ },
+ "marking": {
+  "title": "Hond markeert binnen",
+  "description": "Kleine, bewuste plasjes op verticale plekken. Sluit eerst medische oorzaken uit.",
+  "card": "Kleine, bewuste plasjes op verticale plekken.",
+  "needs": [
+   "Enzymreiniger",
+   "Buikband voor reuen"
+  ]
+ },
+ "heat": {
+  "title": "De eerste loopsheid van een teefje: wat je kunt verwachten",
+  "description": "Tussen 6 en 15 maanden, duurt 2 tot 4 weken. 3 weken management, daarna gaat het leven verder.",
+  "card": "Tussen 6 en 15 maanden, duurt 2 tot 4 weken.",
+  "needs": [
+   "Loopsheidsbroekje",
+   "Wasbare inlegkruisjes"
+  ]
+ },
+ "humping": {
+  "title": "Hond rijdt op: wat het echt betekent",
+  "description": "Vooral overprikkeling en stressontlading, geen dominantie en vaak niet seksueel.",
+  "card": "Vooral overprikkeling en stressontlading, geen dominantie en vaak niet seksueel.",
+  "needs": []
+ },
+ "zoomies": {
+  "title": "Zoomies uitgelegd: plotselinge wilde renbuien",
+  "description": "Plotselinge rondjes rennen zijn een normale, gezonde ontlading van energie. Beheer de ondergrond, niet de vreugde.",
+  "card": "Plotselinge rondjes rennen zijn een normale, gezonde ontlading van energie.",
+  "needs": [
+   "Antislipkleed"
+  ]
+ },
+ "begging": {
+  "title": "Hond bedelt aan tafel",
+  "description": "Die ogen hebben ooit een chipje verdiend. Een echt nul-uitbetalingsbeleid, en het trainen van de mensen.",
+  "card": "Die ogen hebben ooit een chipje verdiend.",
+  "needs": [
+   "Hondenkleed voor de keuken",
+   "Langdurig kauwartikel"
+  ]
+ },
+ "stealing": {
+  "title": "Hond steelt sokken en rent ermee weg",
+  "description": "Sok pakken, en de mensen komen erachteraan. Hoe je de achtervolgingseconomie stopt.",
+  "card": "Sok pakken, en de mensen komen erachteraan.",
+  "needs": [
+   "Trekspeeltje",
+   "Ruilbeloningen"
+  ]
+ },
+ "carfear": {
+  "title": "Hond is bang in de auto",
+  "description": "Wagenziekte, of de auto gaat alleen maar naar de dierenarts. Stap voor stap opnieuw opbouwen.",
+  "card": "Wagenziekte, of de auto gaat alleen maar naar de dierenarts.",
+  "needs": [
+   "Autotuig of bench",
+   "Kofferbakbeschermer"
+  ]
+ },
+ "greetpee": {
+  "title": "Pup plast van opwinding of bij begroeten",
+  "description": "Onvolgroeide blaascontrole, geen wraak. Waarom straf onderdanig plassen erger maakt.",
+  "card": "Onvolgroeide blaascontrole, geen wraak.",
+  "needs": [
+   "Enzymreiniger"
+  ]
+ },
+ "nailfear": {
+  "title": "Hond haat nagels knippen",
+  "description": "Eén pijnlijke knip in het leven blijft lang hangen. Coöperatieve verzorging, één nagel per dag.",
+  "card": "Eén pijnlijke knip in het leven blijft lang hangen.",
+  "needs": [
+   "Nagelknipper",
+   "Nagelvijl",
+   "Krabplank"
+  ]
+ }
+}

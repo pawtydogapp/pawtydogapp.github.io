@@ -1,0 +1,94 @@
+{
+ "guides.html": {
+  "title": "32 vodiča o ponašanju pasa — Pawty",
+  "description": "Besplatni i iskreni vodiči o ponašanju pasa: grizenje kod štenaca, lajanje, vučenje na povodcu, čuvanje resursa, dozivanje, navikavanje na čistoću i još 26. Iz aplikacije Pawty za iPhone i Android."
+ },
+ "support.html": {
+  "title": "Pomoć — Pawty",
+  "description": "Pomoć za aplikaciju za dresuru pasa Pawty na iPhoneu i Androidu: brisanje računa, problemi s prijavom, nizovi, ljestvica i kontakt."
+ },
+ "approach.html": {
+  "title": "Naš pristup — Pawty",
+  "description": "Kako Pawty uči: samo pozitivno potkrepljenje, vježbe od 3 minute, bez osjećaja krivnje, i kada umjesto toga otići veterinaru ili bihevioristu."
+ },
+ "partners.html": {
+  "title": "Partneri i mediji — Pawty",
+  "description": "Postanite partner Pawtyja, besplatne aplikacije za dresuru pasa za iPhone i Android. Dođite do predanih vlasnika pasa kroz mjesta na Tržnici u aplikaciji. Uključen je paket za medije."
+ },
+ "marketplace.html": {
+  "title": "Partneri Tržnice — Pawty",
+  "description": "Partneri Pawty Tržnice: hrana za pse, oprema, njega i osiguranje od Fressnapfa, Maxi Zooa, tails.com, Bella & Duke i drugih, filtrirano po zemlji."
+ },
+ "index.html": {
+  "title": "Pawty — Duolingo za pse",
+  "description": "Tvoj pas nije pokvaren i ti nisi zakazao. 99 vještina dresure u vježbama od 3 minute, 32 iskrena vodiča o ponašanju, nizovi koji se zamrznu umjesto da se ponište. Besplatno za iPhone i Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Besplatna aplikacija za dresuru pasa za iPhone i Android s 99 vještina, 32 vodiča o ponašanju, ocjenama šapama, nizovima i kalendarom njege.\",\"url\":\"https://pawtyapp.com/hr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"hr\"}"
+ },
+ "blog.html": {
+  "title": "Pawty blog — praktična dresura i život sa psom",
+  "description": "Praktični članci o psima od Pawtyja: koliko košta štene, popis za kupnju, raspored cijepljenja, spavanje, trening klikerom, njega dlake i udomljeni psi."
+ },
+ "post-puppy-cost.html": {
+  "title": "Koliko štene zapravo košta u prvoj godini — Pawty",
+  "description": "Europski troškovi prve godine šteneta stavku po stavku: kavez, veterinar, hrana, njega i osiguranje, uz ono što možeš mirno preskočiti.",
+  "headline": "Koliko štene zapravo košta u prvoj godini"
+ },
+ "post-shopping-list.html": {
+  "title": "Popis za kupnju za štene i što možeš preskočiti — Pawty",
+  "description": "Što kupiti prije dolaska šteneta, što u 2. mjesecu i 6 stvari koje trgovine za ljubimce prodaju, a ne trebaju ti.",
+  "headline": "Popis za kupnju za štene i što možeš preskočiti"
+ },
+ "post-vaccination.html": {
+  "title": "Raspored cijepljenja šteneta u Europi — Pawty",
+  "description": "Standardni europski raspored cijepljenja šteneta, što pokriva svako cjepivo i kako sigurno socijalizirati štene prije kraja cijepljenja.",
+  "headline": "Raspored cijepljenja šteneta u Europi"
+ },
+ "post-puppy-sleep.html": {
+  "title": "Koliko sna treba štenetu — Pawty",
+  "description": "Štenetu treba 18 do 20 sati sna dnevno. Zašto je večernje grizenje umor i kako provesti drijemanje bez borbe.",
+  "headline": "Koliko sna treba štenetu"
+ },
+ "post-teething.html": {
+  "title": "Vodič za preživljavanje mijene zubi kod šteneta — Pawty blog",
+  "description": "Mijena zubi od 3. do 7. mjeseca, što donosi olakšanje i koje pogreške izbjegavati.",
+  "headline": "Vodič za preživljavanje mijene zubi kod šteneta"
+ },
+ "post-walks.html": {
+  "title": "Koliko dugo trebaju trajati šetnje šteneta? — Pawty blog",
+  "description": "Pravilo 5 minuta po mjesecu starosti, što se u to računa i kako čitati svoje štene.",
+  "headline": "Koliko dugo trebaju trajati šetnje šteneta?"
+ },
+ "post-sit.html": {
+  "title": "Nauči psa sjediti u tjedan dana — Pawty blog",
+  "description": "Metoda mamljenja za naredbu sjedni, 2 klasične pogreške i kako izgleda uspjeh u pojedinoj vježbi.",
+  "headline": "Nauči psa sjediti u tjedan dana"
+ },
+ "post-clicker-vs-marker.html": {
+  "title": "Kliker ili riječ marker: što koristiti — Pawty",
+  "description": "Oboje označavaju točan trenutak kad pas nešto napravi dobro. Kada koristiti koje, kako ga napuniti u 2 minute i 4 pogreške.",
+  "headline": "Kliker ili riječ marker: što koristiti"
+ },
+ "post-5minutes.html": {
+  "title": "Zašto 5 minuta dnevno pobjeđuje vikend maratone — Pawty blog",
+  "description": "Kratke dnevne vježbe s psom pobjeđuju duge vikend treninge: ponavljanja, raspoređeno učenje i nizovi.",
+  "headline": "Zašto 5 minuta dnevno pobjeđuje vikend maratone"
+ },
+ "post-cockapoo-grooming.html": {
+  "title": "Njega cockapooa: što ti nitko ne kaže — Pawty",
+  "description": "Kovrčava dlaka nikad ne prestaje rasti. Stvarni godišnji trošak, zašto nastaju čvorovi i metoda četkanja po redovima koja ih sprječava.",
+  "headline": "Njega cockapooa: što ti nitko ne kaže"
+ },
+ "post-rescue-333.html": {
+  "title": "Udomljavanje odraslog psa iz skloništa: pravilo 3-3-3 — Pawty",
+  "description": "3 dana, 3 tjedna, 3 mjeseca. Kako prilagodba odraslog udomljenog psa zapravo izgleda i što raditi u svakoj fazi.",
+  "headline": "Udomljavanje odraslog psa iz skloništa: pravilo 3-3-3"
+ },
+ "legal/terms.html": {
+  "title": "Uvjeti korištenja — Pawty",
+  "description": "Uvjeti korištenja aplikacije za dresuru pasa Pawty za iPhone i Android, uključujući napomenu o dresuri i pravila o partnerskim poveznicama."
+ },
+ "legal/privacy.html": {
+  "title": "Pravila privatnosti — Pawty",
+  "description": "Kako Pawty postupa s tvojim podacima: personalizirano oglašavanje i privola, prava iz GDPR-a, pohrana u EU-u i partnerske poveznice."
+ }
+}
