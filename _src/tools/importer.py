@@ -75,8 +75,7 @@ def _main():
     if len(sys.argv) > 2 and sys.argv[1] == 'blog':
         for l in sys.argv[2:]: run_blog(l)
     elif len(sys.argv) > 2 and sys.argv[1] == 'legal':
-        ok = all([run_legal(l) for l in sys.argv[2:]])
-        sys.exit(0 if ok else 1)
+        sys.exit(0 if all([run_legal(l) for l in sys.argv[2:]]) else 1)
     else:
         for l in sys.argv[1:]: run(l)
 

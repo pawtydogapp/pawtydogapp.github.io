@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Duolingo za pse",
-  "description": "Tvoj pes ni pokvarjen in ti ne odpoveduješ. 99 veščin šolanja v 3-minutnih vajah, 32 iskrenih vodnikov o vedenju, nizi, ki zamrznejo namesto da se ponastavijo. Brezplačno za iPhone in Android.",
+  "description": "Pes ni pokvarjen in kot vodnik ne obupuješ. 99 veščin šolanja v 3-minutnih vajah, 32 iskrenih vodnikov o vedenju, nizi, ki zamrznejo namesto da se ponastavijo. Brezplačno za iPhone in Android.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Brezplačna aplikacija za šolanje psov za iPhone in Android s 99 veščinami, 32 vodniki o vedenju, ocenami s tačkami, nizi in koledarjem nege.\",\"url\":\"https://pawtyapp.com/sl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"sl\"}"
  },
  "blog.html": {
@@ -75,7 +75,7 @@
  },
  "post-cockapoo-grooming.html": {
   "title": "Nega cockapooja: česar ti nihče ne pove — Pawty",
-  "description": "Kodrasta dlaka nikoli ne neha rasti. Pravi letni strošek, zakaj nastajajo zavozlanine in metoda krtačenja po pasovih, ki jih prepreči.",
+  "description": "Kodrasta dlaka nikoli ne neha rasti. Pravi letni strošek, zakaj nastajajo vozli in metoda krtačenja po pasovih, ki jih prepreči.",
   "headline": "Nega cockapooja: česar ti nihče ne pove"
  },
  "post-rescue-333.html": {
