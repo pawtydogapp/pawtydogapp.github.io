@@ -9,14 +9,15 @@ nav .logo{color:#FFF9EE;font-family:'Baloo 2',sans-serif;font-size:26px;font-wei
 nav .logo svg{flex:0 0 auto}
 nav .links a{color:#FFF9EE;text-decoration:none;font-weight:800;margin-left:15px;font-size:14.5px;white-space:nowrap}
 @media(max-width:760px){
- /* Two rows: logo plus language button, then the menu across the full width.
-    Nothing scrolls sideways. Approach and Support are reachable from the footer. */
- nav{padding:10px 14px 9px;flex-wrap:wrap;gap:7px 10px}
- nav .logo{flex:0 0 auto;font-size:20px;gap:6px}
- nav .logo svg{width:21px;height:21px}
- nav .links{order:3;flex:0 0 100%;min-width:0;display:flex;flex-wrap:wrap;gap:5px 15px;margin-left:0;overflow:visible;padding-right:0;mask-image:none}
- nav .links a{margin-left:0;font-size:14px;flex:0 0 auto}
- nav .links a[href$="approach.html"],nav .links a[href$="support.html"]{display:none}
+ /* One row: logo, wordmark, 4 menu items, globe. Nothing scrolls sideways.
+    The paw stays at 24px so its toe gaps read the same as the hero paw.
+    Partners, Approach and Support are hidden here and sit in the footer. */
+ nav{padding:9px 12px;flex-wrap:nowrap;gap:8px}
+ nav .logo{flex:0 0 auto;font-size:19px;gap:5px}
+ nav .logo svg{width:24px;height:24px}
+ nav .links{order:0;flex:0 1 auto;min-width:0;display:flex;flex-wrap:nowrap;gap:10px;margin-left:auto;overflow:visible;padding-right:0;mask-image:none}
+ nav .links a{margin-left:0;font-size:12.5px;flex:0 0 auto}
+ nav .links a[href$="approach.html"],nav .links a[href$="support.html"],nav .links a[href$="partners.html"]{display:none}
 }
 .wrap{max-width:860px;margin:0 auto;padding:0 20px}
 .hero{text-align:center;padding:30px 20px 34px}
@@ -180,6 +181,31 @@ nav .links{margin-left:auto}
 .langmenu a:hover,.langmenu a:focus-visible{background:#F2FBF4}
 .langmenu a[aria-current]{color:#1E8A4E;font-weight:800}
 footer .langrow{display:flex;flex-wrap:wrap;justify-content:center;gap:3px 14px;margin-top:12px;font-size:13px;line-height:1.9}
-footer .langrow a{margin:0;white-space:nowrap}
-@media(max-width:760px){.lang{margin-left:auto;margin-right:0}.lang summary{padding:4px 9px;font-size:13px}}
+footer .langrow a{margin:0;white-space:nowrap}footer .langrow a[aria-current]{color:#FFF9EE;font-weight:800;text-decoration-thickness:2px}
+@media(max-width:760px){.lang{margin-left:9px;margin-right:0;flex:0 0 auto}.lang summary{padding:0;border:0;font-size:0;gap:0;line-height:0}.lang summary svg{width:19px;height:19px}.lang[open] summary{background:none;color:#FFF9EE}}
 .legal .legal-binding{margin-top:-18px}
+
+/* ---------- mobile first screen ----------
+   Last in the file on purpose: these must win over the base .hero and .vhero
+   rules above, which come later in the source than the nav media block.
+   Goal: on a phone the headline, the photo and BOTH store badges are in view
+   without scrolling, because the badges are the download channel. */
+@media(max-width:760px){
+ .hero{padding:18px 20px 22px}
+ .hero .paw{display:none}          /* the same paw already sits in the header */
+ .hero h1{font-size:30px;margin:0 0 7px}
+ .hero p{font-size:16px;margin:0 auto 13px}
+ .vhero{max-width:168px;margin:0 auto 13px}
+ .phone .cap{font-size:10px;padding:14px 5px 5px;line-height:1.25}
+ .stores{gap:9px;margin-top:4px;margin-bottom:8px;flex-wrap:nowrap}
+ .stores a{padding:9px 12px;font-size:15px;gap:7px;border-radius:12px}
+ .stores a svg{width:20px;height:20px;flex:0 0 auto}
+ .stores a .s{font-size:10px}
+}
+@media(max-width:760px) and (max-height:620px){
+ /* Very short viewports, for example an iPhone SE with both Safari bars showing. */
+ .hero{padding:12px 20px 16px}
+ .hero h1{font-size:26px}
+ .hero p{font-size:15px;margin-bottom:10px}
+ .vhero{max-width:112px;margin-bottom:11px}
+}
