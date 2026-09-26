@@ -9,11 +9,14 @@ nav .logo{color:#FFF9EE;font-family:'Baloo 2',sans-serif;font-size:26px;font-wei
 nav .logo svg{flex:0 0 auto}
 nav .links a{color:#FFF9EE;text-decoration:none;font-weight:800;margin-left:15px;font-size:14.5px;white-space:nowrap}
 @media(max-width:760px){
- nav{padding:11px 0 11px 14px;flex-wrap:nowrap;gap:12px}
- nav .logo{flex:0 0 auto;font-size:23px}
- nav .links{flex:1 1 auto;min-width:0;display:flex;gap:16px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;padding-right:14px;mask-image:linear-gradient(to right,#000 88%,transparent)}
- nav .links::-webkit-scrollbar{display:none}
+ /* Two rows: logo plus language button, then the menu across the full width.
+    Nothing scrolls sideways. Approach and Support are reachable from the footer. */
+ nav{padding:10px 14px 9px;flex-wrap:wrap;gap:7px 10px}
+ nav .logo{flex:0 0 auto;font-size:20px;gap:6px}
+ nav .logo svg{width:21px;height:21px}
+ nav .links{order:3;flex:0 0 100%;min-width:0;display:flex;flex-wrap:wrap;gap:5px 15px;margin-left:0;overflow:visible;padding-right:0;mask-image:none}
  nav .links a{margin-left:0;font-size:14px;flex:0 0 auto}
+ nav .links a[href$="approach.html"],nav .links a[href$="support.html"]{display:none}
 }
 .wrap{max-width:860px;margin:0 auto;padding:0 20px}
 .hero{text-align:center;padding:30px 20px 34px}
@@ -122,8 +125,8 @@ article li{margin-bottom:9px;padding-left:2px}
 .gcard p{font-size:13.5px;color:#4a5c4a;margin:0}
 
 /* ---------- footer ---------- */
-.social{margin:14px 0 10px}
-.social a{color:#8FDBAF;text-decoration:none;font-weight:800;margin:0 9px;font-size:14px}
+.social{display:flex;flex-wrap:wrap;justify-content:center;gap:2px 16px;margin:14px 0 10px}
+.social a{color:#8FDBAF;text-decoration:none;font-weight:800;margin:0;font-size:14px}
 .imprint{color:#9BB39B;font-size:12.5px;margin-top:14px;line-height:1.75;max-width:640px;margin-left:auto;margin-right:auto}
 footer .legalrow a{color:#8FDBAF;margin:0 7px}
 @media(max-width:520px){.hero h1{font-size:34px}.legal h1{font-size:29px}.stats{gap:22px}.stat .n{font-size:32px}}
@@ -176,7 +179,7 @@ nav .links{margin-left:auto}
 .langmenu a{color:#21351F;text-decoration:none;font-weight:700;font-size:15px;padding:8px 12px;border-radius:9px}
 .langmenu a:hover,.langmenu a:focus-visible{background:#F2FBF4}
 .langmenu a[aria-current]{color:#1E8A4E;font-weight:800}
-footer .langrow{margin-top:12px;font-size:13px;line-height:2}
-footer .langrow a{margin:0 6px;white-space:nowrap}
-@media(max-width:760px){.lang{margin-left:0;margin-right:12px}.lang summary{padding:4px 8px;font-size:13px}}
+footer .langrow{display:flex;flex-wrap:wrap;justify-content:center;gap:3px 14px;margin-top:12px;font-size:13px;line-height:1.9}
+footer .langrow a{margin:0;white-space:nowrap}
+@media(max-width:760px){.lang{margin-left:auto;margin-right:0}.lang summary{padding:4px 9px;font-size:13px}}
 .legal .legal-binding{margin-top:-18px}
