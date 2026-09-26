@@ -155,7 +155,7 @@ def lang_switch(lang, path, chrome):
 
 def lang_footer(lang, path):
     if len(LANGS) < 2: return ''
-    return '<div class="langrow">' + ''.join(f'<a href="{lang_href(l, path)}" hreflang="{l}" lang="{l}">{NATIVE[l]}</a>' for l in LANGS) + '</div>\n'
+    return '<div class="langrow">' + ''.join(f'<a href="{lang_href(l, path)}" hreflang="{l}" lang="{l}"' + (' aria-current="true"' if l == lang else '') + f'>{NATIVE[l]}</a>' for l in LANGS) + '</div>\n'
 
 def sitemap():
     rows = []

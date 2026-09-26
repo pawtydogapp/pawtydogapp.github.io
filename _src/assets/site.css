@@ -129,7 +129,7 @@ article li{margin-bottom:9px;padding-left:2px}
 .social{display:flex;flex-wrap:wrap;justify-content:center;gap:2px 16px;margin:14px 0 10px}
 .social a{color:#8FDBAF;text-decoration:none;font-weight:800;margin:0;font-size:14px}
 .imprint{color:#9BB39B;font-size:12.5px;margin-top:14px;line-height:1.75;max-width:640px;margin-left:auto;margin-right:auto}
-footer .legalrow a{color:#8FDBAF;margin:0 7px}
+footer .legalrow{display:flex;flex-wrap:wrap;justify-content:center;align-items:baseline;row-gap:4px}footer .legalrow a{color:#8FDBAF;margin:0 7px;white-space:nowrap}
 @media(max-width:520px){.hero h1{font-size:34px}.legal h1{font-size:29px}.stats{gap:22px}.stat .n{font-size:32px}}
 
 .why{display:grid;grid-template-columns:repeat(auto-fit,minmax(238px,1fr));gap:16px;padding:10px 0 34px;align-items:start}
@@ -182,7 +182,7 @@ nav .links{margin-left:auto}
 .langmenu a[aria-current]{color:#1E8A4E;font-weight:800}
 footer .langrow{display:flex;flex-wrap:wrap;justify-content:center;gap:3px 14px;margin-top:12px;font-size:13px;line-height:1.9}
 footer .langrow a{margin:0;white-space:nowrap}footer .langrow a[aria-current]{color:#FFF9EE;font-weight:800;text-decoration-thickness:2px}
-@media(max-width:760px){.lang{margin-left:9px;margin-right:0;flex:0 0 auto}.lang summary{padding:0;border:0;font-size:0;gap:0;line-height:0}.lang summary svg{width:19px;height:19px}.lang[open] summary{background:none;color:#FFF9EE}}
+@media(max-width:760px){.lang{margin-left:9px;margin-right:0;flex:0 0 auto;display:flex;align-items:center}.lang summary{padding:0;border:0;font-size:0;gap:0;line-height:0;display:flex}.lang summary svg{width:19px;height:19px}.lang[open] summary{background:none;color:#FFF9EE}}
 .legal .legal-binding{margin-top:-18px}
 
 /* ---------- mobile first screen ----------
