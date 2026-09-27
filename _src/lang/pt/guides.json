@@ -65,7 +65,7 @@
   ]
  },
  "pulling": {
-  "title": "Cão que puxa a trela: porque acontece e o que funciona",
+  "title": "Cão que puxa pela trela: porque acontece e o que funciona",
   "description": "Os cães puxam porque isso os levou para a frente. Parar e avançar, recompensa junto à tua perna, e porque as coleiras de picos criam novos problemas.",
   "card": "Os cães puxam porque isso os levou para a frente.",
   "needs": [
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Ladrar de exigência: o cão ladra-te por comida ou atenção",
+  "title": "Ladrar de exigência: o cão ladra-te a pedir comida ou atenção",
   "description": "O cão ladra porque já resultou antes. Porque piora antes de melhorar.",
   "card": "O cão ladra porque já resultou antes.",
   "needs": []
@@ -109,8 +109,8 @@
  },
  "cratecry": {
   "title": "Cachorro que chora na caixa",
-  "description": "Estar fechado não é natural até a caixa ser treinada como toca. Jogos de porta aberta e progresso segundo a segundo.",
-  "card": "Estar fechado não é natural até a caixa ser treinada como toca.",
+  "description": "Estar fechado não é natural até o cão aprender a ver a caixa como uma toca. Jogos de porta aberta e progresso segundo a segundo.",
+  "card": "Estar fechado não é natural até o cão aprender a ver a caixa como uma toca.",
   "needs": [
    "Caixa",
    "Capa para a caixa",
@@ -145,7 +145,7 @@
  },
  "poop": {
   "title": "Cão que come fezes (coprofagia)",
-  "description": "Comum e raramente ligado à alimentação. Apanhar logo, Deixa, e a consulta veterinária que vale a pena.",
+  "description": "Comum e raramente ligado à alimentação. Apanhar logo, o «Deixa» e a consulta veterinária que vale a pena.",
   "card": "Comum e raramente ligado à alimentação.",
   "needs": [
    "Sacos para dejetos",
@@ -154,7 +154,7 @@
  },
  "scavenge": {
   "title": "Cão que come coisas no passeio",
-  "description": "Por natureza, os cães são oportunistas e comem o que encontram. O Deixa ao nível da rua, e quando um açaime de cesto é uma ferramenta de segurança.",
+  "description": "Por natureza, os cães são oportunistas e comem o que encontram. O «Deixa» na rua, e quando um açaime de cesto é uma ferramenta de segurança.",
   "card": "Por natureza, os cães são oportunistas e comem o que encontram.",
   "needs": [
    "Açaime de cesto",
@@ -196,7 +196,7 @@
   ]
  },
  "housetrain": {
-  "title": "Acidentes a ensinar o cachorro a fazer as necessidades",
+  "title": "Acidentes no treino de higiene do cachorro",
   "description": "A bexiga de um cachorro aguenta mais ou menos tantas horas quantos meses ele tem. O momento certo, e porque o limpador enzimático importa.",
   "card": "A bexiga de um cachorro aguenta mais ou menos tantas horas quantos meses ele tem.",
   "needs": [
@@ -265,16 +265,16 @@
  },
  "greetpee": {
   "title": "Cachorro que faz xixi de excitação ou ao cumprimentar",
-  "description": "Controlo da bexiga imaturo, não birra. Porque o castigo piora o xixi de submissão.",
-  "card": "Controlo da bexiga imaturo, não birra.",
+  "description": "Controlo imaturo da bexiga, não birra. Porque o castigo piora o xixi de submissão.",
+  "card": "Controlo imaturo da bexiga, não birra.",
   "needs": [
    "Limpador enzimático"
   ]
  },
  "nailfear": {
   "title": "Cão que detesta o corte das unhas",
-  "description": "Um só corte doloroso deixa uma memória longa. Cuidados cooperativos, uma unha por dia.",
-  "card": "Um só corte doloroso deixa uma memória longa.",
+  "description": "Um único corte doloroso na parte viva da unha deixa uma memória longa. Cuidados cooperativos, uma unha por dia.",
+  "card": "Um único corte doloroso na parte viva da unha deixa uma memória longa.",
   "needs": [
    "Corta-unhas",
    "Lima elétrica de unhas",

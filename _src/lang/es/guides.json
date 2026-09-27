@@ -10,8 +10,8 @@
  },
  "attention": {
   "title": "Perro que da con la pata, gime y empuja para llamar la atención",
-  "description": "Incluso la atención molesta cuenta. Cambiar las cuentas para que la calma compense y la insistencia no.",
-  "card": "Incluso la atención molesta cuenta.",
+  "description": "Incluso la atención de fastidio cuenta. Dar la vuelta a las cuentas para que la calma compense y la insistencia no.",
+  "card": "Incluso la atención de fastidio cuenta.",
   "needs": [
    "Juguete rompecabezas de comida",
    "Mordedor"
@@ -58,8 +58,8 @@
  },
  "jumping": {
   "title": "Perro que salta sobre la gente: cómo evitarlo",
-  "description": "Saltar es emoción más un historial en el que le ha salido a cuenta. La regla de las 4 patas y la tarea incompatible que lo sustituye.",
-  "card": "Saltar es emoción más un historial en el que le ha salido a cuenta.",
+  "description": "Saltar es emoción más un historial de haberle salido a cuenta. La regla de las 4 patas y la tarea incompatible que lo sustituye.",
+  "card": "Saltar es emoción más un historial de haberle salido a cuenta.",
   "needs": [
    "Bolsa de premios"
   ]
@@ -100,7 +100,7 @@
  },
  "nightcry": {
   "title": "Cachorro que llora por la noche: lo que de verdad ayuda",
-  "description": "El llanto nocturno es angustia por separación, no manipulación. Por qué dejarlo llorar erosiona la confianza a esta edad.",
+  "description": "El llanto nocturno es angustia por separación, no manipulación. Por qué dejarlo llorar mina la confianza a esta edad.",
   "card": "El llanto nocturno es angustia por separación, no manipulación.",
   "needs": [
    "Transportín",
@@ -109,8 +109,8 @@
  },
  "cratecry": {
   "title": "Cachorro que llora en el transportín",
-  "description": "Estar encerrado no es natural hasta que el transportín se entrena como guarida. Juegos con la puerta abierta y avances segundo a segundo.",
-  "card": "Estar encerrado no es natural hasta que el transportín se entrena como guarida.",
+  "description": "Estar encerrado no es natural hasta que el transportín se convierte en su guarida con entrenamiento. Juegos con la puerta abierta y avances segundo a segundo.",
+  "card": "Estar encerrado no es natural hasta que el transportín se convierte en su guarida con entrenamiento.",
   "needs": [
    "Transportín",
    "Funda para transportín",
@@ -247,8 +247,8 @@
  },
  "stealing": {
   "title": "Perro que roba calcetines y sale corriendo",
-  "description": "Coge un calcetín y los humanos empiezan a perseguirlo. Cómo acabar con la economía de la persecución.",
-  "card": "Coge un calcetín y los humanos empiezan a perseguirlo.",
+  "description": "Coge un calcetín y los humanos salen corriendo detrás. Cómo acabar con la economía de la persecución.",
+  "card": "Coge un calcetín y los humanos salen corriendo detrás.",
   "needs": [
    "Juguete para tirar",
    "Premios de intercambio"
@@ -256,7 +256,7 @@
  },
  "carfear": {
   "title": "Perro con miedo a ir en coche",
-  "description": "Mareo, o el coche solo va al veterinario. Reconstruir paso a paso.",
+  "description": "Mareo, o el coche solo va al veterinario. Recuperar la confianza paso a paso.",
   "card": "Mareo, o el coche solo va al veterinario.",
   "needs": [
    "Arnés de coche o transportín",

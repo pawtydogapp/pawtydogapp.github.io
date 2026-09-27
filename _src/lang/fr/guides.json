@@ -9,7 +9,7 @@
   ]
  },
  "attention": {
-  "title": "Chien qui gratte, gémit et pousse pour avoir de l'attention",
+  "title": "Chien qui gratte, gémit et donne des coups de museau pour avoir de l'attention",
   "description": "Même une attention agacée compte. Inverser le calcul pour que le calme soit récompensé et l'insistance non.",
   "card": "Même une attention agacée compte.",
   "needs": [
@@ -58,15 +58,15 @@
  },
  "jumping": {
   "title": "Chien qui saute sur les gens : comment l'arrêter",
-  "description": "Sauter, c'est de l'excitation plus un historique où ça a été récompensé. La règle des 4 pattes au sol et le comportement incompatible qui le remplace.",
-  "card": "Sauter, c'est de l'excitation plus un historique où ça a été récompensé.",
+  "description": "Sauter, c'est de l'excitation, plus le fait d'avoir déjà été récompensé pour ça. La règle des 4 pattes au sol et le comportement incompatible qui le remplace.",
+  "card": "Sauter, c'est de l'excitation, plus le fait d'avoir déjà été récompensé pour ça.",
   "needs": [
    "Pochette à friandises"
   ]
  },
  "pulling": {
   "title": "Chien qui tire en laisse : pourquoi et ce qui marche",
-  "description": "Les chiens tirent parce que ça les a fait avancer. Stop and go, récompense contre ta jambe, et pourquoi les colliers à pointes créent de nouveaux problèmes.",
+  "description": "Les chiens tirent parce que ça les a fait avancer. Stop and go, récompense au niveau de ta jambe, et pourquoi les colliers à pointes créent de nouveaux problèmes.",
   "card": "Les chiens tirent parce que ça les a fait avancer.",
   "needs": [
    "Harnais à attache frontale",
@@ -84,7 +84,7 @@
   ]
  },
  "barkdogs": {
-  "title": "Chien qui aboie sur les autres chiens en promenade",
+  "title": "Chien qui aboie après les autres chiens en promenade",
   "description": "Le plus souvent de la frustration ou un malaise. Trouver la distance à laquelle ton chien reste calme, puis la réduire sur des semaines.",
   "card": "Le plus souvent de la frustration ou un malaise.",
   "needs": [
@@ -128,17 +128,17 @@
  },
  "digging": {
   "title": "Chien qui creuse dans le jardin",
-  "description": "Creuser est inné. Tu ne peux pas le supprimer, mais tu peux le déplacer vers une zone de fouille autorisée.",
+  "description": "Creuser est inné. Tu ne peux pas le supprimer, mais tu peux le déplacer vers un coin où il a le droit de creuser.",
   "card": "Creuser est inné.",
   "needs": [
-   "Bac à sable ou bac à fouille",
+   "Bac à sable ou bac à creuser",
    "Jouets à enterrer"
   ]
  },
  "counter": {
   "title": "Chien qui vole de la nourriture sur le plan de travail",
-  "description": "Le plan de travail a offert une récompense une fois. Pourquoi une gestion sans faille, et non l'éducation, est le vrai remède.",
-  "card": "Le plan de travail a offert une récompense une fois.",
+  "description": "Le plan de travail l'a récompensé une fois. Pourquoi une gestion sans faille, et non l'éducation, est le vrai remède.",
+  "card": "Le plan de travail l'a récompensé une fois.",
   "needs": [
    "Tapis pour la cuisine"
   ]
@@ -163,8 +163,8 @@
  },
  "guard": {
   "title": "Protection des ressources : premiers signes avec la nourriture et les jouets",
-  "description": "Se figer, fixer du regard ou grogner signifie la peur de perdre. Pourquoi il ne faut jamais punir un grognement.",
-  "card": "Se figer, fixer du regard ou grogner signifie la peur de perdre.",
+  "description": "Se figer, fixer du regard ou grogner traduit la peur de perdre. Pourquoi il ne faut jamais punir un grognement.",
+  "card": "Se figer, fixer du regard ou grogner traduit la peur de perdre.",
   "needs": []
  },
  "reactive": {
@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Chien qui a peur des feux d'artifice et de l'orage",
-  "description": "Préparer une tanière, pourquoi rassurer ton chien est très bien, et le travail sur les sons à commencer en novembre.",
-  "card": "Préparer une tanière, pourquoi rassurer ton chien est très bien, et le travail sur les sons à commencer en novembre.",
+  "description": "Préparer une tanière, pourquoi tu peux rassurer ton chien, et le travail sur les sons à commencer en novembre.",
+  "card": "Préparer une tanière, pourquoi tu peux rassurer ton chien, et le travail sur les sons à commencer en novembre.",
   "needs": [
    "Appareil à bruit blanc",
    "Panier couvert"
@@ -230,8 +230,8 @@
  },
  "zoomies": {
   "title": "Les zoomies expliqués : les folles courses soudaines",
-  "description": "Les tours de course soudains sont une décharge d'énergie normale et saine. Gère le terrain, pas la joie.",
-  "card": "Les tours de course soudains sont une décharge d'énergie normale et saine.",
+  "description": "Les soudaines courses en rond sont une décharge d'énergie normale et saine. Gère le terrain, pas la joie.",
+  "card": "Les soudaines courses en rond sont une décharge d'énergie normale et saine.",
   "needs": [
    "Tapis antidérapant"
   ]
@@ -273,11 +273,11 @@
  },
  "nailfear": {
   "title": "Chien qui déteste la coupe des griffes",
-  "description": "Une seule coupe douloureuse laisse un long souvenir. Des soins coopératifs, une griffe par jour.",
-  "card": "Une seule coupe douloureuse laisse un long souvenir.",
+  "description": "Une seule griffe coupée trop court laisse un long souvenir. Des soins coopératifs, une griffe par jour.",
+  "card": "Une seule griffe coupée trop court laisse un long souvenir.",
   "needs": [
    "Coupe-griffes",
-   "Ponceuse à griffes",
+   "Lime électrique pour griffes",
    "Planche à griffer"
   ]
  }

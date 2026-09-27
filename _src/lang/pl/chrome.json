@@ -23,13 +23,13 @@
  "guide_avoid": "Co pogarsza sprawę",
  "guide_calm": "Pamiętaj",
  "guide_needs": "Czego zwykle potrzebują opiekunowie",
- "guide_needs_note": "Wszystko to znajdziesz na <a href=\"/marketplace.html\">Rynku Pawty</a>, filtrowane według sklepów, które dostarczają do Twojego kraju.",
- "guide_help_title": "Kiedy szukać pomocy na żywo",
+ "guide_needs_note": "Wszystko to znajdziesz na <a href=\"/marketplace.html\">Rynku Pawty</a>, wyłącznie od sklepów, które dostarczają do twojego kraju.",
+ "guide_help_title": "Kiedy szukać pomocy na miejscu",
  "guide_help_critical": "Tu chodzi o bezpieczeństwo albo silne emocje. Pracuj z wykwalifikowanym trenerem stosującym metody bez przymusu lub z lekarzem weterynarii behawiorystą, zamiast działać w pojedynkę.",
  "guide_help_text": "Pawty to treści edukacyjne, a nie porada weterynaryjna ani behawioralna.",
- "guide_help_common": "Idź do weterynarza przy każdej nagłej zmianie zachowania lub oznakach bólu, a do wykwalifikowanego behawiorysty na żywo, jeśli pies ugryzł, broni zasobów kłapiąc zębami albo wpada w panikę, gdy zostaje sam. Przeczytaj <a href=\"/approach.html\">nasze podejście</a>.",
+ "guide_help_common": "Skonsultuj się z weterynarzem przy każdej nagłej zmianie zachowania lub oznakach bólu, a osobiście z wykwalifikowanym behawiorystą, jeśli pies ugryzł, broni zasobów, kłapiąc zębami, albo wpada w panikę, gdy zostaje sam. Przeczytaj <a href=\"/approach.html\">nasze podejście</a>.",
  "guide_cta_title": "Trenuj, a nie tylko czytaj",
- "guide_cta_text": "Pawty ma też 99 umiejętności w 3-minutowych sesjach, które oceniasz od 1 do 5 łap, serie, które się zamrażają zamiast zerować, i kalendarz opieki. Za darmo. Bez subskrypcji i bez płatnych treści.",
+ "guide_cta_text": "Pawty ma też 99 umiejętności w 3-minutowych sesjach, które oceniasz od 1 do 5 łap, serie, które zamrażają się, zamiast się zerować, i kalendarz opieki. Za darmo. Bez subskrypcji i bez płatnych treści.",
  "title_suffix": " — Pawty",
  "lang_label": "Język"
 }

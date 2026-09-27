@@ -41,8 +41,8 @@
   "description": "28 melktanden eruit, 42 blijvende tanden erin, tussen 3 en 7 maanden. Welke kauwartikelen pijnlijk tandvlees helpen en welke gevaarlijk zijn.",
   "card": "28 melktanden eruit, 42 blijvende tanden erin, tussen 3 en 7 maanden.",
   "needs": [
-   "Kauwhout van koffieboom",
-   "Kauwhout van olijfhout",
+   "Kauwstok van koffiehout",
+   "Kauwstok van olijfhout",
    "Rubberen kauwspeeltje",
    "Kauwartikelen voor pups"
   ]
@@ -58,7 +58,7 @@
  },
  "jumping": {
   "title": "Hond springt tegen mensen op: zo stop je het",
-  "description": "Opspringen is opwinding plus een geschiedenis waarin het loonde. De 4-poten-regel en de onverenigbare taak die het vervangt.",
+  "description": "Opspringen is opwinding plus een geschiedenis waarin het loonde. De 4-poten-regel en een vervangende taak die niet samengaat met opspringen.",
   "card": "Opspringen is opwinding plus een geschiedenis waarin het loonde.",
   "needs": [
    "Beloningszakje"
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Hond trekt aan de riem: waarom en wat werkt",
-  "description": "Honden trekken omdat het ze vooruit bracht. Stoppen en gaan, belonen bij je been, en waarom prikbanden nieuwe problemen maken.",
+  "description": "Honden trekken omdat het ze vooruit bracht. Stoppen en doorlopen, belonen bij je been, en waarom prikbanden nieuwe problemen veroorzaken.",
   "card": "Honden trekken omdat het ze vooruit bracht.",
   "needs": [
    "Tuig met bevestiging voor",
@@ -109,7 +109,7 @@
  },
  "cratecry": {
   "title": "Pup huilt in de bench",
-  "description": "Opgesloten zijn is onnatuurlijk tot de bench als hol is getraind. Spelletjes met open deur en vooruitgang per seconde.",
+  "description": "Opgesloten zijn is onnatuurlijk tot de bench als hol is getraind. Spelletjes met de deur open en seconde voor seconde vooruit.",
   "card": "Opgesloten zijn is onnatuurlijk tot de bench als hol is getraind.",
   "needs": [
    "Bench",
@@ -154,7 +154,7 @@
  },
  "scavenge": {
   "title": "Hond eet dingen op tijdens de wandeling",
-  "description": "Honden zijn van nature opportunistische aaseters. Laat maar op straatniveau, en wanneer een korfmuilkorf een veiligheidsmiddel is.",
+  "description": "Honden zijn van nature opportunistische aaseters. Laat maar, getraind op straat, en wanneer een korfmuilkorf een veiligheidsmiddel is.",
   "card": "Honden zijn van nature opportunistische aaseters.",
   "needs": [
    "Korfmuilkorf",
@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Hond is bang voor vuurwerk en onweer",
-  "description": "Een hol voorbereiden, waarom troosten prima is, en het geluidswerk dat je in november start.",
-  "card": "Een hol voorbereiden, waarom troosten prima is, en het geluidswerk dat je in november start.",
+  "description": "Een hol voorbereiden, waarom troosten prima is, en de geluidstraining waarmee je in november begint.",
+  "card": "Een hol voorbereiden, waarom troosten prima is, en de geluidstraining waarmee je in november begint.",
   "needs": [
    "Witte-ruisapparaat",
    "Overdekte hondenmand"
@@ -238,7 +238,7 @@
  },
  "begging": {
   "title": "Hond bedelt aan tafel",
-  "description": "Die ogen hebben ooit een chipje verdiend. Een echt nul-uitbetalingsbeleid, en het trainen van de mensen.",
+  "description": "Die ogen hebben ooit een chipje verdiend. Consequent nooit meer iets geven, en de mensen trainen.",
   "card": "Die ogen hebben ooit een chipje verdiend.",
   "needs": [
    "Hondenkleed voor de keuken",
@@ -256,8 +256,8 @@
  },
  "carfear": {
   "title": "Hond is bang in de auto",
-  "description": "Wagenziekte, of de auto gaat alleen maar naar de dierenarts. Stap voor stap opnieuw opbouwen.",
-  "card": "Wagenziekte, of de auto gaat alleen maar naar de dierenarts.",
+  "description": "Reisziekte, of de auto gaat alleen maar naar de dierenarts. Stap voor stap opnieuw opbouwen.",
+  "card": "Reisziekte, of de auto gaat alleen maar naar de dierenarts.",
   "needs": [
    "Autotuig of bench",
    "Kofferbakbeschermer"
@@ -277,7 +277,7 @@
   "card": "Eén pijnlijke knip in het leven blijft lang hangen.",
   "needs": [
    "Nagelknipper",
-   "Nagelvijl",
+   "Nagelslijper",
    "Krabplank"
   ]
  }

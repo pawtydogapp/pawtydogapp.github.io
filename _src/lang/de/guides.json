@@ -1,6 +1,6 @@
 {
  "chasing": {
-  "title": "Hund jagt Autos, Räder und Wildtiere",
+  "title": "Hund jagt Autos, Fahrräder und Wildtiere",
   "description": "Ein fest verdrahtetes Bewegungsmuster, das sich selbst belohnt. Management zuerst, denn jede Jagd verstärkt es.",
   "card": "Ein fest verdrahtetes Bewegungsmuster, das sich selbst belohnt.",
   "needs": [
@@ -19,8 +19,8 @@
  },
  "eveningsettle": {
   "title": "Hund kommt abends nicht zur Ruhe",
-  "description": "Abendliche Unruhe heißt meist, der Tag war zu wenig oder zu viel. Ein Abendritual, das funktioniert.",
-  "card": "Abendliche Unruhe heißt meist, der Tag war zu wenig oder zu viel.",
+  "description": "Abendliche Unruhe heißt meist, der Tag war zu reizarm oder zu aufregend. Ein Abendritual, das funktioniert.",
+  "card": "Abendliche Unruhe heißt meist, der Tag war zu reizarm oder zu aufregend.",
   "needs": [
    "Gefrorenes Futterspielzeug",
    "Schleckmatte",
@@ -38,7 +38,7 @@
  },
  "teething": {
   "title": "Zahnwechsel beim Welpen: Kauen während der Zahnung",
-  "description": "28 Milchzähne raus, 42 bleibende Zähne rein, zwischen 3 und 7 Monaten. Welche Kauartikel wunde Zahnfleisch lindern und welche gefährlich sind.",
+  "description": "28 Milchzähne raus, 42 bleibende Zähne rein, zwischen 3 und 7 Monaten. Welche Kauartikel wundes Zahnfleisch lindern und welche gefährlich sind.",
   "card": "28 Milchzähne raus, 42 bleibende Zähne rein, zwischen 3 und 7 Monaten.",
   "needs": [
    "Kauwurzel aus Kaffeeholz",
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Hund zieht an der Leine: warum und was hilft",
-  "description": "Hunde ziehen, weil es sie vorwärtsgebracht hat. Stehen und Gehen, Belohnung am Bein, und warum Stachelhalsbänder neue Probleme schaffen.",
+  "description": "Hunde ziehen, weil es sie vorwärtsgebracht hat. Stehen und Gehen, Belohnung am Bein und warum Stachelhalsbänder neue Probleme schaffen.",
   "card": "Hunde ziehen, weil es sie vorwärtsgebracht hat.",
   "needs": [
    "Geschirr mit Brustring",
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Forderndes Bellen: Hund bellt dich für Futter oder Aufmerksamkeit an",
+  "title": "Forderndes Bellen: Hund bellt dich an, um Futter oder Aufmerksamkeit zu bekommen",
   "description": "Der Hund bellt, weil es schon einmal funktioniert hat. Warum es erst lauter wird, bevor es besser wird.",
   "card": "Der Hund bellt, weil es schon einmal funktioniert hat.",
   "needs": []
@@ -119,7 +119,7 @@
  },
  "sepanx": {
   "title": "Hund kann nicht allein bleiben",
-  "description": "Alleinsein ist eine gelernte Fähigkeit, keine Werkseinstellung. Abwesenheit in winzigen Dosen trainieren, und wann du den Hund filmen solltest.",
+  "description": "Alleinsein ist eine gelernte Fähigkeit, keine Werkseinstellung. Abwesenheit in winzigen Dosen trainieren und wann du den Hund filmen solltest.",
   "card": "Alleinsein ist eine gelernte Fähigkeit, keine Werkseinstellung.",
   "needs": [
    "Langlebiger Kauartikel",
@@ -145,7 +145,7 @@
  },
  "poop": {
   "title": "Hund frisst Kot (Koprophagie)",
-  "description": "Häufig, selten eine Frage des Futters. Sofort aufheben, Lass es, und der Tierarzt-Check, der sich lohnt.",
+  "description": "Häufig, selten eine Frage des Futters. Sofort aufheben, „Lass es“ und der Tierarzt-Check, der sich lohnt.",
   "card": "Häufig, selten eine Frage des Futters.",
   "needs": [
    "Kotbeutel",
@@ -154,8 +154,8 @@
  },
  "scavenge": {
   "title": "Hund frisst beim Spaziergang alles auf",
-  "description": "Hunde sind von Natur aus opportunistische Resteverwerter. Lass es auf Straßenniveau, und wann ein Maulkorb ein Sicherheitswerkzeug ist.",
-  "card": "Hunde sind von Natur aus opportunistische Resteverwerter.",
+  "description": "Hunde sind von Natur aus Gelegenheitsfresser. „Lass es“ auf Straßenniveau und wann ein Maulkorb ein Sicherheitswerkzeug ist.",
+  "card": "Hunde sind von Natur aus Gelegenheitsfresser.",
   "needs": [
    "Korbmaulkorb",
    "Schleppleine"
@@ -168,8 +168,8 @@
   "needs": []
  },
  "reactive": {
-  "title": "Leinenaggression: Hund springt und bellt an der Leine",
-  "description": "Große Gefühle ohne Ausweg. Unter der Reizschwelle arbeiten, und Fortschritt in Metern pro Monat.",
+  "title": "Leinenreaktivität: Hund geht an der Leine nach vorn und bellt",
+  "description": "Große Gefühle ohne Ausweg. Unter der Reizschwelle arbeiten und Fortschritt in Metern pro Monat.",
   "card": "Große Gefühle ohne Ausweg.",
   "needs": [
    "Schleppleine",
@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Hund hat Angst vor Feuerwerk und Gewitter",
-  "description": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist, und das Geräuschtraining, das im November beginnt.",
-  "card": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist, und das Geräuschtraining, das im November beginnt.",
+  "description": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist und das Geräuschtraining, mit dem du im November beginnst.",
+  "card": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist und das Geräuschtraining, mit dem du im November beginnst.",
   "needs": [
    "White-Noise-Gerät",
    "Überdachtes Hundebett"
@@ -197,7 +197,7 @@
  },
  "housetrain": {
   "title": "Welpe macht noch in die Wohnung: Stubenreinheit",
-  "description": "Eine Welpenblase hält ungefähr so viele Stunden, wie der Welpe Monate alt ist. Timing, und warum Enzymreiniger wichtig ist.",
+  "description": "Eine Welpenblase hält ungefähr so viele Stunden, wie der Welpe Monate alt ist. Das richtige Timing und warum Enzymreiniger wichtig ist.",
   "card": "Eine Welpenblase hält ungefähr so viele Stunden, wie der Welpe Monate alt ist.",
   "needs": [
    "Enzymreiniger",
@@ -223,14 +223,14 @@
   ]
  },
  "humping": {
-  "title": "Hund rammelt: was es wirklich bedeutet",
+  "title": "Hund reitet auf: was es wirklich bedeutet",
   "description": "Meist Übererregung und Stressabbau, keine Dominanz und oft nicht sexuell.",
   "card": "Meist Übererregung und Stressabbau, keine Dominanz und oft nicht sexuell.",
   "needs": []
  },
  "zoomies": {
   "title": "Zoomies erklärt: plötzliche wilde Rennphasen",
-  "description": "Plötzliche Rennrunden sind ein normales, gesundes Ablassen von Energie. Sichere den Untergrund, nicht die Freude.",
+  "description": "Plötzliche Rennrunden sind ein normales, gesundes Ablassen von Energie. Sorg für sicheren Untergrund, statt die Freude zu bremsen.",
   "card": "Plötzliche Rennrunden sind ein normales, gesundes Ablassen von Energie.",
   "needs": [
    "Rutschfester Teppich"
@@ -238,8 +238,8 @@
  },
  "begging": {
   "title": "Hund bettelt am Tisch",
-  "description": "Diese Augen haben einmal einen Chip verdient. Eine echte Null-Auszahlungs-Regel, und das Training der Menschen.",
-  "card": "Diese Augen haben einmal einen Chip verdient.",
+  "description": "Diese Augen haben schon einmal einen Chip ergattert. Eine konsequente Regel, dass es am Tisch nie etwas gibt, und das Training der Menschen.",
+  "card": "Diese Augen haben schon einmal einen Chip ergattert.",
   "needs": [
    "Hundedecke für die Küche",
    "Langlebiger Kauartikel"
@@ -247,7 +247,7 @@
  },
  "stealing": {
   "title": "Hund klaut Socken und rennt damit weg",
-  "description": "Socke schnappen, und die Menschen jagen hinterher. So beendest du die Verfolgungsjagd-Wirtschaft.",
+  "description": "Socke schnappen, und die Menschen jagen hinterher. So nimmst du dem Spiel die Verfolgungsjagd.",
   "card": "Socke schnappen, und die Menschen jagen hinterher.",
   "needs": [
    "Zerrspielzeug",
@@ -273,8 +273,8 @@
  },
  "nailfear": {
   "title": "Hund hasst Krallenschneiden",
-  "description": "Ein schmerzhafter Schnitt ins Leben bleibt lange im Gedächtnis. Kooperative Pflege, eine Kralle pro Tag.",
-  "card": "Ein schmerzhafter Schnitt ins Leben bleibt lange im Gedächtnis.",
+  "description": "Ein einziger schmerzhafter Schnitt ins Leben der Kralle bleibt lange im Gedächtnis. Kooperative Pflege, eine Kralle pro Tag.",
+  "card": "Ein einziger schmerzhafter Schnitt ins Leben der Kralle bleibt lange im Gedächtnis.",
   "needs": [
    "Krallenzange",
    "Krallenschleifer",

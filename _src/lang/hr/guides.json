@@ -37,11 +37,11 @@
   ]
  },
  "teething": {
-  "title": "Mijenjanje zubi kod šteneta: grickanje tijekom promjene zubi",
+  "title": "Mijena zubi kod šteneta: grizenje tijekom promjene zubi",
   "description": "28 mliječnih zubi van, 42 trajna unutra, između 3. i 7. mjeseca. Koje žvakalice smiruju bolne desni, a koje su opasne.",
   "card": "28 mliječnih zubi van, 42 trajna unutra, između 3. i 7. mjeseca.",
   "needs": [
-   "Žvakalica od drva kave",
+   "Žvakalica od drva kavovca",
    "Žvakalica od maslinova drva",
    "Gumena igračka za žvakanje",
    "Žvakalice za štence"
@@ -58,8 +58,8 @@
  },
  "jumping": {
   "title": "Pas skače na ljude: kako to zaustaviti",
-  "description": "Skakanje je uzbuđenje plus povijest u kojoj se isplatilo. Pravilo 4 šape i nespojivi zadatak koji ga zamjenjuje.",
-  "card": "Skakanje je uzbuđenje plus povijest u kojoj se isplatilo.",
+  "description": "Skakanje je uzbuđenje i navika koja je dosad bila nagrađivana. Pravilo 4 šape i nespojivi zadatak koji ga zamjenjuje.",
+  "card": "Skakanje je uzbuđenje i navika koja je dosad bila nagrađivana.",
   "needs": [
    "Torbica za poslastice"
   ]
@@ -69,7 +69,7 @@
   "description": "Psi vuku jer ih je to odvelo naprijed. Stani i kreni, nagrada uz tvoju nogu, i zašto ogrlice s bodljama stvaraju nove probleme.",
   "card": "Psi vuku jer ih je to odvelo naprijed.",
   "needs": [
-   "Orma s prednjom kopčom",
+   "Orma s kopčom sprijeda",
    "Obični povodac od 2 m",
    "Torbica za poslastice"
   ]
@@ -109,8 +109,8 @@
  },
  "cratecry": {
   "title": "Štene plače u transporteru",
-  "description": "Zatvaranje je neprirodno dok se transporter ne istrenira kao brlog. Igre s otvorenim vratima i napredak sekundu po sekundu.",
-  "card": "Zatvaranje je neprirodno dok se transporter ne istrenira kao brlog.",
+  "description": "Zatvaranje je neprirodno dok pas ne nauči da je transporter njegov brlog. Igre s otvorenim vratima i napredak sekundu po sekundu.",
+  "card": "Zatvaranje je neprirodno dok pas ne nauči da je transporter njegov brlog.",
   "needs": [
    "Transporter",
    "Prekrivač za transporter",
@@ -119,7 +119,7 @@
  },
  "sepanx": {
   "title": "Pas teško podnosi samoću",
-  "description": "Biti sam je naučena vještina, a ne tvornička postavka. Treniranje odsutnosti u malim dozama, i kada snimiti psa.",
+  "description": "Biti sam je naučena vještina, a ne tvornička postavka. Treniranje odsutnosti u malim dozama i kada snimiti psa.",
   "card": "Biti sam je naučena vještina, a ne tvornička postavka.",
   "needs": [
    "Dugotrajna žvakalica",
@@ -137,16 +137,16 @@
  },
  "counter": {
   "title": "Pas krade hranu s kuhinjskog pulta",
-  "description": "Radna ploča jednom je donijela nagradu. Zašto je nepropusno upravljanje, a ne dresura, pravi lijek.",
-  "card": "Radna ploča jednom je donijela nagradu.",
+  "description": "Pult je jednom već donio nagradu. Zašto je nepropusno upravljanje, a ne dresura, pravi lijek.",
+  "card": "Pult je jednom već donio nagradu.",
   "needs": [
    "Podloga za kuhinju"
   ]
  },
  "poop": {
   "title": "Pas jede izmet (koprofagija)",
-  "description": "Često, rijetko povezano s prehranom. Odmah pokupiti, Ostavi, i veterinarski pregled koji se isplati.",
-  "card": "Često, rijetko povezano s prehranom.",
+  "description": "Česta pojava, rijetko povezana s prehranom. Odmah pokupi izmet, uvježbaj „Ostavi” i napravi veterinarski pregled koji se isplati.",
+  "card": "Česta pojava, rijetko povezana s prehranom.",
   "needs": [
    "Vrećice za izmet",
    "Torbica za poslastice"
@@ -154,7 +154,7 @@
  },
  "scavenge": {
   "title": "Pas jede stvari u šetnji",
-  "description": "Psi su po prirodi oportunistički strvinari. Ostavi na razini ulice, i kada je košarasta brnjica sigurnosni alat.",
+  "description": "Psi su po prirodi oportunistički strvinari. „Ostavi” u uličnim uvjetima i kada je košarasta brnjica sigurnosni alat.",
   "card": "Psi su po prirodi oportunistički strvinari.",
   "needs": [
    "Košarasta brnjica",
@@ -163,8 +163,8 @@
  },
  "guard": {
   "title": "Čuvanje resursa: prvi znakovi kod hrane i igračaka",
-  "description": "Ukočenost, ukočen pogled ili režanje znače strah od gubitka. Zašto nikada ne smiješ kazniti režanje.",
-  "card": "Ukočenost, ukočen pogled ili režanje znače strah od gubitka.",
+  "description": "Ukočenost, oštar pogled ili režanje znače strah od gubitka. Zašto nikada ne smiješ kazniti režanje.",
+  "card": "Ukočenost, oštar pogled ili režanje znače strah od gubitka.",
   "needs": []
  },
  "reactive": {
@@ -173,14 +173,14 @@
   "card": "Velike emocije bez izlaza.",
   "needs": [
    "Dugi povodac",
-   "Orma s prednjom kopčom",
+   "Orma s kopčom sprijeda",
    "Vrlo vrijedne poslastice"
   ]
  },
  "fireworks": {
   "title": "Pas se boji vatrometa i grmljavine",
-  "description": "Priprema jazbine, zašto je u redu tješiti psa, i rad sa zvukovima koji treba započeti u studenom.",
-  "card": "Priprema jazbine, zašto je u redu tješiti psa, i rad sa zvukovima koji treba započeti u studenom.",
+  "description": "Priprema jazbine, zašto je u redu tješiti psa i rad sa zvukovima koji treba započeti u studenom.",
+  "card": "Priprema jazbine, zašto je u redu tješiti psa i rad sa zvukovima koji treba započeti u studenom.",
   "needs": [
    "Uređaj za bijeli šum",
    "Natkriveni ležaj"
@@ -188,7 +188,7 @@
  },
  "norecall": {
   "title": "Pas ne dolazi na poziv",
-  "description": "Okolina nagrađuje bolje od tebe. Ponovna izgradnja dozivanja na dugom povodcu i zaštita signala.",
+  "description": "Okolina nagrađuje bolje od tebe. Ponovna izgradnja dozivanja na dugom povodcu i zaštita naredbe.",
   "card": "Okolina nagrađuje bolje od tebe.",
   "needs": [
    "Dugi povodac",
@@ -197,7 +197,7 @@
  },
  "housetrain": {
   "title": "Nezgode kod navikavanja šteneta na čistoću",
-  "description": "Mjehur šteneta izdrži otprilike onoliko sati koliko je štene mjeseci staro. Tajming, i zašto je enzimsko sredstvo za čišćenje važno.",
+  "description": "Mjehur šteneta izdrži otprilike onoliko sati koliko je štene mjeseci staro. Tajming i zašto je enzimsko sredstvo za čišćenje važno.",
   "card": "Mjehur šteneta izdrži otprilike onoliko sati koliko je štene mjeseci staro.",
   "needs": [
    "Enzimsko sredstvo za čišćenje",
@@ -224,13 +224,13 @@
  },
  "humping": {
   "title": "Pas zaskakuje: što to zapravo znači",
-  "description": "Uglavnom pretjerano uzbuđenje i otpuštanje stresa, a ne dominacija i često ništa seksualno.",
-  "card": "Uglavnom pretjerano uzbuđenje i otpuštanje stresa, a ne dominacija i često ništa seksualno.",
+  "description": "Uglavnom pretjerano uzbuđenje i otpuštanje stresa, ne dominacija, a često ni seksualno ponašanje.",
+  "card": "Uglavnom pretjerano uzbuđenje i otpuštanje stresa, ne dominacija, a često ni seksualno ponašanje.",
   "needs": []
  },
  "zoomies": {
   "title": "Zoomies objašnjeni: nagli ludi napadi trčanja",
-  "description": "Nagli krugovi trčanja normalno su i zdravo otpuštanje energije. Pazi na podlogu, ne na veselje.",
+  "description": "Nagli krugovi trčanja normalno su i zdravo otpuštanje energije. Prilagodi podlogu, a veselje ne diraj.",
   "card": "Nagli krugovi trčanja normalno su i zdravo otpuštanje energije.",
   "needs": [
    "Protuklizni tepih"
@@ -238,7 +238,7 @@
  },
  "begging": {
   "title": "Pas prosi za stolom",
-  "description": "Te su oči jednom zaradile čips. Pravo pravilo nulte isplate, i dresura ljudi.",
+  "description": "Te su oči jednom zaradile čips. Dosljedno pravilo da se prošnjom ne dobiva ništa i dresura ljudi.",
   "card": "Te su oči jednom zaradile čips.",
   "needs": [
    "Podloga za kuhinju",
@@ -247,7 +247,7 @@
  },
  "stealing": {
   "title": "Pas krade čarape i bježi s njima",
-  "description": "Zgrabi čarapu i ljudi krenu u potjeru. Kako ukinuti ekonomiju potjere.",
+  "description": "Zgrabi čarapu i ljudi krenu u potjeru. Kako potjeri oduzeti smisao.",
   "card": "Zgrabi čarapu i ljudi krenu u potjeru.",
   "needs": [
    "Igračka za povlačenje",

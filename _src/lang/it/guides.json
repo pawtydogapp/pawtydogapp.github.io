@@ -5,12 +5,12 @@
   "card": "Uno schema motorio innato che si autoricompensa.",
   "needs": [
    "Lunghina",
-   "Canna con richiamo"
+   "Canna da gioco con esca"
   ]
  },
  "attention": {
   "title": "Cane che dà la zampa, guaisce e spinge per avere attenzione",
-  "description": "Anche l'attenzione infastidita conta. Ribaltare i conti perché la calma premi e l'insistenza no.",
+  "description": "Anche l'attenzione infastidita conta. Ribaltare i conti perché la calma venga premiata e l'insistenza no.",
   "card": "Anche l'attenzione infastidita conta.",
   "needs": [
    "Gioco rompicapo per cibo",
@@ -57,9 +57,9 @@
   ]
  },
  "jumping": {
-  "title": "Cane che salta addosso alle persone: come smettere",
-  "description": "Saltare è eccitazione più una storia in cui è stato premiato. La regola delle 4 zampe a terra e il compito incompatibile che lo sostituisce.",
-  "card": "Saltare è eccitazione più una storia in cui è stato premiato.",
+  "title": "Cane che salta addosso alle persone: come fermarlo",
+  "description": "Saltare è eccitazione più il fatto di essere stato premiato in passato. La regola delle 4 zampe a terra e il compito incompatibile che lo sostituisce.",
+  "card": "Saltare è eccitazione più il fatto di essere stato premiato in passato.",
   "needs": [
    "Marsupio porta premi"
   ]
@@ -119,8 +119,8 @@
  },
  "sepanx": {
   "title": "Cane che fatica a restare solo",
-  "description": "Stare da soli è un'abilità che si impara, non un'impostazione di fabbrica. Allenare le assenze in dosi minime, e quando filmare il cane.",
-  "card": "Stare da soli è un'abilità che si impara, non un'impostazione di fabbrica.",
+  "description": "Stare da solo è un'abilità che si impara, non un'impostazione di fabbrica. Allenare le assenze in dosi minime, e quando filmare il cane.",
+  "card": "Stare da solo è un'abilità che si impara, non un'impostazione di fabbrica.",
   "needs": [
    "Masticativo a lunga durata",
    "Telecamera per animali"
@@ -137,15 +137,15 @@
  },
  "counter": {
   "title": "Cane che ruba il cibo dal piano di lavoro",
-  "description": "Il piano cucina ha dato una ricompensa una volta. Perché la vera cura è una gestione ermetica, non l'addestramento.",
-  "card": "Il piano cucina ha dato una ricompensa una volta.",
+  "description": "Una volta il piano di lavoro l'ha premiato. Perché la vera cura è una gestione ermetica, non l'addestramento.",
+  "card": "Una volta il piano di lavoro l'ha premiato.",
   "needs": [
    "Tappetino per la cucina"
   ]
  },
  "poop": {
   "title": "Cane che mangia le feci (coprofagia)",
-  "description": "Comune, raramente legato alla dieta. Raccogliere subito, Lascia, e il controllo dal veterinario che vale la pena fare.",
+  "description": "Comune, raramente legato alla dieta. Raccogliere subito, il «Lascia» e il controllo dal veterinario che vale la pena fare.",
   "card": "Comune, raramente legato alla dieta.",
   "needs": [
    "Sacchetti per deiezioni",
@@ -154,7 +154,7 @@
  },
  "scavenge": {
   "title": "Cane che mangia cose in passeggiata",
-  "description": "I cani sono spazzini opportunisti per natura. Il Lascia a livello strada, e quando la museruola a cestello è uno strumento di sicurezza.",
+  "description": "I cani sono spazzini opportunisti per natura. Il «Lascia» in strada, e quando la museruola a cestello è uno strumento di sicurezza.",
   "card": "I cani sono spazzini opportunisti per natura.",
   "needs": [
    "Museruola a cestello",
@@ -182,7 +182,7 @@
   "description": "Preparare una tana, perché consolare il tuo cane va bene, e il lavoro sui suoni da iniziare a novembre.",
   "card": "Preparare una tana, perché consolare il tuo cane va bene, e il lavoro sui suoni da iniziare a novembre.",
   "needs": [
-   "Dispositivo a rumore bianco",
+   "Macchina del rumore bianco",
    "Cuccia coperta"
   ]
  },
@@ -197,7 +197,7 @@
  },
  "housetrain": {
   "title": "Incidenti nell'educazione del cucciolo ai bisogni",
-  "description": "La vescica di un cucciolo tiene più o meno tante ore quanti mesi ha. I tempi, e perché il detergente enzimatico conta.",
+  "description": "La vescica di un cucciolo tiene più o meno tante ore quanti mesi ha. I tempi, e perché il detergente enzimatico è importante.",
   "card": "La vescica di un cucciolo tiene più o meno tante ore quanti mesi ha.",
   "needs": [
    "Detergente enzimatico",
@@ -247,7 +247,7 @@
  },
  "stealing": {
   "title": "Cane che ruba i calzini e scappa",
-  "description": "Prende un calzino e gli umani partono all'inseguimento. Come chiudere l'economia dell'inseguimento.",
+  "description": "Prende un calzino e gli umani partono all'inseguimento. Come togliere all'inseguimento ogni vantaggio.",
   "card": "Prende un calzino e gli umani partono all'inseguimento.",
   "needs": [
    "Gioco da tiro",
@@ -264,7 +264,7 @@
   ]
  },
  "greetpee": {
-  "title": "Cucciolo che fa pipì per l'emozione o nel salutare",
+  "title": "Cucciolo che fa pipì per l'emozione o quando saluta",
   "description": "Controllo della vescica ancora immaturo, non dispetto. Perché la punizione peggiora la pipì di sottomissione.",
   "card": "Controllo della vescica ancora immaturo, non dispetto.",
   "needs": [
@@ -273,8 +273,8 @@
  },
  "nailfear": {
   "title": "Cane che odia il taglio delle unghie",
-  "description": "Un solo taglio doloroso lascia un ricordo lungo. Cure cooperative, un'unghia al giorno.",
-  "card": "Un solo taglio doloroso lascia un ricordo lungo.",
+  "description": "Un solo taglio doloroso nel vivo lascia un ricordo duraturo. Cure cooperative, un'unghia al giorno.",
+  "card": "Un solo taglio doloroso nel vivo lascia un ricordo duraturo.",
   "needs": [
    "Tagliaunghie",
    "Lima elettrica per unghie",

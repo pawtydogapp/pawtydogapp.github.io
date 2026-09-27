@@ -13,7 +13,7 @@
  },
  "partners.html": {
   "title": "Partenaires et presse — Pawty",
-  "description": "Devenez partenaire de Pawty, une application gratuite d'éducation canine pour iPhone et Android. Touchez des maîtres engagés grâce à des emplacements dans la Boutique de l'application. Kit presse inclus."
+  "description": "Deviens partenaire de Pawty, une application gratuite d'éducation canine pour iPhone et Android. Touche des maîtres engagés grâce à des emplacements dans la Boutique de l'application. Kit presse inclus."
  },
  "marketplace.html": {
   "title": "Partenaires de la Boutique — Pawty",
@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Le Duolingo des chiens",
-  "description": "Ton chien n'est pas cassé et tu n'es pas en échec. 99 compétences d'éducation canine en séances de 3 minutes, 32 guides de comportement honnêtes, des séries qui se figent au lieu de repartir à zéro. Gratuit sur iPhone et Android.",
+  "description": "Ton chien n'est pas un cas désespéré et tu n'es pas en échec. 99 compétences d'éducation canine en séances de 3 minutes, 32 guides de comportement honnêtes, des séries qui se figent au lieu de repartir à zéro. Gratuit sur iPhone et Android.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Application gratuite d'éducation canine pour iPhone et Android avec 99 compétences, 32 guides de comportement, des notes en pattes, des séries et un calendrier des soins.\",\"url\":\"https://pawtyapp.com/fr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"fr\"}"
  },
  "blog.html": {
@@ -45,7 +45,7 @@
  },
  "post-puppy-sleep.html": {
   "title": "Combien de temps un chiot doit-il dormir — Pawty",
-  "description": "Un chiot a besoin de 18 à 20 heures de sommeil par jour. Pourquoi les morsures du soir sont de la fatigue, et comment imposer une sieste sans bataille.",
+  "description": "Un chiot a besoin de 18 à 20 heures de sommeil par jour. Pourquoi les morsures du soir viennent de la fatigue, et comment imposer une sieste sans bataille.",
   "headline": "Combien de temps un chiot doit-il dormir"
  },
  "post-teething.html": {
@@ -59,9 +59,9 @@
   "headline": "Combien de temps doivent durer les promenades d'un chiot ?"
  },
  "post-sit.html": {
-  "title": "Apprends le assis à ton chien en une semaine — Blog Pawty",
-  "description": "La méthode du leurre pour apprendre le assis, les 2 erreurs classiques et à quoi ressemble la réussite à chaque séance.",
-  "headline": "Apprends le assis à ton chien en une semaine"
+  "title": "Apprends l'assis à ton chien en une semaine — Blog Pawty",
+  "description": "La méthode du leurre pour apprendre l'assis, les 2 erreurs classiques et à quoi ressemble la réussite à chaque séance.",
+  "headline": "Apprends l'assis à ton chien en une semaine"
  },
  "post-clicker-vs-marker.html": {
   "title": "Clicker ou mot marqueur : lequel utiliser — Pawty",

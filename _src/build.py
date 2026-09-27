@@ -7,6 +7,8 @@ Output is written next to _src (the repository root), overwriting pages.
 
 Source layout
   config.json            languages, page list, sitemap data
+  lastmod.json           sitemap dates, kept by the build: one content hash and date per URL.
+                         A page's date moves to the build date only when its text changes.
   guides.json            the 32 behaviour guides: slug, app id, date, safety flag
   templates/             page shell, guide page, store badges, small partials
   assets/site.css|js     the one stylesheet and the one script, published to /assets/
@@ -51,6 +53,18 @@ PAGE_PATHS = {p['path'] for p in PAGES}
 T = {n: rd(f'templates/{n}.html') for n in ['base', 'stores', 'guide', 'guide-needs', 'guide-card', 'posthog', 'lang-switch']}
 CSS = rd('assets/site.css'); JS = rd('assets/site.js')
 def h8(s): return hashlib.md5(s.encode()).hexdigest()[:8]
+
+import datetime
+TODAY = os.environ.get('PAWTY_DATE', datetime.date.today().isoformat())
+LM_PATH = os.path.join(SRC, 'lastmod.json')
+LM_SEED = not os.path.exists(LM_PATH)          # first run: English keeps its config date
+LM = {} if LM_SEED else json.load(open(LM_PATH, encoding='utf-8'))
+def touch(lang, pg, u, content):
+    h = hashlib.sha256(content.encode()).hexdigest()[:16]
+    old = LM.get(u)
+    if old and old['h'] == h: return
+    d = pg.get('lastmod', TODAY) if (LM_SEED and lang == 'en') else TODAY
+    LM[u] = {'h': h, 'd': d}
 
 def prefix(lang): return '' if lang == 'en' else lang + '/'
 def url(lang, path):
@@ -131,6 +145,7 @@ def build_lang(lang):
             main = render(body, dict(stores=stores, stores_hero=stores_hero, guide_cards=cards), path)
             title = m['title']; desc = m['description']
             ld = article_ld(m['headline'], desc, u, pg['date']) if pg.get('ld') == 'article' else m.get('ld')
+        touch(lang, pg, u, title + '\n' + desc + '\n' + main)
         canonical = '<meta name="robots" content="noindex">' if pg.get('noindex') else f'<link rel="canonical" href="{u}">'
         alts = ''
         if len(langs_here) > 1 and not pg.get('noindex'):
@@ -163,13 +178,14 @@ def sitemap():
         if 'lastmod' not in pg: continue
         for l in LANGS:
             if not available(l, pg['path']): continue
-            rows.append(f'  <url><loc>{url(l, pg["path"])}</loc><lastmod>{pg["lastmod"]}</lastmod><priority>{pg["priority"]}</priority></url>')
+            rows.append(f'  <url><loc>{url(l, pg["path"])}</loc><lastmod>{LM[url(l, pg["path"])]["d"]}</lastmod><priority>{pg["priority"]}</priority></url>')
     return '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(rows) + '\n</urlset>\n'
 
 if __name__ == '__main__':
     allw = []
     for l in LANGS: allw += build_lang(l)
     wr('sitemap.xml', sitemap())
+    json.dump(dict(sorted(LM.items())), open(LM_PATH, 'w', encoding='utf-8'), indent=0)
     if CSS_MODE != 'inline':
         wr('assets/site.css', CSS); wr('assets/site.js', JS)
     print(f'Built {len(allw)} pages in {len(LANGS)} language(s), css mode {CSS_MODE}')

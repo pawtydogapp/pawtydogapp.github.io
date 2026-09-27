@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Duolingo para perros",
-  "description": "Tu perro no está roto y tú no estás fallando. 99 habilidades de adiestramiento en sesiones de 3 minutos, 32 guías de comportamiento honestas y rachas que se congelan en lugar de reiniciarse. Gratis en iPhone y Android.",
+  "description": "Tu perro no es un caso perdido y tú no lo estás haciendo mal. 99 habilidades de adiestramiento en sesiones de 3 minutos, 32 guías de comportamiento honestas y rachas que se congelan en lugar de reiniciarse. Gratis en iPhone y Android.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita de adiestramiento canino para iPhone y Android con 99 habilidades, 32 guías de comportamiento, valoraciones con patas, rachas y un calendario de cuidados.\",\"url\":\"https://pawtyapp.com/es/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"es\"}"
  },
  "blog.html": {
@@ -34,9 +34,9 @@
   "headline": "Lo que cuesta de verdad un cachorro el primer año"
  },
  "post-shopping-list.html": {
-  "title": "La lista de la compra del cachorro, y lo que puedes saltarte — Pawty",
+  "title": "La lista de la compra del cachorro y lo que puedes ahorrarte — Pawty",
   "description": "Qué comprar antes de que llegue el cachorro, qué comprar en el mes 2, y las 6 cosas que venden las tiendas de mascotas y no necesitas.",
-  "headline": "La lista de la compra del cachorro, y lo que puedes saltarte"
+  "headline": "La lista de la compra del cachorro y lo que puedes ahorrarte"
  },
  "post-vaccination.html": {
   "title": "El calendario de vacunas del cachorro en Europa — Pawty",
@@ -64,9 +64,9 @@
   "headline": "Enseña a tu perro a sentarse en una semana"
  },
  "post-clicker-vs-marker.html": {
-  "title": "Clicker o palabra marcadora: cuál usar — Pawty",
+  "title": "Clicker o palabra marcadora: ¿cuál usar? — Pawty",
   "description": "Los dos marcan el momento exacto en que tu perro acierta. Cuándo usar cada uno, cómo cargarlo en 2 minutos y los 4 errores.",
-  "headline": "Clicker o palabra marcadora: cuál usar"
+  "headline": "Clicker o palabra marcadora: ¿cuál usar?"
  },
  "post-5minutes.html": {
   "title": "Por qué 5 minutos al día ganan a los maratones de fin de semana — Blog de Pawty",

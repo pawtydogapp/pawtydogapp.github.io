@@ -10,7 +10,7 @@
  },
  "attention": {
   "title": "Pies drapie łapą, skomli i szturcha, żeby zwrócić uwagę",
-  "description": "Nawet zirytowana uwaga się liczy. Jak odwrócić rachunek, żeby spokój się opłacał, a natarczywość nie.",
+  "description": "Nawet zirytowana uwaga się liczy. Jak odwrócić rachunek, żeby nagradzany był spokój, a nie natarczywość.",
   "card": "Nawet zirytowana uwaga się liczy.",
   "needs": [
    "Zabawka węchowa na jedzenie",
@@ -28,7 +28,7 @@
   ]
  },
  "biting": {
-  "title": "Dlaczego mój szczeniak gryzie? Gryzienie wyjaśnione",
+  "title": "Dlaczego mój szczeniak gryzie? Wyjaśniamy podgryzanie",
   "description": "Szczenięta gryzą, żeby poznawać świat i uczyć się kontroli gryzienia. Skąd się bierze faza rekina, co ją kończy, a co pogarsza.",
   "card": "Szczenięta gryzą, żeby poznawać świat i uczyć się kontroli gryzienia.",
   "needs": [
@@ -49,17 +49,17 @@
  },
  "chewadult": {
   "title": "Dorosły pies gryzie meble z nudów",
-  "description": "Gryzienie uspokaja. Co mówi Ci niedostatecznie stymulowany dorosły pies i jak to przekierować.",
+  "description": "Gryzienie uspokaja. Co mówi ci niedostatecznie stymulowany dorosły pies i jak to przekierować.",
   "card": "Gryzienie uspokaja.",
   "needs": [
-   "Zmieniane gryzaki",
+   "Gryzaki na zmianę",
    "Zabawka węchowa na jedzenie"
   ]
  },
  "jumping": {
   "title": "Pies skacze na ludzi: jak to zatrzymać",
-  "description": "Skakanie to ekscytacja plus historia, w której się opłacało. Zasada 4 łap na ziemi i sprzeczne zadanie, które je zastępuje.",
-  "card": "Skakanie to ekscytacja plus historia, w której się opłacało.",
+  "description": "Skakanie to ekscytacja plus wcześniejsze nagrody za nie. Zasada 4 łap na ziemi i zadanie niezgodne ze skakaniem, które je zastępuje.",
+  "card": "Skakanie to ekscytacja plus wcześniejsze nagrody za nie.",
   "needs": [
    "Saszetka na smakołyki"
   ]
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Szczekanie wymuszające: pies szczeka na Ciebie o jedzenie lub uwagę",
+  "title": "Szczekanie wymuszające: pies szczeka na ciebie, domagając się jedzenia lub uwagi",
   "description": "Pies szczeka, bo wcześniej to działało. Dlaczego robi się głośniej, zanim zrobi się lepiej.",
   "card": "Pies szczeka, bo wcześniej to działało.",
   "needs": []
@@ -109,8 +109,8 @@
  },
  "cratecry": {
   "title": "Szczeniak płacze w klatce",
-  "description": "Zamknięcie jest nienaturalne, dopóki klatka nie zostanie wytrenowana jako legowisko. Zabawy przy otwartych drzwiach i postęp sekunda po sekundzie.",
-  "card": "Zamknięcie jest nienaturalne, dopóki klatka nie zostanie wytrenowana jako legowisko.",
+  "description": "Zamknięcie jest nienaturalne, dopóki pies nie nauczy się traktować klatki jak bezpiecznej kryjówki. Zabawy przy otwartych drzwiach i postęp sekunda po sekundzie.",
+  "card": "Zamknięcie jest nienaturalne, dopóki pies nie nauczy się traktować klatki jak bezpiecznej kryjówki.",
   "needs": [
    "Klatka kennelowa",
    "Pokrowiec na klatkę",
@@ -119,8 +119,8 @@
  },
  "sepanx": {
   "title": "Pies źle znosi zostawanie samemu",
-  "description": "Bycie samemu to wyuczona umiejętność, a nie ustawienie fabryczne. Trening nieobecności w małych dawkach i kiedy nagrać psa.",
-  "card": "Bycie samemu to wyuczona umiejętność, a nie ustawienie fabryczne.",
+  "description": "Zostawanie samemu to wyuczona umiejętność, a nie ustawienie fabryczne. Trening nieobecności w małych dawkach i kiedy nagrać psa.",
+  "card": "Zostawanie samemu to wyuczona umiejętność, a nie ustawienie fabryczne.",
   "needs": [
    "Długotrwały gryzak",
    "Kamera dla zwierząt"
@@ -137,15 +137,15 @@
  },
  "counter": {
   "title": "Pies kradnie jedzenie z blatu",
-  "description": "Blat raz się opłacił. Dlaczego szczelne zarządzanie, a nie trening, jest prawdziwym rozwiązaniem.",
-  "card": "Blat raz się opłacił.",
+  "description": "Blat raz przyniósł nagrodę. Dlaczego szczelne zarządzanie, a nie trening, jest prawdziwym rozwiązaniem.",
+  "card": "Blat raz przyniósł nagrodę.",
   "needs": [
    "Mata do kuchni"
   ]
  },
  "poop": {
   "title": "Pies zjada odchody (koprofagia)",
-  "description": "Częste, rzadko związane z dietą. Natychmiastowe sprzątanie, Zostaw, i wizyta u weterynarza, która ma sens.",
+  "description": "Częste, rzadko związane z dietą. Natychmiastowe sprzątanie, komenda „Zostaw” i wizyta u weterynarza, która ma sens.",
   "card": "Częste, rzadko związane z dietą.",
   "needs": [
    "Woreczki na odchody",
@@ -154,7 +154,7 @@
  },
  "scavenge": {
   "title": "Pies zjada różne rzeczy na spacerze",
-  "description": "Psy z natury są oportunistycznymi padlinożercami. Zostaw na poziomie chodnika i kiedy kaganiec koszykowy jest narzędziem bezpieczeństwa.",
+  "description": "Psy z natury są oportunistycznymi padlinożercami. Komenda „Zostaw” w warunkach ulicznych i kiedy kaganiec koszykowy jest narzędziem bezpieczeństwa.",
   "card": "Psy z natury są oportunistycznymi padlinożercami.",
   "needs": [
    "Kaganiec koszykowy",
@@ -201,7 +201,7 @@
   "card": "Pęcherz szczeniaka wytrzymuje mniej więcej tyle godzin, ile szczeniak ma miesięcy.",
   "needs": [
    "Środek enzymatyczny",
-   "Maty chłonne dla szczeniąt"
+   "Podkłady higieniczne dla szczeniąt"
   ]
  },
  "marking": {
@@ -210,7 +210,7 @@
   "card": "Małe, celowe oznaczenia na pionowych powierzchniach.",
   "needs": [
    "Środek enzymatyczny",
-   "Pas dla samca"
+   "Pas higieniczny dla samca"
   ]
  },
  "heat": {
@@ -224,13 +224,13 @@
  },
  "humping": {
   "title": "Pies kopuluje na nogę: co to naprawdę znaczy",
-  "description": "Głównie nadmierne pobudzenie i rozładowanie stresu, a nie dominacja, i często nic seksualnego.",
-  "card": "Głównie nadmierne pobudzenie i rozładowanie stresu, a nie dominacja, i często nic seksualnego.",
+  "description": "Głównie nadmierne pobudzenie i rozładowanie stresu, a nie dominacja, i często bez podtekstu seksualnego.",
+  "card": "Głównie nadmierne pobudzenie i rozładowanie stresu, a nie dominacja, i często bez podtekstu seksualnego.",
   "needs": []
  },
  "zoomies": {
-  "title": "Zoomies wyjaśnione: nagłe szalone biegi",
-  "description": "Nagłe szalone okrążenia to normalne, zdrowe rozładowanie energii. Zadbaj o podłoże, nie o radość.",
+  "title": "Zoomies, czyli nagłe szalone biegi",
+  "description": "Nagłe szalone okrążenia to normalne, zdrowe rozładowanie energii. Kontroluj podłoże, nie radość.",
   "card": "Nagłe szalone okrążenia to normalne, zdrowe rozładowanie energii.",
   "needs": [
    "Dywanik antypoślizgowy"
@@ -238,8 +238,8 @@
  },
  "begging": {
   "title": "Pies żebrze przy stole",
-  "description": "Te oczy kiedyś zarobiły na chipsa. Prawdziwa zasada zero nagród i trening ludzi.",
-  "card": "Te oczy kiedyś zarobiły na chipsa.",
+  "description": "Te oczy kiedyś wyprosiły chipsa. Prawdziwa zasada zero nagród i trening ludzi.",
+  "card": "Te oczy kiedyś wyprosiły chipsa.",
   "needs": [
    "Mata do kuchni",
    "Długotrwały gryzak"
@@ -247,7 +247,7 @@
  },
  "stealing": {
   "title": "Pies kradnie skarpetki i ucieka",
-  "description": "Łapie skarpetkę, a ludzie ruszają w pogoń. Jak zamknąć ekonomię pościgu.",
+  "description": "Łapie skarpetkę, a ludzie ruszają w pogoń. Jak sprawić, żeby pościg przestał być nagrodą.",
   "card": "Łapie skarpetkę, a ludzie ruszają w pogoń.",
   "needs": [
    "Szarpak",
@@ -273,8 +273,8 @@
  },
  "nailfear": {
   "title": "Pies nienawidzi obcinania pazurów",
-  "description": "Jedno bolesne cięcie za blisko zostawia długie wspomnienie. Pielęgnacja kooperacyjna, jeden pazur dziennie.",
-  "card": "Jedno bolesne cięcie za blisko zostawia długie wspomnienie.",
+  "description": "Jedno bolesne przycięcie do żywego zostawia długie wspomnienie. Pielęgnacja kooperacyjna, jeden pazur dziennie.",
+  "card": "Jedno bolesne przycięcie do żywego zostawia długie wspomnienie.",
   "needs": [
    "Obcinacz do pazurów",
    "Szlifierka do pazurów",

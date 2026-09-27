@@ -1,11 +1,11 @@
 {
  "guides.html": {
   "title": "32 poradniki o zachowaniu psa — Pawty",
-  "description": "Darmowe, szczere poradniki o zachowaniu psa: gryzienie u szczeniąt, szczekanie, ciągnięcie na smyczy, obrona zasobów, przywołanie, nauka czystości i 26 innych. Z aplikacji Pawty na iPhone i Androida."
+  "description": "Darmowe, szczere poradniki o zachowaniu psa: gryzienie u szczeniąt, szczekanie, ciągnięcie na smyczy, obrona zasobów, przywołanie, nauka czystości i 26 innych. Z aplikacji Pawty na iPhone’a i Androida."
  },
  "support.html": {
   "title": "Pomoc — Pawty",
-  "description": "Pomoc z aplikacją do szkolenia psów Pawty na iPhone i Androida: usuwanie konta, problemy z logowaniem, serie, ranking i kontakt."
+  "description": "Pomoc z aplikacją do szkolenia psów Pawty na iPhone’a i Androida: usuwanie konta, problemy z logowaniem, serie, ranking i kontakt."
  },
  "approach.html": {
   "title": "Nasze podejście — Pawty",
@@ -13,7 +13,7 @@
  },
  "partners.html": {
   "title": "Partnerzy i prasa — Pawty",
-  "description": "Zostań partnerem Pawty, darmowej aplikacji do szkolenia psów na iPhone i Androida. Dotrzyj do zaangażowanych opiekunów psów dzięki miejscom na Rynku w aplikacji. Zestaw prasowy w środku."
+  "description": "Zostań partnerem Pawty, darmowej aplikacji do szkolenia psów na iPhone’a i Androida. Dotrzyj do zaangażowanych opiekunów psów dzięki miejscom na Rynku w aplikacji. Zawiera zestaw prasowy."
  },
  "marketplace.html": {
   "title": "Partnerzy Rynku — Pawty",
@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Duolingo dla psów",
-  "description": "Twój pies nie jest zepsuty, a Ty nie zawodzisz. 99 umiejętności treningowych w 3-minutowych sesjach, 32 szczere poradniki o zachowaniu, serie, które się zamrażają zamiast zerować. Za darmo na iPhone i Androida.",
+  "description": "Twój pies nie jest zepsuty, a ty nie zawodzisz. 99 umiejętności treningowych w 3-minutowych sesjach, 32 szczere poradniki o zachowaniu, serie, które zamrażają się, zamiast się zerować. Za darmo na iPhone’a i Androida.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Darmowa aplikacja do szkolenia psów na iPhone i Androida z 99 umiejętnościami, 32 poradnikami o zachowaniu, ocenami w łapach, seriami i kalendarzem opieki.\",\"url\":\"https://pawtyapp.com/pl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pl\"}"
  },
  "blog.html": {
@@ -40,7 +40,7 @@
  },
  "post-vaccination.html": {
   "title": "Kalendarz szczepień szczeniaka w Europie — Pawty",
-  "description": "Standardowy europejski kalendarz szczepień szczeniaka, co obejmuje każda szczepionka i jak bezpiecznie socjalizować przed końcem szczepień.",
+  "description": "Standardowy europejski kalendarz szczepień szczeniaka, co obejmuje każda szczepionka i jak bezpiecznie socjalizować szczeniaka przed końcem szczepień.",
   "headline": "Kalendarz szczepień szczeniaka w Europie"
  },
  "post-puppy-sleep.html": {
@@ -55,7 +55,7 @@
  },
  "post-walks.html": {
   "title": "Jak długie powinny być spacery ze szczeniakiem? — Blog Pawty",
-  "description": "Zasada 5 minut na miesiąc życia, co się do niej liczy i jak czytać swojego szczeniaka.",
+  "description": "Zasada 5 minut na miesiąc życia, co się do niej liczy i jak odczytywać sygnały szczeniaka.",
   "headline": "Jak długie powinny być spacery ze szczeniakiem?"
  },
  "post-sit.html": {
@@ -85,7 +85,7 @@
  },
  "legal/terms.html": {
   "title": "Regulamin — Pawty",
-  "description": "Regulamin Pawty, aplikacji do szkolenia psów na iPhone i Androida, z zastrzeżeniem dotyczącym szkolenia i zasadami linków partnerskich."
+  "description": "Regulamin Pawty, aplikacji do szkolenia psów na iPhone’a i Androida, z zastrzeżeniem dotyczącym szkolenia i zasadami linków partnerskich."
  },
  "legal/privacy.html": {
   "title": "Polityka prywatności — Pawty",

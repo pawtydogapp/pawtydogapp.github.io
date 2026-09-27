@@ -58,8 +58,8 @@
  },
  "jumping": {
   "title": "Câinele sare pe oameni: cum oprești asta",
-  "description": "Săritul este entuziasm plus un istoric în care a meritat. Regula celor 4 labe pe podea și sarcina incompatibilă care îl înlocuiește.",
-  "card": "Săritul este entuziasm plus un istoric în care a meritat.",
+  "description": "Săritul este entuziasm plus un istoric în care a fost recompensat. Regula celor 4 labe pe podea și sarcina incompatibilă care îl înlocuiește.",
+  "card": "Săritul este entuziasm plus un istoric în care a fost recompensat.",
   "needs": [
    "Borsetă pentru recompense"
   ]
@@ -109,8 +109,8 @@
  },
  "cratecry": {
   "title": "Puiul plânge în cușcă",
-  "description": "Închiderea nu e naturală până când cușca nu e antrenată ca vizuină. Jocuri cu ușa deschisă și progres secundă cu secundă.",
-  "card": "Închiderea nu e naturală până când cușca nu e antrenată ca vizuină.",
+  "description": "Închiderea nu e naturală până când cușca nu devine, prin antrenament, o vizuină. Jocuri cu ușa deschisă și progres secundă cu secundă.",
+  "card": "Închiderea nu e naturală până când cușca nu devine, prin antrenament, o vizuină.",
   "needs": [
    "Cușcă",
    "Husă pentru cușcă",
@@ -137,24 +137,24 @@
  },
  "counter": {
   "title": "Câinele fură mâncare de pe blat",
-  "description": "Blatul a oferit o dată un premiu. De ce gestionarea etanșă, și nu dresajul, este adevăratul leac.",
-  "card": "Blatul a oferit o dată un premiu.",
+  "description": "Blatul l-a recompensat o dată. De ce prevenția strictă, și nu dresajul, este adevăratul leac.",
+  "card": "Blatul l-a recompensat o dată.",
   "needs": [
    "Saltea pentru bucătărie"
   ]
  },
  "poop": {
   "title": "Câinele mănâncă fecale (coprofagie)",
-  "description": "Frecvent, rareori legat de hrană. Strânsul imediat, Lasă, și controlul la veterinar care merită făcut.",
+  "description": "Frecvent, rareori legat de hrană. Strânsul imediat, comanda „Lasă” și controlul la veterinar care merită făcut.",
   "card": "Frecvent, rareori legat de hrană.",
   "needs": [
-   "Pungi pentru excremente",
+   "Pungi pentru fecale",
    "Borsetă pentru recompense"
   ]
  },
  "scavenge": {
   "title": "Câinele mănâncă lucruri la plimbare",
-  "description": "Câinii sunt din fire scormonitori oportuniști. Lasă la nivelul străzii și când botnița coș este un instrument de siguranță.",
+  "description": "Câinii sunt din fire scormonitori oportuniști. Comanda „Lasă” la nivelul străzii și când botnița coș este un instrument de siguranță.",
   "card": "Câinii sunt din fire scormonitori oportuniști.",
   "needs": [
    "Botniță coș",
@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Câinele se teme de artificii și furtuni",
-  "description": "Pregătirea unei vizuini, de ce e în regulă să-ți liniștești câinele și lucrul cu sunete de început în noiembrie.",
-  "card": "Pregătirea unei vizuini, de ce e în regulă să-ți liniștești câinele și lucrul cu sunete de început în noiembrie.",
+  "description": "Pregătirea unei vizuini, de ce e în regulă să-ți liniștești câinele și lucrul cu sunete pe care să-l începi în noiembrie.",
+  "card": "Pregătirea unei vizuini, de ce e în regulă să-ți liniștești câinele și lucrul cu sunete pe care să-l începi în noiembrie.",
   "needs": [
    "Aparat cu zgomot alb",
    "Pat acoperit"
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Câinele nu vine când e chemat",
-  "description": "Mediul răsplătește mai bine decât tine. Reconstruirea rechemării pe lesă lungă și protejarea semnalului.",
-  "card": "Mediul răsplătește mai bine decât tine.",
+  "description": "Mediul recompensează mai bine decât tine. Reconstruirea rechemării pe lesă lungă și protejarea comenzii.",
+  "card": "Mediul recompensează mai bine decât tine.",
   "needs": [
    "Lesă lungă",
    "Recompense de mare valoare"
@@ -201,7 +201,7 @@
   "card": "Vezica unui pui ține cam atâtea ore câte luni are.",
   "needs": [
    "Soluție enzimatică",
-   "Pad-uri absorbante pentru pui"
+   "Covorașe absorbante pentru pui"
   ]
  },
  "marking": {
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Zoomies explicate: alergări nebune bruște",
-  "description": "Turele bruște de alergat sunt o descărcare de energie normală și sănătoasă. Ai grijă de teren, nu de bucurie.",
+  "description": "Turele bruște de alergat sunt o descărcare de energie normală și sănătoasă. Controlează terenul, nu bucuria.",
   "card": "Turele bruște de alergat sunt o descărcare de energie normală și sănătoasă.",
   "needs": [
    "Covor antiderapant"
@@ -247,7 +247,7 @@
  },
  "stealing": {
   "title": "Câinele fură șosete și fuge cu ele",
-  "description": "Ia o șosetă, iar oamenii pornesc după el. Cum închizi economia urmăririi.",
+  "description": "Ia o șosetă, iar oamenii pornesc după el. Cum oprești jocul de-a urmăritul.",
   "card": "Ia o șosetă, iar oamenii pornesc după el.",
   "needs": [
    "Jucărie de tras",
@@ -256,8 +256,8 @@
  },
  "carfear": {
   "title": "Câinele se teme de drumurile cu mașina",
-  "description": "Rău de mașină, sau mașina merge doar la veterinar. Reconstruire pas cu pas.",
-  "card": "Rău de mașină, sau mașina merge doar la veterinar.",
+  "description": "Rău de mașină sau o mașină care merge doar la veterinar. Reconstruire pas cu pas.",
+  "card": "Rău de mașină sau o mașină care merge doar la veterinar.",
   "needs": [
    "Ham de mașină sau cușcă",
    "Husă pentru portbagaj"

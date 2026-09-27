@@ -1,11 +1,11 @@
 {
  "guides.html": {
   "title": "32 guias de comportamento canino — Pawty",
-  "description": "Guias gratuitos e honestos sobre comportamento canino: mordidelas de cachorro, ladrar, puxar a trela, guarda de recursos, chamada, fazer as necessidades no sítio certo e mais 26. Da app Pawty para iPhone e Android."
+  "description": "Guias gratuitos e honestos sobre comportamento canino: mordidelas de cachorro, ladrar, puxar pela trela, guarda de recursos, chamada, fazer as necessidades no sítio certo e mais 26. Da app Pawty para iPhone e Android."
  },
  "support.html": {
   "title": "Ajuda — Pawty",
-  "description": "Ajuda com a app de treino de cães Pawty para iPhone e Android: apagar a conta, problemas de início de sessão, sequências, classificação e contacto."
+  "description": "Ajuda com a app de treino de cães Pawty para iPhone e Android: eliminar a conta, problemas de início de sessão, sequências, classificação e contacto."
  },
  "approach.html": {
   "title": "A nossa abordagem — Pawty",
@@ -13,7 +13,7 @@
  },
  "partners.html": {
   "title": "Parceiros e imprensa — Pawty",
-  "description": "Seja parceiro da Pawty, uma app gratuita de treino de cães para iPhone e Android. Chegue a donos de cães empenhados através de espaços no Mercado da app. Inclui kit de imprensa."
+  "description": "Torna-te parceiro da Pawty, uma app gratuita de treino de cães para iPhone e Android. Chega a donos de cães empenhados através de espaços no Mercado da app. Inclui kit de imprensa."
  },
  "marketplace.html": {
   "title": "Parceiros do Mercado — Pawty",
@@ -30,13 +30,13 @@
  },
  "post-puppy-cost.html": {
   "title": "Quanto custa realmente um cachorro no primeiro ano — Pawty",
-  "description": "Custos europeus do primeiro ano de um cachorro, linha a linha: transportadora, veterinário, comida, tosquia e seguro, e o que podes dispensar sem problema.",
+  "description": "Custos europeus do primeiro ano de um cachorro, rubrica a rubrica: transportadora, veterinário, comida, tosquia e seguro, e o que podes dispensar sem problema.",
   "headline": "Quanto custa realmente um cachorro no primeiro ano"
  },
  "post-shopping-list.html": {
-  "title": "A lista de compras para o cachorro, e o que podes dispensar — Pawty",
+  "title": "A lista de compras do cachorro, e o que podes dispensar — Pawty",
   "description": "O que comprar antes de o cachorro chegar, o que comprar no 2.º mês e as 6 coisas que as lojas de animais vendem e de que não precisas.",
-  "headline": "A lista de compras para o cachorro, e o que podes dispensar"
+  "headline": "A lista de compras do cachorro, e o que podes dispensar"
  },
  "post-vaccination.html": {
   "title": "O calendário de vacinação do cachorro na Europa — Pawty",
@@ -44,9 +44,9 @@
   "headline": "O calendário de vacinação do cachorro na Europa"
  },
  "post-puppy-sleep.html": {
-  "title": "Quanto sono precisa um cachorro — Pawty",
+  "title": "Quanto precisa de dormir um cachorro — Pawty",
   "description": "Os cachorros precisam de 18 a 20 horas de sono por dia. Porque as mordidelas ao fim do dia são cansaço, e como impor uma sesta sem luta.",
-  "headline": "Quanto sono precisa um cachorro"
+  "headline": "Quanto precisa de dormir um cachorro"
  },
  "post-teething.html": {
   "title": "Guia de sobrevivência à troca de dentes do cachorro — Blog Pawty",

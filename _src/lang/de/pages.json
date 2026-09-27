@@ -9,7 +9,7 @@
  },
  "approach.html": {
   "title": "Unser Ansatz — Pawty",
-  "description": "Wie Pawty trainiert: nur positive Verstärkung, 3-Minuten-Einheiten, keine Schuldgefühle, und wann du stattdessen zur Tierarztpraxis oder Verhaltensberatung solltest."
+  "description": "Wie Pawty trainiert: nur positive Verstärkung, 3-Minuten-Einheiten, keine Schuldgefühle und wann du stattdessen zur Tierarztpraxis oder Verhaltensberatung solltest."
  },
  "partners.html": {
   "title": "Partner und Presse — Pawty",
@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Duolingo für Hunde",
-  "description": "Dein Hund ist nicht kaputt und du versagst nicht. 99 Trainings-Skills in 3-Minuten-Einheiten, 32 ehrliche Verhaltensratgeber, Streaks, die einfrieren statt zurückzusetzen. Kostenlos für iPhone und Android.",
+  "description": "Dein Hund ist nicht kaputt und du versagst nicht. 99 Trainings-Skills in 3-Minuten-Einheiten, 32 ehrliche Verhaltensratgeber, Streaks, die eingefroren statt zurückgesetzt werden. Kostenlos für iPhone und Android.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Kostenlose Hundetrainings-App für iPhone und Android mit 99 Skills, 32 Verhaltensratgebern, Pfoten-Bewertungen, Streaks und einem Pflegekalender.\",\"url\":\"https://pawtyapp.com/de/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"de\"}"
  },
  "blog.html": {
@@ -34,9 +34,9 @@
   "headline": "Was ein Welpe im ersten Jahr wirklich kostet"
  },
  "post-shopping-list.html": {
-  "title": "Die Einkaufsliste für den Welpen, und was du weglassen kannst — Pawty",
-  "description": "Was du vor dem Einzug des Welpen kaufst, was im 2. Monat, und die 6 Dinge aus dem Tierladen, die du nicht brauchst.",
-  "headline": "Die Einkaufsliste für den Welpen, und was du weglassen kannst"
+  "title": "Die Einkaufsliste für den Welpen und was du weglassen kannst — Pawty",
+  "description": "Was du vor dem Einzug des Welpen kaufst, was im 2. Monat und die 6 Dinge aus dem Tierladen, die du nicht brauchst.",
+  "headline": "Die Einkaufsliste für den Welpen und was du weglassen kannst"
  },
  "post-vaccination.html": {
   "title": "Der Impfplan für Welpen in Europa — Pawty",
@@ -64,9 +64,9 @@
   "headline": "Bring deinem Hund in einer Woche Sitz bei"
  },
  "post-clicker-vs-marker.html": {
-  "title": "Clicker oder Markerwort: was solltest du nutzen — Pawty",
-  "description": "Beide markieren den genauen Moment, in dem dein Hund es richtig macht. Wann du was nutzt, wie du es in 2 Minuten konditionierst, und die 4 Fehler.",
-  "headline": "Clicker oder Markerwort: was solltest du nutzen"
+  "title": "Clicker oder Markerwort: Was solltest du nutzen? — Pawty",
+  "description": "Beide markieren den genauen Moment, in dem dein Hund es richtig macht. Wann du was nutzt, wie du den Marker in 2 Minuten aufbaust und die 4 Fehler.",
+  "headline": "Clicker oder Markerwort: Was solltest du nutzen?"
  },
  "post-5minutes.html": {
   "title": "Warum 5 Minuten am Tag Wochenend-Marathons schlagen — Pawty Blog",
@@ -74,9 +74,9 @@
   "headline": "Warum 5 Minuten am Tag Wochenend-Marathons schlagen"
  },
  "post-cockapoo-grooming.html": {
-  "title": "Cockapoo-Fellpflege: was dir niemand sagt — Pawty",
+  "title": "Cockapoo-Fellpflege: Was dir niemand sagt — Pawty",
   "description": "Lockiges Fell hört nie auf zu wachsen. Die echten Kosten pro Jahr, warum Verfilzungen entstehen und die Scheitel-Bürstmethode, die sie verhindert.",
-  "headline": "Cockapoo-Fellpflege: was dir niemand sagt"
+  "headline": "Cockapoo-Fellpflege: Was dir niemand sagt"
  },
  "post-rescue-333.html": {
   "title": "Einen erwachsenen Hund aus dem Tierschutz adoptieren: die 3-3-3-Regel — Pawty",

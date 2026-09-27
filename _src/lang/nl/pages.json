@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 gidsen over hondengedrag — Pawty",
-  "description": "Gratis, eerlijke gidsen over hondengedrag: bijten bij pups, blaffen, trekken aan de riem, resource guarding, terugroepen, zindelijkheid en 26 meer. Uit de Pawty app voor iPhone en Android."
+  "description": "Gratis, eerlijke gidsen over hondengedrag: bijten bij pups, blaffen, trekken aan de riem, resource guarding, terugroepen, zindelijkheid en 26 meer. Uit de Pawty-app voor iPhone en Android."
  },
  "support.html": {
   "title": "Hulp — Pawty",
@@ -17,7 +17,7 @@
  },
  "marketplace.html": {
   "title": "Marktplaats-partners — Pawty",
-  "description": "Partners in de Pawty Marktplaats: hondenvoer, uitrusting, verzorging en verzekering van Fressnapf, Maxi Zoo, tails.com, Bella & Duke en meer, gefilterd per land."
+  "description": "Partners in de Marktplaats van Pawty: hondenvoer, uitrusting, verzorging en verzekering van Fressnapf, Maxi Zoo, tails.com, Bella & Duke en meer, gefilterd per land."
  },
  "index.html": {
   "title": "Pawty — Duolingo voor honden",
@@ -25,7 +25,7 @@
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Gratis hondentrainingsapp voor iPhone en Android met 99 vaardigheden, 32 gedragsgidsen, pootbeoordelingen, reeksen en een verzorgingskalender.\",\"url\":\"https://pawtyapp.com/nl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"nl\"}"
  },
  "blog.html": {
-  "title": "Pawty blog — praktische hondentraining en leven met een hond",
+  "title": "Pawty-blog — praktische hondentraining en leven met een hond",
   "description": "Praktische hondenartikelen van Pawty: wat een pup kost, de boodschappenlijst, het vaccinatieschema, slaap, clickertraining, vachtverzorging en asielhonden."
  },
  "post-puppy-cost.html": {
@@ -49,17 +49,17 @@
   "headline": "Hoeveel slaap heeft een pup nodig"
  },
  "post-teething.html": {
-  "title": "Overlevingsgids voor de tandenwisseling van je pup — Pawty blog",
+  "title": "Overlevingsgids voor de tandenwisseling van je pup — Pawty-blog",
   "description": "De tandenwisseling van maand 3 tot 7, wat verlichting geeft en welke fouten je vermijdt.",
   "headline": "Overlevingsgids voor de tandenwisseling van je pup"
  },
  "post-walks.html": {
-  "title": "Hoe lang moeten wandelingen met een pup zijn? — Pawty blog",
+  "title": "Hoe lang moeten wandelingen met een pup zijn? — Pawty-blog",
   "description": "De regel van 5 minuten per maand leeftijd, wat meetelt en hoe je je pup leest.",
   "headline": "Hoe lang moeten wandelingen met een pup zijn?"
  },
  "post-sit.html": {
-  "title": "Leer je hond zitten in een week — Pawty blog",
+  "title": "Leer je hond zitten in een week — Pawty-blog",
   "description": "De lokmethode voor zit, de 2 klassieke fouten en hoe succes eruitziet per sessie.",
   "headline": "Leer je hond zitten in een week"
  },
@@ -69,7 +69,7 @@
   "headline": "Clicker of markeerwoord: wat gebruik je"
  },
  "post-5minutes.html": {
-  "title": "Waarom 5 minuten per dag beter werkt dan weekendmarathons — Pawty blog",
+  "title": "Waarom 5 minuten per dag beter werkt dan weekendmarathons — Pawty-blog",
   "description": "Korte dagelijkse trainingen verslaan lange weekendsessies: herhalingen, gespreid leren en reeksen.",
   "headline": "Waarom 5 minuten per dag beter werkt dan weekendmarathons"
  },
