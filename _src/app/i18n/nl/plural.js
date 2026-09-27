@@ -8,4 +8,5 @@ export default {
   "{n} paw|{n} paws": { one: "{n} poot", other: "{n} poten" },
   "{n} wk back|{n} wk back": { one: "{n} wk geleden", other: "{n} wk geleden" },
   "{n} year|{n} years": { one: "{n} jaar", other: "{n} jaar" },
+  "{n} meal|{n} meals": {"one": "{n} maaltijd", "other": "{n} maaltijden"},
 };

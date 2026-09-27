@@ -117,13 +117,32 @@ export function tn(n, key, vars) {
 const SKIP_KEYS = new Set(["id", "k", "e", "c", "t", "tags", "normal", "w", "min", "d_id"]);
 function isStrArr(a) { return Array.isArray(a) && a.every(x => typeof x === "string"); }
 
-function localizeNode(target, en, tr) {
+/* ---------- declared omissions ----------
+   A list of bullets normally has to carry exactly as many lines as English.
+   A shorter list means a line was lost, so the whole list falls back to
+   English rather than showing the reader a half translated guide. A few
+   bullets make no sense once translated, and a native reviewer is allowed to
+   drop those, but only by declaring them here, keyed by language and by the
+   path of the list inside the content tree. Everything not listed stays
+   strictly length checked, so an accidental dropped line is still caught. */
+export const ALLOW_SHORT = {
+  /* Slovenian native review, package v25, 25 September 2026. Belly bands are
+     not sold or used in Slovenia, so the second line was dropped. */
+  sl: ["behav.marking.avoid"],
+};
+export function shortAllowed(code, path) {
+  const list = ALLOW_SHORT[code];
+  return !!list && list.indexOf(path) !== -1;
+}
+const join = (path, k) => (path ? path + "." + k : String(k));
+
+function localizeNode(target, en, tr, code, path) {
   if (Array.isArray(en)) {
     const byId = en.length && en.every(x => x && typeof x === "object" && !Array.isArray(x) && (x.id !== undefined || x.k !== undefined));
     en.forEach((enItem, i) => {
       const key = byId ? (enItem.id !== undefined ? enItem.id : enItem.k) : i;
       const trItem = tr ? (byId ? tr[key] : tr[i]) : undefined;
-      localizeNode(target[i], enItem, trItem);
+      localizeNode(target[i], enItem, trItem, code, byId ? join(path, key) : path + "[" + i + "]");
     });
     return;
   }
@@ -135,7 +154,9 @@ function localizeNode(target, en, tr) {
     if (typeof enVal === "string") {
       target[k] = typeof trVal === "string" && trVal ? trVal : enVal;
     } else if (isStrArr(enVal)) {
-      target[k] = isStrArr(trVal) && trVal.length === enVal.length ? trVal.slice() : enVal.slice();
+      const fits = isStrArr(trVal) && (trVal.length === enVal.length
+        || (trVal.length > 0 && trVal.length < enVal.length && shortAllowed(code, join(path, k))));
+      target[k] = fits ? trVal.slice() : enVal.slice();
     } else if (Array.isArray(enVal) && enVal.length && enVal.every(x => isStrArr(x))) {
       /* LADDERS: array of [title, text] pairs */
       target[k] = enVal.map((pair, i) => {
@@ -143,7 +164,7 @@ function localizeNode(target, en, tr) {
         return pair.map((s, j) => (isStrArr(tp) && typeof tp[j] === "string" && tp[j]) ? tp[j] : s);
       });
     } else if (enVal && typeof enVal === "object") {
-      localizeNode(target[k], enVal, trVal);
+      localizeNode(target[k], enVal, trVal, code, join(path, k));
     }
   }
 }
@@ -160,7 +181,7 @@ export function localizeContent(code) {
   if (!live || !snapshot) return;
   const cat = CATS[code] || {};
   const tr = cat.content || {};
-  for (const k of Object.keys(snapshot)) localizeNode(live[k], snapshot[k], tr[k]);
+  for (const k of Object.keys(snapshot)) localizeNode(live[k], snapshot[k], tr[k], code, k);
 }
 export function contentCatalog(code) { return (CATS[code] || {}).content || null; }
 export function uiCatalog(code) { return (CATS[code] || {}).ui || null; }

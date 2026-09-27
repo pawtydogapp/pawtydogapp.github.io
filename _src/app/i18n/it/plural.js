@@ -8,4 +8,5 @@ export default {
   "{n} paw|{n} paws": { one: "{n} zampa", other: "{n} zampe" },
   "{n} wk back|{n} wk back": { one: "{n} sett. fa", other: "{n} sett. fa" },
   "{n} year|{n} years": { one: "{n} anno", other: "{n} anni" },
+  "{n} meal|{n} meals": {"one": "{n} pasto", "many": "{n} pasti", "other": "{n} pasti"},
 };

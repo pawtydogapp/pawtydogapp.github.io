@@ -8,4 +8,5 @@ export default {
   "{n} paw|{n} paws": { one: "{n} łapa", few: "{n} łapy", many: "{n} łap", other: "{n} łapy" },
   "{n} wk back|{n} wk back": { one: "{n} tyg. temu", few: "{n} tyg. temu", many: "{n} tyg. temu", other: "{n} tyg. temu" },
   "{n} year|{n} years": { one: "{n} rok", few: "{n} lata", many: "{n} lat", other: "{n} roku" },
+  "{n} meal|{n} meals": {"one": "{n} posiłek", "few": "{n} posiłki", "many": "{n} posiłków", "other": "{n} posiłku"},
 };

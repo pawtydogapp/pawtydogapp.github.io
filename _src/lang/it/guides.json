@@ -10,7 +10,7 @@
  },
  "attention": {
   "title": "Cane che dà la zampa, guaisce e spinge per avere attenzione",
-  "description": "Anche l'attenzione infastidita conta. Ribaltare i conti perché la calma paghi e l'insistenza no.",
+  "description": "Anche l'attenzione infastidita conta. Ribaltare i conti perché la calma premi e l'insistenza no.",
   "card": "Anche l'attenzione infastidita conta.",
   "needs": [
    "Gioco rompicapo per cibo",
@@ -58,8 +58,8 @@
  },
  "jumping": {
   "title": "Cane che salta addosso alle persone: come smettere",
-  "description": "Saltare è eccitazione più una storia in cui ha pagato. La regola delle 4 zampe a terra e il compito incompatibile che lo sostituisce.",
-  "card": "Saltare è eccitazione più una storia in cui ha pagato.",
+  "description": "Saltare è eccitazione più una storia in cui è stato premiato. La regola delle 4 zampe a terra e il compito incompatibile che lo sostituisce.",
+  "card": "Saltare è eccitazione più una storia in cui è stato premiato.",
   "needs": [
    "Marsupio porta premi"
   ]
@@ -137,8 +137,8 @@
  },
  "counter": {
   "title": "Cane che ruba il cibo dal piano di lavoro",
-  "description": "Il piano di lavoro ha pagato una volta. Perché la vera cura è una gestione a tenuta stagna, non l'addestramento.",
-  "card": "Il piano di lavoro ha pagato una volta.",
+  "description": "Il piano cucina ha dato una ricompensa una volta. Perché la vera cura è una gestione ermetica, non l'addestramento.",
+  "card": "Il piano cucina ha dato una ricompensa una volta.",
   "needs": [
    "Tappetino per la cucina"
   ]
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Cane che non torna quando lo chiami",
-  "description": "L'ambiente paga meglio di te. Ricostruire il richiamo con la lunghina e proteggere il segnale.",
-  "card": "L'ambiente paga meglio di te.",
+  "description": "L'ambiente premia meglio di te. Ricostruire il richiamo con la lunghina e proteggere il segnale.",
+  "card": "L'ambiente premia meglio di te.",
   "needs": [
    "Lunghina",
    "Premi di alto valore"

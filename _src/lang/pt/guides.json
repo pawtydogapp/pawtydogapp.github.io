@@ -154,8 +154,8 @@
  },
  "scavenge": {
   "title": "Cão que come coisas no passeio",
-  "description": "Os cães são necrófagos oportunistas por natureza. O Deixa ao nível da rua, e quando um açaime de cesto é uma ferramenta de segurança.",
-  "card": "Os cães são necrófagos oportunistas por natureza.",
+  "description": "Por natureza, os cães são oportunistas e comem o que encontram. O Deixa ao nível da rua, e quando um açaime de cesto é uma ferramenta de segurança.",
+  "card": "Por natureza, os cães são oportunistas e comem o que encontram.",
   "needs": [
    "Açaime de cesto",
    "Trela longa"
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Cão que não vem quando é chamado",
-  "description": "O ambiente paga melhor do que tu. Reconstruir a chamada com uma trela longa e proteger o sinal.",
-  "card": "O ambiente paga melhor do que tu.",
+  "description": "O ambiente recompensa melhor do que tu. Reconstruir a chamada com uma trela longa e proteger o sinal.",
+  "card": "O ambiente recompensa melhor do que tu.",
   "needs": [
    "Trela longa",
    "Guloseimas de alto valor"
@@ -197,7 +197,7 @@
  },
  "housetrain": {
   "title": "Acidentes a ensinar o cachorro a fazer as necessidades",
-  "description": "A bexiga de um cachorro aguenta mais ou menos tantas horas quantos meses ele tem. O timing, e porque o limpador enzimático importa.",
+  "description": "A bexiga de um cachorro aguenta mais ou menos tantas horas quantos meses ele tem. O momento certo, e porque o limpador enzimático importa.",
   "card": "A bexiga de um cachorro aguenta mais ou menos tantas horas quantos meses ele tem.",
   "needs": [
    "Limpador enzimático",

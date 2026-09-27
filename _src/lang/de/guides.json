@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Hund kommt nicht, wenn man ihn ruft",
-  "description": "Die Umgebung zahlt besser als du. Den Rückruf an der Schleppleine neu aufbauen und das Signal schützen.",
-  "card": "Die Umgebung zahlt besser als du.",
+  "description": "Die Umgebung belohnt besser als du. Den Rückruf an der Schleppleine neu aufbauen und das Signal schützen.",
+  "card": "Die Umgebung belohnt besser als du.",
   "needs": [
    "Schleppleine",
    "Hochwertige Leckerlis"

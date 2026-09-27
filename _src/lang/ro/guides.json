@@ -137,8 +137,8 @@
  },
  "counter": {
   "title": "Câinele fură mâncare de pe blat",
-  "description": "Blatul a plătit o dată. De ce managementul fără scăpări, și nu dresajul, este leacul real.",
-  "card": "Blatul a plătit o dată.",
+  "description": "Blatul a oferit o dată un premiu. De ce gestionarea etanșă, și nu dresajul, este adevăratul leac.",
+  "card": "Blatul a oferit o dată un premiu.",
   "needs": [
    "Saltea pentru bucătărie"
   ]
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Câinele nu vine când e chemat",
-  "description": "Mediul plătește mai bine decât tine. Reconstruirea rechemării pe lesă lungă și protejarea semnalului.",
-  "card": "Mediul plătește mai bine decât tine.",
+  "description": "Mediul răsplătește mai bine decât tine. Reconstruirea rechemării pe lesă lungă și protejarea semnalului.",
+  "card": "Mediul răsplătește mai bine decât tine.",
   "needs": [
    "Lesă lungă",
    "Recompense de mare valoare"

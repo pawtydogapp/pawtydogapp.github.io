@@ -8,4 +8,5 @@ export default {
   "{n} paw|{n} paws": { one: "{n} šapa", few: "{n} šape", other: "{n} šapa" },
   "{n} wk back|{n} wk back": { one: "prije {n} tj.", few: "prije {n} tj.", other: "prije {n} tj." },
   "{n} year|{n} years": { one: "{n} godina", few: "{n} godine", other: "{n} godina" },
+  "{n} meal|{n} meals": {"one": "{n} obrok", "few": "{n} obroka", "other": "{n} obroka"},
 };

@@ -69,7 +69,7 @@
   "description": "Psi vuku jer ih je to odvelo naprijed. Stani i kreni, nagrada uz tvoju nogu, i zašto ogrlice s bodljama stvaraju nove probleme.",
   "card": "Psi vuku jer ih je to odvelo naprijed.",
   "needs": [
-   "Oprsnica s prednjom kopčom",
+   "Orma s prednjom kopčom",
    "Obični povodac od 2 m",
    "Torbica za poslastice"
   ]
@@ -103,17 +103,17 @@
   "description": "Noćni plač je stres zbog odvajanja, a ne manipulacija. Zašto ostavljanje da se isplače u ovoj dobi narušava povjerenje.",
   "card": "Noćni plač je stres zbog odvajanja, a ne manipulacija.",
   "needs": [
-   "Kavez",
+   "Transporter",
    "Ležaj za štene"
   ]
  },
  "cratecry": {
-  "title": "Štene plače u kavezu",
-  "description": "Zatvorenost je neprirodna dok se kavez ne uvježba kao jazbina. Igre s otvorenim vratima i napredak sekundu po sekundu.",
-  "card": "Zatvorenost je neprirodna dok se kavez ne uvježba kao jazbina.",
+  "title": "Štene plače u transporteru",
+  "description": "Zatvaranje je neprirodno dok se transporter ne istrenira kao brlog. Igre s otvorenim vratima i napredak sekundu po sekundu.",
+  "card": "Zatvaranje je neprirodno dok se transporter ne istrenira kao brlog.",
   "needs": [
-   "Kavez",
-   "Prekrivač za kavez",
+   "Transporter",
+   "Prekrivač za transporter",
    "Slagalica za hranu"
   ]
  },
@@ -137,8 +137,8 @@
  },
  "counter": {
   "title": "Pas krade hranu s kuhinjskog pulta",
-  "description": "Pult se jednom isplatio. Zašto je potpuno upravljanje, a ne dresura, pravo rješenje.",
-  "card": "Pult se jednom isplatio.",
+  "description": "Radna ploča jednom je donijela nagradu. Zašto je nepropusno upravljanje, a ne dresura, pravi lijek.",
+  "card": "Radna ploča jednom je donijela nagradu.",
   "needs": [
    "Podloga za kuhinju"
   ]
@@ -173,7 +173,7 @@
   "card": "Velike emocije bez izlaza.",
   "needs": [
    "Dugi povodac",
-   "Oprsnica s prednjom kopčom",
+   "Orma s prednjom kopčom",
    "Vrlo vrijedne poslastice"
   ]
  },
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Pas ne dolazi na poziv",
-  "description": "Okolina plaća bolje od tebe. Ponovna izgradnja dozivanja na dugom povodcu i zaštita signala.",
-  "card": "Okolina plaća bolje od tebe.",
+  "description": "Okolina nagrađuje bolje od tebe. Ponovna izgradnja dozivanja na dugom povodcu i zaštita signala.",
+  "card": "Okolina nagrađuje bolje od tebe.",
   "needs": [
    "Dugi povodac",
    "Vrlo vrijedne poslastice"

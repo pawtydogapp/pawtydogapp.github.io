@@ -10,7 +10,7 @@
  },
  "attention": {
   "title": "Pes praska s tačko, cvili in suva za pozornost",
-  "description": "Šteje tudi razdražena pozornost. Kako obrniti račun, da se mir splača, vsiljivost pa ne.",
+  "description": "Šteje tudi razdražena pozornost. Kako obrniti račun, da se mir izplača, vsiljivost pa ne.",
   "card": "Šteje tudi razdražena pozornost.",
   "needs": [
    "Uganka za hrano",
@@ -58,8 +58,8 @@
  },
  "jumping": {
   "title": "Pes skače na ljudi: kako to ustaviti",
-  "description": "Skakanje je vznemirjenost plus zgodovina, v kateri se je splačalo. Pravilo 4 tačk na tleh in nezdružljiva naloga, ki ga nadomesti.",
-  "card": "Skakanje je vznemirjenost plus zgodovina, v kateri se je splačalo.",
+  "description": "Skakanje je vznemirjenost plus zgodovina, v kateri se je izplačalo. Pravilo 4 tačk na tleh in nezdružljiva naloga, ki ga nadomesti.",
+  "card": "Skakanje je vznemirjenost plus zgodovina, v kateri se je izplačalo.",
   "needs": [
    "Torbica za priboljške"
   ]
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Zahtevno lajanje: pes laja nate za hrano ali pozornost",
+  "title": "Izsiljevalno lajanje: pes laja nate za hrano ali pozornost",
   "description": "Pes laja, ker je to že delovalo. Zakaj postane glasneje, preden postane bolje.",
   "card": "Pes laja, ker je to že delovalo.",
   "needs": []
@@ -137,8 +137,8 @@
  },
  "counter": {
   "title": "Pes krade hrano s kuhinjskega pulta",
-  "description": "Pult se je enkrat splačal. Zakaj je pravo zdravilo brezhibno upravljanje, ne šolanje.",
-  "card": "Pult se je enkrat splačal.",
+  "description": "Pult se je enkrat izplačal. Zakaj je neprekinjeno vztrajanje, ne šolanje, pravi način.",
+  "card": "Pult se je enkrat izplačal.",
   "needs": [
    "Podloga za kuhinjo"
   ]
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Pes ne pride na klic",
-  "description": "Okolica plačuje bolje kot ti. Ponovna gradnja odpoklica na dolgem povodcu in zaščita signala.",
-  "card": "Okolica plačuje bolje kot ti.",
+  "description": "Okolje nagrajuje bolje kot ti. Ponovna gradnja odpoklica na dolgem povodcu in zaščita signala.",
+  "card": "Okolje nagrajuje bolje kot ti.",
   "needs": [
    "Dolg povodec",
    "Zelo okusni priboljški"
@@ -223,7 +223,7 @@
   ]
  },
  "humping": {
-  "title": "Pes zaskakuje: kaj to v resnici pomeni",
+  "title": "Pes naskakuje: kaj to v resnici pomeni",
   "description": "Večinoma prevelika vzburjenost in sproščanje stresa, ne dominanca in pogosto nič spolnega.",
   "card": "Večinoma prevelika vzburjenost in sproščanje stresa, ne dominanca in pogosto nič spolnega.",
   "needs": []

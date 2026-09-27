@@ -4,7 +4,7 @@
   "description": "Wrodzony wzorzec ruchowy, który sam się nagradza. Najpierw zarządzanie, bo każda pogoń go wzmacnia.",
   "card": "Wrodzony wzorzec ruchowy, który sam się nagradza.",
   "needs": [
-   "Długa linka",
+   "Linka treningowa",
    "Wędka z przynętą"
   ]
  },
@@ -88,7 +88,7 @@
   "description": "Zwykle frustracja albo dyskomfort. Znalezienie odległości, przy której pies zostaje spokojny, i zmniejszanie jej przez tygodnie.",
   "card": "Zwykle frustracja albo dyskomfort.",
   "needs": [
-   "Długa linka",
+   "Linka treningowa",
    "Smakołyki wysokiej wartości"
   ]
  },
@@ -158,7 +158,7 @@
   "card": "Psy z natury są oportunistycznymi padlinożercami.",
   "needs": [
    "Kaganiec koszykowy",
-   "Długa linka"
+   "Linka treningowa"
   ]
  },
  "guard": {
@@ -172,7 +172,7 @@
   "description": "Wielkie emocje bez drogi ucieczki. Praca poniżej progu, z postępem mierzonym w metrach na miesiąc.",
   "card": "Wielkie emocje bez drogi ucieczki.",
   "needs": [
-   "Długa linka",
+   "Linka treningowa",
    "Szelki z przednim zaczepem",
    "Smakołyki wysokiej wartości"
   ]
@@ -188,10 +188,10 @@
  },
  "norecall": {
   "title": "Pies nie przychodzi na zawołanie",
-  "description": "Otoczenie płaci lepiej niż Ty. Odbudowa przywołania na długiej lince i ochrona sygnału.",
-  "card": "Otoczenie płaci lepiej niż Ty.",
+  "description": "Otoczenie nagradza lepiej niż ty. Odbudowa przywołania na lince treningowej i ochrona sygnału.",
+  "card": "Otoczenie nagradza lepiej niż ty.",
   "needs": [
-   "Długa linka",
+   "Linka treningowa",
    "Smakołyki wysokiej wartości"
   ]
  },

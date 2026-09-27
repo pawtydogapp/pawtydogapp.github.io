@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Perro que no viene cuando lo llamas",
-  "description": "El entorno paga mejor que tú. Reconstruir la llamada con correa larga y proteger la señal.",
-  "card": "El entorno paga mejor que tú.",
+  "description": "El entorno premia mejor que tú. Reconstruir la llamada con correa larga y proteger la señal.",
+  "card": "El entorno premia mejor que tú.",
   "needs": [
    "Correa larga",
    "Premios de alto valor"

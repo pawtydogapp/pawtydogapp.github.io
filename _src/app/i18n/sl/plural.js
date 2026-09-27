@@ -8,4 +8,5 @@ export default {
   "{n} paw|{n} paws": { one: "{n} tačka", two: "{n} tački", few: "{n} tačke", other: "{n} tačk" },
   "{n} wk back|{n} wk back": { one: "pred {n} ted.", two: "pred {n} ted.", few: "pred {n} ted.", other: "pred {n} ted." },
   "{n} year|{n} years": { one: "{n} leto", two: "{n} leti", few: "{n} leta", other: "{n} let" },
+  "{n} meal|{n} meals": {"one": "{n} obrok", "two": "{n} obroka", "few": "{n} obroki", "other": "{n} obrokov"},
 };

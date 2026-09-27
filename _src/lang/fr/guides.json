@@ -10,7 +10,7 @@
  },
  "attention": {
   "title": "Chien qui gratte, gémit et pousse pour avoir de l'attention",
-  "description": "Même une attention agacée compte. Inverser le calcul pour que le calme paie et l'insistance non.",
+  "description": "Même une attention agacée compte. Inverser le calcul pour que le calme soit récompensé et l'insistance non.",
   "card": "Même une attention agacée compte.",
   "needs": [
    "Puzzle alimentaire",
@@ -58,8 +58,8 @@
  },
  "jumping": {
   "title": "Chien qui saute sur les gens : comment l'arrêter",
-  "description": "Sauter, c'est de l'excitation plus un historique où ça a payé. La règle des 4 pattes au sol et le comportement incompatible qui le remplace.",
-  "card": "Sauter, c'est de l'excitation plus un historique où ça a payé.",
+  "description": "Sauter, c'est de l'excitation plus un historique où ça a été récompensé. La règle des 4 pattes au sol et le comportement incompatible qui le remplace.",
+  "card": "Sauter, c'est de l'excitation plus un historique où ça a été récompensé.",
   "needs": [
    "Pochette à friandises"
   ]
@@ -137,8 +137,8 @@
  },
  "counter": {
   "title": "Chien qui vole de la nourriture sur le plan de travail",
-  "description": "Le plan de travail a payé une fois. Pourquoi une gestion sans faille, et non l'éducation, est le vrai remède.",
-  "card": "Le plan de travail a payé une fois.",
+  "description": "Le plan de travail a offert une récompense une fois. Pourquoi une gestion sans faille, et non l'éducation, est le vrai remède.",
+  "card": "Le plan de travail a offert une récompense une fois.",
   "needs": [
    "Tapis pour la cuisine"
   ]
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Chien qui ne revient pas quand on l'appelle",
-  "description": "L'environnement paie mieux que toi. Reconstruire le rappel avec une longe et protéger le signal.",
-  "card": "L'environnement paie mieux que toi.",
+  "description": "L'environnement récompense mieux que toi. Reconstruire le rappel avec une longe et protéger le signal.",
+  "card": "L'environnement récompense mieux que toi.",
   "needs": [
    "Longe",
    "Friandises de grande valeur"
