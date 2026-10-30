@@ -1,15 +1,15 @@
 
 <div class="wrap" style="padding-top:36px">
 <h2 class="sec" style="text-align:left">Rynek</h2>
-<p style="color:#4a5c4a;font-weight:600;margin:6px 0 6px;max-width:680px">Sklepy i marki, z którymi współpracujemy, pokazywane w aplikacji Pawty i wymienione tutaj. Karma, akcesoria, pielęgnacja i ubezpieczenia, zawężone do sklepów, które naprawdę dostarczają do twojego kraju.</p>
-<p style="color:#6E7F6E;font-size:14px;margin-bottom:16px">To linki partnerskie. Jeśli kupisz przez któryś z nich, Pawty może zarobić prowizję bez dodatkowych kosztów dla ciebie.</p>
 
+<div id="familycard" class="mkcard famcard" hidden data-lang="{{lang}}" data-pct="{{shop_card_pct}}" data-copy="{{shop_card_copy}}" data-copied="{{shop_card_copied}}"><div class="mkbody"><span class="mkcat">{{shop_card_tag}}</span><h3 id="fam-title"></h3><div id="fam-imgs" class="famimgs" hidden></div><div id="fam-promo" class="fampromo" hidden><span id="fam-pct"></span> <b id="fam-code"></b> <button id="fam-copy" class="shopghost" type="button">{{shop_card_copy}}</button></div><a id="fam-visit" class="mkbtn" href="/shop.html">{{shop_card_visit}}</a></div></div>
 <div id="mk-controls" style="margin-bottom:12px"></div>
 <div id="mk-list" class="mkgrid reveal"><p id="mk-loading" style="color:#6E7F6E;font-weight:700">Ładowanie partnerów…</p></div>
 <noscript><p style="color:#6E7F6E;font-weight:700">Lista partnerów wymaga JavaScriptu. Otwórz kartę Rynek w aplikacji Pawty, żeby ją zobaczyć.</p></noscript>
 
 <div class="cta-box reveal"><b class="disp" style="font-size:20px">Prowadzisz sklep lub markę</b>
 <p style="margin:8px 0 4px">Pawty pokazuje twoją ofertę opiekunom, którzy aktywnie szkolą psa i otwierają aplikację kilka razy w tygodniu. Zobacz <a href="/partners.html">stronę dla partnerów</a> lub napisz na <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>.</p></div>
+<p style="color:#6E7F6E;font-size:14px;margin:18px 0 0">To linki partnerskie. Jeśli kupisz przez któryś z nich, Pawty może zarobić prowizję bez dodatkowych kosztów dla ciebie.</p>
 </div>
 
 <script>
@@ -17,11 +17,12 @@
   var URL='https://jjqfspknjpjkcuvtfsli.supabase.co/rest/v1/partners?select=*&active=eq.true&order=sort,name';
   var KEY='sb_publishable_h9cryFZyRED8rffIVPtBuw_klaQOTOJ';
   var CN={AT:'Austria',AU:'Australia',BE:'Belgium',BG:'Bulgaria',CH:'Switzerland',CZ:'Czechia',DE:'Germany',DK:'Denmark',ES:'Spain',FI:'Finland',FR:'France',GR:'Greece',HR:'Croatia',HU:'Hungary',IE:'Ireland',IT:'Italy',LT:'Lithuania',LV:'Latvia',NL:'Netherlands',NO:'Norway',NZ:'New Zealand',PL:'Poland',PT:'Portugal',RO:'Romania',SE:'Sweden',SI:'Slovenia',SK:'Slovakia',UK:'United Kingdom',US:'United States'};
-  var CAT={food:'Karma',gear:'Akcesoria',grooming:'Pielęgnacja',insurance:'Ubezpieczenia',other:'Sklepy'};
+  var CAT={food:'Karma',gear:'Akcesoria',grooming:'Pielęgnacja',insurance:'Ubezpieczenia',treats:'Smakołyki',other:'Sklepy'};
   var DN=null; try{ DN=new Intl.DisplayNames([document.documentElement.lang],{type:'region'}); }catch(e){}
   function cn(c){ try{ return (DN&&DN.of(c))||CN[c]||c; }catch(e){ return CN[c]||c; } }
   var list=document.getElementById('mk-list'), loading=document.getElementById('mk-loading'), ctr=document.getElementById('mk-controls');
   function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function cap(s){s=String(s||'');return s.charAt(0).toUpperCase()+s.slice(1);}
   function fail(m){ if(loading){loading.textContent=m;} }
   var country='ALL', cat='ALL', groups=[];
 
@@ -48,7 +49,7 @@
         + (row.logo_url ? '<img class="mklogo" src="'+esc(row.logo_url)+'" alt="'+esc(row.name)+'" loading="lazy">'
                         : '<div class="mklogo mkph">'+esc(row.emoji||row.name.charAt(0))+'</div>')
         + '<div class="mkbody"><h3>'+esc(row.name)+'</h3>'
-        + (row.category?'<span class="mkcat">'+esc(CAT[row.category]||row.category)+'</span>':'')
+        + (row.category?'<span class="mkcat">'+esc(CAT[row.category]||cap(row.category))+'</span>':'')
         + (row.description?'<p>'+esc(row.description)+'</p>':'')
         + (row.offer?'<p class="mkoffer">'+esc(row.offer)+'</p>':'')
         + (row.promo_code?'<p class="mkpromo">Kod <b>'+esc(row.promo_code)+'</b></p>':'')
@@ -76,7 +77,7 @@
     rows.forEach(function(r){ if(r.category) cats[r.category]=1; (r.countries||[]).forEach(function(c){ctry[c]=1;}); });
     var catKeys=Object.keys(cats).sort(), ctryKeys=Object.keys(ctry).sort(function(a,b){return cn(a).localeCompare(cn(b));});
     var h='<div class="mkchips"><span class="mkchip mkon" data-c="ALL">Wszystko</span>';
-    catKeys.forEach(function(k){ h+='<span class="mkchip" data-c="'+esc(k)+'">'+esc(CAT[k]||k)+'</span>'; });
+    catKeys.forEach(function(k){ h+='<span class="mkchip" data-c="'+esc(k)+'">'+esc(CAT[k]||cap(k))+'</span>'; });
     h+='</div><label class="mksel">Dostawa do <select id="mk-country"><option value="ALL">Wszystkie kraje</option>';
     ctryKeys.forEach(function(c){ h+='<option value="'+esc(c)+'">'+esc(cn(c))+'</option>'; });
     h+='</select></label>';
@@ -96,3 +97,4 @@
   });
 })();
 </script>
+<script src="/assets/shop.js?v={{shop_js_v}}"></script>

@@ -1,0 +1,34 @@
+# Tells Bing, Yandex and other IndexNow search engines which pages changed, after each push.
+# Google does not use IndexNow; it reads sitemap.xml on its own.
+name: IndexNow
+on:
+  push:
+    branches: [main]
+    paths: ['**.html', 'sitemap.xml']
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Wait for GitHub Pages to publish
+        run: sleep 150
+      - name: Send changed URLs
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          KEY=d561a2cb0ec6dbb53af9f4229bc8a127
+          if git cat-file -e "$BEFORE" 2>/dev/null; then
+            FILES=$(git diff --name-only --diff-filter=AM "$BEFORE" "$AFTER" -- '*.html')
+          else
+            FILES=$(git ls-files '*.html')
+          fi
+          URLS=$(printf '%s\n' $FILES | grep -v '^_src/' | grep -v '^404.html$' | grep -v '^[0-9a-f]\{32\}\.html$' \
+            | grep -v -E '(^|/)(shop\.html|shop/|legal/sale\.html)' \
+            | sed -e 's#index\.html$##' -e 's#^#https://pawtyapp.com/#' | head -n 10000)
+          [ -z "$URLS" ] && { echo "No page changes"; exit 0; }
+          echo "$URLS" | wc -l
+          JSON=$(printf '%s\n' "$URLS" | python3 -c 'import sys,json;u=[l.strip() for l in sys.stdin if l.strip()];print(json.dumps({"host":"pawtyapp.com","key":"d561a2cb0ec6dbb53af9f4229bc8a127","keyLocation":"https://pawtyapp.com/d561a2cb0ec6dbb53af9f4229bc8a127.txt","urlList":u}))')
+          curl -sS -o /dev/null -w "IndexNow HTTP %{http_code}\n" -X POST https://api.indexnow.org/indexnow \
+            -H 'Content-Type: application/json; charset=utf-8' --data "$JSON"

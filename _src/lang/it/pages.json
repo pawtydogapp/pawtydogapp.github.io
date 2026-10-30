@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Informativa sulla privacy — Pawty",
   "description": "Come Pawty tratta i tuoi dati: pubblicità personalizzata e consenso, diritti GDPR, hosting nell'UE e link di affiliazione."
+ },
+ "404.html": {
+  "title": "Pagina non trovata — Pawty",
+  "description": "Pagina non trovata su pawtyapp.com."
+ },
+ "post-fireworks.html": {
+  "title": "Il cane e i fuochi d'artificio: inizia a prepararlo adesso — Blog Pawty",
+  "description": "Come preparare il cane ai fuochi di Capodanno: allenamento ai rumori da novembre, una tana sicura, la notte stessa e quando andare dal veterinario.",
+  "headline": "Il cane e i fuochi d'artificio: inizia a prepararlo adesso"
+ },
+ "post-christmas-dangers.html": {
+  "title": "I pericoli del Natale per il cane: cosa tenere fuori portata — Blog Pawty",
+  "description": "I cibi, le decorazioni e le piante di Natale pericolosi per il cane, e cosa fare se il tuo cane ha mangiato qualcosa.",
+  "headline": "I pericoli del Natale per il cane: cosa tenere fuori portata"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Tappetini olfattivi: perché 10 minuti di fiuto stancano un cane — Blog Pawty",
+  "description": "Perché annusare stanca e calma il cane, come usare un tappetino olfattivo passo per passo e giochi di fiuto senza tappetino.",
+  "headline": "Tappetini olfattivi: perché 10 minuti di fiuto stancano un cane"
+ },
+ "post-winter-paws.html": {
+  "title": "Le zampe in inverno: sale, ghiaccio e freddo — Blog Pawty",
+  "description": "Proteggi le zampe del cane in inverno: sciacquare via il sale stradale, balsamo per zampe, palline di ghiaccio tra le dita, cappottini e pericoli invernali.",
+  "headline": "Le zampe in inverno: sale, ghiaccio e freddo"
+ },
+ "post-eu-travel.html": {
+  "title": "In viaggio nell'UE con il cane: passaporto e regole — Blog Pawty",
+  "description": "Le regole UE per viaggiare con gli animali: microchip, antirabbica, i 21 giorni di attesa, il passaporto, le regole sulla tenia e consigli di viaggio.",
+  "headline": "In viaggio nell'UE con il cane: passaporto e regole"
+ },
+ "shop.html": {
+  "title": "Negozio Pawty family — Pawty",
+  "description": "Giochi in pile e tappetini olfattivi fatti a mano dal team Pawty, spediti dalla Slovenia in tutta l'UE."
+ },
+ "legal/sale.html": {
+  "title": "Condizioni di vendita — Pawty",
+  "description": "Condizioni di vendita del negozio Pawty family: venditore, prezzi, consegna, diritto di recesso di 14 giorni e resi."
  }
 }

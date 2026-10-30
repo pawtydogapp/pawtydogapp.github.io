@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Politique de confidentialité — Pawty",
   "description": "Comment Pawty traite tes données : publicité personnalisée et consentement, droits RGPD, hébergement dans l'UE et liens d'affiliation."
+ },
+ "404.html": {
+  "title": "Page introuvable — Pawty",
+  "description": "Page introuvable sur pawtyapp.com."
+ },
+ "post-fireworks.html": {
+  "title": "Ton chien et les feux d'artifice : prépare-le dès maintenant — Blog Pawty",
+  "description": "Comment préparer ton chien aux feux d'artifice du Nouvel An : habituation aux bruits dès novembre, un refuge sûr, le soir même, et quand consulter le vétérinaire.",
+  "headline": "Ton chien et les feux d'artifice : prépare-le dès maintenant"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Les dangers de Noël pour les chiens : ce qu'il faut mettre hors de portée — Blog Pawty",
+  "description": "Les aliments, décorations et plantes de Noël dangereux pour les chiens, et que faire si ton chien en a mangé.",
+  "headline": "Les dangers de Noël pour les chiens : ce qu'il faut mettre hors de portée"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Tapis de fouille : pourquoi 10 minutes de reniflage fatiguent un chien — Blog Pawty",
+  "description": "Pourquoi renifler fatigue et apaise un chien, comment utiliser un tapis de fouille étape par étape, et des jeux de flair sans tapis.",
+  "headline": "Tapis de fouille : pourquoi 10 minutes de reniflage fatiguent un chien"
+ },
+ "post-winter-paws.html": {
+  "title": "Prendre soin des pattes en hiver : sel, glace et froid — Blog Pawty",
+  "description": "Protège les pattes de ton chien en hiver : rincer le sel de déneigement, baume pour coussinets, boules de glace entre les doigts, manteaux et dangers de l'hiver.",
+  "headline": "Prendre soin des pattes en hiver : sel, glace et froid"
+ },
+ "post-eu-travel.html": {
+  "title": "Voyager dans l'UE avec ton chien : passeport et règles — Blog Pawty",
+  "description": "Les règles de l'UE pour voyager avec un animal : puce électronique, vaccin contre la rage, délai de 21 jours, passeport européen, traitement contre le ténia et conseils de voyage.",
+  "headline": "Voyager dans l'UE avec ton chien : passeport et règles"
+ },
+ "shop.html": {
+  "title": "Boutique Pawty family — Pawty",
+  "description": "Jouets en polaire et tapis de fouille faits main par l'équipe Pawty, expédiés depuis la Slovénie dans toute l'UE."
+ },
+ "legal/sale.html": {
+  "title": "Conditions de vente — Pawty",
+  "description": "Conditions de vente de la boutique Pawty family : vendeur, prix, livraison, droit de rétractation de 14 jours et retours."
  }
 }

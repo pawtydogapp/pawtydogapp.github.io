@@ -50,8 +50,9 @@ NATIVE = {l[0]: l[1] for l in cfg['languages']}
 LOCALE = {l[0]: l[2] for l in cfg['languages']}
 PAGES = cfg['pages']
 PAGE_PATHS = {p['path'] for p in PAGES}
+T_LLMS = rd('templates/llms.txt')
 T = {n: rd(f'templates/{n}.html') for n in ['base', 'stores', 'guide', 'guide-needs', 'guide-card', 'posthog', 'lang-switch']}
-CSS = rd('assets/site.css'); JS = rd('assets/site.js')
+CSS = rd('assets/site.css'); JS = rd('assets/site.js'); SHOPJS = rd('assets/shop.js')
 def h8(s): return hashlib.md5(s.encode()).hexdigest()[:8]
 
 import datetime
@@ -75,7 +76,7 @@ def available(lang, path):
     """A page exists in a language once its text exists. Until then links fall back to English."""
     if lang == 'en': return True
     pg = next(p for p in PAGES if p['path'] == path)
-    if pg.get('noindex'): return False
+    if pg.get('noindex') and not pg.get('hidden'): return False
     if pg['kind'] == 'guide': return os.path.exists(os.path.join(SRC, 'lang', lang, 'guides.json'))
     return os.path.exists(os.path.join(SRC, 'lang', lang, 'pages', path))
 
@@ -114,6 +115,8 @@ def article_ld(headline, desc, u, date):
 def build_lang(lang):
     L = f'lang/{lang}/'
     chrome = js(L + 'chrome.json'); meta = js(L + 'pages.json'); gtext = js(L + 'guides.json')
+    bad = [k for k, v in chrome.items() if k.startswith('shop_') and '"' in v]
+    if bad: raise SystemExit(f'Straight double quote in {lang} chrome.json {bad}: shop strings go into HTML attributes')
     behav = load_behav(lang); gshared = js('guides.json')
     stores_v = dict(chrome, ios_id='', play_id='')
     stores = render(T['stores'], stores_v, 'stores')
@@ -142,13 +145,13 @@ def build_lang(lang):
         else:
             m = meta[path]
             body = rd(L + 'pages/' + path)
-            main = render(body, dict(stores=stores, stores_hero=stores_hero, guide_cards=cards), path)
+            main = render(body, dict(chrome, lang=lang, shop_js_v=h8(SHOPJS), stores=stores, stores_hero=stores_hero, guide_cards=cards), path)
             title = m['title']; desc = m['description']
             ld = article_ld(m['headline'], desc, u, pg['date']) if pg.get('ld') == 'article' else m.get('ld')
         touch(lang, pg, u, title + '\n' + desc + '\n' + main)
-        canonical = '<meta name="robots" content="noindex">' if pg.get('noindex') else f'<link rel="canonical" href="{u}">'
+        canonical = '<meta name="robots" content="noindex">' if (pg.get('noindex') or pg.get('hidden')) else f'<link rel="canonical" href="{u}">'
         alts = ''
-        if len(langs_here) > 1 and not pg.get('noindex'):
+        if len(langs_here) > 1 and not (pg.get('noindex') or pg.get('hidden')):
             alts = ''.join(f'\n<link rel="alternate" hreflang="{l}" href="{url(l, path)}">' for l in langs_here)
             alts += f'\n<link rel="alternate" hreflang="x-default" href="{url("en", path)}">'
         v = dict(chrome, lang=lang, title=title, description=desc, url=u, canonical=canonical + alts, og_locale=(f'\n<meta property="og:locale" content="{LOCALE[lang]}">' if len(LANGS) > 1 else ''),
@@ -172,6 +175,23 @@ def lang_footer(lang, path):
     if len(LANGS) < 2: return ''
     return '<div class="langrow">' + ''.join(f'<a href="{lang_href(l, path)}" hreflang="{l}" lang="{l}"' + (' aria-current="true"' if l == lang else '') + f'>{NATIVE[l]}</a>' for l in LANGS) + '</div>\n'
 
+def llms():
+    """llms.txt for AI search tools: built from the English page titles and descriptions, so it never goes stale."""
+    meta = js('lang/en/pages.json'); gtext = js('lang/en/guides.json'); behav = load_behav('en')
+    gby = {'guides/' + g['slug'] + '.html': g for g in js('guides.json')}
+    def strip(t): return re.sub(r'\s+[—-]\s+Pawty( blog)?$', '', t)
+    groups = {'main': [], 'guides': [], 'blog': [], 'legal': []}
+    for pg in PAGES:
+        if pg.get('noindex') or pg.get('hidden'): continue
+        path = pg['path']; u = url('en', path)
+        if pg['kind'] == 'guide':
+            t = gtext[gby[path]['id']]; groups['guides'].append(f'- [{strip(t["title"])}]({u}): {t["description"]}')
+            continue
+        m = meta[path]; line = f'- [{strip(m["title"])}]({u}): {m["description"]}'
+        key = 'blog' if path.startswith('post-') else 'legal' if path.startswith('legal/') else 'main'
+        groups[key].append(line)
+    return render(T_LLMS, {k: '\n'.join(v) for k, v in groups.items()}, 'llms.txt')
+
 def sitemap():
     rows = []
     for pg in PAGES:
@@ -185,7 +205,8 @@ if __name__ == '__main__':
     allw = []
     for l in LANGS: allw += build_lang(l)
     wr('sitemap.xml', sitemap())
+    wr('llms.txt', llms())
     json.dump(dict(sorted(LM.items())), open(LM_PATH, 'w', encoding='utf-8'), indent=0)
     if CSS_MODE != 'inline':
-        wr('assets/site.css', CSS); wr('assets/site.js', JS)
+        wr('assets/site.css', CSS); wr('assets/site.js', JS); wr('assets/shop.js', SHOPJS)
     print(f'Built {len(allw)} pages in {len(LANGS)} language(s), css mode {CSS_MODE}')

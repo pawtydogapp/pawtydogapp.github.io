@@ -94,5 +94,38 @@
  "support.html": {
   "title": "Support — Pawty",
   "description": "Help with the Pawty dog training app for iPhone and Android: account deletion, sign-in problems, streaks, leaderboard and contact."
+ },
+ "post-fireworks.html": {
+  "title": "Fireworks and your dog: start preparing now — Pawty blog",
+  "description": "How to prepare a dog for New Year fireworks: sound training from November, a safe den, the night itself, and when to see the vet.",
+  "headline": "Fireworks and your dog: start preparing now"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Christmas dangers for dogs: what to keep out of reach — Pawty blog",
+  "description": "The Christmas foods, decorations and plants that are dangerous for dogs, and what to do if your dog ate something.",
+  "headline": "Christmas dangers for dogs: what to keep out of reach"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Snuffle mats: why 10 minutes of sniffing tires a dog out — Pawty blog",
+  "description": "Why sniffing tires and calms a dog, how to use a snuffle mat step by step, and sniffing games without one.",
+  "headline": "Snuffle mats: why 10 minutes of sniffing tires a dog out"
+ },
+ "post-winter-paws.html": {
+  "title": "Winter paw care: salt, ice and cold — Pawty blog",
+  "description": "Protect your dog's paws in winter: rinsing off road salt, paw balm, ice balls between the toes, coats and winter dangers.",
+  "headline": "Winter paw care: salt, ice and cold"
+ },
+ "post-eu-travel.html": {
+  "title": "Travelling in the EU with your dog: pet passport and rules — Pawty blog",
+  "description": "The EU pet travel rules: microchip, rabies vaccination, the 21-day wait, the pet passport, tapeworm rules and travel tips.",
+  "headline": "Travelling in the EU with your dog: pet passport and rules"
+ },
+ "shop.html": {
+  "title": "Pawty family shop — Pawty",
+  "description": "Handmade fleece toys and snuffle mats from the Pawty team, shipped from Slovenia to the whole EU."
+ },
+ "legal/sale.html": {
+  "title": "Terms of Sale — Pawty",
+  "description": "Terms of sale for the Pawty family shop: seller, prices, delivery, the 14-day right of withdrawal and returns."
  }
 }

@@ -1,31 +1,85 @@
 # Pawty
 
-> A free, gamified dog training app for Android. More than 90 training skills, daily quests, streaks, badges, a worldwide leaderboard, a care calendar and a food diary. No subscription and no paywall on training content. Supported by non-personalised advertising.
-
-Pawty was built by Matej in Slovenia after applying the habit mechanics of language learning apps to dog training. The design premise is that most owners do not lack training knowledge, they lack daily consistency, so the gamification is aimed at the owner rather than the dog.
+> Pawty is a free, gamified dog training app for iPhone and Android, described as "Duolingo for dogs". It has 99 training skills in 3-minute sessions, 32 behaviour guides, streaks that freeze instead of reset, and a care calendar. No subscription, no paywall, no trial. It is made in Slovenia and available in 11 languages.
 
 Key facts:
-- Platform: Android, available free on Google Play as com.pawty. iOS is planned and not yet released.
-- Price: free. No subscription tier, no locked training content, no trial.
-- Content: more than 90 skills, from sit and recall to agility, vet visits, travel and dog hotels. Each includes steps, common mistakes and a goal picture.
-- Session format: 3 minute sessions rated 1 to 5 paws. Three perfect sessions in a row marks a skill as mastered.
-- Gamification: daily streaks with a freeze rather than a reset, 28 badges, and a worldwide activity leaderboard showing country flags.
-- Behaviour guides: 28 guides on biting, barking, pulling and similar issues, most carrying a note that the behaviour is normal.
-- Care tools: vaccination, grooming and dog school reminders, plus a food diary that scales with the dog's age.
-- Plan: a 12 week programme with review weeks built in, designed so that falling behind does not break progress.
-- Limitations: no human trainer review, no video assessment of the dog, no multiple dog profiles yet, no iOS version.
-- Data: stored with Supabase in the European Union, in Frankfurt, Germany. Anonymous usage statistics via PostHog, hosted in the EU, without cookies.
-- Method: positive reinforcement throughout.
 
-## Pages
+- Platforms: iPhone (App Store id 6805087382) and Android (Google Play package com.pawty).
+- Languages: English, German, Spanish, French, Croatian, Italian, Dutch, Polish, Portuguese, Romanian and Slovenian. The website has the same pages in each language under /de/, /es/, /fr/, /hr/, /it/, /nl/, /pl/, /pt/, /ro/ and /sl/.
+- Training: 99 skills from sit and recall to tricks and agility, each with steps, common mistakes and a goal. Sessions last 3 minutes and are rated 1 to 5 paws. 3 perfect sessions in a row mark a skill as mastered. A 12-week puppy plan has review weeks built in.
+- Motivation: daily streaks that freeze instead of reset after a missed day, 36 badges, experience points and a worldwide leaderboard.
+- Behaviour: 32 guides on problems such as puppy biting, barking, pulling on the lead, resource guarding and recall, each with why it happens, what works and what makes it worse.
+- Care: care calendar for vaccinations, grooming and dog school, food diary, equipment checklist.
+- Method: positive reinforcement only, no aversive tools. Content is educational, not veterinary or behavioural advice.
+- Business model: free, supported by banner advertising in the app and by affiliate commissions from the in-app Marketplace of pet retailers. The website shows no adverts.
+- Data: stored with Supabase in Frankfurt, Germany. Website statistics use PostHog in the EU in cookieless mode.
+- Operator: Matej Mesko, Slovenia. Contact: info@pawtyapp.com.
 
-- [Home](https://pawtyapp.com/): what Pawty is, what is inside the app, and the Google Play link.
-- [Blog](https://pawtyapp.com/blog.html): dog training articles.
-- [How long should puppy walks be?](https://pawtyapp.com/post-walks.html): the 5 minutes per month of age rule, why sniffing counts double, and when to carry the puppy home.
-- [Teach your dog to sit in a week](https://pawtyapp.com/post-sit.html): the lure method step by step, the common mistakes, and what success looks like on day 1.
-- [Partners](https://pawtyapp.com/partners.html): information for merchants and partners.
-- [Privacy policy](https://pawtyapp.com/legal/privacy.html): what data Pawty collects, what appears publicly on the leaderboard, where data is stored, and how to delete an account.
+## Main pages
 
-## Contact
+- [Pawty — Duolingo for dogs](https://pawtyapp.com/): Your dog is not broken and you are not failing. 99 dog training skills in 3-minute sessions, 32 honest behaviour guides, streaks that freeze instead of reset. Free on iPhone and Android.
+- [Pawty blog — practical dog training and dog ownership](https://pawtyapp.com/blog.html): Practical dog articles from Pawty: what a puppy costs, the shopping list, vaccination timing, sleep, clicker training, grooming and rescue dogs.
+- [32 dog behaviour guides](https://pawtyapp.com/guides.html): Free, honest dog behaviour guides on puppy biting, barking, pulling on the lead, resource guarding, recall, toilet training and 26 more. From the Pawty app for iPhone and Android.
+- [Marketplace partners](https://pawtyapp.com/marketplace.html): Pawty Marketplace partners: dog food, gear, grooming and insurance from Fressnapf, Maxi Zoo, tails.com, Bella & Duke and more, filtered by country.
+- [Our approach](https://pawtyapp.com/approach.html): How Pawty teaches: positive reinforcement only, 3-minute sessions, no guilt, and when to see a vet or behaviourist instead.
+- [Partners & Press](https://pawtyapp.com/partners.html): Partner with Pawty, a free dog training app for iPhone and Android. Reach engaged dog owners through in-app Marketplace placements. Press kit included.
+- [Support](https://pawtyapp.com/support.html): Help with the Pawty dog training app for iPhone and Android: account deletion, sign-in problems, streaks, leaderboard and contact.
 
-info@pawtyapp.com
+## Behaviour guides
+
+- [Dog chasing cars, bikes and wildlife](https://pawtyapp.com/guides/chasing.html): A hardwired motor pattern that is self-rewarding. Management first, because every chase strengthens it.
+- [Dog pawing, whining and nudging for attention](https://pawtyapp.com/guides/attention-seeking.html): Even annoyed attention counts. Flipping the maths so calm pays and pushy does not.
+- [Dog will not settle in the evening](https://pawtyapp.com/guides/evening-settling.html): Evening restlessness usually means the day was under- or over-stimulating. A wind-down ritual that works.
+- [Why does my puppy bite? Puppy mouthing explained](https://pawtyapp.com/guides/puppy-biting.html): Puppies bite to explore and learn bite control. Why the shark phase happens, what stops it, and what makes it worse.
+- [Puppy teething: chewing during the teeth change](https://pawtyapp.com/guides/puppy-teething.html): 28 puppy teeth out, 42 adult teeth in, between 3 and 7 months. Which chews help sore gums and which are dangerous.
+- [Adult dog chewing furniture out of boredom](https://pawtyapp.com/guides/adult-chewing.html): Chewing is self-soothing. What an under-stimulated adult dog is telling you, and how to redirect it.
+- [Dog jumping up on people: how to stop it](https://pawtyapp.com/guides/jumping-up.html): Jumping is excitement plus a history of being paid for it. The 4-paws rule and the incompatible job that replaces it.
+- [Dog pulling on the lead: why it happens and what works](https://pawtyapp.com/guides/pulling-on-lead.html): Dogs pull because it moved them forward. Stop-and-go, paying at your leg, and why prong collars create new problems.
+- [Dog barking at the doorbell](https://pawtyapp.com/guides/barking-at-doorbell.html): The bell predicts an exciting event. How to recondition it so the bell predicts cheese instead of chaos.
+- [Dog barking at other dogs on walks](https://pawtyapp.com/guides/barking-at-other-dogs.html): Usually frustration or discomfort. Finding the distance where your dog stays calm, and closing it over weeks.
+- [Demand barking: dog barking at you for food or attention](https://pawtyapp.com/guides/demand-barking.html): The dog barks because it has worked before. Why it gets louder before it gets better.
+- [Puppy whining at night: what actually helps](https://pawtyapp.com/guides/puppy-crying-at-night.html): Night crying is separation distress, not manipulation. Why cry-it-out erodes trust at this age.
+- [Puppy crying in the crate](https://pawtyapp.com/guides/crate-crying.html): Confinement is unnatural until the crate is trained as a den. Open-door games and second-by-second progress.
+- [Dog struggles being left alone](https://pawtyapp.com/guides/home-alone.html): Being alone is a learned skill, not a factory setting. Training absences in tiny doses, and when to film the dog.
+- [Dog digging in the garden](https://pawtyapp.com/guides/digging.html): Digging is hardwired. You cannot delete it, you can relocate it to a legal dig zone.
+- [Counter surfing: dog stealing food from worktops](https://pawtyapp.com/guides/counter-surfing.html): The counter paid out once. Why airtight management, not training, is the actual cure.
+- [Dog eating poo (coprophagia)](https://pawtyapp.com/guides/eating-poo.html): Common, rarely diet-related. Instant pickup, Leave it, and the vet check worth doing.
+- [Dog eating things on walks](https://pawtyapp.com/guides/eating-things-on-walks.html): Dogs are opportunistic scavengers by design. Street-level Leave it, and when a basket muzzle is a safety tool.
+- [Resource guarding: early signs over food and toys](https://pawtyapp.com/guides/resource-guarding.html): Freezing, hard stare or a growl means fear of loss. Why you must never punish a growl.
+- [Lead reactivity: dog lunging and barking on the lead](https://pawtyapp.com/guides/lead-reactivity.html): Big feelings with no escape option. Working below threshold, and progress measured in metres per month.
+- [Dog scared of fireworks and thunderstorms](https://pawtyapp.com/guides/fear-of-fireworks.html): Preparing a den, why comforting your dog is fine, and the sound work to start in November.
+- [Dog not coming when called](https://pawtyapp.com/guides/recall-problems.html): The environment pays better than you. Rebuilding recall on a long line, and protecting the cue.
+- [Puppy toilet training accidents](https://pawtyapp.com/guides/toilet-training.html): A puppy bladder holds roughly its age in months in hours. Timing, and why enzymatic cleaner matters.
+- [Dog marking indoors](https://pawtyapp.com/guides/marking-indoors.html): Small deliberate deposits on vertical spots. Rule out medical causes first.
+- [A female dog's first heat: what to expect](https://pawtyapp.com/guides/first-heat.html): Between 6 and 15 months, lasting 2 to 4 weeks. Management for 3 weeks, then life resumes.
+- [Dog humping: what it actually means](https://pawtyapp.com/guides/humping.html): Mostly over-arousal and stress relief, not dominance and often not sexual.
+- [Zoomies explained (frenetic random activity periods)](https://pawtyapp.com/guides/zoomies.html): Sudden racing laps are a normal, healthy energy release. Manage the terrain, not the joy.
+- [Dog begging at the table](https://pawtyapp.com/guides/begging.html): Those eyes once earned a chip. A true zero-payout policy, and training the humans.
+- [Dog stealing socks and running off with them](https://pawtyapp.com/guides/stealing-and-running.html): Grab a sock, humans erupt into a chase. Killing the chase economy.
+- [Dog scared of car rides](https://pawtyapp.com/guides/car-fear.html): Motion sickness, or the car only ever drives to the vet. Rebuilding in steps.
+- [Puppy peeing when excited or greeting people](https://pawtyapp.com/guides/excited-peeing.html): Immature bladder control, not spite. Why punishment makes submissive peeing worse.
+- [Dog hates nail trimming](https://pawtyapp.com/guides/nail-trimming.html): One painful quick-cut creates a long memory. Cooperative care, one nail a day.
+
+## Blog
+
+- [How long should puppy walks be?](https://pawtyapp.com/post-walks.html): The 5-minutes-per-month puppy walk rule, what counts toward it, and how to read your puppy.
+- [Teach your dog to sit in a week](https://pawtyapp.com/post-sit.html): The lure method for teaching sit, the 2 classic mistakes, and what success looks like per session.
+- [Puppy teething survival guide](https://pawtyapp.com/post-teething.html): Teething timeline months 3 to 7, the relief menu, and the mistakes to avoid.
+- [Why 5 minutes a day beats weekend marathons](https://pawtyapp.com/post-5minutes.html): Short daily dog training sessions beat long weekend ones: repetitions, spaced learning and streaks.
+- [What a puppy actually costs in the first year](https://pawtyapp.com/post-puppy-cost.html): Line-by-line European costs for a puppy's first year: crate, vet, food, grooming and insurance, with what you can safely skip.
+- [The puppy shopping list, and what you can skip](https://pawtyapp.com/post-shopping-list.html): What to buy before a puppy arrives, what to buy in month 2, and the 6 things pet shops sell that you do not need.
+- [The puppy vaccination schedule in Europe](https://pawtyapp.com/post-vaccination.html): The standard European puppy vaccination timetable, what each vaccine covers, and how to socialise safely before the course is finished.
+- [How much sleep does a puppy need](https://pawtyapp.com/post-puppy-sleep.html): Puppies need 18 to 20 hours of sleep a day. Why the evening biting is overtiredness, and how to enforce a nap without a fight.
+- [Clicker or marker word: which should you use](https://pawtyapp.com/post-clicker-vs-marker.html): Both mark the exact moment your dog gets it right. Which to use when, how to load it in 2 minutes, and the 4 mistakes.
+- [Cockapoo grooming: what nobody tells you](https://pawtyapp.com/post-cockapoo-grooming.html): Curly coats never stop growing. The real yearly cost, why matting happens, and the line-brushing method that prevents it.
+- [Adopting an adult rescue dog: the 3-3-3 rule](https://pawtyapp.com/post-rescue-333.html): 3 days, 3 weeks, 3 months. What settling in actually looks like for an adult rescue dog, and what to do in each phase.
+- [Fireworks and your dog: start preparing now](https://pawtyapp.com/post-fireworks.html): How to prepare a dog for New Year fireworks: sound training from November, a safe den, the night itself, and when to see the vet.
+- [Christmas dangers for dogs: what to keep out of reach](https://pawtyapp.com/post-christmas-dangers.html): The Christmas foods, decorations and plants that are dangerous for dogs, and what to do if your dog ate something.
+- [Snuffle mats: why 10 minutes of sniffing tires a dog out](https://pawtyapp.com/post-snuffle-mat.html): Why sniffing tires and calms a dog, how to use a snuffle mat step by step, and sniffing games without one.
+- [Winter paw care: salt, ice and cold](https://pawtyapp.com/post-winter-paws.html): Protect your dog's paws in winter: rinsing off road salt, paw balm, ice balls between the toes, coats and winter dangers.
+- [Travelling in the EU with your dog: pet passport and rules](https://pawtyapp.com/post-eu-travel.html): The EU pet travel rules: microchip, rabies vaccination, the 21-day wait, the pet passport, tapeworm rules and travel tips.
+
+## Legal
+
+- [Privacy Policy](https://pawtyapp.com/legal/privacy.html): How Pawty handles your data: personalised advertising and consent, GDPR rights, EU hosting and affiliate links.
+- [Terms of Service](https://pawtyapp.com/legal/terms.html): Terms of Service for the Pawty dog training app for iPhone and Android, including the training disclaimer and affiliate link policy.

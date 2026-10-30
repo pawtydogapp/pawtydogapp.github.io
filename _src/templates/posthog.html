@@ -4,7 +4,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
   api_host:'https://eu.i.posthog.com',
   defaults:'2026-05-30',
   person_profiles:'identified_only',
-  persistence:'memory',          /* no cookies, no localStorage: matches the privacy policy, removes the need for a cookie banner */
+  cookieless_mode:'always',      /* no cookies, no storage; PostHog counts unique visitors per day with a server-side hash. Needs cookieless tracking switched on in the PostHog project settings */
   disable_session_recording:true
 });
 </script>

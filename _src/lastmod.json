@@ -1,7 +1,7 @@
 {
 "https://pawtyapp.com/": {
-"h": "7222262e93631563",
-"d": "2026-10-22"
+"h": "ca618b15119b557b",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/404.html": {
 "h": "f568296eb6498e97",
@@ -12,20 +12,20 @@
 "d": "2026-09-05"
 },
 "https://pawtyapp.com/blog.html": {
-"h": "8218b1add8086188",
-"d": "2026-09-05"
+"h": "a575ff0bc0598af2",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/de/": {
-"h": "4e4ded4457da7b87",
-"d": "2026-10-22"
+"h": "7831f063a8852ab7",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/de/approach.html": {
 "h": "9dc3889fd4003320",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/de/blog.html": {
-"h": "850fab4f49f32d88",
-"d": "2026-09-27"
+"h": "2d6c5d64669f16e6",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/de/guides.html": {
 "h": "4c28ebf39803a727",
@@ -160,16 +160,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/de/legal/privacy.html": {
-"h": "8b1c34864998d6e1",
-"d": "2026-09-27"
+"h": "bc5a546afd87721a",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/de/legal/sale.html": {
+"h": "2d9f11e4b75f607a",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/de/legal/terms.html": {
-"h": "80541aa503611d7a",
-"d": "2026-09-27"
+"h": "76f7d8e32f0030f2",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/de/marketplace.html": {
-"h": "458e163a5d648784",
-"d": "2026-09-27"
+"h": "8d9a83f03f1335b3",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/de/partners.html": {
 "h": "90381c13e7837b66",
@@ -179,6 +183,10 @@
 "h": "0132d557279b5896",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/de/post-christmas-dangers.html": {
+"h": "a59ef3ca664a3f3a",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/de/post-clicker-vs-marker.html": {
 "h": "554a7f998768e970",
 "d": "2026-09-27"
@@ -186,6 +194,14 @@
 "https://pawtyapp.com/de/post-cockapoo-grooming.html": {
 "h": "f7a3c33099a026c5",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/de/post-eu-travel.html": {
+"h": "7a3e850e132b0caf",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/de/post-fireworks.html": {
+"h": "4b3b0f7263496033",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/de/post-puppy-cost.html": {
 "h": "dc5bd15767aa1e8c",
@@ -207,6 +223,10 @@
 "h": "afab6a1811e22b6d",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/de/post-snuffle-mat.html": {
+"h": "4cbed610785142dd",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/de/post-teething.html": {
 "h": "6e60c4433eb957c7",
 "d": "2026-09-27"
@@ -219,21 +239,37 @@
 "h": "7d9faa05b21698f7",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/de/post-winter-paws.html": {
+"h": "8589f32527ad3a08",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/de/shop.html": {
+"h": "d7e636a85bb26017",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/de/shop/cart.html": {
+"h": "462fe87ee5f3e08b",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/de/shop/thanks.html": {
+"h": "19472da7da28bbbd",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/de/support.html": {
-"h": "38ea6708cd5ec158",
-"d": "2026-09-27"
+"h": "8b080507c1f80cf7",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/es/": {
-"h": "ed5f1ec854ddd58b",
-"d": "2026-10-22"
+"h": "79a957b6d8e7eefa",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/es/approach.html": {
 "h": "ba0ac89bde6413c3",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/es/blog.html": {
-"h": "f6a6dd1cea6abfe0",
-"d": "2026-09-27"
+"h": "8ca1f90e2de1726e",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/es/guides.html": {
 "h": "cc782e3951381c5a",
@@ -368,16 +404,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/es/legal/privacy.html": {
-"h": "c3fcf09feea818d3",
-"d": "2026-09-27"
+"h": "85c9252ae4e52b14",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/es/legal/sale.html": {
+"h": "88a0e5fa52563a47",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/es/legal/terms.html": {
-"h": "543f3afc3e1d345a",
-"d": "2026-09-27"
+"h": "bc757a176b01bc2c",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/es/marketplace.html": {
-"h": "0c1256a2f8ecc1fa",
-"d": "2026-09-27"
+"h": "6e22b9298bb026d4",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/es/partners.html": {
 "h": "af35712db3e9499c",
@@ -387,6 +427,10 @@
 "h": "16976f9bc858e16e",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/es/post-christmas-dangers.html": {
+"h": "e354f3fe01e0a149",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/es/post-clicker-vs-marker.html": {
 "h": "4396a9b7713ee1a3",
 "d": "2026-09-27"
@@ -394,6 +438,14 @@
 "https://pawtyapp.com/es/post-cockapoo-grooming.html": {
 "h": "7f4779ec0e45aed4",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/es/post-eu-travel.html": {
+"h": "412e908aac321121",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/es/post-fireworks.html": {
+"h": "bbf8eaf0ccb1086e",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/es/post-puppy-cost.html": {
 "h": "fd89d1db7fd698c5",
@@ -415,6 +467,10 @@
 "h": "96a43eb610d00447",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/es/post-snuffle-mat.html": {
+"h": "146debae008c3a01",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/es/post-teething.html": {
 "h": "eb84984d3bb7659a",
 "d": "2026-09-27"
@@ -427,21 +483,37 @@
 "h": "f537f6c7a87fc43d",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/es/post-winter-paws.html": {
+"h": "8075256a01ba607c",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/es/shop.html": {
+"h": "a4049b8c4d4efbad",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/es/shop/cart.html": {
+"h": "acda6fb2f29162d0",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/es/shop/thanks.html": {
+"h": "c7af2ce7e00cbe4d",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/es/support.html": {
-"h": "0dc176176a65e433",
-"d": "2026-09-27"
+"h": "596f33026c1d11c2",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/fr/": {
-"h": "21aea2c6f390e126",
-"d": "2026-10-22"
+"h": "e30af7c573ae90d5",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/fr/approach.html": {
 "h": "4ac3b0c8519131e0",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/fr/blog.html": {
-"h": "43252cca4a1cb75d",
-"d": "2026-09-27"
+"h": "8eed03fe4ea94951",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/fr/guides.html": {
 "h": "7d4c3d5ac1095be9",
@@ -576,16 +648,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/fr/legal/privacy.html": {
-"h": "a193a1c72fe44799",
-"d": "2026-09-27"
+"h": "6482696809d90395",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/fr/legal/sale.html": {
+"h": "7e2890f1ea398eb5",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/fr/legal/terms.html": {
-"h": "f4b646041bafc3da",
-"d": "2026-09-27"
+"h": "5d987dfc77947d38",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/fr/marketplace.html": {
-"h": "9bdad4630cac5537",
-"d": "2026-09-27"
+"h": "e1158810d55ac6e2",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/fr/partners.html": {
 "h": "afa32f21d0cd8076",
@@ -595,6 +671,10 @@
 "h": "cf50a12c101d4a97",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/fr/post-christmas-dangers.html": {
+"h": "c1192296e6ad6cd5",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/fr/post-clicker-vs-marker.html": {
 "h": "fc0935b5e8ff769a",
 "d": "2026-09-27"
@@ -602,6 +682,14 @@
 "https://pawtyapp.com/fr/post-cockapoo-grooming.html": {
 "h": "107104b6ac0afc4f",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/fr/post-eu-travel.html": {
+"h": "9f85d0c20bffa1a4",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/fr/post-fireworks.html": {
+"h": "5b545edfea51e0f0",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/fr/post-puppy-cost.html": {
 "h": "845ce22bf5d44718",
@@ -623,6 +711,10 @@
 "h": "5d0342db1db5e7cb",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/fr/post-snuffle-mat.html": {
+"h": "3ae8ca3515effd17",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/fr/post-teething.html": {
 "h": "999c9b87a0b6c105",
 "d": "2026-09-27"
@@ -635,9 +727,25 @@
 "h": "141ab3230c8fe9d0",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/fr/post-winter-paws.html": {
+"h": "3a80758681082b54",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/fr/shop.html": {
+"h": "6764aa1758f04dad",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/fr/shop/cart.html": {
+"h": "d3a4097466e2877b",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/fr/shop/thanks.html": {
+"h": "eb196591e38936c7",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/fr/support.html": {
-"h": "46854cec4ef8243e",
-"d": "2026-09-27"
+"h": "83a415c6221034eb",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/guides.html": {
 "h": "778b7140a361e874",
@@ -772,16 +880,16 @@
 "d": "2026-09-05"
 },
 "https://pawtyapp.com/hr/": {
-"h": "a47bb7fe649ba8dd",
-"d": "2026-10-22"
+"h": "f8281738614df7b9",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/hr/approach.html": {
 "h": "21bcd87b8a49b9d2",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/hr/blog.html": {
-"h": "2b51c121c28b0f2f",
-"d": "2026-09-27"
+"h": "a44cc1acd8860b1d",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/hr/guides.html": {
 "h": "0cc4e659fb9af9c9",
@@ -916,16 +1024,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/hr/legal/privacy.html": {
-"h": "5a18f23eb5315540",
-"d": "2026-09-27"
+"h": "8bfb14b3fa285d13",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/hr/legal/sale.html": {
+"h": "65e13dd2f46de9c2",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/hr/legal/terms.html": {
-"h": "23031aa2c33ba81b",
-"d": "2026-09-27"
+"h": "ca5a17b47c9082c4",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/hr/marketplace.html": {
-"h": "37f57ba102f5a06e",
-"d": "2026-09-27"
+"h": "20fb7ac051f3760b",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/hr/partners.html": {
 "h": "332d40099308eb3b",
@@ -935,6 +1047,10 @@
 "h": "e424a1d4eb117fe3",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/hr/post-christmas-dangers.html": {
+"h": "569579338e876e69",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/hr/post-clicker-vs-marker.html": {
 "h": "db61144d3f3d16ef",
 "d": "2026-09-27"
@@ -942,6 +1058,14 @@
 "https://pawtyapp.com/hr/post-cockapoo-grooming.html": {
 "h": "768c30f2ad78c626",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/hr/post-eu-travel.html": {
+"h": "9cf652d3fffc4a76",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/hr/post-fireworks.html": {
+"h": "d35e105568e13853",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/hr/post-puppy-cost.html": {
 "h": "0e4529d322954ad4",
@@ -963,6 +1087,10 @@
 "h": "092b5b14077f8fe2",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/hr/post-snuffle-mat.html": {
+"h": "40644a61ae394d57",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/hr/post-teething.html": {
 "h": "b1d2e9b4e76a6c9a",
 "d": "2026-09-27"
@@ -975,21 +1103,37 @@
 "h": "d4c46c7b2c59b763",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/hr/post-winter-paws.html": {
+"h": "a599abd634e08501",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/hr/shop.html": {
+"h": "8b7f35618288f9e4",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/hr/shop/cart.html": {
+"h": "bbfb2cd1f5ddbe42",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/hr/shop/thanks.html": {
+"h": "6b6a96de6682bec9",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/hr/support.html": {
-"h": "3c7f205ac90aef74",
-"d": "2026-09-27"
+"h": "39d0cce9337b263e",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/it/": {
-"h": "95678320359dac4c",
-"d": "2026-10-22"
+"h": "b8679cdf728876ac",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/it/approach.html": {
 "h": "b7b7a3bbe1372986",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/it/blog.html": {
-"h": "cb936c782aa4da53",
-"d": "2026-09-27"
+"h": "e670400ca4cba3df",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/it/guides.html": {
 "h": "75d7581b386a91c3",
@@ -1124,16 +1268,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/it/legal/privacy.html": {
-"h": "e3b9f804c9f3dff9",
-"d": "2026-09-27"
+"h": "2019545fc76a514e",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/it/legal/sale.html": {
+"h": "74644c4289763560",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/it/legal/terms.html": {
-"h": "2a7ad39a3a84bc6f",
-"d": "2026-09-27"
+"h": "5d91e1fefea386bc",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/it/marketplace.html": {
-"h": "8d8cd601a82cbafa",
-"d": "2026-09-27"
+"h": "3d3096421c4c5df8",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/it/partners.html": {
 "h": "a1326a09a7b77631",
@@ -1143,6 +1291,10 @@
 "h": "2fea5ab0bb673c35",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/it/post-christmas-dangers.html": {
+"h": "7508852fdac5c593",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/it/post-clicker-vs-marker.html": {
 "h": "bdda3bacc3dff9fa",
 "d": "2026-09-27"
@@ -1150,6 +1302,14 @@
 "https://pawtyapp.com/it/post-cockapoo-grooming.html": {
 "h": "db27d6a222d4368c",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/it/post-eu-travel.html": {
+"h": "80f79b835729239f",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/it/post-fireworks.html": {
+"h": "89df2f3edae699ce",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/it/post-puppy-cost.html": {
 "h": "3331ce23b0891405",
@@ -1171,6 +1331,10 @@
 "h": "1764e24b1088040b",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/it/post-snuffle-mat.html": {
+"h": "eda7a09fc73b17fd",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/it/post-teething.html": {
 "h": "a8eea2bcf06e582b",
 "d": "2026-09-27"
@@ -1183,33 +1347,53 @@
 "h": "80b18d7a36283055",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/it/post-winter-paws.html": {
+"h": "e4adc84dcfbcbcc6",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/it/shop.html": {
+"h": "713095fd8d05c0f0",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/it/shop/cart.html": {
+"h": "fa35a2182db4f872",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/it/shop/thanks.html": {
+"h": "2f66e3ea7ecf0608",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/it/support.html": {
-"h": "61822c3f95810696",
-"d": "2026-09-27"
+"h": "782fcbb5573236c9",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/legal/privacy.html": {
-"h": "8dd0835f604e66f6",
-"d": "2026-09-05"
+"h": "adb5a0a43653d621",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/legal/sale.html": {
+"h": "0a309c510db2d2bc",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/legal/terms.html": {
-"h": "fce0f5bd03ac1ddc",
-"d": "2026-09-05"
+"h": "3a8291aac2770e33",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/marketplace.html": {
-"h": "a406e6790ec6036c",
-"d": "2026-09-05"
+"h": "da281835052dc1b4",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/nl/": {
-"h": "a61f5c9075d65e31",
-"d": "2026-10-22"
+"h": "c9b67278f9905088",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/nl/approach.html": {
 "h": "a7d6cb7a975c39d5",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/nl/blog.html": {
-"h": "5c1f2fa22b159468",
-"d": "2026-09-27"
+"h": "4281a350a2cd7c2c",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/nl/guides.html": {
 "h": "ab86a4ea803ec854",
@@ -1344,16 +1528,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/nl/legal/privacy.html": {
-"h": "15c29c010a387273",
-"d": "2026-09-27"
+"h": "ce33211d0ab5ca25",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/nl/legal/sale.html": {
+"h": "6752a3809d2bf2c7",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/nl/legal/terms.html": {
-"h": "0fda11127685b411",
-"d": "2026-09-27"
+"h": "f030ed7be4450ac3",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/nl/marketplace.html": {
-"h": "a2187f1bfc65caef",
-"d": "2026-09-27"
+"h": "50675e341353d6a2",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/nl/partners.html": {
 "h": "be8bee9bf17ffc9e",
@@ -1363,6 +1551,10 @@
 "h": "fbec7d2cec5071ac",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/nl/post-christmas-dangers.html": {
+"h": "c323262bc5abbbb1",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/nl/post-clicker-vs-marker.html": {
 "h": "3fec0ae81ad95242",
 "d": "2026-09-27"
@@ -1370,6 +1562,14 @@
 "https://pawtyapp.com/nl/post-cockapoo-grooming.html": {
 "h": "e29173435eca26a7",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/nl/post-eu-travel.html": {
+"h": "6888a4e9cf980769",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/nl/post-fireworks.html": {
+"h": "a21bd75f38494a23",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/nl/post-puppy-cost.html": {
 "h": "4ae26a8a3d60f9d7",
@@ -1391,6 +1591,10 @@
 "h": "748d6eae3f5aac34",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/nl/post-snuffle-mat.html": {
+"h": "60d90870f4fb76ab",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/nl/post-teething.html": {
 "h": "b604a1bf83d95e41",
 "d": "2026-09-27"
@@ -1403,25 +1607,41 @@
 "h": "af5f05368e170b2a",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/nl/post-winter-paws.html": {
+"h": "9bc03f79fdae681e",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/nl/shop.html": {
+"h": "089a7b71d74188cf",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/nl/shop/cart.html": {
+"h": "4af4c5a884689265",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/nl/shop/thanks.html": {
+"h": "ef98fdf8c4654b37",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/nl/support.html": {
-"h": "b6f31339f95d94fb",
-"d": "2026-09-27"
+"h": "12604f1a6706eab8",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/partners.html": {
 "h": "8f00c7e5c127a438",
 "d": "2026-09-05"
 },
 "https://pawtyapp.com/pl/": {
-"h": "7743cd8cb3e5e690",
-"d": "2026-10-22"
+"h": "7a011c2aa82fbac6",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/pl/approach.html": {
 "h": "1ff5f3405cc1c8be",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/pl/blog.html": {
-"h": "017ecdbfffb2c9cc",
-"d": "2026-09-27"
+"h": "6271e39ca9e97489",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/pl/guides.html": {
 "h": "a609e0146d2da711",
@@ -1556,16 +1776,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/pl/legal/privacy.html": {
-"h": "8b393d3b120040eb",
-"d": "2026-09-27"
+"h": "81c7f011f2d51406",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/pl/legal/sale.html": {
+"h": "b9fd2f0925fcf518",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/pl/legal/terms.html": {
-"h": "87eaac7c1a7bc434",
-"d": "2026-09-27"
+"h": "fe4bb4eb2ad7d8f8",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/pl/marketplace.html": {
-"h": "3c5fa63122139cdd",
-"d": "2026-09-27"
+"h": "1c19a87ffa711719",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/pl/partners.html": {
 "h": "ce39a3f55ad60d9b",
@@ -1575,6 +1799,10 @@
 "h": "b0ca70e5268fbb84",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/pl/post-christmas-dangers.html": {
+"h": "d6ac370ef568d22e",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/pl/post-clicker-vs-marker.html": {
 "h": "9384d0d46c611875",
 "d": "2026-09-27"
@@ -1582,6 +1810,14 @@
 "https://pawtyapp.com/pl/post-cockapoo-grooming.html": {
 "h": "434231919c2ba483",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/pl/post-eu-travel.html": {
+"h": "a9531b67d80da5f2",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/pl/post-fireworks.html": {
+"h": "42f1d83ee32596bd",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/pl/post-puppy-cost.html": {
 "h": "d213f7a454e2a814",
@@ -1603,6 +1839,10 @@
 "h": "8ef302fd16b12860",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/pl/post-snuffle-mat.html": {
+"h": "21bf5767a7645bc8",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/pl/post-teething.html": {
 "h": "b7556095f559075b",
 "d": "2026-09-27"
@@ -1615,13 +1855,33 @@
 "h": "21f6822a05842355",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/pl/post-winter-paws.html": {
+"h": "5764b8c6ef985712",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/pl/shop.html": {
+"h": "668e77224d66af6c",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/pl/shop/cart.html": {
+"h": "f9a0bcfcc5729eb8",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/pl/shop/thanks.html": {
+"h": "44845b960ebc8bf6",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/pl/support.html": {
-"h": "e1f9ac166a824fbe",
-"d": "2026-09-27"
+"h": "ece1bfc52f0e64f6",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/post-5minutes.html": {
 "h": "6b11f0c7d84cf145",
 "d": "2026-09-05"
+},
+"https://pawtyapp.com/post-christmas-dangers.html": {
+"h": "c0c5bb86f089fce1",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/post-clicker-vs-marker.html": {
 "h": "550af360bffae876",
@@ -1630,6 +1890,14 @@
 "https://pawtyapp.com/post-cockapoo-grooming.html": {
 "h": "c8d46667996ed8e4",
 "d": "2026-09-05"
+},
+"https://pawtyapp.com/post-eu-travel.html": {
+"h": "10fff6fa4f693f93",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/post-fireworks.html": {
+"h": "be77559c5e9b5011",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/post-puppy-cost.html": {
 "h": "8df7a9ec798a3257",
@@ -1651,6 +1919,10 @@
 "h": "68269d25c97e480b",
 "d": "2026-09-05"
 },
+"https://pawtyapp.com/post-snuffle-mat.html": {
+"h": "6b4043b1c538f175",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/post-teething.html": {
 "h": "c2c0897eae67ffe9",
 "d": "2026-09-05"
@@ -1663,17 +1935,21 @@
 "h": "2a7f5fa0eb4089f9",
 "d": "2026-09-05"
 },
+"https://pawtyapp.com/post-winter-paws.html": {
+"h": "58de8f735eb3dae3",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/pt/": {
-"h": "29f5ae8931e813f6",
-"d": "2026-10-22"
+"h": "aee5c76423c29fa1",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/pt/approach.html": {
 "h": "62aa6d06beb25289",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/pt/blog.html": {
-"h": "7515531e20c074eb",
-"d": "2026-09-27"
+"h": "71d413036d572376",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/pt/guides.html": {
 "h": "27ab3ebb7eeb15e3",
@@ -1808,16 +2084,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/pt/legal/privacy.html": {
-"h": "b57aaf39ce672c0d",
-"d": "2026-09-27"
+"h": "aa4476491deafe85",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/pt/legal/sale.html": {
+"h": "1ff83a0940e32a07",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/pt/legal/terms.html": {
-"h": "218d74ff329d4f18",
-"d": "2026-09-27"
+"h": "afca5698e1528dff",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/pt/marketplace.html": {
-"h": "d5776cffff4bf1ae",
-"d": "2026-09-27"
+"h": "d57f2ce587ede1b4",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/pt/partners.html": {
 "h": "06bc0299360b710d",
@@ -1827,6 +2107,10 @@
 "h": "723a905ce05196b1",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/pt/post-christmas-dangers.html": {
+"h": "9a2b4457a7ed9019",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/pt/post-clicker-vs-marker.html": {
 "h": "bdb7bb5a1e0e34ef",
 "d": "2026-09-27"
@@ -1834,6 +2118,14 @@
 "https://pawtyapp.com/pt/post-cockapoo-grooming.html": {
 "h": "3dd28950a3817863",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/pt/post-eu-travel.html": {
+"h": "d3794717e2996dbe",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/pt/post-fireworks.html": {
+"h": "3728fcf80cbe3cce",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/pt/post-puppy-cost.html": {
 "h": "d0c6b209a3ab30d7",
@@ -1855,6 +2147,10 @@
 "h": "15f1992331e482b2",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/pt/post-snuffle-mat.html": {
+"h": "01ce82b4dc91b8de",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/pt/post-teething.html": {
 "h": "db5989e6a70a7644",
 "d": "2026-09-27"
@@ -1867,21 +2163,37 @@
 "h": "d180a73bf172ab13",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/pt/post-winter-paws.html": {
+"h": "af7abf465c82d0e3",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/pt/shop.html": {
+"h": "d5fb43302f6385e5",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/pt/shop/cart.html": {
+"h": "8e8074d01f187600",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/pt/shop/thanks.html": {
+"h": "f49d634bbea7f73a",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/pt/support.html": {
-"h": "4fa14ded076e0b0b",
-"d": "2026-09-27"
+"h": "0cee861ab3b980b9",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/ro/": {
-"h": "710b260841e0455a",
-"d": "2026-10-22"
+"h": "34db54850194de1f",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/ro/approach.html": {
 "h": "cb7acbd2036039d0",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/ro/blog.html": {
-"h": "f0308a6c6c93ea68",
-"d": "2026-09-27"
+"h": "54d96d9898608ea6",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/ro/guides.html": {
 "h": "875bd0df21ad1e18",
@@ -2016,16 +2328,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/ro/legal/privacy.html": {
-"h": "f6df8da16f03435c",
-"d": "2026-09-27"
+"h": "7506c862ae25342c",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/ro/legal/sale.html": {
+"h": "093b5485d55c15eb",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/ro/legal/terms.html": {
-"h": "0f9f9c941857e875",
-"d": "2026-09-27"
+"h": "e85b2c352cd58d4b",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/ro/marketplace.html": {
-"h": "87059efe7e097624",
-"d": "2026-09-27"
+"h": "6461a31f7c9e4d2a",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/ro/partners.html": {
 "h": "f9b12fc091b6e265",
@@ -2035,6 +2351,10 @@
 "h": "02e0cb734fee0993",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/ro/post-christmas-dangers.html": {
+"h": "c8dc0cffa2f0e113",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/ro/post-clicker-vs-marker.html": {
 "h": "947ee73f30fa700b",
 "d": "2026-09-27"
@@ -2042,6 +2362,14 @@
 "https://pawtyapp.com/ro/post-cockapoo-grooming.html": {
 "h": "d12ce94aa0f26d73",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/ro/post-eu-travel.html": {
+"h": "9ff3e030c3aa8eb4",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/ro/post-fireworks.html": {
+"h": "ac088032a38af8b8",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/ro/post-puppy-cost.html": {
 "h": "5baeb1fdbc7e79f2",
@@ -2063,6 +2391,10 @@
 "h": "876b8cc028959803",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/ro/post-snuffle-mat.html": {
+"h": "225f7b5b0d99f336",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/ro/post-teething.html": {
 "h": "c8b0ebb88e499bd5",
 "d": "2026-09-27"
@@ -2075,21 +2407,49 @@
 "h": "c1774e0ceed56b0a",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/ro/post-winter-paws.html": {
+"h": "63dc2a82dba5d15e",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/ro/shop.html": {
+"h": "815e5754e1fda696",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/ro/shop/cart.html": {
+"h": "8eb3bcda8f0b9c24",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/ro/shop/thanks.html": {
+"h": "baaa5935426c7af9",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/ro/support.html": {
-"h": "1c30013d8871066c",
-"d": "2026-09-27"
+"h": "a0d598aad9ca8f7e",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/shop.html": {
+"h": "1f33bd64e555fce7",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/shop/cart.html": {
+"h": "1620e952c08a4c05",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/shop/thanks.html": {
+"h": "986687534bd7d926",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/sl/": {
-"h": "475158b9ab9337b2",
-"d": "2026-10-22"
+"h": "0b59e5f6332934c2",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/sl/approach.html": {
 "h": "3ea3bdf6cc10fb36",
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/sl/blog.html": {
-"h": "21050038ef0fe0c4",
-"d": "2026-09-27"
+"h": "c97c7c5f831209bb",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/sl/guides.html": {
 "h": "cbf5acaf9c1b0c19",
@@ -2224,16 +2584,20 @@
 "d": "2026-09-27"
 },
 "https://pawtyapp.com/sl/legal/privacy.html": {
-"h": "dfe68c037ea011df",
-"d": "2026-09-27"
+"h": "de1c77fae2660a76",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/sl/legal/sale.html": {
+"h": "54c65e48f7bb18e9",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/sl/legal/terms.html": {
-"h": "2f8fe8dd44bff925",
-"d": "2026-09-27"
+"h": "72f89724f6720ed9",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/sl/marketplace.html": {
-"h": "abeb70302a02bbb0",
-"d": "2026-09-27"
+"h": "48055eb06e56c6ac",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/sl/partners.html": {
 "h": "8a0a18f923b4a9ae",
@@ -2243,6 +2607,10 @@
 "h": "2182bbb39871109e",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/sl/post-christmas-dangers.html": {
+"h": "2134152c496590c0",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/sl/post-clicker-vs-marker.html": {
 "h": "83898a0673dee604",
 "d": "2026-09-27"
@@ -2250,6 +2618,14 @@
 "https://pawtyapp.com/sl/post-cockapoo-grooming.html": {
 "h": "bf5b699688e7fb8d",
 "d": "2026-09-27"
+},
+"https://pawtyapp.com/sl/post-eu-travel.html": {
+"h": "9bbc06f5f91526b3",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/sl/post-fireworks.html": {
+"h": "4dbc5d23eaa006d9",
+"d": "2026-10-29"
 },
 "https://pawtyapp.com/sl/post-puppy-cost.html": {
 "h": "f948daf1b4b86c73",
@@ -2271,6 +2647,10 @@
 "h": "637975d87a5edc03",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/sl/post-snuffle-mat.html": {
+"h": "fa47db009e470b6f",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/sl/post-teething.html": {
 "h": "ed2b0e586b303cea",
 "d": "2026-09-27"
@@ -2283,12 +2663,28 @@
 "h": "1a7c6c95bc7689d7",
 "d": "2026-09-27"
 },
+"https://pawtyapp.com/sl/post-winter-paws.html": {
+"h": "da51465c11f1f661",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/sl/shop.html": {
+"h": "bd5cedb669535ff3",
+"d": "2026-10-30"
+},
+"https://pawtyapp.com/sl/shop/cart.html": {
+"h": "63865576cd6e44e6",
+"d": "2026-10-29"
+},
+"https://pawtyapp.com/sl/shop/thanks.html": {
+"h": "b648b5f19b5fb5e1",
+"d": "2026-10-29"
+},
 "https://pawtyapp.com/sl/support.html": {
-"h": "3afc930878039331",
-"d": "2026-09-27"
+"h": "84990d15bd93b022",
+"d": "2026-10-30"
 },
 "https://pawtyapp.com/support.html": {
-"h": "4a7afce4b877321a",
-"d": "2026-09-05"
+"h": "1fcb756d93058648",
+"d": "2026-10-30"
 }
 }

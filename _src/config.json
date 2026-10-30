@@ -190,6 +190,46 @@
    "ld": "article"
   },
   {
+   "path": "post-fireworks.html",
+   "kind": "page",
+   "lastmod": "2026-10-29",
+   "priority": "0.7",
+   "date": "2026-10-29",
+   "ld": "article"
+  },
+  {
+   "path": "post-christmas-dangers.html",
+   "kind": "page",
+   "lastmod": "2026-10-29",
+   "priority": "0.7",
+   "date": "2026-10-29",
+   "ld": "article"
+  },
+  {
+   "path": "post-snuffle-mat.html",
+   "kind": "page",
+   "lastmod": "2026-10-29",
+   "priority": "0.7",
+   "date": "2026-10-29",
+   "ld": "article"
+  },
+  {
+   "path": "post-winter-paws.html",
+   "kind": "page",
+   "lastmod": "2026-10-29",
+   "priority": "0.7",
+   "date": "2026-10-29",
+   "ld": "article"
+  },
+  {
+   "path": "post-eu-travel.html",
+   "kind": "page",
+   "lastmod": "2026-10-29",
+   "priority": "0.7",
+   "date": "2026-10-29",
+   "ld": "article"
+  },
+  {
    "path": "legal/privacy.html",
    "kind": "page",
    "lastmod": "2026-09-05",
@@ -424,6 +464,18 @@
    "lastmod": "2026-09-05",
    "priority": "0.7",
    "ld": "article"
+  },
+  {
+   "path": "shop.html",
+   "kind": "page",
+   "priority": "0.6",
+   "hidden": true
+  },
+  {
+   "path": "legal/sale.html",
+   "kind": "page",
+   "priority": "0.5",
+   "hidden": true
   },
   {
    "path": "404.html",

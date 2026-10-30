@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Pravila privatnosti — Pawty",
   "description": "Kako Pawty postupa s tvojim podacima: personalizirano oglašavanje i privola, prava iz GDPR-a, pohrana u EU-u i partnerske poveznice."
+ },
+ "404.html": {
+  "title": "Stranica nije pronađena — Pawty",
+  "description": "Stranica nije pronađena na pawtyapp.com."
+ },
+ "post-fireworks.html": {
+  "title": "Vatromet i tvoj pas: počni se pripremati već sada — Pawty blog",
+  "description": "Kako pripremiti psa za novogodišnji vatromet: navikavanje na zvuk od studenog, sigurno skrovište, sama noć i kada otići veterinaru.",
+  "headline": "Vatromet i tvoj pas: počni se pripremati već sada"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Božićne opasnosti za pse: što držati izvan dosega — Pawty blog",
+  "description": "Božićna hrana, ukrasi i biljke opasni za pse i što učiniti ako je tvoj pas nešto pojeo.",
+  "headline": "Božićne opasnosti za pse: što držati izvan dosega"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Podloge za njuškanje: zašto 10 minuta njuškanja umori psa — Pawty blog",
+  "description": "Zašto njuškanje umara i smiruje psa, kako korak po korak koristiti podlogu za njuškanje i igre njuškanja bez nje.",
+  "headline": "Podloge za njuškanje: zašto 10 minuta njuškanja umori psa"
+ },
+ "post-winter-paws.html": {
+  "title": "Njega šapa zimi: sol, led i hladnoća — Pawty blog",
+  "description": "Zaštiti šape svog psa zimi: ispiranje soli s ceste, balzam za šape, ledene kuglice između prstiju, kaputići i zimske opasnosti.",
+  "headline": "Njega šapa zimi: sol, led i hladnoća"
+ },
+ "post-eu-travel.html": {
+  "title": "Putovanje sa psom po EU: putovnica za ljubimce i pravila — Pawty blog",
+  "description": "Pravila EU za putovanje s ljubimcima: mikročip, cijepljenje protiv bjesnoće, 21 dan čekanja, putovnica za ljubimce, pravila o trakavici i savjeti za put.",
+  "headline": "Putovanje sa psom po EU: putovnica za ljubimce i pravila"
+ },
+ "shop.html": {
+  "title": "Trgovina Pawty family — Pawty",
+  "description": "Ručno izrađene igračke od flisa i podloge za njuškanje od tima Pawty, šaljemo iz Slovenije u cijelu EU."
+ },
+ "legal/sale.html": {
+  "title": "Uvjeti prodaje — Pawty",
+  "description": "Uvjeti prodaje u trgovini Pawty family: prodavatelj, cijene, dostava, pravo na jednostrani raskid ugovora u roku od 14 dana i povrat proizvoda."
  }
 }

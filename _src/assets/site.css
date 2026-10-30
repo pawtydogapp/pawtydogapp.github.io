@@ -209,3 +209,64 @@ footer .langrow a{margin:0;white-space:nowrap}footer .langrow a[aria-current]{co
  .hero p{font-size:15px;margin-bottom:10px}
  .vhero{max-width:112px;margin-bottom:11px}
 }
+
+/* ---------- shop ---------- */
+.shopwrap{max-width:640px}
+.shophead{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.shopcart{border:2px solid #2FB56B;color:#1E8A4E;border-radius:999px;padding:7px 16px;font-weight:800;text-decoration:none;font-size:15px;white-space:nowrap}
+.shopintro{color:#4a5c4a;font-weight:600;margin:8px 0 18px}
+.shoplist{display:grid;gap:14px;margin-bottom:18px}
+.shopitem{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:16px;display:flex;gap:16px;align-items:flex-start}
+.shopimg{flex:0 0 96px;height:96px;border-radius:14px;background:#E7F6ED;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.shopimg img{width:100%;height:100%;object-fit:cover}
+.shopbody{flex:1;min-width:0}
+.shopbody h3{font-family:'Baloo 2',sans-serif;font-size:19px;margin:0 0 2px;color:#21351F}
+.shopbody p{font-size:14.5px;color:#4a5c4a;margin:0 0 6px}
+.shopbody .shopfoot{font-size:12px;color:#8a9a8a}
+.shoprow{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:6px}
+.shoprow b{font-size:17px}
+.shopbtn,.shoppay{display:inline-block;background:#1E8A4E;color:#fff;border:0;border-radius:12px;font-family:'Baloo 2',sans-serif;font-weight:700;font-size:15px;padding:9px 16px;cursor:pointer;text-decoration:none}
+.shopbtn:hover,.shoppay:hover{background:#18763f}
+.shoppay{display:block;width:100%;font-size:18px;padding:15px;margin-top:14px;border-radius:16px}
+.shoppay:disabled{opacity:.6;cursor:wait}
+.shopout{font-weight:800;color:#8a9a8a;font-size:14px}
+.shopsoon{background:#F2FBF4;border:2px solid #BFE3CE;border-radius:18px;padding:26px;text-align:center}
+.shopsoon b{font-size:22px;color:#21351F}.shopsoon p{margin:8px 0 0;color:#4a5c4a}
+.shopmsg{color:#6E7F6E;font-weight:700}
+.shopseller{font-size:12.5px;color:#8a9a8a;margin:14px 0 30px;text-align:center}
+.shopseller a,.shopnote a{color:#1E8A4E}
+.shopback{color:#1E8A4E;font-weight:800;text-decoration:none;font-size:15px}
+.shopbox{background:#fff;border:2px solid #EDE4D2;border-radius:18px;padding:16px 18px;margin-bottom:14px}
+.cartline{display:grid;grid-template-columns:1fr auto auto;gap:12px;align-items:center;padding:9px 0;border-bottom:1px solid #F1EBDD;font-size:15px}
+.cartline:last-child{border-bottom:0}
+.cartline em{display:block;font-style:normal;color:#C0392B;font-size:12.5px;font-weight:700}
+.cartline b{text-align:right;white-space:nowrap}
+.cartsub{color:#4a5c4a}.cartcode{color:#1E8A4E;font-weight:700}
+.carttotal{font-size:17px;font-weight:800}
+.cartqty{display:flex;align-items:center;gap:8px}
+.cartqty button{width:28px;height:28px;border-radius:999px;border:2px solid #BFE3CE;background:#fff;color:#1E8A4E;font-weight:800;font-size:16px;line-height:1;cursor:pointer}
+.shoplabel{display:block;font-size:13px;font-weight:800;color:#4a5c4a;margin:10px 0 4px}
+.shopin{width:100%;font-family:'Nunito',sans-serif;font-size:16px;padding:11px 12px;border:2px solid #EDE4D2;border-radius:12px;background:#fff;color:#21351F}
+.shopin:focus{outline:none;border-color:#2FB56B}
+.shopcoderow{display:flex;gap:8px}.shopcoderow .shopin{flex:1}
+.shopghost{background:#fff;border:2px solid #2FB56B;color:#1E8A4E;border-radius:12px;font-weight:800;padding:0 16px;cursor:pointer;font-family:'Nunito',sans-serif;font-size:15px}
+.shoph3{font-family:'Baloo 2',sans-serif;font-size:18px;margin:16px 0 0}
+.shoppair{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.shoperr{color:#C0392B;font-size:13.5px;font-weight:700;margin:6px 0 0;min-height:1px}
+.shopcards{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin:12px 0 6px}
+.shopcards span{border:1px solid #DCD3C1;border-radius:8px;padding:3px 10px;font-size:12.5px;font-weight:800;color:#4a5c4a;background:#fff}
+.shopnote{font-size:12.5px;color:#8a9a8a;text-align:center;margin:4px 0}
+.shopcardmk{margin-bottom:16px;border-color:#BFE3CE}
+@media(max-width:420px){.shopimg{flex-basis:76px;height:76px}.shopitem{gap:12px;padding:14px}}
+[hidden]{display:none!important}
+.shopcart{background:#fff;cursor:pointer;font-family:'Nunito',sans-serif}
+.shopback{background:none;border:0;padding:0;cursor:pointer;font-family:'Nunito',sans-serif}
+.shopnotice{background:#FFF4E3;border:2px solid #F5D9A8;color:#7A5200;border-radius:14px;padding:12px 14px;font-weight:700;margin-bottom:16px}
+.shopnotice.shopok{background:#E7F6ED;border-color:#BFE3CE;color:#1E8A4E}
+.famcard{margin-bottom:16px;border-color:#BFE3CE}
+.famcard h3{margin-top:2px}
+.famimgs{display:flex;gap:8px;margin:8px 0}
+.famimgs img{width:72px;height:72px;object-fit:cover;border-radius:12px;background:#F7F2E6}
+.fampromo{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:14px;color:#4a5c4a;margin:6px 0 8px}
+.fampromo b{font-size:15px;color:#9A6400;background:#FFF4E3;border-radius:8px;padding:3px 8px;letter-spacing:.5px}
+.fampromo .shopghost{padding:5px 12px;font-size:13px}

@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Datenschutzerklärung — Pawty",
   "description": "Wie Pawty mit deinen Daten umgeht: personalisierte Werbung und Einwilligung, Rechte nach DSGVO, Hosting in der EU und Affiliate-Links."
+ },
+ "404.html": {
+  "title": "Seite nicht gefunden — Pawty",
+  "description": "Seite auf pawtyapp.com nicht gefunden."
+ },
+ "post-fireworks.html": {
+  "title": "Silvester und dein Hund: Fang jetzt mit der Vorbereitung an — Pawty Blog",
+  "description": "So bereitest du deinen Hund auf das Silvesterfeuerwerk vor: Geräuschtraining ab November, ein sicherer Rückzugsort, die Nacht selbst und wann du zum Tierarzt solltest.",
+  "headline": "Silvester und dein Hund: Fang jetzt mit der Vorbereitung an"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Weihnachtsgefahren für Hunde: Was du außer Reichweite halten solltest — Pawty Blog",
+  "description": "Welche Weihnachtsleckereien, Dekorationen und Pflanzen für Hunde gefährlich sind und was du tust, wenn dein Hund etwas gefressen hat.",
+  "headline": "Weihnachtsgefahren für Hunde: Was du außer Reichweite halten solltest"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Schnüffelteppiche: Warum 10 Minuten Schnüffeln einen Hund müde machen — Pawty Blog",
+  "description": "Warum Schnüffeln einen Hund auslastet und beruhigt, wie du einen Schnüffelteppich Schritt für Schritt einführst und Schnüffelspiele ganz ohne Teppich.",
+  "headline": "Schnüffelteppiche: Warum 10 Minuten Schnüffeln einen Hund müde machen"
+ },
+ "post-winter-paws.html": {
+  "title": "Pfotenpflege im Winter: Streusalz, Eis und Kälte — Pawty Blog",
+  "description": "So schützt du die Pfoten deines Hundes im Winter: Streusalz abspülen, Pfotenbalsam, Eisklumpen zwischen den Zehen, Hundemäntel und Gefahren im Winter.",
+  "headline": "Pfotenpflege im Winter: Streusalz, Eis und Kälte"
+ },
+ "post-eu-travel.html": {
+  "title": "Mit dem Hund durch die EU reisen: Heimtierausweis und Regeln — Pawty Blog",
+  "description": "Die EU-Regeln für Reisen mit Haustieren: Mikrochip, Tollwutimpfung, 21 Tage Wartezeit, der Heimtierausweis, die Bandwurmregel und Tipps für unterwegs.",
+  "headline": "Mit dem Hund durch die EU reisen: Heimtierausweis und Regeln"
+ },
+ "shop.html": {
+  "title": "Pawty family Shop — Pawty",
+  "description": "Handgemachte Fleece-Spielzeuge und Schnüffelteppiche vom Pawty Team, mit Versand aus Slowenien in die ganze EU."
+ },
+ "legal/sale.html": {
+  "title": "Verkaufsbedingungen — Pawty",
+  "description": "Verkaufsbedingungen für den Pawty family Shop: Verkäuferin, Preise, Lieferung, das 14-tägige Widerrufsrecht und Rücksendungen."
  }
 }

@@ -1,0 +1,31 @@
+<div class="wrap shopwrap" style="padding-top:36px">
+<div id="shop" data-lang="{{lang}}" data-add="{{shop_add}}" data-added="{{shop_added}}" data-soon-title="{{shop_soon_title}}" data-soon-text="{{shop_soon_text}}" data-load-error="{{shop_load_error}}" data-empty="{{shop_empty}}" data-shipping="{{shop_shipping}}" data-free="{{shop_free}}" data-code="{{shop_code}}" data-total="{{shop_total}}" data-qty="{{shop_qty}}" data-code-invalid="{{shop_code_invalid}}" data-error="{{shop_error}}" data-thanks="{{shop_thanks_title}}. {{shop_thanks_text}}" data-cancelled="{{shop_cancelled}}">
+<p id="shop-note" class="shopnotice" hidden aria-live="polite"></p>
+<div id="shop-list-view">
+<div class="shophead"><h2 class="sec" style="text-align:left;margin:0">{{shop_title}}</h2><button id="shop-open-cart" class="shopcart" type="button">{{shop_cart}} <span id="shop-count"></span></button></div>
+<p class="shopintro">{{shop_intro}}</p>
+<div id="shop-list" class="shoplist"><p class="shopmsg">…</p></div>
+</div>
+<div id="shop-cart-view" hidden>
+<button id="shop-back" class="shopback" type="button">{{shop_back}}</button>
+<h2 class="sec" style="text-align:left;margin:10px 0 14px">{{shop_cart_title}}</h2>
+<div id="cart-lines" class="shopbox"></div>
+<div id="cart-form">
+<div class="shopbox">
+<label class="shoplabel" for="f-code">{{shop_code_label}}</label>
+<div class="shopcoderow"><input id="f-code" class="shopin" autocomplete="off" autocapitalize="characters" maxlength="40"><button id="code-apply" class="shopghost" type="button">{{shop_apply}}</button></div>
+<p id="code-msg" class="shoperr" aria-live="polite"></p>
+<label class="shoplabel" for="f-country">{{shop_country}}</label><select id="f-country" class="shopin" autocomplete="country"></select>
+<p class="shopnote" style="text-align:left;margin-top:8px">{{shop_stripe_note}}</p>
+</div>
+<button id="pay" class="shoppay" type="button">{{shop_pay}}</button>
+<p id="pay-msg" class="shoperr" aria-live="polite"></p>
+<div class="shopcards"><span>Visa</span><span>Mastercard</span><span>Apple Pay</span><span>Google Pay</span></div>
+<p class="shopnote">{{shop_pay_note}}</p>
+<p class="shopnote"><a href="/legal/sale.html">{{shop_accept}}</a></p>
+</div>
+</div>
+<p class="shopseller">{{shop_seller}} <a href="/legal/sale.html">{{shop_terms}}</a></p>
+</div>
+</div>
+<script src="/assets/shop.js?v={{shop_js_v}}"></script>

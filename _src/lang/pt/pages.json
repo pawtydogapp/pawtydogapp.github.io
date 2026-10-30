@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Política de privacidade — Pawty",
   "description": "Como a Pawty trata os teus dados: publicidade personalizada e consentimento, direitos do RGPD, alojamento na UE e links de afiliado."
+ },
+ "404.html": {
+  "title": "Página não encontrada — Pawty",
+  "description": "Página não encontrada em pawtyapp.com."
+ },
+ "post-fireworks.html": {
+  "title": "O fogo de artifício e o teu cão: começa a preparar-te já — Blog Pawty",
+  "description": "Como preparar um cão para o fogo de artifício da passagem de ano: treino com sons a partir de novembro, um refúgio seguro, a própria noite e quando ir ao veterinário.",
+  "headline": "O fogo de artifício e o teu cão: começa a preparar-te já"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Perigos do Natal para cães: o que manter fora do alcance — Blog Pawty",
+  "description": "Os alimentos, as decorações e as plantas de Natal que são perigosos para cães, e o que fazer se o teu cão comeu alguma coisa.",
+  "headline": "Perigos do Natal para cães: o que manter fora do alcance"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Tapetes olfativos: porque 10 minutos a farejar cansam um cão — Blog Pawty",
+  "description": "Porque farejar cansa e acalma um cão, como usar um tapete olfativo passo a passo e jogos de faro sem tapete.",
+  "headline": "Tapetes olfativos: porque 10 minutos a farejar cansam um cão"
+ },
+ "post-winter-paws.html": {
+  "title": "Cuidar das patas no inverno: sal, gelo e frio — Blog Pawty",
+  "description": "Protege as patas do teu cão no inverno: tirar o sal da estrada, bálsamo para patas, bolas de gelo entre os dedos, casacos e perigos do inverno.",
+  "headline": "Cuidar das patas no inverno: sal, gelo e frio"
+ },
+ "post-eu-travel.html": {
+  "title": "Viajar na UE com o teu cão: passaporte e regras — Blog Pawty",
+  "description": "As regras da UE para viajar com animais de companhia: microchip, vacina antirrábica, a espera de 21 dias, o passaporte, a regra da ténia e dicas de viagem.",
+  "headline": "Viajar na UE com o teu cão: passaporte e regras"
+ },
+ "shop.html": {
+  "title": "Loja Pawty family — Pawty",
+  "description": "Brinquedos de fleece e tapetes olfativos feitos à mão pela equipa Pawty, enviados da Eslovénia para toda a UE."
+ },
+ "legal/sale.html": {
+  "title": "Termos de venda — Pawty",
+  "description": "Termos de venda da loja Pawty family: vendedor, preços, entrega, o direito de livre resolução de 14 dias e devoluções."
  }
 }

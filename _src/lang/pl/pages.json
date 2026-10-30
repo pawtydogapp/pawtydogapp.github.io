@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Polityka prywatności — Pawty",
   "description": "Jak Pawty przetwarza twoje dane: reklamy spersonalizowane i zgoda, prawa z RODO, hosting w UE i linki partnerskie."
+ },
+ "404.html": {
+  "title": "Nie znaleziono strony — Pawty",
+  "description": "Nie znaleziono strony na pawtyapp.com."
+ },
+ "post-fireworks.html": {
+  "title": "Fajerwerki a twój pies: zacznij przygotowania już teraz — Blog Pawty",
+  "description": "Jak przygotować psa na sylwestrowe fajerwerki: oswajanie z dźwiękiem od listopada, bezpieczna kryjówka, sama noc i kiedy iść do weterynarza.",
+  "headline": "Fajerwerki a twój pies: zacznij przygotowania już teraz"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Świąteczne zagrożenia dla psa: co trzymać poza jego zasięgiem — Blog Pawty",
+  "description": "Świąteczne potrawy, ozdoby i rośliny niebezpieczne dla psów oraz co robić, jeśli pies coś zjadł.",
+  "headline": "Świąteczne zagrożenia dla psa: co trzymać poza jego zasięgiem"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Maty węchowe: dlaczego 10 minut węszenia męczy psa — Blog Pawty",
+  "description": "Dlaczego węszenie męczy i uspokaja psa, jak krok po kroku używać maty węchowej i zabawy węchowe bez niej.",
+  "headline": "Maty węchowe: dlaczego 10 minut węszenia męczy psa"
+ },
+ "post-winter-paws.html": {
+  "title": "Pielęgnacja łap zimą: sól, lód i mróz — Blog Pawty",
+  "description": "Chroń łapy psa zimą: spłukiwanie soli drogowej, balsam do łap, lodowe kulki między palcami, ubranka i zimowe zagrożenia.",
+  "headline": "Pielęgnacja łap zimą: sól, lód i mróz"
+ },
+ "post-eu-travel.html": {
+  "title": "Podróże z psem po UE: paszport dla zwierząt i przepisy — Blog Pawty",
+  "description": "Unijne zasady podróżowania ze zwierzętami: czip, szczepienie przeciw wściekliźnie, 21 dni oczekiwania, paszport dla zwierząt, zasady dotyczące tasiemca i porady na drogę.",
+  "headline": "Podróże z psem po UE: paszport dla zwierząt i przepisy"
+ },
+ "shop.html": {
+  "title": "Sklep Pawty family — Pawty",
+  "description": "Ręcznie robione polarowe zabawki i maty węchowe od zespołu Pawty, wysyłane ze Słowenii do całej UE."
+ },
+ "legal/sale.html": {
+  "title": "Regulamin sprzedaży — Pawty",
+  "description": "Regulamin sprzedaży w sklepie Pawty family: sprzedawca, ceny, dostawa, 14-dniowe prawo odstąpienia od umowy i zwroty."
  }
 }

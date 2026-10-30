@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Política de privacidad — Pawty",
   "description": "Cómo trata Pawty tus datos: publicidad personalizada y consentimiento, derechos del RGPD, alojamiento en la UE y enlaces de afiliado."
+ },
+ "404.html": {
+  "title": "Página no encontrada — Pawty",
+  "description": "Página no encontrada en pawtyapp.com."
+ },
+ "post-fireworks.html": {
+  "title": "Fuegos artificiales y tu perro: empieza a prepararlo ya — Blog de Pawty",
+  "description": "Cómo preparar a tu perro para los fuegos artificiales de Nochevieja: entrenamiento con sonidos desde noviembre, un refugio seguro, la noche en sí y cuándo ir al veterinario.",
+  "headline": "Fuegos artificiales y tu perro: empieza a prepararlo ya"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Peligros navideños para perros: lo que debes poner fuera de su alcance — Blog de Pawty",
+  "description": "Los alimentos, adornos y plantas navideños que son peligrosos para los perros, y qué hacer si tu perro se ha comido algo.",
+  "headline": "Peligros navideños para perros: lo que debes poner fuera de su alcance"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Alfombras olfativas: por qué 10 minutos olfateando cansan a un perro — Blog de Pawty",
+  "description": "Por qué olfatear cansa y calma a un perro, cómo usar una alfombra olfativa paso a paso y juegos de olfato sin ella.",
+  "headline": "Alfombras olfativas: por qué 10 minutos olfateando cansan a un perro"
+ },
+ "post-winter-paws.html": {
+  "title": "Cuidado de las patas en invierno: sal, hielo y frío — Blog de Pawty",
+  "description": "Protege las patas de tu perro en invierno: aclarar la sal de las calles, bálsamo para almohadillas, bolas de hielo entre los dedos, abrigos y peligros invernales.",
+  "headline": "Cuidado de las patas en invierno: sal, hielo y frío"
+ },
+ "post-eu-travel.html": {
+  "title": "Viajar por la UE con tu perro: pasaporte para mascotas y normas — Blog de Pawty",
+  "description": "Las normas de la UE para viajar con mascotas: microchip, vacuna antirrábica, la espera de 21 días, el pasaporte para mascotas, la norma de la tenia y consejos de viaje.",
+  "headline": "Viajar por la UE con tu perro: pasaporte para mascotas y normas"
+ },
+ "shop.html": {
+  "title": "Tienda Pawty family — Pawty",
+  "description": "Juguetes de forro polar y alfombras olfativas hechos a mano por el equipo de Pawty, enviados desde Eslovenia a toda la UE."
+ },
+ "legal/sale.html": {
+  "title": "Condiciones de venta — Pawty",
+  "description": "Condiciones de venta de la tienda Pawty family: vendedor, precios, entrega, derecho de desistimiento de 14 días y devoluciones."
  }
 }

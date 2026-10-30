@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Politica de confidențialitate — Pawty",
   "description": "Cum tratează Pawty datele tale: publicitate personalizată și consimțământ, drepturi GDPR, găzduire în UE și linkuri de afiliere."
+ },
+ "404.html": {
+  "title": "Pagina nu a fost găsită — Pawty",
+  "description": "Pagina nu a fost găsită pe pawtyapp.com."
+ },
+ "post-fireworks.html": {
+  "title": "Artificiile și câinele tău: începe pregătirile de acum — Blogul Pawty",
+  "description": "Cum pregătești un câine pentru artificiile de Revelion: obișnuirea cu zgomotul din noiembrie, un ascunziș sigur, noaptea propriu-zisă și când să mergi la veterinar.",
+  "headline": "Artificiile și câinele tău: începe pregătirile de acum"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Pericolele Crăciunului pentru câini: ce ții departe de el — Blogul Pawty",
+  "description": "Mâncărurile, decorațiunile și plantele de Crăciun periculoase pentru câini și ce faci dacă a mâncat ceva.",
+  "headline": "Pericolele Crăciunului pentru câini: ce ții departe de el"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Covorașul olfactiv: de ce 10 minute de mirosit obosesc un câine — Blogul Pawty",
+  "description": "De ce mirositul obosește și calmează un câine, cum folosești un covoraș olfactiv pas cu pas și jocuri de mirosit fără covoraș.",
+  "headline": "Covorașul olfactiv: de ce 10 minute de mirosit obosesc un câine"
+ },
+ "post-winter-paws.html": {
+  "title": "Lăbuțele iarna: sare, gheață și frig — Blogul Pawty",
+  "description": "Protejează lăbuțele câinelui iarna: clătirea sării de pe drum, balsamul pentru lăbuțe, bulgării de gheață dintre degete, hăinuțele și pericolele iernii.",
+  "headline": "Lăbuțele iarna: sare, gheață și frig"
+ },
+ "post-eu-travel.html": {
+  "title": "Călătorii în UE cu câinele: pașaportul pentru animale și regulile — Blogul Pawty",
+  "description": "Regulile UE pentru călătoriile cu animale: microcipul, vaccinul antirabic, cele 21 de zile de așteptare, pașaportul pentru animale, regula pentru tenie și sfaturi de drum.",
+  "headline": "Călătorii în UE cu câinele: pașaportul pentru animale și regulile"
+ },
+ "shop.html": {
+  "title": "Magazinul Pawty family — Pawty",
+  "description": "Jucării din fleece și covorașe olfactive lucrate manual de echipa Pawty, livrate din Slovenia în toată UE."
+ },
+ "legal/sale.html": {
+  "title": "Termeni de vânzare — Pawty",
+  "description": "Termenii de vânzare pentru magazinul Pawty family: vânzătorul, prețurile, livrarea, dreptul de retragere de 14 zile și returnările."
  }
 }

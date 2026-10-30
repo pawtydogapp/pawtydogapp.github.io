@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Privacybeleid — Pawty",
   "description": "Hoe Pawty met je gegevens omgaat: gepersonaliseerde advertenties en toestemming, AVG-rechten, hosting in de EU en affiliatelinks."
+ },
+ "404.html": {
+  "title": "Pagina niet gevonden — Pawty",
+  "description": "Pagina niet gevonden op pawtyapp.com."
+ },
+ "post-fireworks.html": {
+  "title": "Vuurwerk en je hond: begin nu met voorbereiden — Pawty-blog",
+  "description": "Zo bereid je je hond voor op het vuurwerk met oud en nieuw: geluidstraining vanaf november, een veilig hol, de avond zelf en wanneer je naar de dierenarts gaat.",
+  "headline": "Vuurwerk en je hond: begin nu met voorbereiden"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Kerstgevaren voor honden: wat je buiten bereik houdt — Pawty-blog",
+  "description": "Het kersteten, de versiering en de planten die gevaarlijk zijn voor honden, en wat je doet als je hond iets verkeerds heeft gegeten.",
+  "headline": "Kerstgevaren voor honden: wat je buiten bereik houdt"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Snuffelmatten: waarom 10 minuten snuffelen een hond moe maakt — Pawty-blog",
+  "description": "Waarom snuffelen een hond moe en rustig maakt, hoe je een snuffelmat stap voor stap gebruikt, en snuffelspelletjes zonder mat.",
+  "headline": "Snuffelmatten: waarom 10 minuten snuffelen een hond moe maakt"
+ },
+ "post-winter-paws.html": {
+  "title": "Pootverzorging in de winter: strooizout, ijs en kou — Pawty-blog",
+  "description": "Bescherm de poten van je hond in de winter: strooizout afspoelen, pootbalsem, ijsballetjes tussen de tenen, jasjes en wintergevaren.",
+  "headline": "Pootverzorging in de winter: strooizout, ijs en kou"
+ },
+ "post-eu-travel.html": {
+  "title": "Met je hond reizen in de EU: dierenpaspoort en regels — Pawty-blog",
+  "description": "De EU-regels voor reizen met huisdieren: chip, rabiësvaccinatie, de wachttijd van 21 dagen, het dierenpaspoort, de lintwormregel en reistips.",
+  "headline": "Met je hond reizen in de EU: dierenpaspoort en regels"
+ },
+ "shop.html": {
+  "title": "Pawty family-winkel — Pawty",
+  "description": "Handgemaakte fleece speeltjes en snuffelmatten van het Pawty-team, vanuit Slovenië verzonden naar de hele EU."
+ },
+ "legal/sale.html": {
+  "title": "Verkoopvoorwaarden — Pawty",
+  "description": "Verkoopvoorwaarden van de Pawty family-winkel: verkoper, prijzen, bezorging, het herroepingsrecht van 14 dagen en retouren."
  }
 }

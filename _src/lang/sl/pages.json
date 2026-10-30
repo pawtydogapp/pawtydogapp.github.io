@@ -90,5 +90,42 @@
  "legal/privacy.html": {
   "title": "Pravilnik o zasebnosti — Pawty",
   "description": "Kako Pawty ravna s tvojimi podatki: prilagojeno oglaševanje in privolitev, pravice po GDPR, gostovanje v EU in partnerske povezave."
+ },
+ "404.html": {
+  "title": "Stran ni najdena — Pawty",
+  "description": "Te strani na pawtyapp.com ni bilo mogoče najti."
+ },
+ "post-fireworks.html": {
+  "title": "Ognjemet in tvoj pes: s pripravami začni zdaj — Pawty blog",
+  "description": "Kako psa pripraviti na novoletni ognjemet: navajanje na zvok od novembra, varno zatočišče, sama noč in kdaj k veterinarju.",
+  "headline": "Ognjemet in tvoj pes: s pripravami začni zdaj"
+ },
+ "post-christmas-dangers.html": {
+  "title": "Božične nevarnosti za pse: kaj pospraviti iz dosega — Pawty blog",
+  "description": "Božične jedi, okraski in rastline, ki so nevarni za pse, in kaj narediti, če je tvoj pes pojedel kaj nevarnega.",
+  "headline": "Božične nevarnosti za pse: kaj pospraviti iz dosega"
+ },
+ "post-snuffle-mat.html": {
+  "title": "Vohalne preproge: zakaj 10 minut vohanja psa utrudi — Pawty blog",
+  "description": "Zakaj vohanje psa utrudi in pomiri, kako vohalno preprogo uporabljati korak za korakom in igre vohanja brez nje.",
+  "headline": "Vohalne preproge: zakaj 10 minut vohanja psa utrudi"
+ },
+ "post-winter-paws.html": {
+  "title": "Nega tačk pozimi: sol, led in mraz — Pawty blog",
+  "description": "Zaščiti tačke svojega psa pozimi: izpiranje cestne soli, balzam za tačke, ledene kepice med prsti, plaščki in zimske nevarnosti.",
+  "headline": "Nega tačk pozimi: sol, led in mraz"
+ },
+ "post-eu-travel.html": {
+  "title": "S psom po EU: potni list za hišne živali in pravila — Pawty blog",
+  "description": "Pravila EU za potovanje s hišnimi živalmi: mikročip, cepljenje proti steklini, 21 dni čakanja, potni list, pravila o trakuljah in nasveti za pot.",
+  "headline": "S psom po EU: potni list za hišne živali in pravila"
+ },
+ "shop.html": {
+  "title": "Trgovina Pawty family — Pawty",
+  "description": "Ročno izdelane igrače iz flisa in vohalne preproge ekipe Pawty, poslane iz Slovenije po vsej EU."
+ },
+ "legal/sale.html": {
+  "title": "Prodajni pogoji — Pawty",
+  "description": "Prodajni pogoji trgovine Pawty family: prodajalka, cene, dostava, 14-dnevna pravica do odstopa in vračila."
  }
 }
