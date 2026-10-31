@@ -162,7 +162,7 @@
   ]
  },
  "guard": {
-  "title": "Difesa delle risorse: primi segnali con cibo e giochi",
+  "title": "Protezione delle risorse: primi segnali con cibo e giochi",
   "description": "Irrigidirsi, fissare o ringhiare indica paura di perdere qualcosa. Perché non devi mai punire un ringhio.",
   "card": "Irrigidirsi, fissare o ringhiare indica paura di perdere qualcosa.",
   "needs": []
@@ -201,7 +201,7 @@
   "card": "La vescica di un cucciolo tiene più o meno tante ore quanti mesi ha.",
   "needs": [
    "Detergente enzimatico",
-   "Traversine per cuccioli"
+   "Marsupio porta premi"
   ]
  },
  "marking": {

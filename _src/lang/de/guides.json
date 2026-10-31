@@ -154,7 +154,7 @@
  },
  "scavenge": {
   "title": "Hund frisst beim Spaziergang alles auf",
-  "description": "Hunde sind von Natur aus Gelegenheitsfresser. „Lass es“ auf Straßenniveau und wann ein Maulkorb ein Sicherheitswerkzeug ist.",
+  "description": "Hunde sind von Natur aus Gelegenheitsfresser. „Lass es“ auf Straßenniveau und wann ein Korbmaulkorb ein Sicherheitswerkzeug ist.",
   "card": "Hunde sind von Natur aus Gelegenheitsfresser.",
   "needs": [
    "Korbmaulkorb",
@@ -201,7 +201,7 @@
   "card": "Eine Welpenblase hält ungefähr so viele Stunden, wie der Welpe Monate alt ist.",
   "needs": [
    "Enzymreiniger",
-   "Welpenunterlagen"
+   "Leckerlibeutel"
   ]
  },
  "marking": {

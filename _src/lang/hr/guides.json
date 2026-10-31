@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Pas se boji vatrometa i grmljavine",
-  "description": "Priprema jazbine, zašto je u redu tješiti psa i rad sa zvukovima koji treba započeti u studenom.",
-  "card": "Priprema jazbine, zašto je u redu tješiti psa i rad sa zvukovima koji treba započeti u studenom.",
+  "description": "Priprema brloga, zašto je u redu tješiti psa i rad sa zvukovima koji treba započeti u studenom.",
+  "card": "Priprema brloga, zašto je u redu tješiti psa i rad sa zvukovima koji treba započeti u studenom.",
   "needs": [
    "Uređaj za bijeli šum",
    "Natkriveni ležaj"
@@ -201,7 +201,7 @@
   "card": "Mjehur šteneta izdrži otprilike onoliko sati koliko je štene mjeseci staro.",
   "needs": [
    "Enzimsko sredstvo za čišćenje",
-   "Upijajuće podloge za štence"
+   "Torbica za poslastice"
   ]
  },
  "marking": {
@@ -259,7 +259,7 @@
   "description": "Mučnina u vožnji, ili auto uvijek vozi samo veterinaru. Ponovna izgradnja korak po korak.",
   "card": "Mučnina u vožnji, ili auto uvijek vozi samo veterinaru.",
   "needs": [
-   "Pojas za auto ili transporter",
+   "Orma za auto ili transporter",
    "Zaštita za prtljažnik"
   ]
  },
@@ -276,7 +276,7 @@
   "description": "Jedan bolan rez u živac ostavlja dugo sjećanje. Kooperativna njega, jedan nokat na dan.",
   "card": "Jedan bolan rez u živac ostavlja dugo sjećanje.",
   "needs": [
-   "Grickalica za nokte",
+   "Škarice za nokte",
    "Brusilica za nokte",
    "Daska za grebanje"
   ]

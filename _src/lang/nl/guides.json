@@ -9,7 +9,7 @@
   ]
  },
  "attention": {
-  "title": "Hond pootjet, piept en duwt voor aandacht",
+  "title": "Hond geeft pootjes, piept en duwt voor aandacht",
   "description": "Ook geïrriteerde aandacht telt. De rekensom omdraaien zodat rust loont en opdringerigheid niet.",
   "card": "Ook geïrriteerde aandacht telt.",
   "needs": [
@@ -69,7 +69,7 @@
   "description": "Honden trekken omdat het ze vooruit bracht. Stoppen en doorlopen, belonen bij je been, en waarom prikbanden nieuwe problemen veroorzaken.",
   "card": "Honden trekken omdat het ze vooruit bracht.",
   "needs": [
-   "Tuig met bevestiging voor",
+   "Tuig met borstring",
    "Gewone riem van 2 m",
    "Beloningszakje"
   ]
@@ -154,10 +154,10 @@
  },
  "scavenge": {
   "title": "Hond eet dingen op tijdens de wandeling",
-  "description": "Honden zijn van nature opportunistische aaseters. Laat maar, getraind op straat, en wanneer een korfmuilkorf een veiligheidsmiddel is.",
+  "description": "Honden zijn van nature opportunistische aaseters. Laat maar, getraind op straat, en wanneer een mandmuilkorf een veiligheidsmiddel is.",
   "card": "Honden zijn van nature opportunistische aaseters.",
   "needs": [
-   "Korfmuilkorf",
+   "Mandmuilkorf",
    "Sleeplijn"
   ]
  },
@@ -173,7 +173,7 @@
   "card": "Grote gevoelens zonder uitweg.",
   "needs": [
    "Sleeplijn",
-   "Tuig met bevestiging voor",
+   "Tuig met borstring",
    "Superlekkere beloningen"
   ]
  },
@@ -201,7 +201,7 @@
   "card": "Een pupblaas houdt het ongeveer zoveel uur vol als de pup maanden oud is.",
   "needs": [
    "Enzymreiniger",
-   "Puppytrainingsmatjes"
+   "Beloningszakje"
   ]
  },
  "marking": {

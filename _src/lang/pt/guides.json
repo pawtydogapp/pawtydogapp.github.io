@@ -69,7 +69,7 @@
   "description": "Os cães puxam porque isso os levou para a frente. Parar e avançar, recompensa junto à tua perna, e porque as coleiras de picos criam novos problemas.",
   "card": "Os cães puxam porque isso os levou para a frente.",
   "needs": [
-   "Arnês com fixação frontal",
+   "Peitoral com engate frontal",
    "Trela normal de 2 m",
    "Bolsa de guloseimas"
   ]
@@ -173,7 +173,7 @@
   "card": "Emoções fortes sem saída.",
   "needs": [
    "Trela longa",
-   "Arnês com fixação frontal",
+   "Peitoral com engate frontal",
    "Guloseimas de alto valor"
   ]
  },
@@ -201,7 +201,7 @@
   "card": "A bexiga de um cachorro aguenta mais ou menos tantas horas quantos meses ele tem.",
   "needs": [
    "Limpador enzimático",
-   "Resguardos para cachorros"
+   "Bolsa de guloseimas"
   ]
  },
  "marking": {
@@ -259,7 +259,7 @@
   "description": "Enjoo, ou o carro só vai ao veterinário. Reconstruir passo a passo.",
   "card": "Enjoo, ou o carro só vai ao veterinário.",
   "needs": [
-   "Arnês de carro ou transportadora",
+   "Peitoral de carro ou caixa de transporte",
    "Proteção para a mala do carro"
   ]
  },
@@ -278,7 +278,7 @@
   "needs": [
    "Corta-unhas",
    "Lima elétrica de unhas",
-   "Tábua de arranhar"
+   "Tábua de raspar"
   ]
  }
 }

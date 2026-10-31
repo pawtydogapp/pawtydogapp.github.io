@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Duolingo za pse",
-  "description": "Tvoj pas nije pokvaren i ti nisi zakazao. 99 vještina dresure u vježbama od 3 minute, 32 iskrena vodiča o ponašanju, nizovi koji se zamrznu umjesto da se ponište. Besplatno za iPhone i Android.",
+  "description": "Tvoj pas nije pokvaren i ti ne podbacuješ. 99 vještina dresure u vježbama od 3 minute, 32 iskrena vodiča o ponašanju, nizovi koji se zamrznu umjesto da se ponište. Besplatno za iPhone i Android.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Besplatna aplikacija za dresuru pasa za iPhone i Android s 99 vještina, 32 vodiča o ponašanju, ocjenama šapama, nizovima i kalendarom njege.\",\"url\":\"https://pawtyapp.com/hr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"hr\"}"
  },
  "blog.html": {
@@ -70,7 +70,7 @@
  },
  "post-5minutes.html": {
   "title": "Zašto je 5 minuta dnevno bolje od vikend-maratona — Pawty blog",
-  "description": "Kratke dnevne vježbe s psom bolje su od dugih vikend-treninga: ponavljanja, raspoređeno učenje i nizovi.",
+  "description": "Kratke dnevne vježbe sa psom bolje su od dugih vikend-treninga: ponavljanja, raspoređeno učenje i nizovi.",
   "headline": "Zašto je 5 minuta dnevno bolje od vikend-maratona"
  },
  "post-cockapoo-grooming.html": {

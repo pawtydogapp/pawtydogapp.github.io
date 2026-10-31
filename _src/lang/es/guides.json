@@ -37,7 +37,7 @@
   ]
  },
  "teething": {
-  "title": "Dentición del cachorro: mordisquear durante el cambio de dientes",
+  "title": "Dentición del cachorro: masticar durante el cambio de dientes",
   "description": "Salen 28 dientes de leche y entran 42 definitivos, entre los 3 y los 7 meses. Qué mordedores alivian las encías y cuáles son peligrosos.",
   "card": "Salen 28 dientes de leche y entran 42 definitivos, entre los 3 y los 7 meses.",
   "needs": [
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Ladrido de exigencia: el perro te ladra por comida o atención",
+  "title": "Ladrido de demanda: el perro te ladra por comida o atención",
   "description": "El perro ladra porque antes le ha funcionado. Por qué empeora antes de mejorar.",
   "card": "El perro ladra porque antes le ha funcionado.",
   "needs": []
@@ -178,7 +178,7 @@
   ]
  },
  "fireworks": {
-  "title": "Perro con miedo a los petardos y las tormentas",
+  "title": "Perro con miedo a los fuegos artificiales y las tormentas",
   "description": "Preparar una guarida, por qué consolar a tu perro está bien y el trabajo con sonidos que hay que empezar en noviembre.",
   "card": "Preparar una guarida, por qué consolar a tu perro está bien y el trabajo con sonidos que hay que empezar en noviembre.",
   "needs": [
@@ -201,7 +201,7 @@
   "card": "La vejiga de un cachorro aguanta aproximadamente tantas horas como meses tiene.",
   "needs": [
    "Limpiador enzimático",
-   "Empapadores para cachorro"
+   "Bolsa de premios"
   ]
  },
  "marking": {

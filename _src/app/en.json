@@ -1,42 +1,38 @@
 {
- "generated": "2026-09-27",
+ "generated": "2026-10-30",
  "ui": [
   " · daily target {tgt} g",
   " · every skill mastered",
-  " · freeze ready",
   " · top level",
   " · {x} XP to {n}",
   " · {x} to {n}",
+  "+{xp} XP",
   "+{xp} bonus XP. {dog} crushed the quest. A fresh one arrives tomorrow.",
-  ", first heat",
   ", nothing scheduled yet",
   "1 day before",
-  "1 month before",
   "1 week before",
   "12-week puppy plan",
   "2 weeks before",
-  "3 to 5 minutes · {tier}",
   "8-week adult plan",
+  "99 skills, step by step",
   "A session is 3 to 5 minutes. Then rate it honestly.",
-  "A warm-up {name} already knows",
   "A week is nothing. {dog} remembers more than you think, pick one easy skill 🐾",
   "AD",
   "About Pawty",
-  "Account & profile",
   "Ad privacy options are available in the mobile app.",
+  "Add a dog",
   "Add an entry",
+  "Add dog",
   "Add meal",
   "Adjust the crop",
-  "Age",
-  "Agility",
   "Albania",
-  "All",
-  "All levels",
-  "Almost there",
   "Almost there. Confirm the link we sent to your email, then log in.",
+  "Already have an account?",
   "An account with this email already exists. Log in instead.",
+  "Apple sign-in did not complete. Try again.",
   "Argentina",
   "Asking your phone...",
+  "At least 6 characters",
   "Australia",
   "Austria",
   "Badges",
@@ -44,19 +40,20 @@
   "Belgium",
   "Bosnia and Herzegovina",
   "Brazil",
-  "Breed (or best guess / mix)",
   "Bulgaria",
   "Canada",
+  "Cancel",
   "Care calendar",
+  "Care calendar reminders arrive at this time. The daily quest reminder stays at {time}.",
   "Care reminder from Pawty 🩺",
-  "Challenges",
+  "Care reminder time",
   "Change password",
+  "Changes saved.",
   "Chile",
   "China",
-  "Choose a different nickname.",
+  "Choose from gallery",
   "Collar vs harness & leashes",
   "Colombia",
-  "Commands",
   "Cons",
   "Consistency. Earned by turning up.",
   "Continue",
@@ -64,30 +61,37 @@
   "Continue in the window that just opened. It brings you straight back.",
   "Continue with Apple",
   "Continue with Google",
+  "Copied",
   "Copied ✓",
   "Copy",
+  "Copy code",
   "Country",
   "Create account",
-  "Creating an account stores your email, nickname and country in the European Union. Read the",
+  "Create your account",
   "Croatia",
   "Current password",
   "Current password is wrong.",
   "Cyprus",
   "Czechia",
   "DD.MM.YYYY · tap to pick",
-  "Daily grams target and meal log",
   "Daily target",
   "Daily target saved. Recheck it monthly, it grows with the puppy.",
+  "Date",
+  "Delete",
   "Delete account",
   "Delete my account…",
   "Denmark",
   "Dog",
   "Dog photo (avatar)",
   "Dog school reminder from Pawty 🎓",
+  "Dog's age",
   "Dog's name",
+  "Dog's name (public on the leaderboard)",
+  "Dog's photo",
+  "Dog's photo (optional)",
+  "Edit entry",
   "Egypt",
   "Email",
-  "End every session on a success, even a tiny one. Both of you should walk away feeling good.",
   "Enter a valid email address.",
   "Enter the daily grams. The feeding table on your food bag gives it per weight and age.",
   "Enter the grams of this meal.",
@@ -95,26 +99,27 @@
   "Equipment checklist",
   "Estonia",
   "FOLLOW ALONG",
-  "Female",
-  "Finished. Read it again or restart from week 1",
+  "Find a skill to learn",
+  "Find a skill to train",
   "Finland",
   "First 5 paws",
-  "First dog",
   "Food diary",
   "Forgot password",
   "France",
   "Friday",
+  "From sit and recall to car rides and vet visits. Every skill has clear steps and the mistakes to avoid.",
+  "From the Pawty family",
   "Fully equipped. {name}-approved setup.",
   "Germany",
+  "Get started",
   "Google sign-in did not complete. Try again.",
   "Greece",
   "Grooming reminder from Pawty ✂️",
-  "Had dogs before",
-  "Have an account? Log in",
-  "Hi {nick} & {name} 👋",
+  "Hi {names}",
   "Home",
   "Hong Kong",
   "How did it go?",
+  "How old is your dog?",
   "Hungary",
   "IN PROGRESS",
   "Iceland",
@@ -142,35 +147,27 @@
   "Log out",
   "Loving Pawty?",
   "Luxembourg",
-  "MASTERED · KEEP FRESH",
   "MUST HAVE",
   "Made with 🐾 in Slovenia",
   "Malaysia",
-  "Male",
   "Malta",
-  "Marketplace slots for treats, gear, insurance and grooming partners. Country-targeted placement with tracked promo codes and links. Write to info@pawtyapp.com.",
   "Mastered",
-  "Mastered skills fade without occasional reps. These are due a quick refresher:",
   "Maybe later",
   "Mexico",
   "Monday",
   "Montenegro",
+  "Months",
   "More",
   "Morocco",
-  "Most dogs need 20 to 40 repetitions before a new cue truly sticks, and every owner hits frustrating days. Both are part of the deal, and the payoff is a decade of easier life together.",
-  "Most items here carry a This is normal badge. That badge is the whole point: you are not failing, and your dog is not broken.",
-  "Must-haves and nice-to-haves, tick as you go",
   "NICE TO HAVE",
   "NOT STARTED",
   "Name the entry, for example Rabies booster, Full groom or Puppy class.",
   "Netherlands",
   "New Zealand",
-  "New here? Create account",
   "New password",
   "New password needs at least 6 characters.",
-  "Nickname (public on leaderboard)",
-  "Nickname (public on the leaderboard)",
-  "Nickname needs at least 2 characters.",
+  "New to Pawty?",
+  "Next",
   "Nigeria",
   "No account found for this email.",
   "No connection. Check your internet and try again.",
@@ -179,12 +176,11 @@
   "No entries yet. Rabies boosters, yearly combo shots and groom dates all belong here.",
   "North Macedonia",
   "Norway",
+  "Not now",
   "Nothing is lost, your training data is safe. Go back and try another card, and tell us at info@pawtyapp.com if it keeps happening.",
-  "One honest thing first. The start is hard for the dog and for the owner. Every owner in this app felt overwhelmed in the beginning. But it gets easier, and it gets genuinely fun.",
-  "Open guides",
+  "One quest a day",
+  "Open Pawty and a 5-minute task is waiting, chosen for your dog. No planning needed.",
   "Open the full guide in Learn",
-  "Open the plan",
-  "Open ›",
   "Other",
   "Over target by {x} g. One day is no drama, a pattern is worth adjusting.",
   "Partner offers are on the way",
@@ -193,15 +189,14 @@
   "Password needs at least 6 characters.",
   "Password updated. Log in with the new one.",
   "Pawty",
-  "Pawty turns dog training into a game you and your dog both love. A daily quest, 90+ skills, honest behaviour guides and a care calendar, 5 minutes a day. Built in Slovenia by two dog people and Nala the cockapoo, who tests every skill first. Free, no subscription, data stored in the European Union.",
-  "Pawty v1.4.0 · build 21",
+  "Pawty can remind you at 18:00 when {dog}'s quest is waiting, and before the dates in your care calendar. You can switch it off any time in your phone settings.",
+  "Pawty turns dog training into a 5-minute daily game. 99 skills, honest behaviour guides and a care calendar. Built in Slovenia with Nala the cockapoo, who tests every skill first.",
+  "Pawty version {v}",
   "Perfect session.",
   "Permanently removes your account and everything in it.",
   "Peru",
   "Philippines",
-  "Photo (optional, becomes the avatar)",
   "Pick a date.",
-  "Pick a nickname, it shows on the leaderboard.",
   "Pick at least 1 reminder.",
   "Please confirm your email first. Check your inbox for the link.",
   "Poland",
@@ -212,57 +207,53 @@
   "Profile updated.",
   "Progress",
   "Progress logged. Tomorrow builds on today.",
+  "Progress you can see",
   "Pros",
-  "Pros, cons and honest verdicts, with drawings",
-  "Puppy corner ⭐",
-  "Puppy detected. We will highlight teething, house training and the Puppy corner for you.",
-  "Puppy or adult track, realistic pace",
   "Puppy portions change roughly monthly as they grow, take the number from the feeding table on your food bag. Under 6 months: 3 to 4 meals a day. Adults: 2. Treats count too, keep them within about 10% of the daily total.",
   "Qatar",
   "Quest complete",
   "Questions, ideas or a bug",
-  "Ranked by training activity (XP), not by dog talent. Nicknames and dog avatars are visible to other Pawty users.",
+  "Rate Pawty",
   "Rate Pawty ⭐",
+  "Rate each session, keep your streak and climb the leaderboard. Free, no subscription.",
   "Real deals with promo codes from pet shops, groomers and insurers land here soon. Check back after the next update.",
+  "Refresh due",
   "Remind me",
   "Reminders are blocked. Turn them on in {path}, then come back to this screen.",
   "Reminders are off. Turn them on here and every date you save below gets a phone notification.",
-  "Reminders arrive as phone notifications, and the next one also shows on Home. Vaccination and grooming reminders arrive at 09:00, the day-before reminder at 18:00.",
+  "Reminders arrive as phone notifications, and the next one also shows on Home. Tap an entry to change it.",
   "Reminders: {join}",
+  "Remove {name} from this account",
   "Repeat new password",
   "Repeat password",
   "Repeats every week on",
   "Reset email sent. Open the link on this device, it brings you back here to set a new password.",
   "Restart the plan",
-  "Restarted. You are on week 1 and the weekly card is back on Home.",
+  "Restarted. You are on week 1.",
   "Romania",
   "Rough session. Logged anyway, consistency beats perfection.",
   "Saturday",
   "Saudi Arabia",
   "Save",
+  "Save changes",
   "Save entry",
   "Save new password",
   "Save profile",
   "Save session",
+  "Saved. Care reminders now arrive at {time}.",
   "Saved. It will appear on Home when a reminder window opens.",
-  "Search 90+ skills",
-  "Search a skill",
-  "Select male or female, it personalises the guides.",
-  "Select your country, it shows as a flag on the leaderboard.",
-  "Select your country. It shows as a flag on the leaderboard and picks the offers you see.",
+  "Selected",
   "Send reset email",
   "Serbia",
   "Session expired. Sign in with Google again.",
   "Set new password",
-  "Sex",
   "Shop",
   "Short daily sessions beat weekend marathons. One skill, 3 minutes, done.",
   "Show password",
   "Sign-in with {provider} needs the live backend. Use email and password in demo mode.",
-  "Signed in as {email}. Two details and you are in.",
   "Singapore",
   "Skill. Earned by 3 perfect sessions in a row.",
-  "Skills & challenges",
+  "Skills",
   "Slovakia",
   "Slovenia",
   "Solid middle ground. Getting there.",
@@ -273,28 +264,23 @@
   "Start a session",
   "Start the quest",
   "Start training",
-  "Started over from week 1 by mistake, or want an early reset?",
-  "Streak freeze ready",
   "Streak saved",
   "Sunday",
   "Sweden",
+  "Switch",
   "Switzerland",
   "Taiwan",
+  "Take photo",
   "Tap the paws",
-  "Teething, treats, clicker basics{x}. Everything a puppy month throws at you.",
   "Tell us about your dog 🐶",
-  "Tell us your experience level.",
   "Thailand",
   "That email already has a Pawty account. Sign in with the method you used originally, or use a different Apple ID.",
   "The dog needs a name.",
-  "The goal picture",
   "The new password must be different from the current one.",
-  "The story, social links and what is coming",
   "The two new passwords do not match.",
   "The two passwords do not match.",
-  "This is normal",
+  "This deletes {name}'s training progress, badges, care calendar and food diary. Your other dogs stay as they are. There is no undo.",
   "This permanently deletes: your login, {name}'s profile and photo, all training progress and paw ratings, streak and badges, leaderboard position, care calendar entries and food diary. There is no undo.",
-  "This plan is deliberately slow. Roughly 1 new skill per week, with review built in. Falling behind is allowed, repeat a week whenever needed. Dogs do not read calendars.",
   "This screen did not load",
   "This week",
   "Thursday",
@@ -309,7 +295,6 @@
   "Train together. Grow together.",
   "Training info is educational, not veterinary advice. For health or serious behaviour concerns, talk to your vet or a certified trainer.",
   "Training plan",
-  "Tricks",
   "Try again",
   "Tuesday",
   "Turkey",
@@ -319,13 +304,13 @@
   "United States",
   "Up – down",
   "Uruguay",
-  "Use a different account",
   "Vaccination reminder from Pawty 💉",
-  "Vaccinations, grooming and school with reminders",
   "Very close. One more push.",
   "Vietnam",
+  "Visit store",
   "Visit store →",
   "WHAT THE DOG WEARS",
+  "Want a daily reminder?",
   "We read every message. Partner enquiries welcome.",
   "Wednesday",
   "Week total {wTotal} g · average {round} g per logged day{x}",
@@ -336,18 +321,17 @@
   "Why your dog does this.",
   "Wrong email or password. Use Forgot password if needed.",
   "Wrong password. Use Forgot password if needed.",
-  "XP earned this week. Resets every Monday, everyone gets a fresh race.",
+  "Years",
   "Yes, delete everything permanently",
+  "Yes, remind me",
+  "Yes, remove {name}",
   "You",
   "You missed a day, so Pawty spent your streak freeze. Your {streak}-day streak is intact. You earn a new freeze after 7 days in a row.",
+  "You need internet once to create your account. After that Pawty works offline too.",
   "Your dog",
-  "Your experience",
+  "Your dogs",
   "Your streak freeze is waiting. One 3-minute session with {dog} starts it again 💚",
   "Zoom",
-  "agility",
-  "challenge",
-  "coming soon",
-  "command",
   "current",
   "day of",
   "day streak{x}",
@@ -361,37 +345,34 @@
   "info@pawtyapp.com",
   "last {r}/5",
   "mastered",
-  "normal",
   "of {tgt} g",
   "on the day",
   "or",
+  "or sign up with",
   "pawtyapp.com",
   "phone Settings, Apps, Pawty, Notifications, Allow notifications",
   "phone Settings, Notifications, Pawty, Allow Notifications",
-  "privacy policy",
   "pup",
   "today · {time}",
   "tomorrow · {time}",
-  "trick",
   "you are here",
-  "your dog",
   "{cmd} is officially mastered: 3 perfect sessions in a row. Keep it fresh with an occasional refresher.",
   "{day}, weekly · {time}",
-  "{dogName} is through all {length} weeks, so the weekly card is off your Home screen. Every week below stays readable. Restarting sets the clock back to week 1, which makes a solid refresher.",
-  "{dog} has mastered 3 skills already. A quick store rating helps other dog owners find Pawty. It means a lot.",
   "{dog} is ready for today's lesson: {skill} 🎯",
   "{dog} is ready for today's quest. 5 minutes is all it takes 🎯",
   "{dog} is ready when you are. Today's session is 3 minutes, no catching up needed 💚",
+  "{dog} just mastered a new skill. A quick store rating helps other dog owners find Pawty. It means a lot.",
   "{dog} nailed {cmd}. A perfect session. Well done, both of you.",
   "{dog} would love 3 minutes today. Start anywhere, no catching up needed 🐾",
   "{e} {n} is done for today. A fresh quest arrives tomorrow, the library below stays open.",
   "{length} of {length2} skills mastered{x}",
   "{n} d",
+  "{pct}% off with promo code",
   "{sum} g",
   "{val} XP",
   "{xpWeek} XP",
+  "{xp} XP",
   "{xp} XP{x}",
-  "{x} · +{xp} XP",
   "— means nothing was logged that day, which is different from a day of zero grams.",
   "← Back",
   "← Pick another",
@@ -419,13 +400,11 @@
   "📷 Choose photo",
   "🔁 Another way in.",
   "🔁 Keep it fresh",
-  "🔁 refresh due",
   "🔔 Reminders are on{x}.",
   "🔔 Turn on reminders",
   "🔘 Clicker",
   "🔥 {streak}-day streak · {xp} XP",
   "🗓️ This week",
-  "🗓️ Week {week}: {n}",
   "🛍️ Marketplace",
   "🤝 Want your brand here?",
   "🥣 {g} g",
@@ -649,7 +628,7 @@
     "steps": [
      "Dog sits. Hold a treat in a closed fist at chest height, slightly to the dog's left.",
      "Dogs paw at fists. Mark the instant the left paw lifts, treat.",
-     "Add the cue Left just before the fist appears."
+     "Add the cue Paw just before the fist appears."
     ],
     "avoid": [
      "Do not grab the paw, let the dog offer it.",
@@ -664,7 +643,7 @@
     "steps": [
      "Same fist game, now slightly to the dog's right side.",
      "Mark only right-paw lifts, ignore left ones.",
-     "Add the cue Right."
+     "Add the cue Shake."
     ],
     "avoid": [
      "Do not train it right after Left paw in the same minute, dogs blur the two.",
@@ -736,7 +715,7 @@
     "n": "Come (outdoors)",
     "why": "Recall around smells, dogs and birds. This is the real exam.",
     "steps": [
-     "Start on a 5 to 10 m long line in a quiet park.",
+     "Start on a 5 to 10 m long line clipped to a harness, not a collar, in a quiet park.",
      "Call once, run backwards, party with top treats on arrival.",
      "Slowly add distractions: distance from other dogs, then closer over weeks."
     ],
@@ -810,7 +789,7 @@
     "why": "Freedom with connection: the dog checks in and stays in your bubble.",
     "steps": [
      "Only in safe, legal areas, after outdoor recall is strong.",
-     "Start with the leash dragging on the ground for quick pickup.",
+     "Start with a light line clipped to a harness and dragging on the ground for quick pickup.",
      "Reward every voluntary check-in (dog looks at you or returns) generously.",
      "Change direction often, silently. The dog learns to track you."
     ],
@@ -964,7 +943,7 @@
      "Support the chest with your forearm at the start if the dog wobbles."
     ],
     "avoid": [
-     "Not for very young puppies or long-backed breeds like dachshunds, the spine load is real.",
+     "Not for dogs under 12 months or long-backed breeds like dachshunds, the spine load is real.",
      "Keep sets short, 3 to 5 reps, it is a workout."
     ],
     "alt": "Let the dog balance its paws on your arm first, fade the arm later.",
@@ -1204,7 +1183,7 @@
     ],
     "avoid": [
      "Do not use valuable items, drops happen for months.",
-     "Do not carry food wrappers or heavy things, light and neutral objects."
+     "Do not let the dog carry food wrappers or heavy things, use light and neutral objects."
     ],
     "alt": "A small dog-sized dummy or a soft toy works perfectly.",
     "tip": "Cockapoos often love carrying, retriever genes at work."
@@ -1258,7 +1237,7 @@
     "n": "Wave (left paw)",
     "why": "A raised-paw wave in the air, no touching. Grown out of Left paw.",
     "steps": [
-     "Cue Left paw but pull your hand back before contact.",
+     "Cue Paw but pull your hand back before contact.",
      "Mark the paw movement in the air, treat.",
      "Raise your hand higher over sessions, the wave grows, add the cue Wave."
     ],
@@ -1322,7 +1301,7 @@
      "Send from 2 steps back, reward after landing, not before takeoff."
     ],
     "avoid": [
-     "No serious jump height before 12 to 15 months, growth plates must close first.",
+     "Before 12 to 18 months, keep the bar on the ground or a few cm high, large breeds wait longest. Growth plates must close first, ask your vet.",
      "No slippery floors, ever, for jumping."
     ],
     "alt": "A broomstick on two flowerpots is a perfectly fine first jump.",
@@ -1352,7 +1331,7 @@
      "Narrow the channel over weeks until the poles form one line and the dog weaves."
     ],
     "avoid": [
-     "Adult bodies only, weaving loads the spine, wait past 12 to 15 months.",
+     "Adult bodies only, weaving loads the spine, wait until 12 to 18 months, longer for large breeds.",
      "Do not rush the channel narrowing, this obstacle takes months everywhere."
     ],
     "alt": "Wire guides on the poles are another proven method.",
@@ -1413,7 +1392,7 @@
      "Raise the palms slowly over sessions as balance improves."
     ],
     "avoid": [
-     "Skip for young puppies and long-backed breeds, the upright load on the spine is real.",
+     "Skip for dogs under 12 months and long-backed breeds, the upright load on the spine is real.",
      "Do not let it become jumping on you, paws meet palms, body stays down."
     ],
     "alt": "Train facing a wall behind the dog so it can balance without tipping backwards.",
@@ -1433,7 +1412,7 @@
      "Do not shout over the barking, it reads as you joining the alarm."
     ],
     "alt": "During retraining keep a leash by the door and step on it, jumping becomes simply impossible while you pay calm behaviour.",
-    "tip": "Message guests before they arrive: ignore the dog until she is calm. It works and everyone survives."
+    "tip": "Message guests before they arrive: ignore the dog until it is calm. It works and everyone survives."
    },
    "busride": {
     "n": "Bus and train rides",
@@ -1449,7 +1428,7 @@
      "Do not force a frozen dog aboard, back up and rebuild at the platform."
     ],
     "alt": "For small dogs, a carrier bag trained as a cosy den at home makes transit trivial.",
-    "tip": "Check carrier rules before travelling: leashes are standard and muzzles are required for larger dogs on many Slovenian buses and trains."
+    "tip": "Check the transport company's rules before travelling: leashes are standard and muzzles are required for larger dogs on many Slovenian buses and trains."
    },
    "boat": {
     "n": "Boat ride",
@@ -1521,12 +1500,12 @@
     "steps": [
      "Break it into micro-steps, each paid: touch paw, hold paw, clippers appear, clippers touch the nail, clip 1 nail. Days per step is fine.",
      "One nail per day is a respectable, sustainable pace.",
-     "Clip tiny slivers, in dark nails the quick is invisible, err small.",
+     "Clip tiny slivers. In dark nails the quick is invisible, so always cut less rather than more.",
      "Pair the whole ritual with a lick mat smeared with something great."
     ],
     "avoid": [
-     "Never pin the dog for a full 18-nail pedicure, you buy 1 session and pay with 50.",
-     "Do not continue after cutting into the quick, stop, jackpot, retry days later."
+     "Never pin the dog for a full 18-nail pedicure, 1 forced session can take 50 sessions to repair.",
+     "If you cut into the quick, stop. Press styptic powder or a clean cloth on the nail until the bleeding stops, call your vet if it lasts over 10 minutes, and retry days later."
     ],
     "alt": "A scratch board, sandpaper glued to a plank, lets the dog file its own front nails as a trick.",
     "tip": "If you hear clicking on the floor, the nails are already too long."
@@ -1544,7 +1523,7 @@
      "Never push cotton buds into the canal, you compact wax and risk damage.",
      "Do not use alcohol or vinegar mixes from the internet."
     ],
-    "alt": "Massage the cleaner in at the ear base and let the dog shake it out, most of the work happens by itself.",
+    "alt": "Once your vet has checked the ears and shown you how, massage the cleaner in at the ear base and let the dog shake it out.",
     "tip": "Red skin, head shaking or constant scratching are vet signals, not grooming signals."
    },
    "meetdog": {
@@ -1609,7 +1588,7 @@
      "Do not change the food for hotel stays, travel plus new food equals stomach trouble."
     ],
     "alt": "A sitter sleeping at your home is the gentler alternative for velcro dogs.",
-    "tip": "Most dogs settle within an hour of the owner leaving. The hard part of the first night is usually yours, not hers."
+    "tip": "Most dogs settle within an hour of the owner leaving. The hard part of the first night is usually yours, not your dog's."
    },
    "hotelweek": {
     "n": "Dog hotel: 1 week",
@@ -1638,7 +1617,7 @@
     ],
     "avoid": [
      "No slippery or wobbly surfaces, one bad slip costs weeks of confidence.",
-     "Keep heights at knee level or lower, this is confidence work, not stunt work."
+     "Keep heights at your knee level or lower, much lower for puppies and small dogs, this is confidence work, not stunt work."
     ],
     "alt": "For hesitant dogs, front paws only for a week is a perfectly good stage.",
     "tip": "A dog that loves the scale makes every vet visit 5 minutes shorter."
@@ -1665,7 +1644,7 @@
     "steps": [
      "Sessions in the parked car first: hop in, treats, hop out. Engine off, then engine on.",
      "First real drive: 5 minutes to somewhere great, a meadow or a friend, party there, drive home.",
-     "Secure the dog every single time: crash-tested crate or car harness, never loose on the seat.",
+     "Secure the dog every single time: crash-tested crate or car harness, never loose on the seat. Never leave the dog alone in a parked car, it heats up dangerously within minutes, even on mild days.",
      "Grow trip length gradually. Most rides should end somewhere fun, not only at the vet."
     ],
     "avoid": [
@@ -1681,19 +1660,19 @@
     "steps": [
      "Basket or trailer dogs: train it as a bed at home first, meals and naps inside, then short pushed walks, then slow rides with the harness clipped in.",
      "Running dogs: walk beside the pushed bike for days, reward position level with the rear wheel, away from the pedals.",
-     "First rides slow and short on quiet paths, dog on the side away from traffic.",
-     "Use a spring-loaded bike attachment or ride hands-free areas only, never tie the leash to the handlebars."
+     "First rides slow and short on quiet paths in cool hours, dog on the side away from traffic.",
+     "Use a spring-loaded bike attachment that keeps the dog away from the wheel. Never hold the leash in your hand or tie it to the handlebars."
     ],
     "avoid": [
      "No trotting alongside a bike before the dog is fully grown, roughly 12 to 18 months, joints first.",
      "No basket rides without a secured harness clip, one squirrel changes everything."
     ],
     "alt": "A dog trailer is the comfortable option for medium dogs and seniors.",
-    "tip": "Summer asphalt burns pads. Back of your hand on the road for 5 seconds is the test."
+    "tip": "Summer asphalt burns pads. Hold the back of your hand on the road for 7 seconds: if it is too hot for you, it is too hot for paws."
    },
    "potty": {
     "n": "Potty training routine",
-    "why": "House training is a timing game, not an obedience test. A puppy bladder holds roughly its age in months in hours.",
+    "why": "House training is a timing game, not an obedience test. As a rough rule, a puppy can hold its bladder for about 1 hour per month of age.",
     "steps": [
      "Out after every sleep, every meal, every play burst, and every 1 to 2 awake hours. Set phone timers, seriously.",
      "Same door, same spot, same boring word like Go potty while the dog sniffs.",
@@ -1750,7 +1729,7 @@
     ],
     "avoid": [
      "Never throw a dog in to teach it, that is the classic trust destroyer and creates water fear.",
-     "Watch cold water, shivering means out and dry, now."
+     "Watch cold water and currents, shivering means out and dry now. Keep the dog out of water with blue-green algae or scum, it can be deadly."
     ],
     "alt": "A kiddie pool in the garden with floating treats is a fine step zero.",
     "tip": "Rinse off salt and chlorine, and dry the ears afterwards, floppy ears especially."
@@ -1762,7 +1741,7 @@
      "Prerequisites: rock-solid loose leash, bike training done, dog fully grown.",
      "Use a hands-free belt with a shock-absorbing line, never the leash around your wrist.",
      "Start on smooth, empty paths at walking pace, dog at your side. Build distance over weeks.",
-     "Build in sniffing breaks, sustained trotting is athlete work."
+     "Build in sniffing and water breaks and skip hot days, sustained trotting is athlete work."
     ],
     "avoid": [
      "Not before roughly 12 to 18 months depending on size, growing joints come first.",
@@ -1773,7 +1752,7 @@
    },
    "firstwalk": {
     "n": "The first walk outside",
-    "why": "After vaccinations clear, the first real street walk is a sensory explosion for a puppy. Managed well, it sets the tone for years of relaxed walks.",
+    "why": "Once your vet says the puppy vaccinations are complete, the first real street walk is a sensory explosion for a puppy. Managed well, it sets the tone for years of relaxed walks.",
     "steps": [
      "Keep it tiny: 5 to 10 minutes, quiet street, no destination. Sitting and watching the world counts as the whole walk.",
      "Let the puppy set the pace, stopping to stare at a leaf is learning, not disobedience.",
@@ -1840,7 +1819,7 @@
     "why": "The first trip with a dog is a logistics exam: transport, sleeping in a new place, new routines. Preparation turns it into pure joy.",
     "steps": [
      "Book dog-friendly explicitly and confirm by message, surprises at check-in ruin day 1.",
-     "Pack the dog bag: own food for the whole stay, bed or blanket, bowls, meds, vaccination booklet, poop bags, a familiar toy.",
+     "Pack the dog bag: own food for the whole stay, bed or blanket, bowls, meds, vaccination booklet, poop bags, a familiar toy. Ask your vet about tick, mosquito and sandfly protection for your destination.",
      "First evening ritual: a long sniffy walk around the new home base, then dinner, then calm. Arrival day is not sightseeing day.",
      "Keep meal and walk times close to home rhythm, routine is a portable safety blanket."
     ],
@@ -1874,7 +1853,7 @@
      "Distance first: watch a playground from across the park, pay calm observation.",
      "Structured greeting with a calm, instructed child: child stands still, dog approaches to sniff, 3 seconds, dog is called back and paid.",
      "Teach the child the rules out loud: no hugging, no face-to-face, pet the chest or side, stop when the dog moves away.",
-     "Adult supervision always, and the dog always keeps an exit route."
+     "Active adult supervision always, never leave the dog and a child alone together, and the dog always keeps an exit route."
     ],
     "avoid": [
      "Never allow hugging or climbing on the dog, most bites to children come from cornered, over-touched dogs.",
@@ -2032,7 +2011,7 @@
     ],
     "avoid": [
      "Do not punish chewing itself, the need is physical and real.",
-     "No cooked bones or very hard antlers for puppy teeth, fractures happen."
+     "No cooked bones for any dog, they splinter. No very hard antlers or hooves for puppy teeth, fractures happen."
     ],
     "calm": "Finding tiny teeth on the floor is normal, most are swallowed harmlessly. The storm largely passes by month 7."
    },
@@ -2214,8 +2193,8 @@
      "For committed vacuum cleaners, a comfortable basket muzzle on risky routes is a safety tool."
     ],
     "avoid": [
-     "Do not finger-sweep the mouth for everything, save it for real dangers, it teaches swallow faster.",
-     "Do not punish after swallowing, the eating already paid."
+     "Do not pull every find out of the mouth with your fingers, save that for real dangers. Constant grabbing teaches the dog to swallow faster.",
+     "Do not punish after swallowing, the eating already paid. If the find could be poison bait, medicine or a bone, call your vet at once."
     ],
     "calm": "Scavenging is normal dog economics, not bad character. Poison-bait awareness is the real reason to train this seriously."
    },
@@ -2225,7 +2204,7 @@
     "fix": [
      "Become the giver: walk past the bowl and drop a bonus treat, your approach starts predicting gains.",
      "Trade up, never confiscate, swap the guarded item for something better, then often give it back.",
-     "With growling over many items or any snap, book a qualified force-free trainer early."
+     "With growling over many items or any snap, book a qualified force-free trainer or vet behaviourist early. Keep children away from the dog while it eats or chews."
     ],
     "avoid": [
      "Never take the bowl away to show who is boss, that manufactures serious guarding.",
@@ -2258,7 +2237,7 @@
     ],
     "avoid": [
      "Never take a noise-fearful dog to a fireworks display to get used to it, flooding backfires.",
-     "Do not leave the dog alone on the worst nights if avoidable."
+     "Do not leave the dog alone on the worst nights if avoidable. Walk on a secure harness with ID, scared dogs bolt."
     ],
     "calm": "Around New Year every vet in Slovenia fields these calls. Preparation from November makes December manageable."
    },
@@ -2267,7 +2246,7 @@
     "why": "The environment pays better than you: smells, dogs, freedom. Recall failed because the deal was bad, not because the dog is defiant.",
     "fix": [
      "Rebuild on a long line with top-tier pay: chicken, cheese, sausage.",
-     "Never call for endings only: call, treat, release back to play, repeat 5 to 1 in favour of releases.",
+     "Do not call only to end the fun: call, treat, release back to play. Aim for about 5 releases for every 1 call that ends the fun.",
      "Protect the cue: if you cannot enforce it, do not say it, go collect the dog instead."
     ],
     "avoid": [
@@ -2278,7 +2257,7 @@
    },
    "housetrain": {
     "n": "House training accidents",
-    "why": "A puppy bladder physically holds roughly its age in months in hours. Accidents are biology plus missed timing.",
+    "why": "As a rough rule, a puppy can hold its bladder for about 1 hour per month of age. Accidents are biology plus missed timing.",
     "fix": [
      "Out after every sleep, meal, play burst and roughly every 1 to 2 hours awake.",
      "Reward the act outdoors within 2 seconds, treat at the spot, not back inside at the door.",
@@ -2412,7 +2391,7 @@
      "A scratch board (sandpaper on wood) lets the dog file its own front nails as a trick."
     ],
     "avoid": [
-     "Do not pin the dog down for a full pedicure, you buy 1 session and pay with 50.",
+     "Do not pin the dog down for a full pedicure, 1 forced session can take 50 sessions to repair.",
      "Do not cut into the quick in dark nails, trim tiny slivers."
     ],
     "calm": "Nail fear is one of the most common handling issues. The cooperative-care approach works, thousands of scratch-board dogs prove it."
@@ -2590,7 +2569,7 @@
       "The recall and off-leash training tool"
      ],
      "cons": [
-      "Rope burn risk, gloves help",
+      "Rope burn risk, gloves help. Clip it to a harness, never a collar",
       "Needs open space and some handling skill"
      ],
      "verdict": "Best training investment after treats."
@@ -2629,7 +2608,7 @@
      "Soft beats crunchy, chewing pauses kill training rhythm.",
      "Build a value menu: kibble for easy jobs at home, cheese, chicken or sausage for recall and hard outdoor work.",
      "Take treats out of the daily food ration, training calories count too. Rule of thumb: treats within about 10% of daily intake.",
-     "Toxic and off-limits: chocolate, grapes and raisins, onion, garlic, xylitol sweetener, alcohol, cooked bones."
+     "Toxic and off-limits: chocolate, grapes and raisins, onion, garlic, xylitol sweetener, macadamia nuts, alcohol, caffeine, human medicines, cooked bones. If your dog eats any of these, call your vet at once."
     ]
    },
    "clickerguide": {
@@ -2741,7 +2720,7 @@
      "Wait at doors and before the food bowl",
      "Stay: grow duration to 30 seconds with you stepping away"
     ],
-    "note": "Recall is a life skill. Never call your dog to end something fun, or the cue starts to mean the fun stops."
+    "note": "Impulse control is built in seconds, not minutes. Short reps, high value, walk away winning."
    },
    {
     "n": "Settle on cue",
@@ -2759,7 +2738,7 @@
      "Add distractions gradually: distance from other dogs, then closer",
      "Emergency stop cue as a separate skill"
     ],
-    "note": "Impulse control is built in seconds, not minutes. Short reps, high value, walk away winning."
+    "note": "Recall is a life skill. Never call your dog to end something fun, or the cue starts to mean the fun stops."
    },
    {
     "n": "Handling and care",

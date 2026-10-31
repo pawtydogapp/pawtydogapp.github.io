@@ -11,18 +11,16 @@
    Rules:
    - t(key) returns the key itself when no translation exists, so a partial
      language file never breaks the interface, it just shows English there.
-   - Every catalogue is bundled. No network fetch, training happens offline.
+   - Every catalogue ships inside the app, no network fetch, training works
+     offline. Since 1.8.0 each language is its own chunk, loaded only when it
+     is used: about 1.6 MB less to parse at every start.
    - Language is independent of country. Country drives the marketplace. */
-import de from "./de";
-import es from "./es";
-import fr from "./fr";
-import hr from "./hr";
-import it from "./it";
-import nl from "./nl";
-import pl from "./pl";
-import pt from "./pt";
-import ro from "./ro";
-import sl from "./sl";
+const LOADERS = {
+  de: () => import("./de"), es: () => import("./es"), fr: () => import("./fr"),
+  hr: () => import("./hr"), it: () => import("./it"), nl: () => import("./nl"),
+  pl: () => import("./pl"), pt: () => import("./pt"), ro: () => import("./ro"),
+  sl: () => import("./sl"),
+};
 
 /* English first, the rest alphabetical by their own name */
 export const LANGS = [
@@ -38,7 +36,20 @@ export const LANGS = [
   ["ro", "Română"],
   ["sl", "Slovenščina"],
 ];
-const CATS = { de, es, fr, hr, it, nl, pl, pt, ro, sl };
+const CATS = {};
+const loading = {};
+/* Loads a language catalogue once. Resolves to true when it is available. */
+export function loadLang(code) {
+  if (!code || code === "en" || CATS[code]) return Promise.resolve(true);
+  if (!LOADERS[code]) return Promise.resolve(false);
+  if (!loading[code]) {
+    loading[code] = LOADERS[code]().then(m => { CATS[code] = m.default || m; return true; })
+      .catch(() => { delete loading[code]; return false; });
+  }
+  return loading[code];
+}
+export function isLoaded(code) { return code === "en" || !!CATS[code]; }
+export function loadAllLangs() { return Promise.all(Object.keys(LOADERS).map(loadLang)); }
 export const DEFAULT_LANG = "en";
 
 let cur = DEFAULT_LANG;
@@ -68,8 +79,16 @@ function makeRules(code) {
 
 /* Switch the active language. Fires listeners so the app can re-render and
    re-localise its content arrays. Unsupported codes fall back to English. */
+let wanted = DEFAULT_LANG;
 export function setLang(code) {
   const next = isSupported(code) ? code : DEFAULT_LANG;
+  wanted = next;
+  /* not loaded yet: keep the current language on screen, switch the moment
+     the chunk arrives, never flash English in between */
+  if (!isLoaded(next)) {
+    loadLang(next).then(ok => { if (ok && wanted === next) { setLang(next); localizeContent(next); } });
+    return cur;
+  }
   cur = next;
   const cat = CATS[next] || {};
   ui = cat.ui || {};

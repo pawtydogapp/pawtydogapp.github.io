@@ -154,10 +154,10 @@
  },
  "scavenge": {
   "title": "Pies zjada różne rzeczy na spacerze",
-  "description": "Psy z natury są oportunistycznymi padlinożercami. Komenda „Zostaw” w warunkach ulicznych i kiedy kaganiec koszykowy jest narzędziem bezpieczeństwa.",
+  "description": "Psy z natury są oportunistycznymi padlinożercami. Komenda „Zostaw” w warunkach ulicznych i kiedy kaganiec fizjologiczny jest narzędziem bezpieczeństwa.",
   "card": "Psy z natury są oportunistycznymi padlinożercami.",
   "needs": [
-   "Kaganiec koszykowy",
+   "Kaganiec fizjologiczny",
    "Linka treningowa"
   ]
  },
@@ -201,7 +201,7 @@
   "card": "Pęcherz szczeniaka wytrzymuje mniej więcej tyle godzin, ile szczeniak ma miesięcy.",
   "needs": [
    "Środek enzymatyczny",
-   "Podkłady higieniczne dla szczeniąt"
+   "Saszetka na smakołyki"
   ]
  },
  "marking": {

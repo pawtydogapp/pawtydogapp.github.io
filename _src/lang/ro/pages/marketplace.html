@@ -43,7 +43,7 @@
       shown++;
       var all={}; g.rows.forEach(function(r){(r.countries||[]).forEach(function(c){all[c]=1;});});
       var codes=Object.keys(all).sort();
-      var served = codes.length>8 ? codes.length+' de țări'
+      var served = codes.length>8 ? codes.length+(codes.length%100>19||codes.length%100===0?' de țări':' țări')
                  : codes.map(function(c){return cn(c);}).join(', ');
       out+='<div class="mkcard">'
         + (row.logo_url ? '<img class="mklogo" src="'+esc(row.logo_url)+'" alt="'+esc(row.name)+'" loading="lazy">'

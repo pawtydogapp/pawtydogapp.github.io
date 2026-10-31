@@ -43,7 +43,7 @@
       shown++;
       var all={}; g.rows.forEach(function(r){(r.countries||[]).forEach(function(c){all[c]=1;});});
       var codes=Object.keys(all).sort();
-      var served = codes.length>8 ? codes.length+' zemalja'
+      var served = codes.length>8 ? 'Broj zemalja: '+codes.length
                  : codes.map(function(c){return cn(c);}).join(', ');
       out+='<div class="mkcard">'
         + (row.logo_url ? '<img class="mklogo" src="'+esc(row.logo_url)+'" alt="'+esc(row.name)+'" loading="lazy">'
@@ -57,7 +57,7 @@
         + (row.affiliate_url?'<a class="mkbtn" href="'+esc(row.affiliate_url)+'" target="_blank" rel="sponsored nofollow noopener">Posjeti '+esc(row.name)+' <span>partnerska poveznica</span></a>':'')
         + '</div></div>';
     });
-    list.innerHTML = shown ? out : '<p style="color:#6E7F6E;font-weight:700">Za tu kombinaciju još nema partnera. Pokušaj sa Sve zemlje.</p>';
+    list.innerHTML = shown ? out : '<p style="color:#6E7F6E;font-weight:700">Za tu kombinaciju još nema partnera. Odaberi Sve zemlje.</p>';
   }
 
   fetch(URL,{headers:{apikey:KEY,Authorization:'Bearer '+KEY}})

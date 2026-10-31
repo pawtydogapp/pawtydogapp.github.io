@@ -121,7 +121,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
     var catKeys=Object.keys(cats).sort(), ctryKeys=Object.keys(ctry).sort(function(a,b){return cn(a).localeCompare(cn(b));});
     var h='<div class="mkchips"><span class="mkchip mkon" data-c="ALL">Tout</span>';
     catKeys.forEach(function(k){ h+='<span class="mkchip" data-c="'+esc(k)+'">'+esc(CAT[k]||cap(k))+'</span>'; });
-    h+='</div><label class="mksel">Livre en <select id="mk-country"><option value="ALL">Tous les pays</option>';
+    h+='</div><label class="mksel">Livraison : <select id="mk-country"><option value="ALL">Tous les pays</option>';
     ctryKeys.forEach(function(c){ h+='<option value="'+esc(c)+'">'+esc(cn(c))+'</option>'; });
     h+='</select></label>';
     ctr.innerHTML=h;

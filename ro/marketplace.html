@@ -86,7 +86,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
       shown++;
       var all={}; g.rows.forEach(function(r){(r.countries||[]).forEach(function(c){all[c]=1;});});
       var codes=Object.keys(all).sort();
-      var served = codes.length>8 ? codes.length+' de țări'
+      var served = codes.length>8 ? codes.length+(codes.length%100>19||codes.length%100===0?' de țări':' țări')
                  : codes.map(function(c){return cn(c);}).join(', ');
       out+='<div class="mkcard">'
         + (row.logo_url ? '<img class="mklogo" src="'+esc(row.logo_url)+'" alt="'+esc(row.name)+'" loading="lazy">'
@@ -141,7 +141,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 })();
 </script>
 <script src="/assets/shop.js?v=f4cd9785"></script>
-<footer>Pawty · Ne antrenăm împreună. Creștem împreună.
+<footer>Pawty · Antrenați-vă împreună. Creșteți împreună.
 <div class="social">
 <a href="https://www.instagram.com/pawty.app" rel="noopener me">Instagram</a>
 <a href="https://www.tiktok.com/@pawty.app" rel="noopener me">TikTok</a>

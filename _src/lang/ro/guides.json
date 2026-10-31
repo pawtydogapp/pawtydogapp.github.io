@@ -5,7 +5,7 @@
   "card": "Un tipar motor înnăscut care se recompensează singur.",
   "needs": [
    "Lesă lungă",
-   "Undiță cu nadă"
+   "Baghetă cu momeală"
   ]
  },
  "attention": {
@@ -41,8 +41,8 @@
   "description": "Cad 28 de dinți de lapte și cresc 42 de dinți permanenți, între 3 și 7 luni. Ce obiecte de ros calmează gingiile și care sunt periculoase.",
   "card": "Cad 28 de dinți de lapte și cresc 42 de dinți permanenți, între 3 și 7 luni.",
   "needs": [
-   "Os din lemn de cafea",
-   "Os din lemn de măslin",
+   "Jucărie de ros din lemn de cafea",
+   "Jucărie de ros din lemn de măslin",
    "Jucărie de ros din cauciuc",
    "Obiecte de ros pentru pui"
   ]
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Lătratul de cerere: câinele te latră pentru mâncare sau atenție",
+  "title": "Lătratul de cerere: câinele latră la tine pentru mâncare sau atenție",
   "description": "Câinele latră pentru că a mai funcționat. De ce se înrăutățește înainte să se îmbunătățească.",
   "card": "Câinele latră pentru că a mai funcționat.",
   "needs": []
@@ -188,7 +188,7 @@
  },
  "norecall": {
   "title": "Câinele nu vine când e chemat",
-  "description": "Mediul recompensează mai bine decât tine. Reconstruirea rechemării pe lesă lungă și protejarea comenzii.",
+  "description": "Mediul recompensează mai bine decât tine. Reconstruirea chemării pe lesă lungă și protejarea comenzii.",
   "card": "Mediul recompensează mai bine decât tine.",
   "needs": [
    "Lesă lungă",
@@ -201,7 +201,7 @@
   "card": "Vezica unui pui ține cam atâtea ore câte luni are.",
   "needs": [
    "Soluție enzimatică",
-   "Covorașe absorbante pentru pui"
+   "Borsetă pentru recompense"
   ]
  },
  "marking": {
@@ -259,7 +259,7 @@
   "description": "Rău de mașină sau o mașină care merge doar la veterinar. Reconstruire pas cu pas.",
   "card": "Rău de mașină sau o mașină care merge doar la veterinar.",
   "needs": [
-   "Ham de mașină sau cușcă",
+   "Ham auto sau cușcă",
    "Husă pentru portbagaj"
   ]
  },
@@ -273,8 +273,8 @@
  },
  "nailfear": {
   "title": "Câinele urăște tăiatul unghiilor",
-  "description": "O singură tăietură dureroasă lasă o amintire lungă. Îngrijire cooperativă, o unghie pe zi.",
-  "card": "O singură tăietură dureroasă lasă o amintire lungă.",
+  "description": "O singură tăietură dureroasă în carnea vie lasă o amintire lungă. Îngrijire cooperativă, o unghie pe zi.",
+  "card": "O singură tăietură dureroasă în carnea vie lasă o amintire lungă.",
   "needs": [
    "Clește de unghii",
    "Pilă electrică de unghii",
