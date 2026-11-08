@@ -3,192 +3,224 @@
   "slug": "chasing",
   "id": "chasing",
   "date": "2026-09-02",
-  "critical": true
+  "critical": true,
+  "cat": "walks"
  },
  {
   "slug": "attention-seeking",
   "id": "attention",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "bark"
  },
  {
   "slug": "evening-settling",
   "id": "eveningsettle",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "home"
  },
  {
   "slug": "puppy-biting",
   "id": "biting",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "puppy"
  },
  {
   "slug": "puppy-teething",
   "id": "teething",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "puppy"
  },
  {
   "slug": "adult-chewing",
   "id": "chewadult",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "home"
  },
  {
   "slug": "jumping-up",
   "id": "jumping",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "bark"
  },
  {
   "slug": "pulling-on-lead",
   "id": "pulling",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "walks"
  },
  {
   "slug": "barking-at-doorbell",
   "id": "doorbell",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "bark"
  },
  {
   "slug": "barking-at-other-dogs",
   "id": "barkdogs",
   "date": "2026-09-02",
-  "critical": true
+  "critical": true,
+  "cat": "bark"
  },
  {
   "slug": "demand-barking",
   "id": "demand",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "bark"
  },
  {
   "slug": "puppy-crying-at-night",
   "id": "nightcry",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "puppy"
  },
  {
   "slug": "crate-crying",
   "id": "cratecry",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "puppy"
  },
  {
   "slug": "home-alone",
   "id": "sepanx",
   "date": "2026-09-02",
-  "critical": true
+  "critical": true,
+  "cat": "home"
  },
  {
   "slug": "digging",
   "id": "digging",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "home"
  },
  {
   "slug": "counter-surfing",
   "id": "counter",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "home"
  },
  {
   "slug": "eating-poo",
   "id": "poop",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "home"
  },
  {
   "slug": "eating-things-on-walks",
   "id": "scavenge",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "walks"
  },
  {
   "slug": "resource-guarding",
   "id": "guard",
   "date": "2026-09-02",
-  "critical": true
+  "critical": true,
+  "cat": "home"
  },
  {
   "slug": "lead-reactivity",
   "id": "reactive",
   "date": "2026-09-02",
-  "critical": true
+  "critical": true,
+  "cat": "walks"
  },
  {
   "slug": "fear-of-fireworks",
   "id": "fireworks",
   "date": "2026-09-02",
-  "critical": true
+  "critical": true,
+  "cat": "fear"
  },
  {
   "slug": "recall-problems",
   "id": "norecall",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "walks"
  },
  {
   "slug": "toilet-training",
   "id": "housetrain",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "puppy"
  },
  {
   "slug": "marking-indoors",
   "id": "marking",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "home"
  },
  {
   "slug": "first-heat",
   "id": "heat",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "puppy"
  },
  {
   "slug": "humping",
   "id": "humping",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "home"
  },
  {
   "slug": "zoomies",
   "id": "zoomies",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "home"
  },
  {
   "slug": "begging",
   "id": "begging",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "bark"
  },
  {
   "slug": "stealing-and-running",
   "id": "stealing",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "home"
  },
  {
   "slug": "car-fear",
   "id": "carfear",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "fear"
  },
  {
   "slug": "excited-peeing",
   "id": "greetpee",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "puppy"
  },
  {
   "slug": "nail-trimming",
   "id": "nailfear",
   "date": "2026-09-02",
-  "critical": false
+  "critical": false,
+  "cat": "fear"
  }
 ]

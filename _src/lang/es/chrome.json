@@ -29,7 +29,7 @@
  "guide_help_text": "Pawty es contenido educativo, no consejo veterinario ni de comportamiento.",
  "guide_help_common": "Acude al veterinario ante cualquier cambio repentino de comportamiento o señal de dolor, y a un especialista en comportamiento cualificado en persona si tu perro ha mordido, protege cosas lanzando mordiscos o entra en pánico cuando se queda solo. Lee <a href=\"/approach.html\">nuestro enfoque</a>.",
  "guide_cta_title": "Entrénalo, no te limites a leer sobre ello",
- "guide_cta_text": "Pawty también tiene 99 habilidades de entrenamiento en sesiones de 3 minutos que valoras de 1 a 5 patas, rachas que se congelan en lugar de reiniciarse y un calendario de cuidados. Gratis. Sin suscripción ni muro de pago.",
+ "guide_cta_text": "Pawty tiene 99 habilidades de entrenamiento en sesiones de 5 minutos que puntúas de 1 a 5 patas, planes de entrenamiento y un calendario de cuidados.",
  "title_suffix": " — Pawty",
  "lang_label": "Idioma",
  "shop_title": "Pawty family",
@@ -79,5 +79,16 @@
  "shop_card_pct": "{pct}% de descuento con el código promocional",
  "shop_card_copy": "Copiar código",
  "shop_card_copied": "Copiado",
- "shop_card_visit": "Visitar la tienda"
+ "shop_card_visit": "Visitar la tienda",
+ "nav_label": "Menú principal",
+ "nav_get": "Descarga Pawty",
+ "footer_col_learn": "Aprender",
+ "footer_col_legal": "Legal",
+ "read_guide": "Leer la guía",
+ "gcat_puppy": "Cachorro",
+ "gcat_bark": "Ladridos y atención",
+ "gcat_walks": "Paseos",
+ "gcat_home": "En casa",
+ "gcat_fear": "Miedo y cuidados",
+ "slogan": "Entrenar juntos. Crecer juntos."
 }

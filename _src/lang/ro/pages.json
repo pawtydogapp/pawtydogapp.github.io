@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 de ghiduri despre comportamentul câinelui — Pawty",
-  "description": "Ghiduri gratuite și oneste despre comportamentul câinelui: mușcatul puiului, lătratul, tragerea în lesă, apărarea resurselor, chemarea, învățarea curățeniei și încă 26. Din aplicația Pawty pentru iPhone și Android."
+  "description": "Aceleași ghiduri ca în aplicație. Scopul lor e să te scape de grija legată de ce face câinele tău, apoi să-ți spună ce să faci concret."
  },
  "support.html": {
   "title": "Ajutor — Pawty",
@@ -9,20 +9,20 @@
  },
  "approach.html": {
   "title": "Abordarea noastră — Pawty",
-  "description": "Cum predă Pawty: doar întărire pozitivă, sesiuni de 3 minute, fără vinovăție, și când să mergi în schimb la veterinar sau la un comportamentalist."
+  "description": "Cum predă Pawty: doar întărire pozitivă, sesiuni de 5 minute, fără vinovăție, și când să mergi în schimb la veterinar sau la un comportamentalist."
  },
  "partners.html": {
   "title": "Parteneri și presă — Pawty",
-  "description": "Devino partener Pawty, o aplicație gratuită de dresaj canin pentru iPhone și Android. Ajungi la stăpâni de câini implicați prin plasări în Magazinul aplicației. Include kit de presă."
+  "description": "Pawty îți pune brandul în fața celui mai valoros public din lumea animalelor de companie: stăpâni care își dresează activ câinele și deschid aplicația de mai multe ori pe săptămână."
  },
  "marketplace.html": {
   "title": "Partenerii Magazinului — Pawty",
   "description": "Partenerii Magazinului Pawty: hrană pentru câini, echipament, îngrijire și asigurări de la Fressnapf, Maxi Zoo, tails.com, Bella & Duke și alții, filtrați pe țări."
  },
  "index.html": {
-  "title": "Pawty — Duolingo pentru câini",
-  "description": "Câinele tău nu e stricat și tu nu dai greș. 99 de abilități de dresaj în sesiuni de 3 minute, 32 de ghiduri de comportament oneste, serii care îngheață în loc să se reseteze. Gratuit pe iPhone și Android.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplicație gratuită de dresaj canin pentru iPhone și Android cu 99 de abilități, 32 de ghiduri de comportament, note în lăbuțe, serii și un calendar de îngrijire.\",\"url\":\"https://pawtyapp.com/ro/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"ro\"}"
+  "title": "Pawty — Aplicație de dresaj pentru câini, 5 minute pe zi",
+  "description": "Antrenați-vă împreună. Creșteți împreună. 99 de abilități în sesiuni de 5 minute, 32 de ghiduri de comportament, planuri de antrenament și un calendar de îngrijire, pe iPhone și Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplicație de dresaj pentru câini pe iPhone și Android cu 99 de abilități în sesiuni de 5 minute, 32 de ghiduri de comportament, note în lăbuțe, planuri de antrenament și un calendar de îngrijire.\",\"url\":\"https://pawtyapp.com/ro/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"ro\"}"
  },
  "blog.html": {
   "title": "Blogul Pawty — dresaj practic și viața cu un câine",

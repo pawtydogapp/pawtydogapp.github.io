@@ -61,3 +61,72 @@
   document.addEventListener('click',function(e){ var d=e.target.closest && e.target.closest('details.lang'); closeAll(d); });
   document.addEventListener('keydown',function(e){ if(e.key==='Escape'){ var d=document.querySelector('details.lang[open]'); if(d){ d.removeAttribute('open'); d.querySelector('summary').focus(); } } });
 })();
+
+(function(){
+  // current page in the menu
+  var here = location.pathname.replace(/\/(de|es|fr|hr|it|nl|pl|pt|ro|sl)\//,'/').replace(/index\.html$/,'');
+  document.querySelectorAll('.links a').forEach(function(a){
+    var p = a.getAttribute('href').replace(/\/(de|es|fr|hr|it|nl|pl|pt|ro|sl)\//,'/').replace(/index\.html$/,'');
+    if(p === here || (p === '/' && (here === '' || here === '/'))) a.setAttribute('aria-current','page');
+  });
+
+  // Try it with Nala: pick a skill, show step 1 and the photo
+  var tr = document.getElementById('try');
+  if(tr){
+    var img = tr.querySelector('.shot img'), step = tr.querySelector('.stepbox .v');
+    tr.querySelectorAll('[data-step]').forEach(function(b){
+      b.addEventListener('click', function(){
+        tr.querySelectorAll('[data-step]').forEach(function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+        step.textContent = b.getAttribute('data-step');
+        img.src = b.getAttribute('data-img'); img.alt = b.getAttribute('data-alt');
+      });
+    });
+    var msgs = (tr.getAttribute('data-msgs') || '').split('|'), out = tr.querySelector('.ratemsg');
+    var paws = tr.querySelectorAll('.rate button');
+    paws.forEach(function(b, i){
+      b.addEventListener('click', function(){
+        paws.forEach(function(x, j){ x.classList.toggle('on', j <= i); x.setAttribute('aria-pressed', j === i ? 'true' : 'false'); });
+        out.textContent = msgs[i] || '';
+      });
+    });
+  }
+
+  // filter chips on guides and blog
+  document.querySelectorAll('[data-filter]').forEach(function(bar){
+    var target = document.getElementById(bar.getAttribute('data-filter'));
+    var count = document.getElementById(bar.getAttribute('data-filter') + '-count');
+    var tpl = count ? count.getAttribute('data-tpl') : '';
+    bar.addEventListener('click', function(e){
+      var b = e.target.closest('button'); if(!b) return;
+      var c = b.getAttribute('data-c'), n = 0;
+      bar.querySelectorAll('button').forEach(function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      Array.prototype.forEach.call(target.children, function(el){
+        var on = c === 'all' || el.getAttribute('data-c') === c;
+        el.hidden = !on; if(on) n++;
+      });
+      if(count) count.textContent = tpl.replace('{n}', n);
+    });
+  });
+
+  // marketplace: show the first 9 offers, then a button for the rest
+  var mk = document.getElementById('mk-list');
+  if(mk && 'MutationObserver' in window){
+    var label = mk.getAttribute('data-more') || 'Show all {n}';
+    var all = false, busy = false;
+    var trim = function(){
+      if(busy) return; busy = true;
+      var cards = mk.querySelectorAll('.mkcard'), old = document.getElementById('mk-more');
+      if(old) old.remove();
+      cards.forEach(function(c, i){ c.hidden = !all && i >= 9; });
+      if(!all && cards.length > 9){
+        var w = document.createElement('div'); w.className = 'mkmore'; w.id = 'mk-more';
+        var b = document.createElement('button'); b.type = 'button'; b.className = 'chip';
+        b.textContent = label.replace('{n}', cards.length);
+        b.addEventListener('click', function(){ all = true; trim(); });
+        w.appendChild(b); mk.parentNode.insertBefore(w, mk.nextSibling);
+      }
+      busy = false;
+    };
+    new MutationObserver(function(){ all = false; trim(); }).observe(mk, {childList:true});
+  }
+})();

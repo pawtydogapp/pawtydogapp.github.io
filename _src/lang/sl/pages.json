@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 vodnikov o vedenju psov — Pawty",
-  "description": "Brezplačni in iskreni vodniki o vedenju psov: grizenje pri mladičkih, lajanje, vlečenje na povodcu, varovanje virov, odpoklic, navajanje na čistočo in še 26 drugih. Iz aplikacije Pawty za iPhone in Android."
+  "description": "Isti vodniki kot v aplikaciji. Namenjeni so temu, da ti zmanjšajo skrb glede tega, kar počne tvoj pes, nato pa ti povedo, kaj dejansko narediti."
  },
  "support.html": {
   "title": "Pomoč — Pawty",
@@ -9,20 +9,20 @@
  },
  "approach.html": {
   "title": "Naš pristop — Pawty",
-  "description": "Kako uči Pawty: samo pozitivna okrepitev, 3-minutne vaje, brez občutka krivde, in kdaj raje pojdi k veterinarju ali vedenjskemu strokovnjaku."
+  "description": "Kako uči Pawty: samo pozitivna okrepitev, 5-minutne vaje, brez občutka krivde, in kdaj raje pojdi k veterinarju ali vedenjskemu strokovnjaku."
  },
  "partners.html": {
   "title": "Partnerji in mediji — Pawty",
-  "description": "Postanite partner Pawty, brezplačne aplikacije za šolanje psov za iPhone in Android. Dosezite zavzete lastnike psov z mesti na Tržnici v aplikaciji. Vključen je paket za medije."
+  "description": "Pawty postavi vašo znamko pred najdragocenejše občinstvo med lastniki hišnih ljubljenčkov: lastnike, ki aktivno šolajo svojega psa in aplikacijo odprejo večkrat na teden."
  },
  "marketplace.html": {
   "title": "Partnerji Tržnice — Pawty",
   "description": "Partnerji Pawty Tržnice: hrana za pse, oprema, nega in zavarovanje od Fressnapfa, Maxi Zooja, tails.com, Bella & Duke in drugih, filtrirano po državi."
  },
  "index.html": {
-  "title": "Pawty — Duolingo za pse",
-  "description": "Tvoj pes ni pokvarjen in ti ne delaš nič narobe. 99 veščin šolanja v 3-minutnih vajah, 32 iskrenih vodnikov o vedenju, nizi, ki zamrznejo, namesto da se ponastavijo. Brezplačno za iPhone in Android.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Brezplačna aplikacija za šolanje psov za iPhone in Android s 99 veščinami, 32 vodniki o vedenju, ocenami s tačkami, nizi in koledarjem nege.\",\"url\":\"https://pawtyapp.com/sl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"sl\"}"
+  "title": "Pawty — Aplikacija za šolanje psa, 5 minut na dan",
+  "description": "Skupaj treniramo. Skupaj rastemo. 99 veščin v 5-minutnih vajah, 32 vodnikov o vedenju, načrti treninga in koledar nege, za iPhone in Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplikacija za šolanje psov za iPhone in Android z 99 veščinami v 5-minutnih vajah, 32 vodniki o vedenju, ocenami s tačkami, načrti treninga in koledarjem nege.\",\"url\":\"https://pawtyapp.com/sl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"sl\"}"
  },
  "blog.html": {
   "title": "Pawty blog — praktično šolanje psov in življenje s psom",

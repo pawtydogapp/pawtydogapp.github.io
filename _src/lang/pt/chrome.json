@@ -29,7 +29,7 @@
  "guide_help_text": "A Pawty é conteúdo educativo, não aconselhamento veterinário nem comportamental.",
  "guide_help_common": "Vai ao veterinário perante qualquer mudança súbita de comportamento ou sinal de dor, e a um comportamentalista qualificado presencialmente se o teu cão mordeu, defende coisas com dentadas no ar ou entra em pânico quando fica sozinho. Lê <a href=\"/approach.html\">a nossa abordagem</a>.",
  "guide_cta_title": "Treina, não te limites a ler",
- "guide_cta_text": "A Pawty tem também 99 competências em sessões de 3 minutos que avalias de 1 a 5 patas, sequências que congelam em vez de reiniciar e um calendário de cuidados. Grátis. Sem subscrição nem paywall.",
+ "guide_cta_text": "O Pawty tem 99 competências em sessões de 5 minutos que avalias de 1 a 5 patas, planos de treino e um calendário de cuidados.",
  "title_suffix": " — Pawty",
  "lang_label": "Idioma",
  "shop_title": "Pawty family",
@@ -79,5 +79,16 @@
  "shop_card_pct": "{pct}% de desconto com o código promocional",
  "shop_card_copy": "Copiar código",
  "shop_card_copied": "Copiado",
- "shop_card_visit": "Ir para a loja"
+ "shop_card_visit": "Ir para a loja",
+ "nav_label": "Menu principal",
+ "nav_get": "Obter o Pawty",
+ "footer_col_learn": "Aprender",
+ "footer_col_legal": "Legal",
+ "read_guide": "Ler o guia",
+ "gcat_puppy": "Cachorro",
+ "gcat_bark": "Latidos e atenção",
+ "gcat_walks": "Passeios",
+ "gcat_home": "Em casa",
+ "gcat_fear": "Medo e cuidados",
+ "slogan": "Treinar juntos. Crescer juntos."
 }

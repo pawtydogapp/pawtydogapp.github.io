@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 vodiča o ponašanju pasa — Pawty",
-  "description": "Besplatni i iskreni vodiči o ponašanju pasa: grizenje kod štenaca, lajanje, vučenje na povodcu, čuvanje resursa, dozivanje, navikavanje na čistoću i još 26. Iz aplikacije Pawty za iPhone i Android."
+  "description": "Isti vodiči kao u aplikaciji. Tu su da ti skinu brigu oko onoga što tvoj pas radi, a zatim ti kažu što stvarno napraviti."
  },
  "support.html": {
   "title": "Pomoć — Pawty",
@@ -9,20 +9,20 @@
  },
  "approach.html": {
   "title": "Naš pristup — Pawty",
-  "description": "Kako Pawty uči: samo pozitivno potkrepljenje, vježbe od 3 minute, bez osjećaja krivnje i kada umjesto toga otići veterinaru ili bihevioristu."
+  "description": "Kako Pawty uči: samo pozitivno potkrepljenje, vježbe od 5 minute, bez osjećaja krivnje i kada umjesto toga otići veterinaru ili bihevioristu."
  },
  "partners.html": {
   "title": "Partneri i mediji — Pawty",
-  "description": "Postani partner Pawtyja, besplatne aplikacije za dresuru pasa za iPhone i Android. Dođi do predanih vlasnika pasa kroz mjesta na Tržnici u aplikaciji. Uključen je paket za medije."
+  "description": "Pawty stavlja tvoj brend pred najvrjedniju publiku među vlasnicima ljubimaca: vlasnike koji aktivno treniraju svog psa i otvaraju aplikaciju nekoliko puta tjedno."
  },
  "marketplace.html": {
   "title": "Partneri Tržnice — Pawty",
   "description": "Partneri Pawty Tržnice: hrana za pse, oprema, njega i osiguranje od Fressnapfa, Maxi Zooa, tails.com, Bella & Duke i drugih, filtrirano po zemlji."
  },
  "index.html": {
-  "title": "Pawty — Duolingo za pse",
-  "description": "Tvoj pas nije pokvaren i ti ne podbacuješ. 99 vještina dresure u vježbama od 3 minute, 32 iskrena vodiča o ponašanju, nizovi koji se zamrznu umjesto da se ponište. Besplatno za iPhone i Android.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Besplatna aplikacija za dresuru pasa za iPhone i Android s 99 vještina, 32 vodiča o ponašanju, ocjenama šapama, nizovima i kalendarom njege.\",\"url\":\"https://pawtyapp.com/hr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"hr\"}"
+  "title": "Pawty — Aplikacija za školovanje pasa, 5 minuta dnevno",
+  "description": "Trenirajmo zajedno. Rastimo zajedno. 99 vještina u vježbama od 5 minuta, 32 vodiča o ponašanju, planovi treninga i kalendar njege, na iPhoneu i Androidu.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplikacija za školovanje pasa za iPhone i Android s 99 vještina u vježbama od 5 minuta, 32 vodiča o ponašanju, ocjenama šapama, planovima treninga i kalendarom njege.\",\"url\":\"https://pawtyapp.com/hr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"hr\"}"
  },
  "blog.html": {
   "title": "Pawty blog — praktična dresura i život sa psom",

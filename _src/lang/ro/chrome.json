@@ -29,7 +29,7 @@
  "guide_help_text": "Pawty este conținut educațional, nu sfat veterinar sau comportamental.",
  "guide_help_common": "Mergi la veterinar la orice schimbare bruscă de comportament sau semn de durere și mergi în persoană la un comportamentalist calificat dacă câinele tău a mușcat, își apără lucrurile cu mușcături în gol sau intră în panică atunci când rămâne singur. Citește <a href=\"/approach.html\">abordarea noastră</a>.",
  "guide_cta_title": "Pune-l în practică, nu doar citi despre el",
- "guide_cta_text": "Pawty are și 99 de abilități în sesiuni de 3 minute pe care le notezi cu 1 până la 5 lăbuțe, serii care îngheață în loc să se reseteze și un calendar de îngrijire. Gratuit. Fără abonament, fără paywall.",
+ "guide_cta_text": "Pawty are 99 abilități în sesiuni de 5 minute pe care le notezi cu 1 până la 5 lăbuțe, planuri de antrenament și un calendar de îngrijire.",
  "title_suffix": " — Pawty",
  "lang_label": "Limbă",
  "shop_title": "Pawty family",
@@ -79,5 +79,16 @@
  "shop_card_pct": "Reducere de {pct}% cu codul promoțional",
  "shop_card_copy": "Copiază codul",
  "shop_card_copied": "Copiat",
- "shop_card_visit": "Vezi magazinul"
+ "shop_card_visit": "Vezi magazinul",
+ "nav_label": "Meniu principal",
+ "nav_get": "Descarcă Pawty",
+ "footer_col_learn": "Învață",
+ "footer_col_legal": "Legal",
+ "read_guide": "Citește ghidul",
+ "gcat_puppy": "Pui",
+ "gcat_bark": "Lătrat și atenție",
+ "gcat_walks": "Plimbări",
+ "gcat_home": "Acasă",
+ "gcat_fear": "Frică și îngrijire",
+ "slogan": "Antrenați-vă împreună. Creșteți împreună."
 }

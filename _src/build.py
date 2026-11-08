@@ -124,7 +124,7 @@ def build_lang(lang):
     css = f'<style>{CSS}</style>' if CSS_MODE == 'inline' else f'<link rel="stylesheet" href="/assets/site.css?v={h8(CSS)}">'
     jsx = f'<script>{JS}</script>' if CSS_MODE == 'inline' else f'<script src="/assets/site.js?v={h8(JS)}"></script>'
     written = []
-    cards = ''.join(render(T['guide-card'], {'slug': g['slug'], 'n': esc(behav[g['id']]['n']), 'card': gtext[g['id']]['card']}, 'card') for g in gshared)
+    cards = ''.join(render(T['guide-card'], {'slug': g['slug'], 'n': esc(behav[g['id']]['n']), 'card': gtext[g['id']]['card'], 'cat': g['cat'], 'cat_label': chrome['gcat_' + g['cat']], 'read_guide': chrome['read_guide']}, 'card') for g in gshared)
     gby = {'guides/' + g['slug'] + '.html': g for g in gshared}
     for pg in PAGES:
         path = pg['path']; u = url(lang, path)

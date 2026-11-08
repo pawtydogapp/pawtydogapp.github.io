@@ -29,7 +29,7 @@
  "guide_help_text": "Pawty est un contenu pédagogique, pas un avis vétérinaire ou comportemental.",
  "guide_help_common": "Consulte un vétérinaire pour tout changement soudain de comportement ou signe de douleur, et un comportementaliste qualifié en personne si ton chien a mordu, protège ses ressources en pinçant ou panique quand il reste seul. Lis <a href=\"/approach.html\">notre approche</a>.",
  "guide_cta_title": "Passe à la pratique, ne te contente pas de lire",
- "guide_cta_text": "Pawty propose aussi 99 compétences en séances de 3 minutes que tu notes de 1 à 5 pattes, des séries qui se figent au lieu de repartir à zéro, et un calendrier des soins. Gratuit. Sans abonnement, sans paywall.",
+ "guide_cta_text": "Pawty propose 99 compétences en séances de 5 minutes que tu notes de 1 à 5 pattes, des plans d'entraînement et un calendrier des soins.",
  "title_suffix": " — Pawty",
  "lang_label": "Langue",
  "shop_title": "Pawty family",
@@ -79,5 +79,16 @@
  "shop_card_pct": "{pct}% de réduction avec le code promo",
  "shop_card_copy": "Copier le code",
  "shop_card_copied": "Copié",
- "shop_card_visit": "Voir la boutique"
+ "shop_card_visit": "Voir la boutique",
+ "nav_label": "Menu principal",
+ "nav_get": "Obtenir Pawty",
+ "footer_col_learn": "Apprendre",
+ "footer_col_legal": "Mentions légales",
+ "read_guide": "Lire le guide",
+ "gcat_puppy": "Chiot",
+ "gcat_bark": "Aboiements et attention",
+ "gcat_walks": "Promenades",
+ "gcat_home": "À la maison",
+ "gcat_fear": "Peur et soins",
+ "slogan": "S'entraîner ensemble. Grandir ensemble."
 }

@@ -1,12 +1,12 @@
 # Pawty
 
-> Pawty is a free, gamified dog training app for iPhone and Android, described as "Duolingo for dogs". It has 99 training skills in 3-minute sessions, 32 behaviour guides, streaks that freeze instead of reset, and a care calendar. No subscription, no paywall, no trial. It is made in Slovenia and available in 11 languages.
+> Pawty is a gamified dog training app for iPhone and Android. Its line is "Train together. Grow together." It has 99 training skills in 5-minute sessions, 32 behaviour guides, training plans and a care calendar. There is no subscription and no paywall. It is made in Slovenia and available in 11 languages.
 
 Key facts:
 
 - Platforms: iPhone (App Store id 6805087382) and Android (Google Play package com.pawty).
 - Languages: English, German, Spanish, French, Croatian, Italian, Dutch, Polish, Portuguese, Romanian and Slovenian. The website has the same pages in each language under /de/, /es/, /fr/, /hr/, /it/, /nl/, /pl/, /pt/, /ro/ and /sl/.
-- Training: 99 skills from sit and recall to tricks and agility, each with steps, common mistakes and a goal. Sessions last 3 minutes and are rated 1 to 5 paws. 3 perfect sessions in a row mark a skill as mastered. A 12-week puppy plan has review weeks built in.
+- Training: 99 skills from sit and recall to tricks and agility, each with steps, common mistakes and a goal. Sessions last 5 minutes and are rated 1 to 5 paws. 3 perfect sessions in a row mark a skill as mastered. A 12-week puppy plan has review weeks built in.
 - Motivation: daily streaks that freeze instead of reset after a missed day, 36 badges, experience points and a worldwide leaderboard.
 - Behaviour: 32 guides on problems such as puppy biting, barking, pulling on the lead, resource guarding and recall, each with why it happens, what works and what makes it worse.
 - Care: care calendar for vaccinations, grooming and dog school, food diary, equipment checklist.
@@ -17,12 +17,12 @@ Key facts:
 
 ## Main pages
 
-- [Pawty — Duolingo for dogs](https://pawtyapp.com/): Your dog is not broken and you are not failing. 99 dog training skills in 3-minute sessions, 32 honest behaviour guides, streaks that freeze instead of reset. Free on iPhone and Android.
+- [Pawty — Dog training app, 5 minutes a day](https://pawtyapp.com/): Train together. Grow together. 99 dog training skills in 5-minute sessions, 32 behaviour guides, training plans and a care calendar, on iPhone and Android.
 - [Pawty blog — practical dog training and dog ownership](https://pawtyapp.com/blog.html): Practical dog articles from Pawty: what a puppy costs, the shopping list, vaccination timing, sleep, clicker training, grooming and rescue dogs.
-- [32 dog behaviour guides](https://pawtyapp.com/guides.html): Free, honest dog behaviour guides on puppy biting, barking, pulling on the lead, resource guarding, recall, toilet training and 26 more. From the Pawty app for iPhone and Android.
+- [32 dog behaviour guides](https://pawtyapp.com/guides.html): The same guides that are in the app. They exist to take the worry out of what your dog is doing, then tell you what to actually do about it.
 - [Marketplace partners](https://pawtyapp.com/marketplace.html): Pawty Marketplace partners: dog food, gear, grooming and insurance from Fressnapf, Maxi Zoo, tails.com, Bella & Duke and more, filtered by country.
-- [Our approach](https://pawtyapp.com/approach.html): How Pawty teaches: positive reinforcement only, 3-minute sessions, no guilt, and when to see a vet or behaviourist instead.
-- [Partners & Press](https://pawtyapp.com/partners.html): Partner with Pawty, a free dog training app for iPhone and Android. Reach engaged dog owners through in-app Marketplace placements. Press kit included.
+- [Our approach](https://pawtyapp.com/approach.html): How Pawty teaches: positive reinforcement only, 5-minute sessions, no guilt, and when to see a vet or behaviourist instead.
+- [Partners & Press](https://pawtyapp.com/partners.html): Pawty puts your brand in front of the most valuable pet audience there is: owners actively training their dog, opening the app several times a week.
 - [Support](https://pawtyapp.com/support.html): Help with the Pawty dog training app for iPhone and Android: account deletion, sign-in problems, streaks, leaderboard and contact.
 
 ## Behaviour guides

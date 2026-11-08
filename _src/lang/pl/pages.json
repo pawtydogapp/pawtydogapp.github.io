@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 poradniki o zachowaniu psa — Pawty",
-  "description": "Darmowe, szczere poradniki o zachowaniu psa: gryzienie u szczeniąt, szczekanie, ciągnięcie na smyczy, obrona zasobów, przywołanie, nauka czystości i 26 innych. Z aplikacji Pawty na iPhone’a i Androida."
+  "description": "Te same poradniki, co w aplikacji. Mają zdjąć z ciebie niepokój o to, co robi twój pies, a potem powiedzieć, co naprawdę z tym zrobić."
  },
  "support.html": {
   "title": "Pomoc — Pawty",
@@ -9,20 +9,20 @@
  },
  "approach.html": {
   "title": "Nasze podejście — Pawty",
-  "description": "Jak uczy Pawty: tylko wzmocnienie pozytywne, 3-minutowe sesje, bez poczucia winy, i kiedy zamiast tego iść do weterynarza lub behawiorysty."
+  "description": "Jak uczy Pawty: tylko wzmocnienie pozytywne, 5-minutowe sesje, bez poczucia winy, i kiedy zamiast tego iść do weterynarza lub behawiorysty."
  },
  "partners.html": {
   "title": "Partnerzy i prasa — Pawty",
-  "description": "Zostań partnerem Pawty, darmowej aplikacji do szkolenia psów na iPhone’a i Androida. Dotrzyj do zaangażowanych opiekunów psów dzięki miejscom w zakładce Oferty w aplikacji. Zawiera zestaw prasowy."
+  "description": "Pawty pokazuje twoją markę najcenniejszej grupie opiekunów zwierząt: osobom, które aktywnie szkolą psa i otwierają aplikację kilka razy w tygodniu."
  },
  "marketplace.html": {
   "title": "Partnerzy w Ofertach — Pawty",
   "description": "Partnerzy w Ofertach Pawty: karma dla psów, akcesoria, pielęgnacja i ubezpieczenia od Fressnapf, Maxi Zoo, tails.com, Bella & Duke i innych, filtrowane według kraju."
  },
  "index.html": {
-  "title": "Pawty — Duolingo dla psów",
-  "description": "Twój pies nie jest zepsuty, a ty nie zawodzisz. 99 umiejętności treningowych w 3-minutowych sesjach, 32 szczere poradniki o zachowaniu, serie, które zamrażają się, zamiast się zerować. Za darmo na iPhone’a i Androida.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Darmowa aplikacja do szkolenia psów na iPhone i Androida z 99 umiejętnościami, 32 poradnikami o zachowaniu, ocenami w łapach, seriami i kalendarzem opieki.\",\"url\":\"https://pawtyapp.com/pl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pl\"}"
+  "title": "Pawty — Aplikacja do szkolenia psa, 5 minut dziennie",
+  "description": "Trenujemy razem. Rośniemy razem. 99 umiejętności w 5-minutowych sesjach, 32 poradniki o zachowaniu, plany treningowe i kalendarz opieki, na iPhone'a i Androida.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplikacja do szkolenia psa na iPhone'a i Androida z 99 umiejętnościami w 5-minutowych sesjach, 32 poradnikami o zachowaniu, ocenami w łapach, planami treningowymi i kalendarzem opieki.\",\"url\":\"https://pawtyapp.com/pl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pl\"}"
  },
  "blog.html": {
   "title": "Blog Pawty — praktyczne szkolenie psa i życie z psem",

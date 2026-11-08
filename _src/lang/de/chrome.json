@@ -29,7 +29,7 @@
  "guide_help_text": "Die Inhalte von Pawty dienen der Information und ersetzen keine tierärztliche oder verhaltenstherapeutische Beratung.",
  "guide_help_common": "Bei jeder plötzlichen Verhaltensänderung oder bei Anzeichen von Schmerz geh zur Tierarztpraxis. Wenn dein Hund gebissen hat, mit Schnappen verteidigt oder in Panik gerät, wenn er allein ist, geh zu einer qualifizierten Verhaltensberatung vor Ort. Lies <a href=\"/approach.html\">unseren Ansatz</a>.",
  "guide_cta_title": "Trainiere es, statt nur darüber zu lesen",
- "guide_cta_text": "Pawty hat außerdem 99 Trainings-Skills in 3-Minuten-Einheiten, die du mit 1 bis 5 Pfoten bewertest, Streaks, die eingefroren statt zurückgesetzt werden, und einen Pflegekalender. Kostenlos. Kein Abo, keine Paywall.",
+ "guide_cta_text": "Pawty hat 99 Trainings-Skills in 5-Minuten-Einheiten, die du mit 1 bis 5 Pfoten bewertest, dazu Trainingspläne und einen Pflegekalender.",
  "title_suffix": " — Pawty",
  "lang_label": "Sprache",
  "shop_title": "Pawty family",
@@ -79,5 +79,16 @@
  "shop_card_pct": "{pct}% Rabatt mit Promo-Code",
  "shop_card_copy": "Code kopieren",
  "shop_card_copied": "Kopiert",
- "shop_card_visit": "Zum Shop"
+ "shop_card_visit": "Zum Shop",
+ "nav_label": "Hauptmenü",
+ "nav_get": "Pawty holen",
+ "footer_col_learn": "Lernen",
+ "footer_col_legal": "Rechtliches",
+ "read_guide": "Ratgeber lesen",
+ "gcat_puppy": "Welpe",
+ "gcat_bark": "Bellen und Aufmerksamkeit",
+ "gcat_walks": "Spaziergänge",
+ "gcat_home": "Zu Hause",
+ "gcat_fear": "Angst und Pflege",
+ "slogan": "Gemeinsam trainieren. Gemeinsam wachsen."
 }

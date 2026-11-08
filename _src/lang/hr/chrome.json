@@ -29,7 +29,7 @@
  "guide_help_text": "Pawty je edukativni sadržaj, a ne veterinarski savjet ili savjet o ponašanju.",
  "guide_help_common": "Obrati se veterinaru kod svake nagle promjene ponašanja ili znakova boli, a kvalificiranom bihevioristu uživo ako je tvoj pas ugrizao, čuva stvari uz škljocanje zubima ili paničari kad ostane sam. Pročitaj <a href=\"/approach.html\">naš pristup</a>.",
  "guide_cta_title": "Treniraj, nemoj samo čitati o tome",
- "guide_cta_text": "Pawty ima i 99 vještina u vježbama od 3 minute koje ocjenjuješ s 1 do 5 šapa, nizove koji se zamrznu umjesto da se ponište i kalendar njege. Besplatno. Bez pretplate i bez plaćenih sadržaja.",
+ "guide_cta_text": "Pawty ima 99 vještina u vježbama od 5 minuta koje ocjenjuješ s 1 do 5 šapa, planove treninga i kalendar njege.",
  "title_suffix": " — Pawty",
  "lang_label": "Jezik",
  "shop_title": "Pawty family",
@@ -79,5 +79,16 @@
  "shop_card_pct": "{pct}% popusta uz promo kod",
  "shop_card_copy": "Kopiraj kod",
  "shop_card_copied": "Kopirano",
- "shop_card_visit": "Posjeti trgovinu"
+ "shop_card_visit": "Posjeti trgovinu",
+ "nav_label": "Glavni izbornik",
+ "nav_get": "Preuzmi Pawty",
+ "footer_col_learn": "Učenje",
+ "footer_col_legal": "Pravno",
+ "read_guide": "Pročitaj vodič",
+ "gcat_puppy": "Štene",
+ "gcat_bark": "Lajanje i pažnja",
+ "gcat_walks": "Šetnje",
+ "gcat_home": "Kod kuće",
+ "gcat_fear": "Strah i njega",
+ "slogan": "Trenirajmo zajedno. Rastimo zajedno."
 }

@@ -29,7 +29,7 @@
  "guide_help_text": "Pawty è un contenuto educativo, non un consiglio veterinario o comportamentale.",
  "guide_help_common": "Rivolgiti al veterinario per qualsiasi cambiamento improvviso di comportamento o segno di dolore, e a un comportamentalista qualificato di persona se il tuo cane ha morso, difende le risorse accennando morsi o va nel panico quando resta solo. Leggi <a href=\"/approach.html\">il nostro approccio</a>.",
  "guide_cta_title": "Allenalo, non limitarti a leggere",
- "guide_cta_text": "Pawty ha anche 99 abilità in sessioni da 3 minuti che valuti da 1 a 5 zampe, serie che si congelano invece di azzerarsi e un calendario delle cure. Gratis. Nessun abbonamento, nessun paywall.",
+ "guide_cta_text": "Pawty ha 99 abilità in sessioni da 5 minuti che valuti da 1 a 5 zampe, piani di addestramento e un calendario delle cure.",
  "title_suffix": " — Pawty",
  "lang_label": "Lingua",
  "shop_title": "Pawty family",
@@ -79,5 +79,16 @@
  "shop_card_pct": "{pct}% di sconto con il codice promozionale",
  "shop_card_copy": "Copia il codice",
  "shop_card_copied": "Copiato",
- "shop_card_visit": "Vai al negozio"
+ "shop_card_visit": "Vai al negozio",
+ "nav_label": "Menu principale",
+ "nav_get": "Scarica Pawty",
+ "footer_col_learn": "Impara",
+ "footer_col_legal": "Note legali",
+ "read_guide": "Leggi la guida",
+ "gcat_puppy": "Cucciolo",
+ "gcat_bark": "Abbaio e attenzione",
+ "gcat_walks": "Passeggiate",
+ "gcat_home": "In casa",
+ "gcat_fear": "Paura e cura",
+ "slogan": "Allenarsi insieme. Crescere insieme."
 }

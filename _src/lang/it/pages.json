@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 guide sul comportamento del cane — Pawty",
-  "description": "Guide gratuite e oneste sul comportamento del cane: morsi del cucciolo, abbaio, tirare al guinzaglio, protezione delle risorse, richiamo, educazione ai bisogni e altre 26. Dall'app Pawty per iPhone e Android."
+  "description": "Le stesse guide che trovi nell'app. Servono a toglierti la preoccupazione per quello che fa il tuo cane, e poi a dirti cosa fare davvero."
  },
  "support.html": {
   "title": "Assistenza — Pawty",
@@ -9,20 +9,20 @@
  },
  "approach.html": {
   "title": "Il nostro approccio — Pawty",
-  "description": "Come insegna Pawty: solo rinforzo positivo, sessioni da 3 minuti, niente sensi di colpa, e quando rivolgersi invece a un veterinario o a un comportamentalista."
+  "description": "Come insegna Pawty: solo rinforzo positivo, sessioni da 5 minuti, niente sensi di colpa, e quando rivolgersi invece a un veterinario o a un comportamentalista."
  },
  "partners.html": {
   "title": "Partner e stampa — Pawty",
-  "description": "Diventa partner di Pawty, app gratuita di addestramento per cani per iPhone e Android. Raggiungi proprietari di cani coinvolti con spazi nel Marketplace dell'app. Kit stampa incluso."
+  "description": "Pawty mette il tuo marchio davanti al pubblico più prezioso del mondo pet: proprietari che addestrano attivamente il proprio cane e aprono l'app più volte a settimana."
  },
  "marketplace.html": {
   "title": "Partner del Marketplace — Pawty",
   "description": "Partner del Marketplace di Pawty: cibo per cani, accessori, toelettatura e assicurazioni da Fressnapf, Maxi Zoo, tails.com, Bella & Duke e altri, filtrati per paese."
  },
  "index.html": {
-  "title": "Pawty — Il Duolingo per cani",
-  "description": "Il tuo cane non è sbagliato e tu non stai fallendo. 99 abilità di addestramento in sessioni da 3 minuti, 32 guide oneste sul comportamento, serie che si congelano invece di azzerarsi. Gratis su iPhone e Android.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita di addestramento cani per iPhone e Android con 99 abilità, 32 guide sul comportamento, valutazioni a zampe, serie e un calendario delle cure.\",\"url\":\"https://pawtyapp.com/it/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"it\"}"
+  "title": "Pawty — App di addestramento cani, 5 minuti al giorno",
+  "description": "Allenarsi insieme. Crescere insieme. 99 abilità in sessioni da 5 minuti, 32 guide sul comportamento, piani di addestramento e un calendario delle cure, su iPhone e Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App di addestramento cani per iPhone e Android con 99 abilità in sessioni da 5 minuti, 32 guide sul comportamento, valutazioni in zampe, piani di addestramento e un calendario delle cure.\",\"url\":\"https://pawtyapp.com/it/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"it\"}"
  },
  "blog.html": {
   "title": "Blog Pawty — educazione pratica del cane e vita quotidiana con lui",

@@ -5,7 +5,7 @@
  },
  "approach.html": {
   "title": "Our approach — Pawty",
-  "description": "How Pawty teaches: positive reinforcement only, 3-minute sessions, no guilt, and when to see a vet or behaviourist instead."
+  "description": "How Pawty teaches: positive reinforcement only, 5-minute sessions, no guilt, and when to see a vet or behaviourist instead."
  },
  "blog.html": {
   "title": "Pawty blog — practical dog training and dog ownership",
@@ -13,12 +13,12 @@
  },
  "guides.html": {
   "title": "32 dog behaviour guides — Pawty",
-  "description": "Free, honest dog behaviour guides on puppy biting, barking, pulling on the lead, resource guarding, recall, toilet training and 26 more. From the Pawty app for iPhone and Android."
+  "description": "The same guides that are in the app. They exist to take the worry out of what your dog is doing, then tell you what to actually do about it."
  },
  "index.html": {
-  "title": "Pawty — Duolingo for dogs",
-  "description": "Your dog is not broken and you are not failing. 99 dog training skills in 3-minute sessions, 32 honest behaviour guides, streaks that freeze instead of reset. Free on iPhone and Android.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Free dog training app for iPhone and Android with 99 skills, 32 behaviour guides, paw ratings, streaks and a care calendar.\",\"url\":\"https://pawtyapp.com/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"}}"
+  "title": "Pawty — Dog training app, 5 minutes a day",
+  "description": "Train together. Grow together. 99 dog training skills in 5-minute sessions, 32 behaviour guides, training plans and a care calendar, on iPhone and Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Dog training app for iPhone and Android with 99 skills in 5-minute sessions, 32 behaviour guides, paw ratings, training plans and a care calendar.\",\"url\":\"https://pawtyapp.com/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"}}"
  },
  "legal/privacy.html": {
   "title": "Privacy Policy — Pawty",
@@ -34,7 +34,7 @@
  },
  "partners.html": {
   "title": "Partners & Press — Pawty",
-  "description": "Partner with Pawty, a free dog training app for iPhone and Android. Reach engaged dog owners through in-app Marketplace placements. Press kit included."
+  "description": "Pawty puts your brand in front of the most valuable pet audience there is: owners actively training their dog, opening the app several times a week."
  },
  "post-5minutes.html": {
   "title": "Why 5 minutes a day beats weekend marathons — Pawty blog",

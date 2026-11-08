@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 gidsen over hondengedrag — Pawty",
-  "description": "Gratis, eerlijke gidsen over hondengedrag: bijten bij pups, blaffen, trekken aan de riem, resource guarding, terugroepen, zindelijkheid en 26 meer. Uit de Pawty-app voor iPhone en Android."
+  "description": "Dezelfde gidsen als in de app. Ze zijn er om je de zorgen over wat je hond doet af te nemen, en je daarna te vertellen wat je er echt aan kunt doen."
  },
  "support.html": {
   "title": "Hulp — Pawty",
@@ -9,20 +9,20 @@
  },
  "approach.html": {
   "title": "Onze aanpak — Pawty",
-  "description": "Hoe Pawty traint: alleen positieve bekrachtiging, sessies van 3 minuten, geen schuldgevoel, en wanneer je beter naar een dierenarts of gedragsdeskundige gaat."
+  "description": "Hoe Pawty traint: alleen positieve bekrachtiging, sessies van 5 minuten, geen schuldgevoel, en wanneer je beter naar een dierenarts of gedragsdeskundige gaat."
  },
  "partners.html": {
   "title": "Partners en pers — Pawty",
-  "description": "Word partner van Pawty, een gratis hondentrainingsapp voor iPhone en Android. Bereik betrokken hondeneigenaren via plaatsingen in de Marktplaats van de app. Inclusief perskit."
+  "description": "Pawty brengt je merk bij het waardevolste huisdierenpubliek dat er is: eigenaren die hun hond actief trainen en de app meerdere keren per week openen."
  },
  "marketplace.html": {
   "title": "Marktplaats-partners — Pawty",
   "description": "Partners in de Marktplaats van Pawty: hondenvoer, uitrusting, verzorging en verzekering van Fressnapf, Maxi Zoo, tails.com, Bella & Duke en meer, gefilterd per land."
  },
  "index.html": {
-  "title": "Pawty — Duolingo voor honden",
-  "description": "Je hond is niet kapot en jij faalt niet. 99 trainingsvaardigheden in sessies van 3 minuten, 32 eerlijke gedragsgidsen, reeksen die bevriezen in plaats van resetten. Gratis voor iPhone en Android.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Gratis hondentrainingsapp voor iPhone en Android met 99 vaardigheden, 32 gedragsgidsen, pootbeoordelingen, reeksen en een verzorgingskalender.\",\"url\":\"https://pawtyapp.com/nl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"nl\"}"
+  "title": "Pawty — Hondentrainingsapp, 5 minuten per dag",
+  "description": "Samen trainen. Samen groeien. 99 trainingsvaardigheden in sessies van 5 minuten, 32 gedragsgidsen, trainingsplannen en een verzorgingskalender, op iPhone en Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Hondentrainingsapp voor iPhone en Android met 99 vaardigheden in sessies van 5 minuten, 32 gedragsgidsen, beoordelingen met poten, trainingsplannen en een verzorgingskalender.\",\"url\":\"https://pawtyapp.com/nl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"nl\"}"
  },
  "blog.html": {
   "title": "Pawty-blog — praktische hondentraining en leven met een hond",

@@ -1,12 +1,12 @@
 # Pawty
 
-> Pawty is a free, gamified dog training app for iPhone and Android, described as "Duolingo for dogs". It has 99 training skills in 3-minute sessions, 32 behaviour guides, streaks that freeze instead of reset, and a care calendar. No subscription, no paywall, no trial. It is made in Slovenia and available in 11 languages.
+> Pawty is a gamified dog training app for iPhone and Android. Its line is "Train together. Grow together." It has 99 training skills in 5-minute sessions, 32 behaviour guides, training plans and a care calendar. There is no subscription and no paywall. It is made in Slovenia and available in 11 languages.
 
 Key facts:
 
 - Platforms: iPhone (App Store id 6805087382) and Android (Google Play package com.pawty).
 - Languages: English, German, Spanish, French, Croatian, Italian, Dutch, Polish, Portuguese, Romanian and Slovenian. The website has the same pages in each language under /de/, /es/, /fr/, /hr/, /it/, /nl/, /pl/, /pt/, /ro/ and /sl/.
-- Training: 99 skills from sit and recall to tricks and agility, each with steps, common mistakes and a goal. Sessions last 3 minutes and are rated 1 to 5 paws. 3 perfect sessions in a row mark a skill as mastered. A 12-week puppy plan has review weeks built in.
+- Training: 99 skills from sit and recall to tricks and agility, each with steps, common mistakes and a goal. Sessions last 5 minutes and are rated 1 to 5 paws. 3 perfect sessions in a row mark a skill as mastered. A 12-week puppy plan has review weeks built in.
 - Motivation: daily streaks that freeze instead of reset after a missed day, 36 badges, experience points and a worldwide leaderboard.
 - Behaviour: 32 guides on problems such as puppy biting, barking, pulling on the lead, resource guarding and recall, each with why it happens, what works and what makes it worse.
 - Care: care calendar for vaccinations, grooming and dog school, food diary, equipment checklist.

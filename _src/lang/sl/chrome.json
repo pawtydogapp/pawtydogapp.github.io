@@ -29,7 +29,7 @@
  "guide_help_text": "Pawty je izobraževalna vsebina, ne veterinarski ali vedenjski nasvet.",
  "guide_help_common": "Pri vsaki nenadni spremembi vedenja ali znakih bolečine pojdi k veterinarju. Če je tvoj pes ugriznil, varuje s hlastanjem ali zapade v paniko, ko ostane sam, pojdi osebno h kvalificiranemu vedenjskemu strokovnjaku. Preberi <a href=\"/approach.html\">naš pristop</a>.",
  "guide_cta_title": "Treniraj, ne samo beri o tem",
- "guide_cta_text": "Pawty ima tudi 99 veščin v 3-minutnih vajah, ki jih oceniš z 1 do 5 tačkami, nize, ki zamrznejo, namesto da se ponastavijo, in koledar nege. Brezplačno. Brez naročnine in brez plačljivih vsebin.",
+ "guide_cta_text": "Pawty ima 99 veščin v 5-minutnih vajah, ki jih oceniš z 1 do 5 tačkami, načrte treninga in koledar nege.",
  "title_suffix": " — Pawty",
  "lang_label": "Jezik",
  "shop_title": "Pawty family",
@@ -79,5 +79,16 @@
  "shop_card_pct": "{pct} % popusta s promo kodo",
  "shop_card_copy": "Kopiraj kodo",
  "shop_card_copied": "Kopirano",
- "shop_card_visit": "Obišči trgovino"
+ "shop_card_visit": "Obišči trgovino",
+ "nav_label": "Glavni meni",
+ "nav_get": "Prenesi Pawty",
+ "footer_col_learn": "Učenje",
+ "footer_col_legal": "Pravno",
+ "read_guide": "Preberi vodnik",
+ "gcat_puppy": "Mladič",
+ "gcat_bark": "Lajanje in pozornost",
+ "gcat_walks": "Sprehodi",
+ "gcat_home": "Doma",
+ "gcat_fear": "Strah in nega",
+ "slogan": "Skupaj treniramo. Skupaj rastemo."
 }

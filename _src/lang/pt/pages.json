@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 guias de comportamento canino — Pawty",
-  "description": "Guias gratuitos e honestos sobre comportamento canino: mordidelas de cachorro, ladrar, puxar pela trela, guarda de recursos, chamada, fazer as necessidades no sítio certo e mais 26. Da app Pawty para iPhone e Android."
+  "description": "Os mesmos guias que estão na app. Existem para te tirar a preocupação com o que o teu cão está a fazer e depois dizer-te o que fazer de facto."
  },
  "support.html": {
   "title": "Ajuda — Pawty",
@@ -9,20 +9,20 @@
  },
  "approach.html": {
   "title": "A nossa abordagem — Pawty",
-  "description": "Como a Pawty ensina: só reforço positivo, sessões de 3 minutos, sem culpa, e quando ir antes ao veterinário ou a um comportamentalista."
+  "description": "Como a Pawty ensina: só reforço positivo, sessões de 5 minutos, sem culpa, e quando ir antes ao veterinário ou a um comportamentalista."
  },
  "partners.html": {
   "title": "Parceiros e imprensa — Pawty",
-  "description": "Torna-te parceiro da Pawty, uma app gratuita de treino de cães para iPhone e Android. Chega a donos de cães empenhados através de espaços no Mercado da app. Inclui kit de imprensa."
+  "description": "A Pawty leva a tua marca ao público mais valioso do mundo animal: donos que treinam ativamente o seu cão e abrem a app várias vezes por semana."
  },
  "marketplace.html": {
   "title": "Parceiros do Mercado — Pawty",
   "description": "Parceiros do Mercado da Pawty: comida para cães, acessórios, higiene e seguros da Fressnapf, Maxi Zoo, tails.com, Bella & Duke e outros, filtrados por país."
  },
  "index.html": {
-  "title": "Pawty — O Duolingo para cães",
-  "description": "O teu cão não está avariado e tu não estás a falhar. 99 competências de treino em sessões de 3 minutos, 32 guias de comportamento honestos e sequências que congelam em vez de reiniciar. Grátis para iPhone e Android.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita de treino de cães para iPhone e Android com 99 competências, 32 guias de comportamento, avaliações em patas, sequências e um calendário de cuidados.\",\"url\":\"https://pawtyapp.com/pt/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pt\"}"
+  "title": "Pawty — App de treino de cães, 5 minutos por dia",
+  "description": "Treinar juntos. Crescer juntos. 99 competências em sessões de 5 minutos, 32 guias de comportamento, planos de treino e um calendário de cuidados, em iPhone e Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App de treino de cães para iPhone e Android com 99 competências em sessões de 5 minutos, 32 guias de comportamento, avaliações em patas, planos de treino e um calendário de cuidados.\",\"url\":\"https://pawtyapp.com/pt/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pt\"}"
  },
  "blog.html": {
   "title": "Blog Pawty — treino de cães e vida com um cão, na prática",

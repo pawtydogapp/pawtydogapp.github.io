@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 guides sur le comportement du chien — Pawty",
-  "description": "Guides gratuits et honnêtes sur le comportement du chien : mordillements du chiot, aboiements, tirer en laisse, protection des ressources, rappel, propreté et 26 autres. Issus de l'application Pawty pour iPhone et Android."
+  "description": "Les mêmes guides que dans l'application. Ils sont là pour te rassurer sur ce que fait ton chien, puis te dire quoi faire concrètement."
  },
  "support.html": {
   "title": "Aide — Pawty",
@@ -9,20 +9,20 @@
  },
  "approach.html": {
   "title": "Notre approche — Pawty",
-  "description": "Comment Pawty enseigne : uniquement le renforcement positif, des séances de 3 minutes, sans culpabilité, et quand consulter un vétérinaire ou un comportementaliste."
+  "description": "Comment Pawty enseigne : uniquement le renforcement positif, des séances de 5 minutes, sans culpabilité, et quand consulter un vétérinaire ou un comportementaliste."
  },
  "partners.html": {
   "title": "Partenaires et presse — Pawty",
-  "description": "Deviens partenaire de Pawty, une application gratuite d'éducation canine pour iPhone et Android. Touche des maîtres engagés grâce à des emplacements dans la Boutique de l'application. Kit presse inclus."
+  "description": "Pawty place ta marque devant le public animalier le plus précieux qui soit : des maîtres qui éduquent activement leur chien et ouvrent l'application plusieurs fois par semaine."
  },
  "marketplace.html": {
   "title": "Partenaires de la Boutique — Pawty",
   "description": "Partenaires de la Boutique Pawty : alimentation, équipement, toilettage et assurance de Fressnapf, Maxi Zoo, tails.com, Bella & Duke et d'autres, filtrés par pays."
  },
  "index.html": {
-  "title": "Pawty — Le Duolingo des chiens",
-  "description": "Ton chien n'est pas un cas désespéré et tu n'es pas en échec. 99 compétences d'éducation canine en séances de 3 minutes, 32 guides de comportement honnêtes, des séries qui se figent au lieu de repartir à zéro. Gratuit sur iPhone et Android.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Application gratuite d'éducation canine pour iPhone et Android avec 99 compétences, 32 guides de comportement, des notes en pattes, des séries et un calendrier des soins.\",\"url\":\"https://pawtyapp.com/fr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"fr\"}"
+  "title": "Pawty — Appli d'éducation canine, 5 minutes par jour",
+  "description": "S'entraîner ensemble. Grandir ensemble. 99 compétences en séances de 5 minutes, 32 guides de comportement, des plans d'entraînement et un calendrier des soins, sur iPhone et Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Appli d'éducation canine pour iPhone et Android avec 99 compétences en séances de 5 minutes, 32 guides de comportement, des notes en pattes, des plans d'entraînement et un calendrier des soins.\",\"url\":\"https://pawtyapp.com/fr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"fr\"}"
  },
  "blog.html": {
   "title": "Blog Pawty — éducation canine pratique et vie avec un chien",

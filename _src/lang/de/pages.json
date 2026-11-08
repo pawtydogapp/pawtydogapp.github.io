@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 Ratgeber zum Hundeverhalten — Pawty",
-  "description": "Kostenlose, ehrliche Ratgeber zum Hundeverhalten: Welpenbeißen, Bellen, Ziehen an der Leine, Ressourcenverteidigung, Rückruf, Stubenreinheit und 26 weitere. Aus der Pawty App für iPhone und Android."
+  "description": "Dieselben Ratgeber wie in der App. Sie nehmen dir die Sorge darüber, was dein Hund gerade tut, und sagen dir dann, was du wirklich dagegen tun kannst."
  },
  "support.html": {
   "title": "Hilfe — Pawty",
@@ -9,20 +9,20 @@
  },
  "approach.html": {
   "title": "Unser Ansatz — Pawty",
-  "description": "Wie Pawty trainiert: nur positive Verstärkung, 3-Minuten-Einheiten, keine Schuldgefühle und wann du stattdessen zur Tierarztpraxis oder Verhaltensberatung solltest."
+  "description": "Wie Pawty trainiert: nur positive Verstärkung, 5-Minuten-Einheiten, keine Schuldgefühle und wann du stattdessen zur Tierarztpraxis oder Verhaltensberatung solltest."
  },
  "partners.html": {
   "title": "Partner und Presse — Pawty",
-  "description": "Werde Partner von Pawty, einer kostenlosen Hundetrainings-App für iPhone und Android. Erreiche engagierte Hundehalter über Platzierungen im Marktplatz der App. Mit Pressemappe."
+  "description": "Pawty bringt deine Marke zur wertvollsten Zielgruppe im Heimtiermarkt: Halter, die ihren Hund aktiv trainieren und die App mehrmals pro Woche öffnen."
  },
  "marketplace.html": {
   "title": "Marktplatz-Partner — Pawty",
   "description": "Pawty Marktplatz-Partner: Hundefutter, Ausrüstung, Pflege und Versicherung von Fressnapf, Maxi Zoo, tails.com, Bella & Duke und weiteren, gefiltert nach Land."
  },
  "index.html": {
-  "title": "Pawty — Duolingo für Hunde",
-  "description": "Dein Hund ist nicht kaputt und du versagst nicht. 99 Trainings-Skills in 3-Minuten-Einheiten, 32 ehrliche Verhaltensratgeber, Streaks, die eingefroren statt zurückgesetzt werden. Kostenlos für iPhone und Android.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Kostenlose Hundetrainings-App für iPhone und Android mit 99 Skills, 32 Verhaltensratgebern, Pfoten-Bewertungen, Streaks und einem Pflegekalender.\",\"url\":\"https://pawtyapp.com/de/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"de\"}"
+  "title": "Pawty — Hundetrainings-App, 5 Minuten am Tag",
+  "description": "Gemeinsam trainieren. Gemeinsam wachsen. 99 Hundetrainings-Skills in 5-Minuten-Einheiten, 32 Verhaltensratgeber, Trainingspläne und ein Pflegekalender, für iPhone und Android.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Hundetrainings-App für iPhone und Android mit 99 Skills in 5-Minuten-Einheiten, 32 Verhaltensratgebern, Pfoten-Bewertungen, Trainingsplänen und einem Pflegekalender.\",\"url\":\"https://pawtyapp.com/de/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"de\"}"
  },
  "blog.html": {
   "title": "Pawty Blog — praktisches Hundetraining und Leben mit Hund",

@@ -15,25 +15,23 @@
 <meta property="og:url" content="{{url}}">{{og_locale}}
 <meta property="og:image" content="https://pawtyapp.com/og-image.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
 {{css}}
 {{posthog}}{{ld}}</head><body>
-<nav><a class="logo" href="/"><svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor" aria-hidden="true"><ellipse cx="4.7" cy="7.3" rx="2.35" ry="3.45" transform="rotate(-16 4.7 7.3)"/><ellipse cx="9.7" cy="5.3" rx="2.45" ry="3.7"/><ellipse cx="14.5" cy="5.3" rx="2.45" ry="3.7"/><ellipse cx="19.4" cy="7.5" rx="2.25" ry="3.35" transform="rotate(16 19.4 7.5)"/><ellipse cx="12" cy="16.4" rx="6.5" ry="5.3"/></svg>Pawty</a>
-<span class="links"><a href="/">{{nav_home}}</a><a href="/guides.html">{{nav_guides}}</a><a href="/blog.html">{{nav_blog}}</a><a href="/marketplace.html">{{nav_marketplace}}</a><a href="/partners.html">{{nav_partners}}</a><a href="/approach.html">{{nav_approach}}</a><a href="/support.html">{{nav_support}}</a></span>@@LANGSWITCH@@</nav>{{main}}<footer>{{footer_tagline}}
+<header class="top"><a class="logo" href="/"><img src="/img/logo.webp" alt="" width="42" height="42">Pawty</a>
+<nav class="links" aria-label="{{nav_label}}"><a href="/">{{nav_home}}</a><a href="/guides.html">{{nav_guides}}</a><a href="/blog.html">{{nav_blog}}</a><a href="/marketplace.html">{{nav_marketplace}}</a><a href="/partners.html">{{nav_partners}}</a><a href="/approach.html">{{nav_approach}}</a><a href="/support.html">{{nav_support}}</a></nav>@@LANGSWITCH@@<a class="getbtn" href="/#get">{{nav_get}}</a></header><main>{{main}}</main><footer><div class="fg">
+<div><p class="brand">Pawty</p><p>{{slogan}}</p>
 <div class="social">
 <a href="https://www.instagram.com/pawty.app" rel="noopener me">Instagram</a>
 <a href="https://www.tiktok.com/@pawty.app" rel="noopener me">TikTok</a>
 <a href="https://www.youtube.com/@pawtyapp" rel="noopener me">YouTube</a>
 <a href="https://x.com/pawtyapp" rel="noopener me">X</a>
 <a href="https://www.facebook.com/profile.php?id=61593301785199" rel="noopener me">Facebook</a>
-</div>
-<div class="legalrow">
-<a href="/partners.html">{{nav_partners}}</a>·<a href="/support.html">{{footer_support}}</a>·<a href="/approach.html">{{footer_approach}}</a>·<a href="/legal/privacy.html">{{footer_privacy}}</a>·<a href="/legal/terms.html">{{footer_terms}}</a>
-</div>
-@@LANGFOOT@@<div class="imprint">
-{{footer_operator}}<br>
-{{footer_contact}} <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>
-</div>
+</div></div>
+<div class="col"><b>{{footer_col_learn}}</b><a href="/guides.html">{{nav_guides}}</a><a href="/blog.html">{{nav_blog}}</a><a href="/approach.html">{{footer_approach}}</a></div>
+<div class="col"><b>Pawty</b><a href="/marketplace.html">{{nav_marketplace}}</a><a href="/partners.html">{{nav_partners}}</a><a href="/support.html">{{footer_support}}</a></div>
+<div class="col"><b>{{footer_col_legal}}</b><a href="/legal/privacy.html">{{footer_privacy}}</a><a href="/legal/terms.html">{{footer_terms}}</a><a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a></div>
+</div><div class="low">@@LANGFOOT@@{{footer_operator}}</div>
 </footer>{{js}}
 
 </body></html>

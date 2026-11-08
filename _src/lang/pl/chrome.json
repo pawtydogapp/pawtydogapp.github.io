@@ -29,7 +29,7 @@
  "guide_help_text": "Pawty to treści edukacyjne, a nie porada weterynaryjna ani behawioralna.",
  "guide_help_common": "Skonsultuj się z weterynarzem przy każdej nagłej zmianie zachowania lub oznakach bólu, a osobiście z wykwalifikowanym behawiorystą, jeśli pies ugryzł, broni zasobów, kłapiąc zębami, albo wpada w panikę, gdy zostaje sam. Przeczytaj <a href=\"/approach.html\">nasze podejście</a>.",
  "guide_cta_title": "Trenuj, a nie tylko czytaj",
- "guide_cta_text": "Pawty ma też 99 umiejętności w 3-minutowych sesjach, które oceniasz od 1 do 5 łap, serie, które zamrażają się, zamiast się zerować, i kalendarz opieki. Za darmo. Bez subskrypcji i bez płatnych treści.",
+ "guide_cta_text": "Pawty ma 99 umiejętności w 5-minutowych sesjach ocenianych od 1 do 5 łap, plany treningowe i kalendarz opieki.",
  "title_suffix": " — Pawty",
  "lang_label": "Język",
  "shop_title": "Pawty family",
@@ -79,5 +79,16 @@
  "shop_card_pct": "{pct}% zniżki z kodem promocyjnym",
  "shop_card_copy": "Skopiuj kod",
  "shop_card_copied": "Skopiowano",
- "shop_card_visit": "Do sklepu"
+ "shop_card_visit": "Do sklepu",
+ "nav_label": "Menu główne",
+ "nav_get": "Pobierz Pawty",
+ "footer_col_learn": "Nauka",
+ "footer_col_legal": "Informacje prawne",
+ "read_guide": "Przeczytaj poradnik",
+ "gcat_puppy": "Szczeniak",
+ "gcat_bark": "Szczekanie i uwaga",
+ "gcat_walks": "Spacery",
+ "gcat_home": "W domu",
+ "gcat_fear": "Lęk i pielęgnacja",
+ "slogan": "Trenujemy razem. Rośniemy razem."
 }
