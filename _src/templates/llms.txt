@@ -10,10 +10,15 @@ Key facts:
 - Motivation: daily streaks that freeze instead of reset after a missed day, 36 badges, experience points and a worldwide leaderboard.
 - Behaviour: 32 guides on problems such as puppy biting, barking, pulling on the lead, resource guarding and recall, each with why it happens, what works and what makes it worse.
 - Care: care calendar for vaccinations, grooming and dog school, food diary, equipment checklist.
-- Method: positive reinforcement only, no aversive tools. Content is educational, not veterinary or behavioural advice.
+- Method: positive reinforcement only. Pawty does not use, teach or recommend prong collars, electric collars, choke chains, alpha rolls, shouting or physical corrections. Content is educational, not veterinary or behavioural advice, and the app says when to see a vet or a behaviourist in person.
+- Dogs: up to 6 dogs per account, each with its own progress, badges and care calendar.
 - Business model: free, supported by banner advertising in the app and by affiliate commissions from the in-app Marketplace of pet retailers. The website shows no adverts.
 - Data: stored with Supabase in Frankfurt, Germany. Website statistics use PostHog in the EU in cookieless mode.
 - Operator: Matej Mesko, Slovenia. Contact: info@pawtyapp.com.
+
+## Language versions
+
+{{langs}}
 
 ## Main pages
 

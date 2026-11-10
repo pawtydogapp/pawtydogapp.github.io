@@ -112,6 +112,64 @@ def article_ld(headline, desc, u, date):
         "publisher": {"@type": "Organization", "name": "Pawty"}, "mainEntityOfPage": u,
         "datePublished": date}, ensure_ascii=False)
 
+
+SOCIAL = ['https://www.instagram.com/pawty.app', 'https://www.tiktok.com/@pawty.app', 'https://www.youtube.com/@pawtyapp',
+          'https://x.com/pawtyapp', 'https://www.facebook.com/profile.php?id=61593301785199',
+          'https://apps.apple.com/app/id6805087382', 'https://play.google.com/store/apps/details?id=com.pawty']
+ORG = {"@type": "Organization", "@id": "https://pawtyapp.com/#org", "name": "Pawty", "url": "https://pawtyapp.com/",
+       "logo": "https://pawtyapp.com/icon-512.png", "email": "info@pawtyapp.com", "sameAs": SOCIAL}
+SECTION = {'guides.html': 'CollectionPage', 'blog.html': 'Blog', 'marketplace.html': 'CollectionPage',
+           'approach.html': 'AboutPage', 'partners.html': 'WebPage', 'support.html': 'FAQPage',
+           'legal/privacy.html': 'WebPage', 'legal/terms.html': 'WebPage'}
+
+def og_image(lang): return f'https://pawtyapp.com/og/og-{lang}.jpg'
+
+def plain(s): return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', s))).strip()
+
+def enrich_ld(lang, pg, path, u, ld, main, chrome, title, desc, item_urls):
+    """Structured data for every indexable page: the page itself, a breadcrumb trail and, on Home, the organisation."""
+    if pg.get('noindex') or pg.get('hidden'): return ld
+    graph = []
+    if ld:
+        d = json.loads(ld); d.pop('@context', None)
+        d['inLanguage'] = lang
+        if d.get('@type') == 'Article':
+            m = re.search(r'<img class="cover" src="([^"]+)"', main)
+            d['image'] = 'https://pawtyapp.com' + m.group(1) if m else og_image(lang)
+            d['publisher'] = {"@id": ORG["@id"]}
+        graph.append(d)
+    home = url(lang, 'index.html')
+    if path == 'index.html':
+        graph.append(ORG)
+        graph.append({"@type": "WebSite", "@id": home + '#site', "url": home, "name": "Pawty", "inLanguage": lang, "publisher": {"@id": ORG["@id"]}})
+    else:
+        crumbs = [(chrome['nav_home'], home)]
+        if pg['kind'] == 'guide': crumbs.append((chrome['nav_guides'], url(lang, 'guides.html')))
+        elif path.startswith('post-'): crumbs.append((chrome['nav_blog'], url(lang, 'blog.html')))
+        nav = {'guides.html': 'nav_guides', 'blog.html': 'nav_blog', 'marketplace.html': 'nav_marketplace', 'partners.html': 'nav_partners', 'approach.html': 'nav_approach', 'support.html': 'nav_support'}
+        crumbs.append((chrome[nav[path]] if path in nav else plain(title).split(' — ')[0].split(' | ')[0], u))
+        graph.append({"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "item": x} for i, (n, x) in enumerate(crumbs)]})
+        if path in SECTION:
+            d = {"@type": SECTION[path], "@id": u + '#page', "url": u, "name": plain(title), "description": desc, "inLanguage": lang,
+                 "isPartOf": {"@id": url('en', 'index.html') + '#site'}, "publisher": {"@id": ORG["@id"]}}
+            if path in item_urls:
+                d['mainEntity'] = {"@type": "ItemList", "numberOfItems": len(item_urls[path]),
+                                   "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": x} for i, x in enumerate(item_urls[path])]}
+            if path == 'support.html':
+                qa = re.findall(r'<details[^>]*><summary>(.*?)</summary>\s*<p>(.*?)</p>', main, re.S)
+                d['mainEntity'] = [{"@type": "Question", "name": plain(q), "acceptedAnswer": {"@type": "Answer", "text": plain(a)}} for q, a in qa]
+            graph.append(d)
+    return json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False, separators=(',', ':'))
+
+TITLE_MAX = 65
+def fit_title(t):
+    """Keep titles inside what Google shows: shorten the brand suffix first, then drop it."""
+    if len(t) <= TITLE_MAX: return t
+    m = re.match(r'(.*?) — (?:Pawty|Pawty Blog|Pawty blog|Blog Pawty|Blog de Pawty|Pawty-blog|Blogul Pawty)$', t)
+    if not m: return t
+    core = m.group(1)
+    return core + ' — Pawty' if len(core) + 8 <= TITLE_MAX else core
+
 def build_lang(lang):
     L = f'lang/{lang}/'
     chrome = js(L + 'chrome.json'); meta = js(L + 'pages.json'); gtext = js(L + 'guides.json')
@@ -148,6 +206,10 @@ def build_lang(lang):
             main = render(body, dict(chrome, lang=lang, shop_js_v=h8(SHOPJS), stores=stores, stores_hero=stores_hero, guide_cards=cards), path)
             title = m['title']; desc = m['description']
             ld = article_ld(m['headline'], desc, u, pg['date']) if pg.get('ld') == 'article' else m.get('ld')
+        title = fit_title(title)
+        item_urls = {'guides.html': [url(lang, 'guides/' + g['slug'] + '.html') for g in gshared],
+                     'blog.html': [url(lang, p['path']) for p in PAGES if p['path'].startswith('post-') and available(lang, p['path'])]}
+        ld = enrich_ld(lang, pg, path, u, ld, main, chrome, title, desc, item_urls)
         touch(lang, pg, u, title + '\n' + desc + '\n' + main)
         canonical = '<meta name="robots" content="noindex">' if (pg.get('noindex') or pg.get('hidden')) else f'<link rel="canonical" href="{u}">'
         alts = ''
@@ -155,7 +217,7 @@ def build_lang(lang):
             alts = ''.join(f'\n<link rel="alternate" hreflang="{l}" href="{url(l, path)}">' for l in langs_here)
             alts += f'\n<link rel="alternate" hreflang="x-default" href="{url("en", path)}">'
         v = dict(chrome, lang=lang, title=title, description=desc, url=u, canonical=canonical + alts, og_locale=(f'\n<meta property="og:locale" content="{LOCALE[lang]}">' if len(LANGS) > 1 else ''),
-                 css=css, posthog=T['posthog'], ld=(f'<script type="application/ld+json">{ld}</script>\n' if ld else ''),
+                 css=css, og_image=og_image(lang), posthog=T['posthog'], ld=(f'<script type="application/ld+json">{ld}</script>\n' if ld else ''),
                  main=main, js=jsx)
         out = localize_links(render(T['base'], v, path), lang)
         out = out.replace('@@LANGSWITCH@@', lang_switch(lang, path, chrome)).replace('@@LANGFOOT@@', lang_footer(lang, path))
@@ -190,6 +252,7 @@ def llms():
         m = meta[path]; line = f'- [{strip(m["title"])}]({u}): {m["description"]}'
         key = 'blog' if path.startswith('post-') else 'legal' if path.startswith('legal/') else 'main'
         groups[key].append(line)
+    groups['langs'] = [f'- {NATIVE[l]} ({l}): {url(l, "index.html")}' for l in LANGS]
     return render(T_LLMS, {k: '\n'.join(v) for k, v in groups.items()}, 'llms.txt')
 
 def sitemap():

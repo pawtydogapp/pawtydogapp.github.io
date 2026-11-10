@@ -9,7 +9,7 @@
   ]
  },
  "attention": {
-  "title": "Chien qui gratte, gémit et donne des coups de museau pour avoir de l'attention",
+  "title": "Chien qui gratte, gémit et pousse du museau pour de l'attention",
   "description": "Même une attention agacée compte. Inverser le calcul pour que le calme soit récompensé et l'insistance non.",
   "card": "Même une attention agacée compte.",
   "needs": [
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Aboiements de demande : le chien t'aboie dessus pour de la nourriture ou de l'attention",
+  "title": "Aboiements de demande : le chien exige à manger ou de l'attention",
   "description": "Le chien aboie parce que ça a déjà marché. Pourquoi ça empire avant de s'améliorer.",
   "card": "Le chien aboie parce que ça a déjà marché.",
   "needs": []
@@ -162,7 +162,7 @@
   ]
  },
  "guard": {
-  "title": "Protection des ressources : premiers signes avec la nourriture et les jouets",
+  "title": "Protection des ressources : premiers signes (nourriture, jouets)",
   "description": "Se figer, fixer du regard ou grogner traduit la peur de perdre. Pourquoi il ne faut jamais punir un grognement.",
   "card": "Se figer, fixer du regard ou grogner traduit la peur de perdre.",
   "needs": []

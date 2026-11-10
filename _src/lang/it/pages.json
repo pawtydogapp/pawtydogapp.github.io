@@ -25,7 +25,7 @@
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App di addestramento cani per iPhone e Android con 99 abilità in sessioni da 5 minuti, 32 guide sul comportamento, valutazioni in zampe, piani di addestramento e un calendario delle cure.\",\"url\":\"https://pawtyapp.com/it/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"it\"}"
  },
  "blog.html": {
-  "title": "Blog Pawty — educazione pratica del cane e vita quotidiana con lui",
+  "title": "Blog Pawty — educazione del cane e vita quotidiana con lui",
   "description": "Articoli pratici sui cani da Pawty: quanto costa un cucciolo, la lista della spesa, i tempi delle vaccinazioni, il sonno, il clicker, la toelettatura e i cani adottati."
  },
  "post-puppy-cost.html": {

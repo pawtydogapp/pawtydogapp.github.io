@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Forderndes Bellen: Hund bellt dich an, um Futter oder Aufmerksamkeit zu bekommen",
+  "title": "Forderndes Bellen: Hund bellt für Futter oder Aufmerksamkeit",
   "description": "Der Hund bellt, weil es schon einmal funktioniert hat. Warum es erst lauter wird, bevor es besser wird.",
   "card": "Der Hund bellt, weil es schon einmal funktioniert hat.",
   "needs": []

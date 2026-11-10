@@ -423,3 +423,4 @@ article li,.legal li{margin-bottom:9px;padding-left:2px;font-size:17px}
 .cta-box:has(.ctastores) .stores{justify-content:flex-start}
 .cta-box:has(.ctastores)::after{content:"";grid-column:2;grid-row:1/span 4;align-self:stretch;min-height:220px;border-radius:120px 120px 28px 24px;background:var(--mint) url(/img/nala-hero.webp) center/cover no-repeat}
 @media (max-width:640px){.cta-box:has(.ctastores){grid-template-columns:1fr;text-align:center}.cta-box:has(.ctastores) .stores{justify-content:center}.cta-box:has(.ctastores)::after{grid-column:1;grid-row:auto;min-height:260px;margin-top:22px}}
+.cy.fit img{width:100%;height:100%;object-fit:cover;object-position:top center;animation:none}
