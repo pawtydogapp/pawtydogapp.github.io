@@ -49,7 +49,7 @@
  },
  "chewadult": {
   "title": "Cão adulto que rói móveis por tédio",
-  "description": "Roer acalma. O que te está a dizer um cão adulto pouco estimulado e como redirecionar isso.",
+  "description": "Roer acalma. O que lhe está a dizer um cão adulto pouco estimulado e como redirecionar isso.",
   "card": "Roer acalma.",
   "needs": [
    "Mastigáveis alternados",
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Cão que puxa pela trela: porque acontece e o que funciona",
-  "description": "Os cães puxam porque isso os levou para a frente. Parar e avançar, recompensa junto à tua perna, e porque as coleiras de picos criam novos problemas.",
+  "description": "Os cães puxam porque isso os levou para a frente. Parar e avançar, recompensa junto à perna do dono, e porque as coleiras de picos criam novos problemas.",
   "card": "Os cães puxam porque isso os levou para a frente.",
   "needs": [
    "Peitoral com engate frontal",
@@ -85,7 +85,7 @@
  },
  "barkdogs": {
   "title": "Cão que ladra a outros cães no passeio",
-  "description": "Normalmente frustração ou desconforto. Encontrar a distância a que o teu cão fica calmo e reduzi-la ao longo de semanas.",
+  "description": "Normalmente frustração ou desconforto. Encontrar a distância a que o seu cão fica calmo e reduzi-la ao longo de semanas.",
   "card": "Normalmente frustração ou desconforto.",
   "needs": [
    "Trela longa",
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Ladrar de exigência: o cão ladra-te a pedir comida ou atenção",
+  "title": "Ladrar de exigência: o cão ladra-lhe a pedir comida ou atenção",
   "description": "O cão ladra porque já resultou antes. Porque piora antes de melhorar.",
   "card": "O cão ladra porque já resultou antes.",
   "needs": []
@@ -128,7 +128,7 @@
  },
  "digging": {
   "title": "Cão que escava no jardim",
-  "description": "Escavar é inato. Não o consegues apagar, mas podes mudá-lo para uma zona de escavação permitida.",
+  "description": "Escavar é inato. Não o consegue apagar, mas pode mudá-lo para uma zona de escavação permitida.",
   "card": "Escavar é inato.",
   "needs": [
    "Caixa de areia para escavar",
@@ -163,7 +163,7 @@
  },
  "guard": {
   "title": "Guarda de recursos: primeiros sinais com comida e brinquedos",
-  "description": "Ficar imóvel, olhar fixo ou rosnar significa medo de perder algo. Porque nunca deves castigar um rosnado.",
+  "description": "Ficar imóvel, olhar fixo ou rosnar significa medo de perder algo. Porque nunca deve castigar um rosnado.",
   "card": "Ficar imóvel, olhar fixo ou rosnar significa medo de perder algo.",
   "needs": []
  },
@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Cão com medo de fogo de artifício e trovoada",
-  "description": "Preparar uma toca, porque confortar o teu cão é aceitável, e o trabalho com sons para começar em novembro.",
-  "card": "Preparar uma toca, porque confortar o teu cão é aceitável, e o trabalho com sons para começar em novembro.",
+  "description": "Preparar uma toca, porque confortar o seu cão é aceitável, e o trabalho com sons para começar em novembro.",
+  "card": "Preparar uma toca, porque confortar o seu cão é aceitável, e o trabalho com sons para começar em novembro.",
   "needs": [
    "Aparelho de ruído branco",
    "Cama coberta"
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Cão que não vem quando é chamado",
-  "description": "O ambiente recompensa melhor do que tu. Reconstruir a chamada com uma trela longa e proteger o sinal.",
-  "card": "O ambiente recompensa melhor do que tu.",
+  "description": "O ambiente recompensa melhor do que o dono. Reconstruir a chamada com uma trela longa e proteger o sinal.",
+  "card": "O ambiente recompensa melhor do que o dono.",
   "needs": [
    "Trela longa",
    "Guloseimas de alto valor"
@@ -206,7 +206,7 @@
  },
  "marking": {
   "title": "Cão que marca dentro de casa",
-  "description": "Pequenas marcas deliberadas em superfícies verticais. Exclui primeiro as causas médicas.",
+  "description": "Pequenas marcas deliberadas em superfícies verticais. Exclua primeiro as causas médicas.",
   "card": "Pequenas marcas deliberadas em superfícies verticais.",
   "needs": [
    "Limpador enzimático",
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Os zoomies explicados: corridas loucas repentinas",
-  "description": "As voltas a correr repentinas são uma libertação de energia normal e saudável. Gere o chão, não a alegria.",
+  "description": "As voltas a correr repentinas são uma libertação de energia normal e saudável. Faça a gestão do chão, não da alegria.",
   "card": "As voltas a correr repentinas são uma libertação de energia normal e saudável.",
   "needs": [
    "Tapete antiderrapante"

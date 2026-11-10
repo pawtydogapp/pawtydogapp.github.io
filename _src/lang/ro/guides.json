@@ -10,7 +10,7 @@
  },
  "attention": {
   "title": "Câinele dă cu laba, scâncește și împinge pentru atenție",
-  "description": "Chiar și atenția enervată contează. Cum întorci socoteala ca liniștea să merite, iar insistența nu.",
+  "description": "Chiar și atenția enervată contează. Cum întoarceți socoteala ca liniștea să merite, iar insistența nu.",
   "card": "Chiar și atenția enervată contează.",
   "needs": [
    "Puzzle cu mâncare",
@@ -49,7 +49,7 @@
  },
  "chewadult": {
   "title": "Câine adult care roade mobila din plictiseală",
-  "description": "Rosul liniștește. Ce îți spune un câine adult prea puțin stimulat și cum îl redirecționezi.",
+  "description": "Rosul liniștește. Ce vă spune un câine adult prea puțin stimulat și cum îl redirecționați.",
   "card": "Rosul liniștește.",
   "needs": [
    "Obiecte de ros prin rotație",
@@ -57,7 +57,7 @@
   ]
  },
  "jumping": {
-  "title": "Câinele sare pe oameni: cum oprești asta",
+  "title": "Câinele sare pe oameni: cum opriți asta",
   "description": "Săritul este entuziasm plus un istoric în care a fost recompensat. Regula celor 4 labe pe podea și sarcina incompatibilă care îl înlocuiește.",
   "card": "Săritul este entuziasm plus un istoric în care a fost recompensat.",
   "needs": [
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Câinele trage în lesă: de ce și ce funcționează",
-  "description": "Câinii trag pentru că asta i-a dus înainte. Stop și pornire, recompensă lângă piciorul tău și de ce zgărzile cu țepi creează probleme noi.",
+  "description": "Câinii trag pentru că asta i-a dus înainte. Stop și pornire, recompensă lângă piciorul dumneavoastră și de ce zgărzile cu țepi creează probleme noi.",
   "card": "Câinii trag pentru că asta i-a dus înainte.",
   "needs": [
    "Ham cu prindere în față",
@@ -76,7 +76,7 @@
  },
  "doorbell": {
   "title": "Câinele latră la sonerie",
-  "description": "Soneria anunță ceva palpitant. Cum o recondiționezi ca soneria să anunțe brânză în loc de haos.",
+  "description": "Soneria anunță ceva palpitant. Cum o recondiționați ca soneria să anunțe brânză în loc de haos.",
   "card": "Soneria anunță ceva palpitant.",
   "needs": [
    "Înregistrare cu soneria",
@@ -85,7 +85,7 @@
  },
  "barkdogs": {
   "title": "Câinele latră la alți câini la plimbare",
-  "description": "De obicei frustrare sau disconfort. Găsești distanța la care câinele rămâne calm și o reduci de-a lungul săptămânilor.",
+  "description": "De obicei frustrare sau disconfort. Găsiți distanța la care câinele rămâne calm și o reduceți de-a lungul săptămânilor.",
   "card": "De obicei frustrare sau disconfort.",
   "needs": [
    "Lesă lungă",
@@ -119,7 +119,7 @@
  },
  "sepanx": {
   "title": "Câinele suportă greu să rămână singur",
-  "description": "Singurătatea este o abilitate învățată, nu o setare din fabrică. Antrenarea absențelor în doze foarte mici și când să filmezi câinele.",
+  "description": "Singurătatea este o abilitate învățată, nu o setare din fabrică. Antrenarea absențelor în doze foarte mici și când să filmați câinele.",
   "card": "Singurătatea este o abilitate învățată, nu o setare din fabrică.",
   "needs": [
    "Obiect de ros de lungă durată",
@@ -128,7 +128,7 @@
  },
  "digging": {
   "title": "Câinele sapă în grădină",
-  "description": "Săpatul este înnăscut. Nu îl poți șterge, dar îl poți muta într-o zonă de săpat permisă.",
+  "description": "Săpatul este înnăscut. Nu îl puteți șterge, dar îl puteți muta într-o zonă de săpat permisă.",
   "card": "Săpatul este înnăscut.",
   "needs": [
    "Groapă cu nisip sau cutie de săpat",
@@ -163,7 +163,7 @@
  },
  "guard": {
   "title": "Apărarea resurselor: primele semne la mâncare și jucării",
-  "description": "Înghețatul, privirea fixă sau mârâitul înseamnă teama de a pierde. De ce nu trebuie să pedepsești niciodată un mârâit.",
+  "description": "Înghețatul, privirea fixă sau mârâitul înseamnă teama de a pierde. De ce nu trebuie să pedepsiți niciodată un mârâit.",
   "card": "Înghețatul, privirea fixă sau mârâitul înseamnă teama de a pierde.",
   "needs": []
  },
@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Câinele se teme de artificii și furtuni",
-  "description": "Pregătirea unei vizuini, de ce e în regulă să-ți liniștești câinele și lucrul cu sunete pe care să-l începi în noiembrie.",
-  "card": "Pregătirea unei vizuini, de ce e în regulă să-ți liniștești câinele și lucrul cu sunete pe care să-l începi în noiembrie.",
+  "description": "Pregătirea unei vizuini, de ce e în regulă să vă liniștiți câinele și lucrul cu sunete pe care să-l începeți în noiembrie.",
+  "card": "Pregătirea unei vizuini, de ce e în regulă să vă liniștiți câinele și lucrul cu sunete pe care să-l începeți în noiembrie.",
   "needs": [
    "Aparat cu zgomot alb",
    "Pat acoperit"
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Câinele nu vine când e chemat",
-  "description": "Mediul recompensează mai bine decât tine. Reconstruirea chemării pe lesă lungă și protejarea comenzii.",
-  "card": "Mediul recompensează mai bine decât tine.",
+  "description": "Mediul recompensează mai bine decât dumneavoastră. Reconstruirea chemării pe lesă lungă și protejarea comenzii.",
+  "card": "Mediul recompensează mai bine decât dumneavoastră.",
   "needs": [
    "Lesă lungă",
    "Recompense de mare valoare"
@@ -206,7 +206,7 @@
  },
  "marking": {
   "title": "Câinele marchează în casă",
-  "description": "Mici marcaje intenționate pe suprafețe verticale. Exclude mai întâi cauzele medicale.",
+  "description": "Mici marcaje intenționate pe suprafețe verticale. Excludeți mai întâi cauzele medicale.",
   "card": "Mici marcaje intenționate pe suprafețe verticale.",
   "needs": [
    "Soluție enzimatică",
@@ -214,7 +214,7 @@
   ]
  },
  "heat": {
-  "title": "Primele călduri ale cățelei: la ce să te aștepți",
+  "title": "Primele călduri ale cățelei: la ce să vă așteptați",
   "description": "Între 6 și 15 luni, durează 2 până la 4 săptămâni. 3 săptămâni de management, apoi viața merge mai departe.",
   "card": "Între 6 și 15 luni, durează 2 până la 4 săptămâni.",
   "needs": [
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Zoomies explicate: alergări nebune bruște",
-  "description": "Turele bruște de alergat sunt o descărcare de energie normală și sănătoasă. Controlează terenul, nu bucuria.",
+  "description": "Turele bruște de alergat sunt o descărcare de energie normală și sănătoasă. Controlați terenul, nu bucuria.",
   "card": "Turele bruște de alergat sunt o descărcare de energie normală și sănătoasă.",
   "needs": [
    "Covor antiderapant"
@@ -247,7 +247,7 @@
  },
  "stealing": {
   "title": "Câinele fură șosete și fuge cu ele",
-  "description": "Ia o șosetă, iar oamenii pornesc după el. Cum oprești jocul de-a urmăritul.",
+  "description": "Ia o șosetă, iar oamenii pornesc după el. Cum opriți jocul de-a urmăritul.",
   "card": "Ia o șosetă, iar oamenii pornesc după el.",
   "needs": [
    "Jucărie de tras",

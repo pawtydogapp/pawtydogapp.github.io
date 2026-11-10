@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 Ratgeber zum Hundeverhalten — Pawty",
-  "description": "Dieselben Ratgeber wie in der App. Sie nehmen dir die Sorge darüber, was dein Hund gerade tut, und sagen dir dann, was du wirklich dagegen tun kannst."
+  "description": "Dieselben Ratgeber wie in der App. Diese nehmen Ihnen die Sorge darüber, was Ihr Hund gerade tut, und sagen Ihnen dann, was Sie wirklich dagegen tun können."
  },
  "support.html": {
   "title": "Hilfe — Pawty",
@@ -9,11 +9,11 @@
  },
  "approach.html": {
   "title": "Unser Ansatz — Pawty",
-  "description": "Wie Pawty trainiert: nur positive Verstärkung, 5-Minuten-Einheiten, keine Schuldgefühle und wann du stattdessen zur Tierarztpraxis oder Verhaltensberatung solltest."
+  "description": "Wie Pawty trainiert: nur positive Verstärkung, 5-Minuten-Einheiten, keine Schuldgefühle und wann Sie stattdessen zur Tierarztpraxis oder Verhaltensberatung sollten."
  },
  "partners.html": {
   "title": "Partner und Presse — Pawty",
-  "description": "Pawty bringt deine Marke zur wertvollsten Zielgruppe im Heimtiermarkt: Halter, die ihren Hund aktiv trainieren und die App mehrmals pro Woche öffnen."
+  "description": "Pawty bringt Ihre Marke zur wertvollsten Zielgruppe im Heimtiermarkt: Halter, die ihren Hund aktiv trainieren und die App mehrmals pro Woche öffnen."
  },
  "marketplace.html": {
   "title": "Marktplatz-Partner — Pawty",
@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Hundetrainings-App, 5 Minuten am Tag",
-  "description": "Gemeinsam trainieren. Gemeinsam wachsen. 99 Hundetrainings-Skills in 5-Minuten-Einheiten, 32 Verhaltensratgeber, Trainingspläne und ein Pflegekalender, für iPhone und Android.",
+  "description": "Zusammen trainieren. Zusammen wachsen. 99 Hundetrainings-Skills in 5-Minuten-Einheiten, 32 Verhaltensratgeber, Trainingspläne und ein Pflegekalender, für iPhone und Android.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Hundetrainings-App für iPhone und Android mit 99 Skills in 5-Minuten-Einheiten, 32 Verhaltensratgebern, Pfoten-Bewertungen, Trainingsplänen und einem Pflegekalender.\",\"url\":\"https://pawtyapp.com/de/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"de\"}"
  },
  "blog.html": {
@@ -30,43 +30,43 @@
  },
  "post-puppy-cost.html": {
   "title": "Was ein Welpe im ersten Jahr wirklich kostet — Pawty",
-  "description": "Europäische Kosten für das erste Welpenjahr, Posten für Posten: Box, Tierarzt, Futter, Fellpflege und Versicherung, und was du dir sparen kannst.",
+  "description": "Europäische Kosten für das erste Welpenjahr, Posten für Posten: Box, Tierarzt, Futter, Fellpflege und Versicherung, und was Sie sich sparen können.",
   "headline": "Was ein Welpe im ersten Jahr wirklich kostet"
  },
  "post-shopping-list.html": {
-  "title": "Die Einkaufsliste für den Welpen und was du weglassen kannst — Pawty",
-  "description": "Was du vor dem Einzug des Welpen kaufst, was im 2. Monat und die 6 Dinge aus dem Tierladen, die du nicht brauchst.",
-  "headline": "Die Einkaufsliste für den Welpen und was du weglassen kannst"
+  "title": "Die Einkaufsliste für den Welpen und was Sie weglassen können — Pawty",
+  "description": "Was Sie vor dem Einzug des Welpen kaufen, was im 2. Monat und die 6 Dinge aus dem Tierladen, die Sie nicht brauchen.",
+  "headline": "Die Einkaufsliste für den Welpen und was Sie weglassen können"
  },
  "post-vaccination.html": {
   "title": "Der Impfplan für Welpen in Europa — Pawty",
-  "description": "Der übliche europäische Impfplan für Welpen, wogegen jede Impfung schützt und wie du sicher sozialisierst, bevor die Grundimmunisierung abgeschlossen ist.",
+  "description": "Der übliche europäische Impfplan für Welpen, wogegen jede Impfung schützt und wie Sie sicher sozialisieren, bevor die Grundimmunisierung abgeschlossen ist.",
   "headline": "Der Impfplan für Welpen in Europa"
  },
  "post-puppy-sleep.html": {
   "title": "Wie viel Schlaf braucht ein Welpe — Pawty",
-  "description": "Welpen brauchen 18 bis 20 Stunden Schlaf am Tag. Warum das abendliche Beißen Übermüdung ist und wie du ein Nickerchen ohne Kampf durchsetzt.",
+  "description": "Welpen brauchen 18 bis 20 Stunden Schlaf am Tag. Warum das abendliche Beißen Übermüdung ist und wie Sie ein Nickerchen ohne Kampf durchsetzen.",
   "headline": "Wie viel Schlaf braucht ein Welpe"
  },
  "post-teething.html": {
   "title": "Überlebensratgeber für den Zahnwechsel beim Welpen — Pawty Blog",
-  "description": "Zeitplan des Zahnwechsels vom 3. bis 7. Monat, was hilft und welche Fehler du vermeiden solltest.",
+  "description": "Zeitplan des Zahnwechsels vom 3. bis 7. Monat, was hilft und welche Fehler Sie vermeiden sollten.",
   "headline": "Überlebensratgeber für den Zahnwechsel beim Welpen"
  },
  "post-walks.html": {
   "title": "Wie lang sollten Spaziergänge mit dem Welpen sein? — Pawty Blog",
-  "description": "Die 5-Minuten-pro-Monat-Regel für Welpenspaziergänge, was dazuzählt und wie du deinen Welpen liest.",
+  "description": "Die 5-Minuten-pro-Monat-Regel für Welpenspaziergänge, was dazuzählt und wie Sie Ihren Welpen lesen.",
   "headline": "Wie lang sollten Spaziergänge mit dem Welpen sein?"
  },
  "post-sit.html": {
-  "title": "Bring deinem Hund in einer Woche Sitz bei — Pawty Blog",
+  "title": "Bringen Sie Ihrem Hund in einer Woche Sitz bei — Pawty Blog",
   "description": "Die Lockmethode für Sitz, die 2 klassischen Fehler und wie Erfolg pro Einheit aussieht.",
-  "headline": "Bring deinem Hund in einer Woche Sitz bei"
+  "headline": "Bringen Sie Ihrem Hund in einer Woche Sitz bei"
  },
  "post-clicker-vs-marker.html": {
-  "title": "Clicker oder Markerwort: Was solltest du nutzen? — Pawty",
-  "description": "Beide markieren den genauen Moment, in dem dein Hund es richtig macht. Wann du was nutzt, wie du den Marker in 2 Minuten aufbaust und die 4 Fehler.",
-  "headline": "Clicker oder Markerwort: Was solltest du nutzen?"
+  "title": "Clicker oder Markerwort: Was sollten Sie nutzen? — Pawty",
+  "description": "Beide markieren den genauen Moment, in dem Ihr Hund es richtig macht. Wann Sie was nutzen, wie Sie den Marker in 2 Minuten aufbauen und die 4 Fehler.",
+  "headline": "Clicker oder Markerwort: Was sollten Sie nutzen?"
  },
  "post-5minutes.html": {
   "title": "Warum 5 Minuten am Tag Wochenend-Marathons schlagen — Pawty Blog",
@@ -74,13 +74,13 @@
   "headline": "Warum 5 Minuten am Tag Wochenend-Marathons schlagen"
  },
  "post-cockapoo-grooming.html": {
-  "title": "Cockapoo-Fellpflege: Was dir niemand sagt — Pawty",
+  "title": "Cockapoo-Fellpflege: Was Ihnen niemand sagt — Pawty",
   "description": "Lockiges Fell hört nie auf zu wachsen. Die echten Kosten pro Jahr, warum Verfilzungen entstehen und die Scheitel-Bürstmethode, die sie verhindert.",
-  "headline": "Cockapoo-Fellpflege: Was dir niemand sagt"
+  "headline": "Cockapoo-Fellpflege: Was Ihnen niemand sagt"
  },
  "post-rescue-333.html": {
   "title": "Hund aus dem Tierschutz adoptieren: die 3-3-3-Regel — Pawty",
-  "description": "3 Tage, 3 Wochen, 3 Monate. Wie das Ankommen eines erwachsenen Tierschutzhundes wirklich aussieht und was du in jeder Phase tust.",
+  "description": "3 Tage, 3 Wochen, 3 Monate. Wie das Ankommen eines erwachsenen Tierschutzhundes wirklich aussieht und was Sie in jeder Phase tun.",
   "headline": "Einen erwachsenen Hund aus dem Tierschutz adoptieren: die 3-3-3-Regel"
  },
  "legal/terms.html": {
@@ -89,30 +89,30 @@
  },
  "legal/privacy.html": {
   "title": "Datenschutzerklärung — Pawty",
-  "description": "Wie Pawty mit deinen Daten umgeht: personalisierte Werbung und Einwilligung, Rechte nach DSGVO, Hosting in der EU und Affiliate-Links."
+  "description": "Wie Pawty mit Ihren Daten umgeht: personalisierte Werbung und Einwilligung, Rechte nach DSGVO, Hosting in der EU und Affiliate-Links."
  },
  "404.html": {
   "title": "Seite nicht gefunden — Pawty",
   "description": "Seite auf pawtyapp.com nicht gefunden."
  },
  "post-fireworks.html": {
-  "title": "Silvester und dein Hund: Fang jetzt mit der Vorbereitung an — Pawty Blog",
-  "description": "So bereitest du deinen Hund auf das Silvesterfeuerwerk vor: Geräuschtraining ab November, ein sicherer Rückzugsort, die Nacht selbst und wann du zum Tierarzt solltest.",
-  "headline": "Silvester und dein Hund: Fang jetzt mit der Vorbereitung an"
+  "title": "Silvester und Ihr Hund: Fangen Sie jetzt mit der Vorbereitung an — Pawty Blog",
+  "description": "So bereiten Sie Ihren Hund auf das Silvesterfeuerwerk vor: Geräuschtraining ab November, ein sicherer Rückzugsort, die Nacht selbst und wann Sie zum Tierarzt sollten.",
+  "headline": "Silvester und Ihr Hund: Fangen Sie jetzt mit der Vorbereitung an"
  },
  "post-christmas-dangers.html": {
   "title": "Weihnachtsgefahren für Hunde: Was außer Reichweite gehört — Pawty Blog",
-  "description": "Welche Weihnachtsleckereien, Dekorationen und Pflanzen für Hunde gefährlich sind und was du tust, wenn dein Hund etwas gefressen hat.",
-  "headline": "Weihnachtsgefahren für Hunde: Was du außer Reichweite halten solltest"
+  "description": "Welche Weihnachtsleckereien, Dekorationen und Pflanzen für Hunde gefährlich sind und was Sie tun, wenn Ihr Hund etwas gefressen hat.",
+  "headline": "Weihnachtsgefahren für Hunde: Was Sie außer Reichweite halten sollten"
  },
  "post-snuffle-mat.html": {
   "title": "Schnüffelteppiche: Warum 10 Minuten Schnüffeln müde machen — Pawty Blog",
-  "description": "Warum Schnüffeln einen Hund auslastet und beruhigt, wie du einen Schnüffelteppich Schritt für Schritt einführst und Schnüffelspiele ganz ohne Teppich.",
+  "description": "Warum Schnüffeln einen Hund auslastet und beruhigt, wie Sie einen Schnüffelteppich Schritt für Schritt einführen und Schnüffelspiele ganz ohne Teppich.",
   "headline": "Schnüffelteppiche: Warum 10 Minuten Schnüffeln einen Hund müde machen"
  },
  "post-winter-paws.html": {
   "title": "Pfotenpflege im Winter: Streusalz, Eis und Kälte — Pawty Blog",
-  "description": "So schützt du die Pfoten deines Hundes im Winter: Streusalz abspülen, Pfotenbalsam, Eisklumpen zwischen den Zehen, Hundemäntel und Gefahren im Winter.",
+  "description": "So schützen Sie die Pfoten Ihres Hundes im Winter: Streusalz abspülen, Pfotenbalsam, Eisklumpen zwischen den Zehen, Hundemäntel und Gefahren im Winter.",
   "headline": "Pfotenpflege im Winter: Streusalz, Eis und Kälte"
  },
  "post-eu-travel.html": {

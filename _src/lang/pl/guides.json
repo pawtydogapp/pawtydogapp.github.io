@@ -49,7 +49,7 @@
  },
  "chewadult": {
   "title": "Dorosły pies gryzie meble z nudów",
-  "description": "Gryzienie uspokaja. Co mówi ci niedostatecznie stymulowany dorosły pies i jak to przekierować.",
+  "description": "Gryzienie uspokaja. Co mówi niedostatecznie stymulowany dorosły pies i jak to przekierować.",
   "card": "Gryzienie uspokaja.",
   "needs": [
    "Gryzaki na zmianę",
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Pies ciągnie na smyczy: dlaczego i co działa",
-  "description": "Psy ciągną, bo to je przybliżało do celu. Stój i idź, nagroda przy nodze, i dlaczego kolczatki tworzą nowe problemy.",
+  "description": "Psy ciągną, bo to je przybliżało do celu. Zasada stój-i-idź, nagroda przy nodze, i dlaczego kolczatki tworzą nowe problemy.",
   "card": "Psy ciągną, bo to je przybliżało do celu.",
   "needs": [
    "Szelki z przednim zaczepem",
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Pies nie przychodzi na zawołanie",
-  "description": "Otoczenie nagradza lepiej niż ty. Odbudowa przywołania na lince treningowej i ochrona sygnału.",
-  "card": "Otoczenie nagradza lepiej niż ty.",
+  "description": "Otoczenie nagradza lepiej niż opiekun. Odbudowa przywołania na lince treningowej i ochrona sygnału.",
+  "card": "Otoczenie nagradza lepiej niż opiekun.",
   "needs": [
    "Linka treningowa",
    "Smakołyki wysokiej wartości"
@@ -206,7 +206,7 @@
  },
  "marking": {
   "title": "Pies znaczy w domu",
-  "description": "Małe, celowe oznaczenia na pionowych powierzchniach. Najpierw wyklucz przyczyny medyczne.",
+  "description": "Małe, celowe oznaczenia na pionowych powierzchniach. Najpierw należy wykluczyć przyczyny medyczne.",
   "card": "Małe, celowe oznaczenia na pionowych powierzchniach.",
   "needs": [
    "Środek enzymatyczny",
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Zoomies, czyli nagłe szalone biegi",
-  "description": "Nagłe szalone okrążenia to normalne, zdrowe rozładowanie energii. Kontroluj podłoże, nie radość.",
+  "description": "Nagłe szalone okrążenia to normalne, zdrowe rozładowanie energii. Należy kontrolować podłoże, nie radość.",
   "card": "Nagłe szalone okrążenia to normalne, zdrowe rozładowanie energii.",
   "needs": [
    "Dywanik antypoślizgowy"

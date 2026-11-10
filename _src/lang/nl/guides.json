@@ -49,7 +49,7 @@
  },
  "chewadult": {
   "title": "Volwassen hond kauwt uit verveling op meubels",
-  "description": "Kauwen kalmeert. Wat een onderprikkelde volwassen hond je vertelt, en hoe je het omleidt.",
+  "description": "Kauwen kalmeert. Wat een onderprikkelde volwassen hond u vertelt, en hoe u het omleidt.",
   "card": "Kauwen kalmeert.",
   "needs": [
    "Afwisselende kauwartikelen",
@@ -57,7 +57,7 @@
   ]
  },
  "jumping": {
-  "title": "Hond springt tegen mensen op: zo stop je het",
+  "title": "Hond springt tegen mensen op: zo stopt u het",
   "description": "Opspringen is opwinding plus een geschiedenis waarin het loonde. De 4-poten-regel en een vervangende taak die niet samengaat met opspringen.",
   "card": "Opspringen is opwinding plus een geschiedenis waarin het loonde.",
   "needs": [
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Hond trekt aan de riem: waarom en wat werkt",
-  "description": "Honden trekken omdat het ze vooruit bracht. Stoppen en doorlopen, belonen bij je been, en waarom prikbanden nieuwe problemen veroorzaken.",
+  "description": "Honden trekken omdat het ze vooruit bracht. Stoppen en doorlopen, belonen bij uw been, en waarom prikbanden nieuwe problemen veroorzaken.",
   "card": "Honden trekken omdat het ze vooruit bracht.",
   "needs": [
    "Tuig met borstring",
@@ -76,7 +76,7 @@
  },
  "doorbell": {
   "title": "Hond blaft bij de deurbel",
-  "description": "De bel voorspelt iets spannends. Hoe je hem herconditioneert zodat de bel kaas voorspelt in plaats van chaos.",
+  "description": "De bel voorspelt iets spannends. Hoe u hem herconditioneert zodat de bel kaas voorspelt in plaats van chaos.",
   "card": "De bel voorspelt iets spannends.",
   "needs": [
    "Opname van het deurbelgeluid",
@@ -85,7 +85,7 @@
  },
  "barkdogs": {
   "title": "Hond blaft naar andere honden tijdens de wandeling",
-  "description": "Meestal frustratie of ongemak. De afstand vinden waarop je hond rustig blijft, en die in weken verkleinen.",
+  "description": "Meestal frustratie of ongemak. De afstand vinden waarop uw hond rustig blijft, en die in weken verkleinen.",
   "card": "Meestal frustratie of ongemak.",
   "needs": [
    "Sleeplijn",
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Eisblaffen: hond blaft naar je voor eten of aandacht",
+  "title": "Eisblaffen: hond blaft naar u voor eten of aandacht",
   "description": "De hond blaft omdat het eerder werkte. Waarom het erger wordt voordat het beter wordt.",
   "card": "De hond blaft omdat het eerder werkte.",
   "needs": []
@@ -119,7 +119,7 @@
  },
  "sepanx": {
   "title": "Hond kan slecht alleen zijn",
-  "description": "Alleen zijn is een aangeleerde vaardigheid, geen fabrieksinstelling. Afwezigheid trainen in piepkleine stapjes, en wanneer je de hond filmt.",
+  "description": "Alleen zijn is een aangeleerde vaardigheid, geen fabrieksinstelling. Afwezigheid trainen in piepkleine stapjes, en wanneer u de hond filmt.",
   "card": "Alleen zijn is een aangeleerde vaardigheid, geen fabrieksinstelling.",
   "needs": [
    "Langdurig kauwartikel",
@@ -128,7 +128,7 @@
  },
  "digging": {
   "title": "Hond graaft in de tuin",
-  "description": "Graven is aangeboren. Je kunt het niet wissen, wel verplaatsen naar een toegestane graafplek.",
+  "description": "Graven is aangeboren. U kunt het niet wissen, wel verplaatsen naar een toegestane graafplek.",
   "card": "Graven is aangeboren.",
   "needs": [
    "Zandbak of graafbak",
@@ -163,7 +163,7 @@
  },
  "guard": {
   "title": "Resource guarding: eerste signalen bij eten en speelgoed",
-  "description": "Verstijven, strak staren of grommen betekent angst om iets te verliezen. Waarom je grommen nooit mag straffen.",
+  "description": "Verstijven, strak staren of grommen betekent angst om iets te verliezen. Waarom u grommen nooit mag straffen.",
   "card": "Verstijven, strak staren of grommen betekent angst om iets te verliezen.",
   "needs": []
  },
@@ -179,17 +179,17 @@
  },
  "fireworks": {
   "title": "Hond is bang voor vuurwerk en onweer",
-  "description": "Een hol voorbereiden, waarom troosten prima is, en de geluidstraining waarmee je in november begint.",
-  "card": "Een hol voorbereiden, waarom troosten prima is, en de geluidstraining waarmee je in november begint.",
+  "description": "Een hol voorbereiden, waarom troosten prima is, en de geluidstraining waarmee u in november begint.",
+  "card": "Een hol voorbereiden, waarom troosten prima is, en de geluidstraining waarmee u in november begint.",
   "needs": [
    "Witte-ruisapparaat",
    "Overdekte hondenmand"
   ]
  },
  "norecall": {
-  "title": "Hond komt niet als je roept",
-  "description": "De omgeving beloont beter dan jij. Terugroepen opnieuw opbouwen aan een sleeplijn en het signaal beschermen.",
-  "card": "De omgeving beloont beter dan jij.",
+  "title": "Hond komt niet als u roept",
+  "description": "De omgeving beloont beter dan u. Terugroepen opnieuw opbouwen aan een sleeplijn en het signaal beschermen.",
+  "card": "De omgeving beloont beter dan u.",
   "needs": [
    "Sleeplijn",
    "Superlekkere beloningen"
@@ -214,7 +214,7 @@
   ]
  },
  "heat": {
-  "title": "De eerste loopsheid van een teefje: wat je kunt verwachten",
+  "title": "De eerste loopsheid van een teefje: wat u kunt verwachten",
   "description": "Tussen 6 en 15 maanden, duurt 2 tot 4 weken. 3 weken management, daarna gaat het leven verder.",
   "card": "Tussen 6 en 15 maanden, duurt 2 tot 4 weken.",
   "needs": [
@@ -247,7 +247,7 @@
  },
  "stealing": {
   "title": "Hond steelt sokken en rent ermee weg",
-  "description": "Sok pakken, en de mensen komen erachteraan. Hoe je de achtervolgingseconomie stopt.",
+  "description": "Sok pakken, en de mensen komen erachteraan. Hoe u de achtervolgingseconomie stopt.",
   "card": "Sok pakken, en de mensen komen erachteraan.",
   "needs": [
    "Trekspeeltje",

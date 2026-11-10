@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 guias de comportamento canino — Pawty",
-  "description": "Os mesmos guias que estão na app. Existem para te tirar a preocupação com o que o teu cão está a fazer e depois dizer-te o que fazer de facto."
+  "description": "Os mesmos guias que estão na app. Existem para lhe tirar a preocupação com o que o seu cão está a fazer e depois dizer-lhe o que fazer de facto."
  },
  "support.html": {
   "title": "Ajuda — Pawty",
@@ -13,7 +13,7 @@
  },
  "partners.html": {
   "title": "Parceiros e imprensa — Pawty",
-  "description": "A Pawty leva a tua marca ao público mais valioso do mundo animal: donos que treinam ativamente o seu cão e abrem a app várias vezes por semana."
+  "description": "A Pawty leva a sua marca ao público mais valioso do mundo animal: donos que treinam ativamente o cão e abrem a app várias vezes por semana."
  },
  "marketplace.html": {
   "title": "Parceiros do Mercado — Pawty",
@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — App de treino de cães, 5 minutos por dia",
-  "description": "Treinar juntos. Crescer juntos. 99 competências em sessões de 5 minutos, 32 guias de comportamento, planos de treino e um calendário de cuidados, em iPhone e Android.",
+  "description": "Treinem juntos. Cresçam juntos. 99 competências em sessões de 5 minutos, 32 guias de comportamento, planos de treino e um calendário de cuidados, em iPhone e Android.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App de treino de cães para iPhone e Android com 99 competências em sessões de 5 minutos, 32 guias de comportamento, avaliações em patas, planos de treino e um calendário de cuidados.\",\"url\":\"https://pawtyapp.com/pt/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pt\"}"
  },
  "blog.html": {
@@ -30,13 +30,13 @@
  },
  "post-puppy-cost.html": {
   "title": "Quanto custa realmente um cachorro no primeiro ano — Pawty",
-  "description": "Custos europeus do primeiro ano de um cachorro, rubrica a rubrica: caixa de transporte, veterinário, comida, tosquia e seguro, e o que podes dispensar sem problema.",
+  "description": "Custos europeus do primeiro ano de um cachorro, rubrica a rubrica: caixa de transporte, veterinário, comida, tosquia e seguro, e o que pode dispensar sem problema.",
   "headline": "Quanto custa realmente um cachorro no primeiro ano"
  },
  "post-shopping-list.html": {
-  "title": "A lista de compras do cachorro, e o que podes dispensar — Pawty",
-  "description": "O que comprar antes de o cachorro chegar, o que comprar no 2.º mês e as 6 coisas que as lojas de animais vendem e de que não precisas.",
-  "headline": "A lista de compras do cachorro, e o que podes dispensar"
+  "title": "A lista de compras do cachorro, e o que pode dispensar — Pawty",
+  "description": "O que comprar antes de o cachorro chegar, o que comprar no 2.º mês e as 6 coisas que as lojas de animais vendem e de que não precisa.",
+  "headline": "A lista de compras do cachorro, e o que pode dispensar"
  },
  "post-vaccination.html": {
   "title": "O calendário de vacinação do cachorro na Europa — Pawty",
@@ -55,17 +55,17 @@
  },
  "post-walks.html": {
   "title": "Quanto tempo devem durar os passeios do cachorro? — Blog Pawty",
-  "description": "A regra dos 5 minutos por mês de idade, o que conta para ela e como ler o teu cachorro.",
+  "description": "A regra dos 5 minutos por mês de idade, o que conta para ela e como ler o seu cachorro.",
   "headline": "Quanto tempo devem durar os passeios do cachorro?"
  },
  "post-sit.html": {
-  "title": "Ensina o teu cão a sentar numa semana — Blog Pawty",
+  "title": "Ensine o seu cão a sentar numa semana — Blog Pawty",
   "description": "O método do engodo para ensinar o senta, os 2 erros clássicos e como é o sucesso em cada sessão.",
-  "headline": "Ensina o teu cão a sentar numa semana"
+  "headline": "Ensine o seu cão a sentar numa semana"
  },
  "post-clicker-vs-marker.html": {
   "title": "Clicker ou palavra marcadora: qual usar — Pawty",
-  "description": "Ambos marcam o momento exato em que o teu cão acerta. Qual usar e quando, como carregá-lo em 2 minutos e os 4 erros.",
+  "description": "Ambos marcam o momento exato em que o seu cão acerta. Qual usar e quando, como carregá-lo em 2 minutos e os 4 erros.",
   "headline": "Clicker ou palavra marcadora: qual usar"
  },
  "post-5minutes.html": {
@@ -74,9 +74,9 @@
   "headline": "Porque 5 minutos por dia batem as maratonas de fim de semana"
  },
  "post-cockapoo-grooming.html": {
-  "title": "Tosquia do cockapoo: o que ninguém te diz — Pawty",
+  "title": "Tosquia do cockapoo: o que ninguém lhe diz — Pawty",
   "description": "O pelo encaracolado nunca para de crescer. O custo real por ano, porque se formam nós e o método de escovar por camadas que os evita.",
-  "headline": "Tosquia do cockapoo: o que ninguém te diz"
+  "headline": "Tosquia do cockapoo: o que ninguém lhe diz"
  },
  "post-rescue-333.html": {
   "title": "Adotar um cão adulto de um abrigo: a regra 3-3-3 — Pawty",
@@ -89,20 +89,20 @@
  },
  "legal/privacy.html": {
   "title": "Política de privacidade — Pawty",
-  "description": "Como a Pawty trata os teus dados: publicidade personalizada e consentimento, direitos do RGPD, alojamento na UE e links de afiliado."
+  "description": "Como a Pawty trata os seus dados: publicidade personalizada e consentimento, direitos do RGPD, alojamento na UE e links de afiliado."
  },
  "404.html": {
   "title": "Página não encontrada — Pawty",
   "description": "Página não encontrada em pawtyapp.com."
  },
  "post-fireworks.html": {
-  "title": "O fogo de artifício e o teu cão: começa a preparar-te já — Blog Pawty",
+  "title": "O fogo de artifício e o seu cão: comece a preparar-se já — Blog Pawty",
   "description": "Como preparar um cão para o fogo de artifício da passagem de ano: treino com sons a partir de novembro, um refúgio seguro, a própria noite e quando ir ao veterinário.",
-  "headline": "O fogo de artifício e o teu cão: começa a preparar-te já"
+  "headline": "O fogo de artifício e o seu cão: comece a preparar-se já"
  },
  "post-christmas-dangers.html": {
   "title": "Perigos do Natal para cães: o que manter fora do alcance — Blog Pawty",
-  "description": "Os alimentos, as decorações e as plantas de Natal que são perigosos para cães, e o que fazer se o teu cão comeu alguma coisa.",
+  "description": "Os alimentos, as decorações e as plantas de Natal que são perigosos para cães, e o que fazer se o seu cão comeu alguma coisa.",
   "headline": "Perigos do Natal para cães: o que manter fora do alcance"
  },
  "post-snuffle-mat.html": {
@@ -112,13 +112,13 @@
  },
  "post-winter-paws.html": {
   "title": "Cuidar das patas no inverno: sal, gelo e frio — Blog Pawty",
-  "description": "Protege as patas do teu cão no inverno: tirar o sal da estrada, bálsamo para patas, bolas de gelo entre os dedos, casacos e perigos do inverno.",
+  "description": "Proteja as patas do seu cão no inverno: tirar o sal da estrada, bálsamo para patas, bolas de gelo entre os dedos, casacos e perigos do inverno.",
   "headline": "Cuidar das patas no inverno: sal, gelo e frio"
  },
  "post-eu-travel.html": {
-  "title": "Viajar na UE com o teu cão: passaporte e regras — Blog Pawty",
+  "title": "Viajar na UE com o seu cão: passaporte e regras — Blog Pawty",
   "description": "As regras da UE para viajar com animais de companhia: microchip, vacina antirrábica, a espera de 21 dias, o passaporte, a regra da ténia e dicas de viagem.",
-  "headline": "Viajar na UE com o teu cão: passaporte e regras"
+  "headline": "Viajar na UE com o seu cão: passaporte e regras"
  },
  "shop.html": {
   "title": "Loja Pawty family — Pawty",

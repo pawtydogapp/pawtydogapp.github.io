@@ -32,7 +32,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 </script></head><body>
 <header class="top"><a class="logo" href="/pl/"><img src="/img/logo.webp" alt="" width="42" height="42">Pawty</a>
 <nav class="links" aria-label="Menu główne"><a href="/pl/">Start</a><a href="/pl/guides.html">Poradniki</a><a href="/pl/blog.html">Blog</a><a href="/pl/marketplace.html">Oferty</a><a href="/pl/partners.html">Partnerzy</a><a href="/pl/approach.html">Podejście</a><a href="/pl/support.html">Pomoc</a></nav><details class="lang"><summary aria-label="Język: Polski"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8.6"/><path d="M3.4 12h17.2M12 3.4c2.4 2.4 3.6 5.3 3.6 8.6s-1.2 6.2-3.6 8.6c-2.4-2.4-3.6-5.3-3.6-8.6S9.6 5.8 12 3.4z"/></svg>PL</summary><div class="langmenu"><a href="/shop.html" hreflang="en" lang="en">English</a><a href="/de/shop.html" hreflang="de" lang="de">Deutsch</a><a href="/es/shop.html" hreflang="es" lang="es">Español</a><a href="/fr/shop.html" hreflang="fr" lang="fr">Français</a><a href="/hr/shop.html" hreflang="hr" lang="hr">Hrvatski</a><a href="/it/shop.html" hreflang="it" lang="it">Italiano</a><a href="/nl/shop.html" hreflang="nl" lang="nl">Nederlands</a><a href="/pl/shop.html" hreflang="pl" lang="pl" aria-current="true">Polski</a><a href="/pt/shop.html" hreflang="pt" lang="pt">Português</a><a href="/ro/shop.html" hreflang="ro" lang="ro">Română</a><a href="/sl/shop.html" hreflang="sl" lang="sl">Slovenščina</a></div></details><a class="getbtn" href="/pl/#get">Pobierz Pawty</a></header><main><div class="wrap shopwrap" style="padding-top:36px">
-<div id="shop" data-lang="pl" data-add="Dodaj do koszyka" data-added="Dodano" data-soon-title="Już wkrótce" data-soon-text="Pierwsze ręcznie robione produkty Pawty są już w drodze. Zajrzyj tu wkrótce." data-load-error="Nie udało się teraz załadować sklepu. Spróbuj ponownie za minutę." data-empty="Twój koszyk jest pusty." data-shipping="Wysyłka" data-free="Gratis" data-code="Kod" data-total="Razem" data-qty="Ilość" data-code-invalid="Ten kod jest nieprawidłowy." data-error="Coś poszło nie tak. Nic nie zostało pobrane. Spróbuj ponownie." data-thanks="Dziękujemy, twoje zamówienie zostało przyjęte. Stripe wyśle ci potwierdzenie zakupu e-mailem. Twoja paczka zostanie ręcznie zapakowana w Słowenii i wysłana, gdy tylko będzie gotowa." data-cancelled="Płatność została anulowana. Nic nie zostało pobrane, a twój koszyk nadal na ciebie czeka.">
+<div id="shop" data-lang="pl" data-add="Dodaj do koszyka" data-added="Dodano" data-soon-title="Już wkrótce" data-soon-text="Pierwsze ręcznie robione produkty Pawty są już w drodze. Warto zajrzeć tu wkrótce." data-load-error="Nie udało się teraz załadować sklepu. Prosimy spróbować ponownie za minutę." data-empty="Koszyk jest pusty." data-shipping="Wysyłka" data-free="Gratis" data-code="Kod" data-total="Razem" data-qty="Ilość" data-code-invalid="Ten kod jest nieprawidłowy." data-error="Coś poszło nie tak. Nic nie zostało pobrane. Prosimy spróbować ponownie." data-thanks="Dziękujemy, zamówienie zostało przyjęte. Stripe wyśle potwierdzenie zakupu e-mailem. Paczka zostanie ręcznie zapakowana w Słowenii i wysłana, gdy tylko będzie gotowa." data-cancelled="Płatność została anulowana. Nic nie zostało pobrane, a koszyk nadal czeka.">
 <p id="shop-note" class="shopnotice" hidden aria-live="polite"></p>
 <div id="shop-list-view">
 <div class="shophead"><h2 class="sec" style="text-align:left;margin:0">Pawty family</h2><button id="shop-open-cart" class="shopcart" type="button">Koszyk <span id="shop-count"></span></button></div>
@@ -40,8 +40,8 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 <div id="shop-list" class="shoplist"><p class="shopmsg">…</p></div>
 </div>
 <div id="shop-cart-view" hidden>
-<button id="shop-back" class="shopback" type="button">Wróć do produktów</button>
-<h2 class="sec" style="text-align:left;margin:10px 0 14px">Twój koszyk</h2>
+<button id="shop-back" class="shopback" type="button">Powrót do produktów</button>
+<h2 class="sec" style="text-align:left;margin:10px 0 14px">Koszyk</h2>
 <div id="cart-lines" class="shopbox"></div>
 <div id="cart-form">
 <div class="shopbox">
@@ -49,13 +49,13 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 <div class="shopcoderow"><input id="f-code" class="shopin" autocomplete="off" autocapitalize="characters" maxlength="40"><button id="code-apply" class="shopghost" type="button">Zastosuj</button></div>
 <p id="code-msg" class="shoperr" aria-live="polite"></p>
 <label class="shoplabel" for="f-country">Kraj</label><select id="f-country" class="shopin" autocomplete="country"></select>
-<p class="shopnote" style="text-align:left;margin-top:8px">Na następnej stronie Stripe poprosi o twoje imię i nazwisko, adres dostawy i numer telefonu.</p>
+<p class="shopnote" style="text-align:left;margin-top:8px">Na następnej stronie Stripe poprosi o imię i nazwisko, adres dostawy i numer telefonu.</p>
 </div>
-<button id="pay" class="shoppay" type="button">Zapłać bezpiecznie</button>
+<button id="pay" class="shoppay" type="button">Bezpieczna płatność</button>
 <p id="pay-msg" class="shoperr" aria-live="polite"></p>
 <div class="shopcards"><span>Visa</span><span>Mastercard</span><span>Apple Pay</span><span>Google Pay</span></div>
-<p class="shopnote">Przycisk Zapłać bezpiecznie otwiera stronę płatności Stripe. Pawty nigdy nie widzi numeru karty.</p>
-<p class="shopnote"><a href="/pl/legal/sale.html">Płacąc, akceptujesz regulamin sprzedaży.</a></p>
+<p class="shopnote">Przycisk Bezpieczna płatność otwiera stronę płatności Stripe. Pawty nigdy nie widzi numeru karty.</p>
+<p class="shopnote"><a href="/pl/legal/sale.html">Dokonanie płatności oznacza akceptację regulaminu sprzedaży.</a></p>
 </div>
 </div>
 <p class="shopseller">Sprzedawca: Darija Mesko s.p., Vrhnika, Słowenia. VAT nie jest naliczany na podstawie art. 94 słoweńskiej ustawy o VAT (ZDDV-1). <a href="/pl/legal/sale.html">Regulamin sprzedaży</a></p>
@@ -63,7 +63,7 @@ posthog.init('phc_ut44CwXPTCKTpC4yLDYrLddtxGHyQtNK3WmKoXEVqugB',{
 </div>
 <script src="/assets/shop.js?v=f4cd9785"></script>
 </main><footer><div class="fg">
-<div><p class="brand">Pawty</p><p>Trenujemy razem. Rośniemy razem.</p>
+<div><p class="brand">Pawty</p><p>Wspólny trening. Wspólny rozwój.</p>
 <div class="social">
 <a href="https://www.instagram.com/pawty.app" rel="noopener me">Instagram</a>
 <a href="https://www.tiktok.com/@pawty.app" rel="noopener me">TikTok</a>

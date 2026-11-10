@@ -49,7 +49,7 @@
  },
  "chewadult": {
   "title": "Odrasli pas grize namještaj iz dosade",
-  "description": "Žvakanje smiruje. Što ti poručuje nedovoljno stimuliran odrasli pas i kako to preusmjeriti.",
+  "description": "Žvakanje smiruje. Što vam poručuje nedovoljno stimuliran odrasli pas i kako to preusmjeriti.",
   "card": "Žvakanje smiruje.",
   "needs": [
    "Žvakalice koje se izmjenjuju",
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Pas vuče na povodcu: zašto i što pomaže",
-  "description": "Psi vuku jer ih je to odvelo naprijed. Stani i kreni, nagrada uz tvoju nogu, i zašto ogrlice s bodljama stvaraju nove probleme.",
+  "description": "Psi vuku jer ih je to odvelo naprijed. Stanite i krenite, nagrada uz vašu nogu, i zašto ogrlice s bodljama stvaraju nove probleme.",
   "card": "Psi vuku jer ih je to odvelo naprijed.",
   "needs": [
    "Orma s kopčom sprijeda",
@@ -85,7 +85,7 @@
  },
  "barkdogs": {
   "title": "Pas laje na druge pse u šetnji",
-  "description": "Obično frustracija ili nelagoda. Pronađi udaljenost na kojoj tvoj pas ostaje miran i smanjuj je tijekom tjedana.",
+  "description": "Obično frustracija ili nelagoda. Pronađite udaljenost na kojoj vaš pas ostaje miran i smanjujte je tijekom tjedana.",
   "card": "Obično frustracija ili nelagoda.",
   "needs": [
    "Dugi povodac",
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Zahtjevno lajanje: pas laje na tebe za hranu ili pažnju",
+  "title": "Zahtjevno lajanje: pas laje na vas za hranu ili pažnju",
   "description": "Pas laje jer mu je to već uspjelo. Zašto postaje glasnije prije nego što postane bolje.",
   "card": "Pas laje jer mu je to već uspjelo.",
   "needs": []
@@ -128,7 +128,7 @@
  },
  "digging": {
   "title": "Pas kopa po vrtu",
-  "description": "Kopanje je urođeno. Ne možeš ga izbrisati, ali ga možeš preseliti u dopuštenu zonu za kopanje.",
+  "description": "Kopanje je urođeno. Ne možete ga izbrisati, ali ga možete preseliti u dopuštenu zonu za kopanje.",
   "card": "Kopanje je urođeno.",
   "needs": [
    "Pješčanik ili kutija za kopanje",
@@ -145,7 +145,7 @@
  },
  "poop": {
   "title": "Pas jede izmet (koprofagija)",
-  "description": "Česta pojava, rijetko povezana s prehranom. Odmah pokupi izmet, uvježbaj „Ostavi” i napravi veterinarski pregled koji se isplati.",
+  "description": "Česta pojava, rijetko povezana s prehranom. Odmah pokupite izmet, uvježbajte „Ostavi” i napravite veterinarski pregled koji se isplati.",
   "card": "Česta pojava, rijetko povezana s prehranom.",
   "needs": [
    "Vrećice za izmet",
@@ -163,7 +163,7 @@
  },
  "guard": {
   "title": "Čuvanje resursa: prvi znakovi kod hrane i igračaka",
-  "description": "Ukočenost, oštar pogled ili režanje znače strah od gubitka. Zašto nikada ne smiješ kazniti režanje.",
+  "description": "Ukočenost, oštar pogled ili režanje znače strah od gubitka. Zašto nikada ne smijete kazniti režanje.",
   "card": "Ukočenost, oštar pogled ili režanje znače strah od gubitka.",
   "needs": []
  },
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Pas ne dolazi na poziv",
-  "description": "Okolina nagrađuje bolje od tebe. Ponovna izgradnja dozivanja na dugom povodcu i zaštita naredbe.",
-  "card": "Okolina nagrađuje bolje od tebe.",
+  "description": "Okolina nagrađuje bolje od vas. Ponovna izgradnja dozivanja na dugom povodcu i zaštita naredbe.",
+  "card": "Okolina nagrađuje bolje od vas.",
   "needs": [
    "Dugi povodac",
    "Vrlo vrijedne poslastice"
@@ -206,7 +206,7 @@
  },
  "marking": {
   "title": "Pas markira u kući",
-  "description": "Male namjerne oznake na okomitim mjestima. Najprije isključi medicinske uzroke.",
+  "description": "Male namjerne oznake na okomitim mjestima. Najprije isključite medicinske uzroke.",
   "card": "Male namjerne oznake na okomitim mjestima.",
   "needs": [
    "Enzimsko sredstvo za čišćenje",
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Zoomies objašnjeni: nagli ludi napadi trčanja",
-  "description": "Nagli krugovi trčanja normalno su i zdravo otpuštanje energije. Prilagodi podlogu, a veselje ne diraj.",
+  "description": "Nagli krugovi trčanja normalno su i zdravo otpuštanje energije. Prilagodite podlogu, a veselje ne dirajte.",
   "card": "Nagli krugovi trčanja normalno su i zdravo otpuštanje energije.",
   "needs": [
    "Protuklizni tepih"

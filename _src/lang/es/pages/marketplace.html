@@ -1,15 +1,15 @@
 
-<section class="wr sub"><div class="two"><div class="t rise"><p class="eb">Mercado</p><h1 class="h1"><span class="ulh">Ofertas de tiendas en las que compraríamos<svg viewBox="0 0 520 24" preserveAspectRatio="none" aria-hidden="true"><path d="M4 16 C 120 4, 260 22, 516 8" stroke="#2FB56B" stroke-width="7" fill="none" stroke-linecap="round"/></svg></span></h1><p class="lead">Comida, equipo, peluquería y seguros de tiendas que envían a tu casa. Las mismas tarjetas están en la pestaña Tienda de la app, con el código listo para copiar y enlaces directos a las webs de los socios.</p></div><div class="mphone"><div class="scr"><img src="/img/app-marketplace.webp" alt="Mercado en la app Pawty" style="--sy:-245px" width="540" height="1607"></div></div></div></section>
+<section class="wr sub"><div class="two"><div class="t rise"><p class="eb">Mercado</p><h1 class="h1"><span class="ulh">Ofertas de tiendas en las que compraríamos<svg viewBox="0 0 520 24" preserveAspectRatio="none" aria-hidden="true"><path d="M4 16 C 120 4, 260 22, 516 8" stroke="#2FB56B" stroke-width="7" fill="none" stroke-linecap="round"/></svg></span></h1><p class="lead">Comida, equipo, peluquería y seguros de tiendas que envían a su casa. Las mismas tarjetas están en la pestaña Tienda de la app, con el código listo para copiar y enlaces directos a las webs de los socios.</p></div><div class="mphone"><div class="scr"><img src="/img/app-marketplace.webp" alt="Mercado en la app Pawty" style="--sy:-245px" width="540" height="1607"></div></div></div></section>
 <div class="wr" style="padding-bottom:40px">
 
 <div id="familycard" class="mkcard famcard" hidden data-lang="{{lang}}" data-pct="{{shop_card_pct}}" data-copy="{{shop_card_copy}}" data-copied="{{shop_card_copied}}"><div class="mkbody"><span class="mkcat">{{shop_card_tag}}</span><h3 id="fam-title"></h3><div id="fam-imgs" class="famimgs" hidden></div><div id="fam-promo" class="fampromo" hidden><span id="fam-pct"></span> <b id="fam-code"></b> <button id="fam-copy" class="shopghost" type="button">{{shop_card_copy}}</button></div><a id="fam-visit" class="mkbtn" href="/shop.html">{{shop_card_visit}}</a></div></div>
 <div id="mk-controls" style="margin-bottom:12px"></div>
 <div id="mk-list" class="mkgrid" data-more="Ver las {n} ofertas"><p id="mk-loading" style="color:#6E7F6E;font-weight:700">Cargando socios…</p></div>
-<noscript><p style="color:#6E7F6E;font-weight:700">La lista de socios necesita JavaScript. Abre la pestaña Mercado en la app Pawty para verla.</p></noscript>
+<noscript><p style="color:#6E7F6E;font-weight:700">La lista de socios necesita JavaScript. Abra la pestaña Tienda en la app Pawty para verla.</p></noscript>
 
-<div class="cta-box"><b class="disp" style="font-size:20px">¿Eres una tienda o una marca?</b>
-<p style="margin:8px 0 4px">Pawty muestra tu oferta a dueños que entrenan activamente a su perro y abren la app varias veces por semana. Mira la <a href="/partners.html">página de socios</a> o escribe a <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>.</p></div>
-<p style="color:#6E7F6E;font-size:14px;margin:18px 0 0">Son enlaces de socios. Si compras a través de uno, Pawty puede ganar una comisión sin coste extra para ti.</p>
+<div class="cta-box"><b class="disp" style="font-size:20px">¿Es usted una tienda o una marca?</b>
+<p style="margin:8px 0 4px">Pawty muestra su oferta a dueños que entrenan activamente a su perro y abren la app varias veces por semana. Mire la <a href="/partners.html">página de socios</a> o escriba a <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>.</p></div>
+<p style="color:#6E7F6E;font-size:14px;margin:18px 0 0">Son enlaces de socios. Si compra a través de uno, Pawty puede ganar una comisión sin coste extra para usted.</p>
 </div>
 
 <script>
@@ -57,14 +57,14 @@
         + (row.affiliate_url?'<a class="mkbtn" href="'+esc(row.affiliate_url)+'" target="_blank" rel="sponsored nofollow noopener">Ir a '+esc(row.name)+' <span>enlace de socio</span></a>':'')
         + '</div></div>';
     });
-    list.innerHTML = shown ? out : '<p style="color:#6E7F6E;font-weight:700">Todavía no hay socios para esa combinación. Prueba con Todos los países.</p>';
+    list.innerHTML = shown ? out : '<p style="color:#6E7F6E;font-weight:700">Todavía no hay socios para esa combinación. Pruebe con Todos los países.</p>';
   }
 
   fetch(URL,{headers:{apikey:KEY,Authorization:'Bearer '+KEY}})
   .then(function(r){ if(!r.ok) return r.text().then(function(t){throw new Error('HTTP '+r.status+' '+t.slice(0,200));}); return r.json(); })
   .then(function(rows){
     rows=(rows||[]).filter(inWindow);
-    if(!rows.length){ fail('Todavía no hay socios. Vuelve pronto.'); return; }
+    if(!rows.length){ fail('Todavía no hay socios. Vuelva pronto.'); return; }
     var byName={};
     rows.forEach(function(r){
       if(!byName[r.name]) { byName[r.name]={name:r.name,category:r.category,rows:[]}; groups.push(byName[r.name]); }
@@ -92,7 +92,7 @@
     render();
   })
   .catch(function(err){
-    fail('Ahora mismo no se puede cargar la lista de socios. Abre la pestaña Mercado en la app Pawty para verlos.');
+    fail('Ahora mismo no se puede cargar la lista de socios. Abra la pestaña Tienda en la app Pawty para verlos.');
     console.error('[Pawty marketplace]', err && err.message ? err.message : err);
   });
 })();

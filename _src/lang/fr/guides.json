@@ -49,7 +49,7 @@
  },
  "chewadult": {
   "title": "Chien adulte qui mâchonne les meubles par ennui",
-  "description": "Mâcher apaise. Ce que te dit un chien adulte sous-stimulé, et comment rediriger ce besoin.",
+  "description": "Mâcher apaise. Ce que vous dit un chien adulte sous-stimulé, et comment rediriger ce besoin.",
   "card": "Mâcher apaise.",
   "needs": [
    "Objets à mâcher en rotation",
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Chien qui tire en laisse : pourquoi et ce qui marche",
-  "description": "Les chiens tirent parce que ça les a fait avancer. Stop and go, récompense au niveau de ta jambe, et pourquoi les colliers à pointes créent de nouveaux problèmes.",
+  "description": "Les chiens tirent parce que ça les a fait avancer. Stop and go, récompense au niveau de votre jambe, et pourquoi les colliers à pointes créent de nouveaux problèmes.",
   "card": "Les chiens tirent parce que ça les a fait avancer.",
   "needs": [
    "Harnais à attache frontale",
@@ -85,7 +85,7 @@
  },
  "barkdogs": {
   "title": "Chien qui aboie après les autres chiens en promenade",
-  "description": "Le plus souvent de la frustration ou un malaise. Trouver la distance à laquelle ton chien reste calme, puis la réduire sur des semaines.",
+  "description": "Le plus souvent de la frustration ou un malaise. Trouver la distance à laquelle votre chien reste calme, puis la réduire sur des semaines.",
   "card": "Le plus souvent de la frustration ou un malaise.",
   "needs": [
    "Longe",
@@ -128,7 +128,7 @@
  },
  "digging": {
   "title": "Chien qui creuse dans le jardin",
-  "description": "Creuser est inné. Tu ne peux pas le supprimer, mais tu peux le déplacer vers un coin où il a le droit de creuser.",
+  "description": "Creuser est inné. Vous ne pouvez pas le supprimer, mais vous pouvez le déplacer vers un coin où il a le droit de creuser.",
   "card": "Creuser est inné.",
   "needs": [
    "Bac à sable ou bac à creuser",
@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Chien qui a peur des feux d'artifice et de l'orage",
-  "description": "Préparer une tanière, pourquoi tu peux rassurer ton chien, et le travail sur les sons à commencer en novembre.",
-  "card": "Préparer une tanière, pourquoi tu peux rassurer ton chien, et le travail sur les sons à commencer en novembre.",
+  "description": "Préparer une tanière, pourquoi vous pouvez rassurer votre chien, et le travail sur les sons à commencer en novembre.",
+  "card": "Préparer une tanière, pourquoi vous pouvez rassurer votre chien, et le travail sur les sons à commencer en novembre.",
   "needs": [
    "Appareil à bruit blanc",
    "Panier couvert"
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Chien qui ne revient pas quand on l'appelle",
-  "description": "L'environnement récompense mieux que toi. Reconstruire le rappel avec une longe et protéger le signal.",
-  "card": "L'environnement récompense mieux que toi.",
+  "description": "L'environnement récompense mieux que vous. Reconstruire le rappel avec une longe et protéger le signal.",
+  "card": "L'environnement récompense mieux que vous.",
   "needs": [
    "Longe",
    "Friandises de grande valeur"
@@ -206,7 +206,7 @@
  },
  "marking": {
   "title": "Chien qui marque à l'intérieur",
-  "description": "Petits marquages volontaires sur des surfaces verticales. Écarte d'abord les causes médicales.",
+  "description": "Petits marquages volontaires sur des surfaces verticales. Écartez d'abord les causes médicales.",
   "card": "Petits marquages volontaires sur des surfaces verticales.",
   "needs": [
    "Nettoyant enzymatique",
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Les zoomies expliqués : les folles courses soudaines",
-  "description": "Les soudaines courses en rond sont une décharge d'énergie normale et saine. Gère le terrain, pas la joie.",
+  "description": "Les soudaines courses en rond sont une décharge d'énergie normale et saine. Gérez le terrain, pas la joie.",
   "card": "Les soudaines courses en rond sont une décharge d'énergie normale et saine.",
   "needs": [
    "Tapis antidérapant"

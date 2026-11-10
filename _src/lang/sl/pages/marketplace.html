@@ -1,15 +1,15 @@
 
-<section class="wr sub"><div class="two"><div class="t rise"><p class="eb">Tržnica</p><h1 class="h1"><span class="ulh">Ponudbe trgovin, ki bi jih uporabili tudi sami<svg viewBox="0 0 520 24" preserveAspectRatio="none" aria-hidden="true"><path d="M4 16 C 120 4, 260 22, 516 8" stroke="#2FB56B" stroke-width="7" fill="none" stroke-linecap="round"/></svg></span></h1><p class="lead">Hrana, oprema, nega in zavarovanje trgovin, ki dostavljajo do tebe. Enake kartice so v zavihku Trgovina v aplikaciji, s promocijsko kodo, pripravljeno za kopiranje, in neposrednimi povezavami do strani partnerjev.</p></div><div class="mphone"><div class="scr"><img src="/img/app-marketplace.webp" alt="Tržnica v aplikaciji Pawty" style="--sy:-245px" width="540" height="1607"></div></div></div></section>
+<section class="wr sub"><div class="two"><div class="t rise"><p class="eb">Tržnica</p><h1 class="h1"><span class="ulh">Ponudbe trgovin, ki bi jih uporabili tudi sami<svg viewBox="0 0 520 24" preserveAspectRatio="none" aria-hidden="true"><path d="M4 16 C 120 4, 260 22, 516 8" stroke="#2FB56B" stroke-width="7" fill="none" stroke-linecap="round"/></svg></span></h1><p class="lead">Hrana, oprema, nega in zavarovanje trgovin, ki dostavljajo do vas. Enake kartice so v zavihku Trgovina v aplikaciji, s promocijsko kodo, pripravljeno za kopiranje, in neposrednimi povezavami do strani partnerjev.</p></div><div class="mphone"><div class="scr"><img src="/img/app-marketplace.webp" alt="Tržnica v aplikaciji Pawty" style="--sy:-245px" width="540" height="1607"></div></div></div></section>
 <div class="wr" style="padding-bottom:40px">
 
 <div id="familycard" class="mkcard famcard" hidden data-lang="{{lang}}" data-pct="{{shop_card_pct}}" data-copy="{{shop_card_copy}}" data-copied="{{shop_card_copied}}"><div class="mkbody"><span class="mkcat">{{shop_card_tag}}</span><h3 id="fam-title"></h3><div id="fam-imgs" class="famimgs" hidden></div><div id="fam-promo" class="fampromo" hidden><span id="fam-pct"></span> <b id="fam-code"></b> <button id="fam-copy" class="shopghost" type="button">{{shop_card_copy}}</button></div><a id="fam-visit" class="mkbtn" href="/shop.html">{{shop_card_visit}}</a></div></div>
 <div id="mk-controls" style="margin-bottom:12px"></div>
-<div id="mk-list" class="mkgrid" data-more="Pokaži vse ponudbe ({n})"><p id="mk-loading" style="color:#6E7F6E;font-weight:700">Nalagam partnerje…</p></div>
-<noscript><p style="color:#6E7F6E;font-weight:700">Za seznam partnerjev je potreben JavaScript. Odpri zavihek Tržnica v aplikaciji Pawty, da ga vidiš.</p></noscript>
+<div id="mk-list" class="mkgrid" data-more="Pokažite vse ponudbe ({n})"><p id="mk-loading" style="color:#6E7F6E;font-weight:700">Nalagam partnerje…</p></div>
+<noscript><p style="color:#6E7F6E;font-weight:700">Za seznam partnerjev je potreben JavaScript. Odprite zavihek Trgovina v aplikaciji Pawty, da ga vidite.</p></noscript>
 
 <div class="cta-box"><b class="disp" style="font-size:20px">Ste trgovec ali znamka</b>
 <p style="margin:8px 0 4px">Pawty postavi vašo ponudbo pred lastnike, ki aktivno šolajo svojega psa in aplikacijo odprejo večkrat na teden. Oglejte si <a href="/partners.html">stran za partnerje</a> ali pišite na <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a>.</p></div>
-<p style="color:#6E7F6E;font-size:14px;margin:18px 0 0">To so partnerske povezave. Če kupiš prek katere od njih, lahko Pawty zasluži provizijo brez dodatnih stroškov zate.</p>
+<p style="color:#6E7F6E;font-size:14px;margin:18px 0 0">To so partnerske povezave. Če kupite prek katere od njih, lahko Pawty zasluži provizijo brez dodatnih stroškov za vas.</p>
 </div>
 
 <script>
@@ -54,17 +54,17 @@
         + (row.offer?'<p class="mkoffer">'+esc(row.offer)+'</p>':'')
         + (row.promo_code?'<p class="mkpromo">Koda <b>'+esc(row.promo_code)+'</b></p>':'')
         + (served?'<p class="mkserved">'+esc(served)+'</p>':'')
-        + (row.affiliate_url?'<a class="mkbtn" href="'+esc(row.affiliate_url)+'" target="_blank" rel="sponsored nofollow noopener">Obišči '+esc(row.name)+' <span>partnerska povezava</span></a>':'')
+        + (row.affiliate_url?'<a class="mkbtn" href="'+esc(row.affiliate_url)+'" target="_blank" rel="sponsored nofollow noopener">Obiščite '+esc(row.name)+' <span>partnerska povezava</span></a>':'')
         + '</div></div>';
     });
-    list.innerHTML = shown ? out : '<p style="color:#6E7F6E;font-weight:700">Za to kombinacijo še ni partnerjev. Poskusi z Vse države.</p>';
+    list.innerHTML = shown ? out : '<p style="color:#6E7F6E;font-weight:700">Za to kombinacijo še ni partnerjev. Poskusite z Vse države.</p>';
   }
 
   fetch(URL,{headers:{apikey:KEY,Authorization:'Bearer '+KEY}})
   .then(function(r){ if(!r.ok) return r.text().then(function(t){throw new Error('HTTP '+r.status+' '+t.slice(0,200));}); return r.json(); })
   .then(function(rows){
     rows=(rows||[]).filter(inWindow);
-    if(!rows.length){ fail('Partnerjev še ni. Kmalu spet poglej.'); return; }
+    if(!rows.length){ fail('Partnerjev še ni. Kmalu spet poglejte.'); return; }
     var byName={};
     rows.forEach(function(r){
       if(!byName[r.name]) { byName[r.name]={name:r.name,category:r.category,rows:[]}; groups.push(byName[r.name]); }
@@ -92,7 +92,7 @@
     render();
   })
   .catch(function(err){
-    fail('Seznama partnerjev trenutno ni mogoče naložiti. Odpri zavihek Tržnica v aplikaciji Pawty, da vidiš partnerje.');
+    fail('Seznama partnerjev trenutno ni mogoče naložiti. Odprite zavihek Trgovina v aplikaciji Pawty, da vidite partnerje.');
     console.error('[Pawty marketplace]', err && err.message ? err.message : err);
   });
 })();

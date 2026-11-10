@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 vodiča o ponašanju pasa — Pawty",
-  "description": "Isti vodiči kao u aplikaciji. Tu su da ti skinu brigu oko onoga što tvoj pas radi, a zatim ti kažu što stvarno napraviti."
+  "description": "Isti vodiči kao u aplikaciji. Tu su da vam skinu brigu oko onoga što vaš pas radi, a zatim vam kažu što stvarno napraviti."
  },
  "support.html": {
   "title": "Pomoć — Pawty",
@@ -13,7 +13,7 @@
  },
  "partners.html": {
   "title": "Partneri i mediji — Pawty",
-  "description": "Pawty stavlja tvoj brend pred najvrjedniju publiku među vlasnicima ljubimaca: vlasnike koji aktivno treniraju svog psa i otvaraju aplikaciju nekoliko puta tjedno."
+  "description": "Pawty stavlja vaš brend pred najvrjedniju publiku među vlasnicima ljubimaca: vlasnike koji aktivno treniraju svog psa i otvaraju aplikaciju nekoliko puta tjedno."
  },
  "marketplace.html": {
   "title": "Partneri Tržnice — Pawty",
@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Aplikacija za školovanje pasa, 5 minuta dnevno",
-  "description": "Trenirajmo zajedno. Rastimo zajedno. 99 vještina u vježbama od 5 minuta, 32 vodiča o ponašanju, planovi treninga i kalendar njege, na iPhoneu i Androidu.",
+  "description": "Trenirajte zajedno. Rastite zajedno. 99 vještina u vježbama od 5 minuta, 32 vodiča o ponašanju, planovi treninga i kalendar njege, na iPhoneu i Androidu.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplikacija za školovanje pasa za iPhone i Android s 99 vještina u vježbama od 5 minuta, 32 vodiča o ponašanju, ocjenama šapama, planovima treninga i kalendarom njege.\",\"url\":\"https://pawtyapp.com/hr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"hr\"}"
  },
  "blog.html": {
@@ -30,13 +30,13 @@
  },
  "post-puppy-cost.html": {
   "title": "Koliko štene zapravo košta u prvoj godini — Pawty",
-  "description": "Europski troškovi prve godine šteneta stavku po stavku: transporter, veterinar, hrana, njega i osiguranje, uz ono što možeš mirno preskočiti.",
+  "description": "Europski troškovi prve godine šteneta stavku po stavku: transporter, veterinar, hrana, njega i osiguranje, uz ono što možete mirno preskočiti.",
   "headline": "Koliko štene zapravo košta u prvoj godini"
  },
  "post-shopping-list.html": {
-  "title": "Popis za kupnju za štene i što možeš preskočiti — Pawty",
-  "description": "Što kupiti prije dolaska šteneta, što u 2. mjesecu i 6 stvari koje trgovine za ljubimce prodaju, a ne trebaju ti.",
-  "headline": "Popis za kupnju za štene i što možeš preskočiti"
+  "title": "Popis za kupnju za štene i što možete preskočiti — Pawty",
+  "description": "Što kupiti prije dolaska šteneta, što u 2. mjesecu i 6 stvari koje trgovine za ljubimce prodaju, a ne trebaju vam.",
+  "headline": "Popis za kupnju za štene i što možete preskočiti"
  },
  "post-vaccination.html": {
   "title": "Raspored cijepljenja šteneta u Europi — Pawty",
@@ -59,9 +59,9 @@
   "headline": "Koliko dugo trebaju trajati šetnje šteneta?"
  },
  "post-sit.html": {
-  "title": "Nauči psa sjediti u tjedan dana — Pawty blog",
+  "title": "Naučite psa sjediti u tjedan dana — Pawty blog",
   "description": "Metoda mamljenja za „sjedni”, 2 klasične pogreške i kako izgleda uspjeh u pojedinoj vježbi.",
-  "headline": "Nauči psa sjediti u tjedan dana"
+  "headline": "Naučite psa sjediti u tjedan dana"
  },
  "post-clicker-vs-marker.html": {
   "title": "Kliker ili riječ marker: što koristiti — Pawty",
@@ -74,9 +74,9 @@
   "headline": "Zašto je 5 minuta dnevno bolje od vikend-maratona"
  },
  "post-cockapoo-grooming.html": {
-  "title": "Njega cockapooa: što ti nitko ne kaže — Pawty",
+  "title": "Njega cockapooa: što vam nitko ne kaže — Pawty",
   "description": "Kovrčava dlaka nikad ne prestaje rasti. Stvarni godišnji trošak, zašto nastaju čvorovi i metoda četkanja po redovima koja ih sprječava.",
-  "headline": "Njega cockapooa: što ti nitko ne kaže"
+  "headline": "Njega cockapooa: što vam nitko ne kaže"
  },
  "post-rescue-333.html": {
   "title": "Udomljavanje odraslog psa iz skloništa: pravilo 3-3-3 — Pawty",
@@ -89,20 +89,20 @@
  },
  "legal/privacy.html": {
   "title": "Pravila privatnosti — Pawty",
-  "description": "Kako Pawty postupa s tvojim podacima: personalizirano oglašavanje i privola, prava iz GDPR-a, pohrana u EU-u i partnerske poveznice."
+  "description": "Kako Pawty postupa s vašim podacima: personalizirano oglašavanje i privola, prava iz GDPR-a, pohrana u EU-u i partnerske poveznice."
  },
  "404.html": {
   "title": "Stranica nije pronađena — Pawty",
   "description": "Stranica nije pronađena na pawtyapp.com."
  },
  "post-fireworks.html": {
-  "title": "Vatromet i tvoj pas: počni se pripremati već sada — Pawty blog",
+  "title": "Vatromet i vaš pas: počnite se pripremati već sada — Pawty blog",
   "description": "Kako pripremiti psa za novogodišnji vatromet: navikavanje na zvuk od studenog, sigurno skrovište, sama noć i kada otići veterinaru.",
-  "headline": "Vatromet i tvoj pas: počni se pripremati već sada"
+  "headline": "Vatromet i vaš pas: počnite se pripremati već sada"
  },
  "post-christmas-dangers.html": {
   "title": "Božićne opasnosti za pse: što držati izvan dosega — Pawty blog",
-  "description": "Božićna hrana, ukrasi i biljke opasni za pse i što učiniti ako je tvoj pas nešto pojeo.",
+  "description": "Božićna hrana, ukrasi i biljke opasni za pse i što učiniti ako je vaš pas nešto pojeo.",
   "headline": "Božićne opasnosti za pse: što držati izvan dosega"
  },
  "post-snuffle-mat.html": {
@@ -112,7 +112,7 @@
  },
  "post-winter-paws.html": {
   "title": "Njega šapa zimi: sol, led i hladnoća — Pawty blog",
-  "description": "Zaštiti šape svog psa zimi: ispiranje soli s ceste, balzam za šape, ledene kuglice između prstiju, kaputići i zimske opasnosti.",
+  "description": "Zaštitite šape svog psa zimi: ispiranje soli s ceste, balzam za šape, ledene kuglice između prstiju, kaputići i zimske opasnosti.",
   "headline": "Njega šapa zimi: sol, led i hladnoća"
  },
  "post-eu-travel.html": {

@@ -49,10 +49,10 @@
  },
  "chewadult": {
   "title": "Odrasel pes iz dolgčasa grize pohištvo",
-  "description": "Žvečenje pomirja. Kaj ti sporoča premalo zaposlen odrasel pes in kako to preusmeriti.",
+  "description": "Žvečenje pomirja. Kaj vam sporoča premalo zaposlen odrasel pes in kako to preusmeriti.",
   "card": "Žvečenje pomirja.",
   "needs": [
-   "Žvečilke, ki jih menjavaš",
+   "Žvečilke, ki jih menjavate",
    "Uganka za hrano"
   ]
  },
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Pes vleče na povodcu: zakaj in kaj pomaga",
-  "description": "Psi vlečejo, ker jih je to pripeljalo naprej. Stoj in pojdi, nagrada ob tvoji nogi, in zakaj ovratnice z bodicami ustvarijo nove težave.",
+  "description": "Psi vlečejo, ker jih je to pripeljalo naprej. Ustavi-in-pojdi, nagrada ob vaši nogi, in zakaj ovratnice z bodicami ustvarijo nove težave.",
   "card": "Psi vlečejo, ker jih je to pripeljalo naprej.",
   "needs": [
    "Oprsnica s sprednjo pritrditvijo",
@@ -85,7 +85,7 @@
  },
  "barkdogs": {
   "title": "Pes na sprehodu laja na druge pse",
-  "description": "Navadno frustracija ali nelagodje. Najdi razdaljo, pri kateri pes ostane miren, in jo v tednih zmanjšuj.",
+  "description": "Navadno frustracija ali nelagodje. Najdite razdaljo, pri kateri pes ostane miren, in jo v tednih zmanjšujte.",
   "card": "Navadno frustracija ali nelagodje.",
   "needs": [
    "Dolga vrv",
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Izsiljevalno lajanje: pes laja nate za hrano ali pozornost",
+  "title": "Izsiljevalno lajanje: pes laja na vas za hrano ali pozornost",
   "description": "Pes laja, ker je to že delovalo. Zakaj postane glasneje, preden postane bolje.",
   "card": "Pes laja, ker je to že delovalo.",
   "needs": []
@@ -128,7 +128,7 @@
  },
  "digging": {
   "title": "Pes koplje po vrtu",
-  "description": "Kopanje je prirojeno. Ne moreš ga izbrisati, lahko pa ga preseliš v dovoljeno cono za kopanje.",
+  "description": "Kopanje je prirojeno. Ne morete ga izbrisati, lahko pa ga preselite v dovoljeno cono za kopanje.",
   "card": "Kopanje je prirojeno.",
   "needs": [
    "Peskovnik ali zaboj za kopanje",
@@ -163,7 +163,7 @@
  },
  "guard": {
   "title": "Varovanje virov: prvi znaki pri hrani in igračah",
-  "description": "Otrplost, trd pogled ali renčanje pomenijo strah pred izgubo. Zakaj renčanja nikoli ne smeš kaznovati.",
+  "description": "Otrplost, trd pogled ali renčanje pomenijo strah pred izgubo. Zakaj renčanja nikoli ne smete kaznovati.",
   "card": "Otrplost, trd pogled ali renčanje pomenijo strah pred izgubo.",
   "needs": []
  },
@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Pes se boji ognjemetov in neviht",
-  "description": "Priprava brloga, zakaj je tolaženje psa v redu, in delo z zvoki, ki ga začneš novembra.",
-  "card": "Priprava brloga, zakaj je tolaženje psa v redu, in delo z zvoki, ki ga začneš novembra.",
+  "description": "Priprava brloga, zakaj je tolaženje psa v redu, in delo z zvoki, ki ga začnete novembra.",
+  "card": "Priprava brloga, zakaj je tolaženje psa v redu, in delo z zvoki, ki ga začnete novembra.",
   "needs": [
    "Naprava za beli šum",
    "Pokrita pasja postelja"
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Pes ne pride na klic",
-  "description": "Okolje nagrajuje bolje kot ti. Ponovna gradnja odpoklica na dolgi vrvi in zaščita signala.",
-  "card": "Okolje nagrajuje bolje kot ti.",
+  "description": "Okolje nagrajuje bolje kot vi. Ponovna gradnja odpoklica na dolgi vrvi in zaščita signala.",
+  "card": "Okolje nagrajuje bolje kot vi.",
   "needs": [
    "Dolga vrv",
    "Zelo okusni priboljški"
@@ -206,7 +206,7 @@
  },
  "marking": {
   "title": "Pes markira v stanovanju",
-  "description": "Majhne namerne oznake na navpičnih mestih. Najprej izključi zdravstvene vzroke.",
+  "description": "Majhne namerne oznake na navpičnih mestih. Najprej izključite zdravstvene vzroke.",
   "card": "Majhne namerne oznake na navpičnih mestih.",
   "needs": [
    "Encimsko čistilo",
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Zoomies razloženi: nenadni divji tek",
-  "description": "Nenadni divji krogi so normalno in zdravo sproščanje energije. Uredi podlago, ne veselje.",
+  "description": "Nenadni divji krogi so normalno in zdravo sproščanje energije. Uredite podlago, ne veselje.",
   "card": "Nenadni divji krogi so normalno in zdravo sproščanje energije.",
   "needs": [
    "Nedrseča preproga"
@@ -238,7 +238,7 @@
  },
  "begging": {
   "title": "Pes prosjači pri mizi",
-  "description": "Tiste oči so si enkrat prislužile čips. Resnično pravilo ničelnega izplačila in šolanje ljudi.",
+  "description": "Tiste oči so si enkrat prislužile čips. Dosledno pravilo, da z mize ni ničesar, in šolanje ljudi.",
   "card": "Tiste oči so si enkrat prislužile čips.",
   "needs": [
    "Podloga za kuhinjo",

@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 vodnikov o vedenju psov — Pawty",
-  "description": "Isti vodniki kot v aplikaciji. Namenjeni so temu, da ti zmanjšajo skrb glede tega, kar počne tvoj pes, nato pa ti povedo, kaj dejansko narediti."
+  "description": "Isti vodniki kot v aplikaciji. Namenjeni so temu, da vam zmanjšajo skrb glede tega, kar počne vaš pes, nato pa vam povedo, kaj dejansko narediti."
  },
  "support.html": {
   "title": "Pomoč — Pawty",
@@ -9,7 +9,7 @@
  },
  "approach.html": {
   "title": "Naš pristop — Pawty",
-  "description": "Kako uči Pawty: samo pozitivna okrepitev, 5-minutne vaje, brez občutka krivde, in kdaj raje pojdi k veterinarju ali vedenjskemu strokovnjaku."
+  "description": "Kako uči Pawty: samo pozitivna okrepitev, 5-minutne vaje, brez občutka krivde, in kdaj raje pojdite k veterinarju ali vedenjskemu strokovnjaku."
  },
  "partners.html": {
   "title": "Partnerji in mediji — Pawty",
@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Aplikacija za šolanje psa, 5 minut na dan",
-  "description": "Skupaj treniramo. Skupaj rastemo. 99 veščin v 5-minutnih vajah, 32 vodnikov o vedenju, načrti treninga in koledar nege, za iPhone in Android.",
+  "description": "Skupaj trenirajte. Skupaj rastite. 99 veščin v 5-minutnih vajah, 32 vodnikov o vedenju, načrti treninga in koledar nege, za iPhone in Android.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplikacija za šolanje psov za iPhone in Android z 99 veščinami v 5-minutnih vajah, 32 vodniki o vedenju, ocenami s tačkami, načrti treninga in koledarjem nege.\",\"url\":\"https://pawtyapp.com/sl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"sl\"}"
  },
  "blog.html": {
@@ -30,13 +30,13 @@
  },
  "post-puppy-cost.html": {
   "title": "Koliko mladiček v resnici stane v prvem letu — Pawty",
-  "description": "Evropski stroški mladička v prvem letu po postavkah: boks, veterinar, hrana, nega in zavarovanje, ter kaj lahko mirno izpustiš.",
+  "description": "Evropski stroški mladička v prvem letu po postavkah: boks, veterinar, hrana, nega in zavarovanje, ter kaj lahko mirno izpustite.",
   "headline": "Koliko mladiček v resnici stane v prvem letu"
  },
  "post-shopping-list.html": {
-  "title": "Nakupovalni seznam za mladička in kaj lahko izpustiš — Pawty",
-  "description": "Kaj kupiti pred prihodom mladička, kaj v 2. mesecu, in 6 stvari, ki jih prodajajo trgovine za ljubljenčke, pa jih ne potrebuješ.",
-  "headline": "Nakupovalni seznam za mladička in kaj lahko izpustiš"
+  "title": "Nakupovalni seznam za mladička in kaj lahko izpustite — Pawty",
+  "description": "Kaj kupiti pred prihodom mladička, kaj v 2. mesecu, in 6 stvari, ki jih prodajajo trgovine za ljubljenčke, pa jih ne potrebujete.",
+  "headline": "Nakupovalni seznam za mladička in kaj lahko izpustite"
  },
  "post-vaccination.html": {
   "title": "Časovnica cepljenj mladička v Evropi — Pawty",
@@ -59,9 +59,9 @@
   "headline": "Kako dolgi naj bodo sprehodi z mladičkom?"
  },
  "post-sit.html": {
-  "title": "Nauči psa sedeti v enem tednu — Pawty blog",
+  "title": "Naučite psa sedeti v enem tednu — Pawty blog",
   "description": "Metoda z vabo za učenje ukaza sedi, 2 klasični napaki in kaj je uspeh pri posamezni vaji.",
-  "headline": "Nauči psa sedeti v enem tednu"
+  "headline": "Naučite psa sedeti v enem tednu"
  },
  "post-clicker-vs-marker.html": {
   "title": "Kliker ali markerska beseda: kaj uporabiti — Pawty",
@@ -74,9 +74,9 @@
   "headline": "Zakaj 5 minut na dan premaga vikend maratone"
  },
  "post-cockapoo-grooming.html": {
-  "title": "Nega cockapooja: česar ti nihče ne pove — Pawty",
+  "title": "Nega cockapooja: česar vam nihče ne pove — Pawty",
   "description": "Kodrasta dlaka nikoli ne neha rasti. Pravi letni strošek, zakaj nastajajo vozli in metoda krtačenja po pasovih, ki jih prepreči.",
-  "headline": "Nega cockapooja: česar ti nihče ne pove"
+  "headline": "Nega cockapooja: česar vam nihče ne pove"
  },
  "post-rescue-333.html": {
   "title": "Posvojitev odraslega psa iz zavetišča: pravilo 3-3-3 — Pawty",
@@ -89,20 +89,20 @@
  },
  "legal/privacy.html": {
   "title": "Pravilnik o zasebnosti — Pawty",
-  "description": "Kako Pawty ravna s tvojimi podatki: prilagojeno oglaševanje in privolitev, pravice po GDPR, gostovanje v EU in partnerske povezave."
+  "description": "Kako Pawty ravna z vašimi podatki: prilagojeno oglaševanje in privolitev, pravice po GDPR, gostovanje v EU in partnerske povezave."
  },
  "404.html": {
   "title": "Stran ni najdena — Pawty",
   "description": "Te strani na pawtyapp.com ni bilo mogoče najti."
  },
  "post-fireworks.html": {
-  "title": "Ognjemet in tvoj pes: s pripravami začni zdaj — Pawty blog",
+  "title": "Ognjemet in vaš pes: s pripravami začnite zdaj — Pawty blog",
   "description": "Kako psa pripraviti na novoletni ognjemet: navajanje na zvok od novembra, varno zatočišče, sama noč in kdaj k veterinarju.",
-  "headline": "Ognjemet in tvoj pes: s pripravami začni zdaj"
+  "headline": "Ognjemet in vaš pes: s pripravami začnite zdaj"
  },
  "post-christmas-dangers.html": {
   "title": "Božične nevarnosti za pse: kaj pospraviti iz dosega — Pawty blog",
-  "description": "Božične jedi, okraski in rastline, ki so nevarni za pse, in kaj narediti, če je tvoj pes pojedel kaj nevarnega.",
+  "description": "Božične jedi, okraski in rastline, ki so nevarni za pse, in kaj narediti, če je vaš pes pojedel kaj nevarnega.",
   "headline": "Božične nevarnosti za pse: kaj pospraviti iz dosega"
  },
  "post-snuffle-mat.html": {
@@ -112,7 +112,7 @@
  },
  "post-winter-paws.html": {
   "title": "Nega tačk pozimi: sol, led in mraz — Pawty blog",
-  "description": "Zaščiti tačke svojega psa pozimi: izpiranje cestne soli, balzam za tačke, ledene kepice med prsti, plaščki in zimske nevarnosti.",
+  "description": "Zaščitite tačke svojega psa pozimi: izpiranje cestne soli, balzam za tačke, ledene kepice med prsti, plaščki in zimske nevarnosti.",
   "headline": "Nega tačk pozimi: sol, led in mraz"
  },
  "post-eu-travel.html": {

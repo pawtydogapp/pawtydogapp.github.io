@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 guide sul comportamento del cane — Pawty",
-  "description": "Le stesse guide che trovi nell'app. Servono a toglierti la preoccupazione per quello che fa il tuo cane, e poi a dirti cosa fare davvero."
+  "description": "Le stesse guide che trova nell'app. Servono a toglierle la preoccupazione per quello che fa il suo cane, e poi a dirle cosa fare davvero."
  },
  "support.html": {
   "title": "Assistenza — Pawty",
@@ -13,7 +13,7 @@
  },
  "partners.html": {
   "title": "Partner e stampa — Pawty",
-  "description": "Pawty mette il tuo marchio davanti al pubblico più prezioso del mondo pet: proprietari che addestrano attivamente il proprio cane e aprono l'app più volte a settimana."
+  "description": "Pawty mette il suo marchio davanti al pubblico più prezioso del mondo pet: proprietari che addestrano attivamente il proprio cane e aprono l'app più volte a settimana."
  },
  "marketplace.html": {
   "title": "Partner del Marketplace — Pawty",
@@ -30,13 +30,13 @@
  },
  "post-puppy-cost.html": {
   "title": "Quanto costa davvero un cucciolo nel primo anno — Pawty",
-  "description": "I costi europei del primo anno di un cucciolo, voce per voce: trasportino, veterinario, cibo, toelettatura e assicurazione, e cosa puoi saltare senza rischi.",
+  "description": "I costi europei del primo anno di un cucciolo, voce per voce: trasportino, veterinario, cibo, toelettatura e assicurazione, e cosa può saltare senza rischi.",
   "headline": "Quanto costa davvero un cucciolo nel primo anno"
  },
  "post-shopping-list.html": {
-  "title": "La lista della spesa per il cucciolo, e cosa puoi saltare — Pawty",
-  "description": "Cosa comprare prima che arrivi il cucciolo, cosa comprare al 2° mese e le 6 cose che i negozi per animali vendono ma non ti servono.",
-  "headline": "La lista della spesa per il cucciolo, e cosa puoi saltare"
+  "title": "La lista della spesa per il cucciolo, e cosa può saltare — Pawty",
+  "description": "Cosa comprare prima che arrivi il cucciolo, cosa comprare al 2° mese e le 6 cose che i negozi per animali vendono ma non le servono.",
+  "headline": "La lista della spesa per il cucciolo, e cosa può saltare"
  },
  "post-vaccination.html": {
   "title": "Il calendario vaccinale del cucciolo in Europa — Pawty",
@@ -55,13 +55,13 @@
  },
  "post-walks.html": {
   "title": "Quanto devono durare le passeggiate del cucciolo? — Blog Pawty",
-  "description": "La regola dei 5 minuti per mese di età, cosa rientra nel conto e come leggere il tuo cucciolo.",
+  "description": "La regola dei 5 minuti per mese di età, cosa rientra nel conto e come leggere il suo cucciolo.",
   "headline": "Quanto devono durare le passeggiate del cucciolo?"
  },
  "post-sit.html": {
-  "title": "Insegna al cane a sedersi in una settimana — Blog Pawty",
+  "title": "Insegni al cane a sedersi in una settimana — Blog Pawty",
   "description": "Il metodo dell'esca per insegnare il seduto, i 2 errori classici e come riconoscere il successo sessione per sessione.",
-  "headline": "Insegna al cane a sedersi in una settimana"
+  "headline": "Insegni al cane a sedersi in una settimana"
  },
  "post-clicker-vs-marker.html": {
   "title": "Clicker o parola marker: quale usare — Pawty",
@@ -74,9 +74,9 @@
   "headline": "Perché 5 minuti al giorno battono le maratone del weekend"
  },
  "post-cockapoo-grooming.html": {
-  "title": "Toelettatura del cockapoo: quello che nessuno ti dice — Pawty",
+  "title": "Toelettatura del cockapoo: quello che nessuno le dice — Pawty",
   "description": "Il pelo riccio non smette mai di crescere. Il vero costo annuale, perché si formano i nodi e il metodo della spazzolatura a strati che li previene.",
-  "headline": "Toelettatura del cockapoo: quello che nessuno ti dice"
+  "headline": "Toelettatura del cockapoo: quello che nessuno le dice"
  },
  "post-rescue-333.html": {
   "title": "Adottare un cane adulto dal canile: la regola 3-3-3 — Pawty",
@@ -89,20 +89,20 @@
  },
  "legal/privacy.html": {
   "title": "Informativa sulla privacy — Pawty",
-  "description": "Come Pawty tratta i tuoi dati: pubblicità personalizzata e consenso, diritti GDPR, hosting nell'UE e link di affiliazione."
+  "description": "Come Pawty tratta i suoi dati: pubblicità personalizzata e consenso, diritti GDPR, hosting nell'UE e link di affiliazione."
  },
  "404.html": {
   "title": "Pagina non trovata — Pawty",
   "description": "Pagina non trovata su pawtyapp.com."
  },
  "post-fireworks.html": {
-  "title": "Il cane e i fuochi d'artificio: inizia a prepararlo adesso — Blog Pawty",
+  "title": "Il cane e i fuochi d'artificio: inizi a prepararlo adesso — Blog Pawty",
   "description": "Come preparare il cane ai fuochi di Capodanno: allenamento ai rumori da novembre, una tana sicura, la notte stessa e quando andare dal veterinario.",
-  "headline": "Il cane e i fuochi d'artificio: inizia a prepararlo adesso"
+  "headline": "Il cane e i fuochi d'artificio: inizi a prepararlo adesso"
  },
  "post-christmas-dangers.html": {
   "title": "I pericoli del Natale per il cane: cosa tenere fuori portata — Blog Pawty",
-  "description": "I cibi, le decorazioni e le piante di Natale pericolosi per il cane, e cosa fare se il tuo cane ha mangiato qualcosa.",
+  "description": "I cibi, le decorazioni e le piante di Natale pericolosi per il cane, e cosa fare se il suo cane ha mangiato qualcosa.",
   "headline": "I pericoli del Natale per il cane: cosa tenere fuori portata"
  },
  "post-snuffle-mat.html": {
@@ -112,7 +112,7 @@
  },
  "post-winter-paws.html": {
   "title": "Le zampe in inverno: sale, ghiaccio e freddo — Blog Pawty",
-  "description": "Proteggi le zampe del cane in inverno: sciacquare via il sale stradale, balsamo per zampe, palline di ghiaccio tra le dita, cappottini e pericoli invernali.",
+  "description": "Protegga le zampe del cane in inverno: sciacquare via il sale stradale, balsamo per zampe, palline di ghiaccio tra le dita, cappottini e pericoli invernali.",
   "headline": "Le zampe in inverno: sale, ghiaccio e freddo"
  },
  "post-eu-travel.html": {

@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 guides sur le comportement du chien — Pawty",
-  "description": "Les mêmes guides que dans l'application. Ils sont là pour te rassurer sur ce que fait ton chien, puis te dire quoi faire concrètement."
+  "description": "Les mêmes guides que dans l'application. Ils sont là pour vous rassurer sur ce que fait votre chien, puis vous dire quoi faire concrètement."
  },
  "support.html": {
   "title": "Aide — Pawty",
@@ -13,7 +13,7 @@
  },
  "partners.html": {
   "title": "Partenaires et presse — Pawty",
-  "description": "Pawty place ta marque devant le public animalier le plus précieux qui soit : des maîtres qui éduquent activement leur chien et ouvrent l'application plusieurs fois par semaine."
+  "description": "Pawty place votre marque devant le public animalier le plus précieux qui soit : des maîtres qui éduquent activement leur chien et ouvrent l'application plusieurs fois par semaine."
  },
  "marketplace.html": {
   "title": "Partenaires de la Boutique — Pawty",
@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Appli d'éducation canine, 5 minutes par jour",
-  "description": "S'entraîner ensemble. Grandir ensemble. 99 compétences en séances de 5 minutes, 32 guides de comportement, des plans d'entraînement et un calendrier des soins, sur iPhone et Android.",
+  "description": "Entraînez-vous ensemble. Grandissez ensemble. 99 compétences en séances de 5 minutes, 32 guides de comportement, des plans d'entraînement et un calendrier des soins, sur iPhone et Android.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Appli d'éducation canine pour iPhone et Android avec 99 compétences en séances de 5 minutes, 32 guides de comportement, des notes en pattes, des plans d'entraînement et un calendrier des soins.\",\"url\":\"https://pawtyapp.com/fr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"fr\"}"
  },
  "blog.html": {
@@ -30,13 +30,13 @@
  },
  "post-puppy-cost.html": {
   "title": "Ce que coûte vraiment un chiot la première année — Pawty",
-  "description": "Les coûts européens de la première année d'un chiot, poste par poste : caisse, vétérinaire, alimentation, toilettage et assurance, et ce dont tu peux te passer.",
+  "description": "Les coûts européens de la première année d'un chiot, poste par poste : caisse, vétérinaire, alimentation, toilettage et assurance, et ce dont vous pouvez vous passer.",
   "headline": "Ce que coûte vraiment un chiot la première année"
  },
  "post-shopping-list.html": {
-  "title": "La liste de courses du chiot, et ce dont tu peux te passer — Pawty",
-  "description": "Quoi acheter avant l'arrivée du chiot, quoi acheter au 2e mois, et les 6 articles d'animalerie dont tu n'as pas besoin.",
-  "headline": "La liste de courses du chiot, et ce dont tu peux te passer"
+  "title": "La liste de courses du chiot, et ce dont vous pouvez vous passer — Pawty",
+  "description": "Quoi acheter avant l'arrivée du chiot, quoi acheter au 2e mois, et les 6 articles d'animalerie dont vous n'avez pas besoin.",
+  "headline": "La liste de courses du chiot, et ce dont vous pouvez vous passer"
  },
  "post-vaccination.html": {
   "title": "Le calendrier de vaccination du chiot en Europe — Pawty",
@@ -55,17 +55,17 @@
  },
  "post-walks.html": {
   "title": "Combien de temps doivent durer les promenades d'un chiot ? — Blog Pawty",
-  "description": "La règle des 5 minutes par mois d'âge pour les promenades du chiot, ce qui compte et comment lire ton chiot.",
+  "description": "La règle des 5 minutes par mois d'âge pour les promenades du chiot, ce qui compte et comment lire votre chiot.",
   "headline": "Combien de temps doivent durer les promenades d'un chiot ?"
  },
  "post-sit.html": {
-  "title": "Apprends l'assis à ton chien en une semaine — Blog Pawty",
+  "title": "Apprenez l'assis à votre chien en une semaine — Blog Pawty",
   "description": "La méthode du leurre pour apprendre l'assis, les 2 erreurs classiques et à quoi ressemble la réussite à chaque séance.",
-  "headline": "Apprends l'assis à ton chien en une semaine"
+  "headline": "Apprenez l'assis à votre chien en une semaine"
  },
  "post-clicker-vs-marker.html": {
   "title": "Clicker ou mot marqueur : lequel utiliser — Pawty",
-  "description": "Les deux marquent le moment exact où ton chien réussit. Quand utiliser lequel, comment le charger en 2 minutes, et les 4 erreurs.",
+  "description": "Les deux marquent le moment exact où votre chien réussit. Quand utiliser lequel, comment le charger en 2 minutes, et les 4 erreurs.",
   "headline": "Clicker ou mot marqueur : lequel utiliser"
  },
  "post-5minutes.html": {
@@ -74,9 +74,9 @@
   "headline": "Pourquoi 5 minutes par jour battent les marathons du week-end"
  },
  "post-cockapoo-grooming.html": {
-  "title": "Toilettage du cockapoo : ce que personne ne te dit — Pawty",
+  "title": "Toilettage du cockapoo : ce que personne ne vous dit — Pawty",
   "description": "Le poil bouclé ne s'arrête jamais de pousser. Le vrai coût annuel, pourquoi les nœuds se forment et le brossage par raies qui les évite.",
-  "headline": "Toilettage du cockapoo : ce que personne ne te dit"
+  "headline": "Toilettage du cockapoo : ce que personne ne vous dit"
  },
  "post-rescue-333.html": {
   "title": "Adopter un chien adulte de refuge : la règle 3-3-3 — Pawty",
@@ -89,20 +89,20 @@
  },
  "legal/privacy.html": {
   "title": "Politique de confidentialité — Pawty",
-  "description": "Comment Pawty traite tes données : publicité personnalisée et consentement, droits RGPD, hébergement dans l'UE et liens d'affiliation."
+  "description": "Comment Pawty traite vos données : publicité personnalisée et consentement, droits RGPD, hébergement dans l'UE et liens d'affiliation."
  },
  "404.html": {
   "title": "Page introuvable — Pawty",
   "description": "Page introuvable sur pawtyapp.com."
  },
  "post-fireworks.html": {
-  "title": "Ton chien et les feux d'artifice : prépare-le dès maintenant — Blog Pawty",
-  "description": "Comment préparer ton chien aux feux d'artifice du Nouvel An : habituation aux bruits dès novembre, un refuge sûr, le soir même, et quand consulter le vétérinaire.",
-  "headline": "Ton chien et les feux d'artifice : prépare-le dès maintenant"
+  "title": "Votre chien et les feux d'artifice : préparez-le dès maintenant — Blog Pawty",
+  "description": "Comment préparer votre chien aux feux d'artifice du Nouvel An : habituation aux bruits dès novembre, un refuge sûr, le soir même, et quand consulter le vétérinaire.",
+  "headline": "Votre chien et les feux d'artifice : préparez-le dès maintenant"
  },
  "post-christmas-dangers.html": {
   "title": "Dangers de Noël pour les chiens : quoi mettre hors de portée — Blog Pawty",
-  "description": "Les aliments, décorations et plantes de Noël dangereux pour les chiens, et que faire si ton chien en a mangé.",
+  "description": "Les aliments, décorations et plantes de Noël dangereux pour les chiens, et que faire si votre chien en a mangé.",
   "headline": "Les dangers de Noël pour les chiens : ce qu'il faut mettre hors de portée"
  },
  "post-snuffle-mat.html": {
@@ -112,13 +112,13 @@
  },
  "post-winter-paws.html": {
   "title": "Prendre soin des pattes en hiver : sel, glace et froid — Blog Pawty",
-  "description": "Protège les pattes de ton chien en hiver : rincer le sel de déneigement, baume pour coussinets, boules de glace entre les doigts, manteaux et dangers de l'hiver.",
+  "description": "Protégez les pattes de votre chien en hiver : rincer le sel de déneigement, baume pour coussinets, boules de glace entre les doigts, manteaux et dangers de l'hiver.",
   "headline": "Prendre soin des pattes en hiver : sel, glace et froid"
  },
  "post-eu-travel.html": {
-  "title": "Voyager dans l'UE avec ton chien : passeport et règles — Blog Pawty",
+  "title": "Voyager dans l'UE avec votre chien : passeport et règles — Blog Pawty",
   "description": "Les règles de l'UE pour voyager avec un animal : puce électronique, vaccin contre la rage, délai de 21 jours, passeport européen, traitement contre le ténia et conseils de voyage.",
-  "headline": "Voyager dans l'UE avec ton chien : passeport et règles"
+  "headline": "Voyager dans l'UE avec votre chien : passeport et règles"
  },
  "shop.html": {
   "title": "Boutique Pawty family — Pawty",

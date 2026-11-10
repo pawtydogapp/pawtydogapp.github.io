@@ -1,7 +1,7 @@
 {
  "guides.html": {
   "title": "32 poradniki o zachowaniu psa — Pawty",
-  "description": "Te same poradniki, co w aplikacji. Mają zdjąć z ciebie niepokój o to, co robi twój pies, a potem powiedzieć, co naprawdę z tym zrobić."
+  "description": "Te same poradniki, co w aplikacji. Mają zdjąć z opiekuna niepokój o to, co robi pies, a potem powiedzieć, co naprawdę z tym zrobić."
  },
  "support.html": {
   "title": "Pomoc — Pawty",
@@ -13,7 +13,7 @@
  },
  "partners.html": {
   "title": "Partnerzy i prasa — Pawty",
-  "description": "Pawty pokazuje twoją markę najcenniejszej grupie opiekunów zwierząt: osobom, które aktywnie szkolą psa i otwierają aplikację kilka razy w tygodniu."
+  "description": "Pawty pokazuje markę partnera najcenniejszej grupie opiekunów zwierząt: osobom, które aktywnie szkolą psa i otwierają aplikację kilka razy w tygodniu."
  },
  "marketplace.html": {
   "title": "Partnerzy w Ofertach — Pawty",
@@ -21,7 +21,7 @@
  },
  "index.html": {
   "title": "Pawty — Aplikacja do szkolenia psa, 5 minut dziennie",
-  "description": "Trenujemy razem. Rośniemy razem. 99 umiejętności w 5-minutowych sesjach, 32 poradniki o zachowaniu, plany treningowe i kalendarz opieki, na iPhone'a i Androida.",
+  "description": "Wspólny trening. Wspólny rozwój. 99 umiejętności w 5-minutowych sesjach, 32 poradniki o zachowaniu, plany treningowe i kalendarz opieki, na iPhone'a i Androida.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pawty\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplikacja do szkolenia psa na iPhone'a i Androida z 99 umiejętnościami w 5-minutowych sesjach, 32 poradnikami o zachowaniu, ocenami w łapach, planami treningowymi i kalendarzem opieki.\",\"url\":\"https://pawtyapp.com/pl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pl\"}"
  },
  "blog.html": {
@@ -30,13 +30,13 @@
  },
  "post-puppy-cost.html": {
   "title": "Ile naprawdę kosztuje szczeniak w pierwszym roku — Pawty",
-  "description": "Europejskie koszty pierwszego roku szczeniaka, pozycja po pozycji: klatka, weterynarz, karma, pielęgnacja i ubezpieczenie, oraz co możesz spokojnie pominąć.",
+  "description": "Europejskie koszty pierwszego roku szczeniaka, pozycja po pozycji: klatka, weterynarz, karma, pielęgnacja i ubezpieczenie, oraz co można spokojnie pominąć.",
   "headline": "Ile naprawdę kosztuje szczeniak w pierwszym roku"
  },
  "post-shopping-list.html": {
-  "title": "Lista zakupów dla szczeniaka i co możesz pominąć — Pawty",
-  "description": "Co kupić przed przyjazdem szczeniaka, co w 2. miesiącu i 6 rzeczy ze sklepów zoologicznych, których nie potrzebujesz.",
-  "headline": "Lista zakupów dla szczeniaka i co możesz pominąć"
+  "title": "Lista zakupów dla szczeniaka i co można pominąć — Pawty",
+  "description": "Co kupić przed przyjazdem szczeniaka, co w 2. miesiącu i 6 rzeczy ze sklepów zoologicznych, które nie są potrzebne.",
+  "headline": "Lista zakupów dla szczeniaka i co można pominąć"
  },
  "post-vaccination.html": {
   "title": "Kalendarz szczepień szczeniaka w Europie — Pawty",
@@ -59,9 +59,9 @@
   "headline": "Jak długie powinny być spacery ze szczeniakiem?"
  },
  "post-sit.html": {
-  "title": "Naucz psa siadać w tydzień — Blog Pawty",
+  "title": "Jak nauczyć psa siadać w tydzień — Blog Pawty",
   "description": "Metoda wabienia przy nauce siadu, 2 klasyczne błędy i jak wygląda sukces w kolejnych sesjach.",
-  "headline": "Naucz psa siadać w tydzień"
+  "headline": "Jak nauczyć psa siadać w tydzień"
  },
  "post-clicker-vs-marker.html": {
   "title": "Kliker czy słowo znacznik: czego używać — Pawty",
@@ -74,9 +74,9 @@
   "headline": "Dlaczego 5 minut dziennie wygrywa z weekendowymi maratonami"
  },
  "post-cockapoo-grooming.html": {
-  "title": "Pielęgnacja cockapoo: czego nikt ci nie mówi — Pawty",
+  "title": "Pielęgnacja cockapoo: czego nikt nie mówi — Pawty",
   "description": "Kręcona sierść nigdy nie przestaje rosnąć. Prawdziwy roczny koszt, skąd biorą się kołtuny i metoda czesania warstwami, która im zapobiega.",
-  "headline": "Pielęgnacja cockapoo: czego nikt ci nie mówi"
+  "headline": "Pielęgnacja cockapoo: czego nikt nie mówi"
  },
  "post-rescue-333.html": {
   "title": "Adopcja dorosłego psa ze schroniska: zasada 3-3-3 — Pawty",
@@ -89,16 +89,16 @@
  },
  "legal/privacy.html": {
   "title": "Polityka prywatności — Pawty",
-  "description": "Jak Pawty przetwarza twoje dane: reklamy spersonalizowane i zgoda, prawa z RODO, hosting w UE i linki partnerskie."
+  "description": "Jak Pawty przetwarza dane osobowe: reklamy spersonalizowane i zgoda, prawa z RODO, hosting w UE i linki partnerskie."
  },
  "404.html": {
   "title": "Nie znaleziono strony — Pawty",
   "description": "Nie znaleziono strony na pawtyapp.com."
  },
  "post-fireworks.html": {
-  "title": "Fajerwerki a twój pies: zacznij przygotowania już teraz — Blog Pawty",
+  "title": "Fajerwerki a pies: przygotowania warto zacząć już teraz — Blog Pawty",
   "description": "Jak przygotować psa na sylwestrowe fajerwerki: oswajanie z dźwiękiem od listopada, bezpieczna kryjówka, sama noc i kiedy iść do weterynarza.",
-  "headline": "Fajerwerki a twój pies: zacznij przygotowania już teraz"
+  "headline": "Fajerwerki a pies: przygotowania warto zacząć już teraz"
  },
  "post-christmas-dangers.html": {
   "title": "Świąteczne zagrożenia dla psa: co trzymać poza jego zasięgiem — Blog Pawty",
@@ -112,7 +112,7 @@
  },
  "post-winter-paws.html": {
   "title": "Pielęgnacja łap zimą: sól, lód i mróz — Blog Pawty",
-  "description": "Chroń łapy psa zimą: spłukiwanie soli drogowej, balsam do łap, lodowe kulki między palcami, ubranka i zimowe zagrożenia.",
+  "description": "Ochrona łap psa zimą: spłukiwanie soli drogowej, balsam do łap, lodowe kulki między palcami, ubranka i zimowe zagrożenia.",
   "headline": "Pielęgnacja łap zimą: sól, lód i mróz"
  },
  "post-eu-travel.html": {

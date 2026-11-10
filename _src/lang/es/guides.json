@@ -49,7 +49,7 @@
  },
  "chewadult": {
   "title": "Perro adulto que muerde muebles por aburrimiento",
-  "description": "Morder calma. Qué te está diciendo un perro adulto con poca estimulación y cómo redirigirlo.",
+  "description": "Morder calma. Qué le está diciendo un perro adulto con poca estimulación y cómo redirigirlo.",
   "card": "Morder calma.",
   "needs": [
    "Mordedores variados",
@@ -66,7 +66,7 @@
  },
  "pulling": {
   "title": "Perro que tira de la correa: por qué pasa y qué funciona",
-  "description": "Los perros tiran porque así avanzaron. Parar y seguir, premiar junto a tu pierna, y por qué los collares de púas crean problemas nuevos.",
+  "description": "Los perros tiran porque así avanzaron. Parar y seguir, premiar junto a su pierna, y por qué los collares de púas crean problemas nuevos.",
   "card": "Los perros tiran porque así avanzaron.",
   "needs": [
    "Arnés con enganche delantero",
@@ -85,7 +85,7 @@
  },
  "barkdogs": {
   "title": "Perro que ladra a otros perros en el paseo",
-  "description": "Suele ser frustración o incomodidad. Encontrar la distancia a la que tu perro está tranquilo y acortarla durante semanas.",
+  "description": "Suele ser frustración o incomodidad. Encontrar la distancia a la que su perro está tranquilo y acortarla durante semanas.",
   "card": "Suele ser frustración o incomodidad.",
   "needs": [
    "Correa larga",
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Ladrido de demanda: el perro te ladra por comida o atención",
+  "title": "Ladrido de demanda: el perro le ladra por comida o atención",
   "description": "El perro ladra porque antes le ha funcionado. Por qué empeora antes de mejorar.",
   "card": "El perro ladra porque antes le ha funcionado.",
   "needs": []
@@ -128,7 +128,7 @@
  },
  "digging": {
   "title": "Perro que escarba en el jardín",
-  "description": "Escarbar es innato. No puedes borrarlo, pero sí trasladarlo a una zona de excavación permitida.",
+  "description": "Escarbar es innato. No puede borrarlo, pero sí trasladarlo a una zona de excavación permitida.",
   "card": "Escarbar es innato.",
   "needs": [
    "Arenero o caja para escarbar",
@@ -163,7 +163,7 @@
  },
  "guard": {
   "title": "Protección de recursos: primeras señales con comida y juguetes",
-  "description": "Quedarse rígido, mirar fijamente o gruñir indica miedo a perder algo. Por qué nunca debes castigar un gruñido.",
+  "description": "Quedarse rígido, mirar fijamente o gruñir indica miedo a perder algo. Por qué nunca debe castigar un gruñido.",
   "card": "Quedarse rígido, mirar fijamente o gruñir indica miedo a perder algo.",
   "needs": []
  },
@@ -179,17 +179,17 @@
  },
  "fireworks": {
   "title": "Perro con miedo a los fuegos artificiales y las tormentas",
-  "description": "Preparar una guarida, por qué consolar a tu perro está bien y el trabajo con sonidos que hay que empezar en noviembre.",
-  "card": "Preparar una guarida, por qué consolar a tu perro está bien y el trabajo con sonidos que hay que empezar en noviembre.",
+  "description": "Preparar una guarida, por qué consolar a su perro está bien y el trabajo con sonidos que hay que empezar en noviembre.",
+  "card": "Preparar una guarida, por qué consolar a su perro está bien y el trabajo con sonidos que hay que empezar en noviembre.",
   "needs": [
    "Aparato de ruido blanco",
    "Cama cubierta"
   ]
  },
  "norecall": {
-  "title": "Perro que no viene cuando lo llamas",
-  "description": "El entorno premia mejor que tú. Reconstruir la llamada con correa larga y proteger la señal.",
-  "card": "El entorno premia mejor que tú.",
+  "title": "Perro que no viene cuando lo llama",
+  "description": "El entorno premia mejor que usted. Reconstruir la llamada con correa larga y proteger la señal.",
+  "card": "El entorno premia mejor que usted.",
   "needs": [
    "Correa larga",
    "Premios de alto valor"
@@ -206,7 +206,7 @@
  },
  "marking": {
   "title": "Perro que marca dentro de casa",
-  "description": "Pequeñas marcas deliberadas en superficies verticales. Descarta primero las causas médicas.",
+  "description": "Pequeñas marcas deliberadas en superficies verticales. Descarte primero las causas médicas.",
   "card": "Pequeñas marcas deliberadas en superficies verticales.",
   "needs": [
    "Limpiador enzimático",
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Los zoomies explicados: carreras locas repentinas",
-  "description": "Las carreras repentinas son una descarga de energía normal y sana. Controla el suelo, no la alegría.",
+  "description": "Las carreras repentinas son una descarga de energía normal y sana. Controle el suelo, no la alegría.",
   "card": "Las carreras repentinas son una descarga de energía normal y sana.",
   "needs": [
    "Alfombra antideslizante"

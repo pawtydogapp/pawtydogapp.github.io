@@ -10,7 +10,7 @@
  },
  "attention": {
   "title": "Hund stupst, fiept und scharrt nach Aufmerksamkeit",
-  "description": "Auch genervte Aufmerksamkeit zählt. So drehst du die Rechnung um, damit Ruhe sich lohnt und Drängeln nicht.",
+  "description": "Auch genervte Aufmerksamkeit zählt. So drehen Sie die Rechnung um, damit Ruhe sich lohnt und Drängeln nicht.",
   "card": "Auch genervte Aufmerksamkeit zählt.",
   "needs": [
    "Futterpuzzle",
@@ -49,7 +49,7 @@
  },
  "chewadult": {
   "title": "Erwachsener Hund zerkaut Möbel aus Langeweile",
-  "description": "Kauen beruhigt. Was dir ein unterforderter erwachsener Hund sagen will und wie du es umlenkst.",
+  "description": "Kauen beruhigt. Was Ihnen ein unterforderter erwachsener Hund sagen will und wie Sie es umlenken.",
   "card": "Kauen beruhigt.",
   "needs": [
    "Wechselnde Kauartikel",
@@ -76,7 +76,7 @@
  },
  "doorbell": {
   "title": "Hund bellt bei der Türklingel",
-  "description": "Die Klingel kündigt etwas Aufregendes an. So konditionierst du sie um, damit die Klingel Käse statt Chaos bedeutet.",
+  "description": "Die Klingel kündigt etwas Aufregendes an. So konditionieren Sie sie um, damit die Klingel Käse statt Chaos bedeutet.",
   "card": "Die Klingel kündigt etwas Aufregendes an.",
   "needs": [
    "Aufnahme des Klingelgeräuschs",
@@ -85,7 +85,7 @@
  },
  "barkdogs": {
   "title": "Hund bellt beim Spaziergang andere Hunde an",
-  "description": "Meist Frust oder Unbehagen. Den Abstand finden, bei dem dein Hund ruhig bleibt, und ihn über Wochen verkürzen.",
+  "description": "Meist Frust oder Unbehagen. Den Abstand finden, bei dem Ihr Hund ruhig bleibt, und ihn über Wochen verkürzen.",
   "card": "Meist Frust oder Unbehagen.",
   "needs": [
    "Schleppleine",
@@ -119,7 +119,7 @@
  },
  "sepanx": {
   "title": "Hund kann nicht allein bleiben",
-  "description": "Alleinsein ist eine gelernte Fähigkeit, keine Werkseinstellung. Abwesenheit in winzigen Dosen trainieren und wann du den Hund filmen solltest.",
+  "description": "Alleinsein ist eine gelernte Fähigkeit, keine Werkseinstellung. Abwesenheit in winzigen Dosen trainieren und wann Sie den Hund filmen sollten.",
   "card": "Alleinsein ist eine gelernte Fähigkeit, keine Werkseinstellung.",
   "needs": [
    "Langlebiger Kauartikel",
@@ -128,7 +128,7 @@
  },
  "digging": {
   "title": "Hund buddelt im Garten",
-  "description": "Buddeln ist fest verdrahtet. Du kannst es nicht löschen, aber in eine erlaubte Buddelzone verlegen.",
+  "description": "Buddeln ist fest verdrahtet. Sie können es nicht löschen, aber in eine erlaubte Buddelzone verlegen.",
   "card": "Buddeln ist fest verdrahtet.",
   "needs": [
    "Sandkasten oder Buddelkiste",
@@ -163,7 +163,7 @@
  },
  "guard": {
   "title": "Ressourcenverteidigung: erste Anzeichen bei Futter und Spielzeug",
-  "description": "Erstarren, starrer Blick oder Knurren bedeuten Verlustangst. Warum du ein Knurren nie bestrafen darfst.",
+  "description": "Erstarren, starrer Blick oder Knurren bedeuten Verlustangst. Warum Sie ein Knurren nie bestrafen dürfen.",
   "card": "Erstarren, starrer Blick oder Knurren bedeuten Verlustangst.",
   "needs": []
  },
@@ -179,8 +179,8 @@
  },
  "fireworks": {
   "title": "Hund hat Angst vor Feuerwerk und Gewitter",
-  "description": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist und das Geräuschtraining, mit dem du im November beginnst.",
-  "card": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist und das Geräuschtraining, mit dem du im November beginnst.",
+  "description": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist und das Geräuschtraining, mit dem Sie im November beginnen.",
+  "card": "Eine Höhle vorbereiten, warum Trösten in Ordnung ist und das Geräuschtraining, mit dem Sie im November beginnen.",
   "needs": [
    "White-Noise-Gerät",
    "Überdachtes Hundebett"
@@ -188,8 +188,8 @@
  },
  "norecall": {
   "title": "Hund kommt nicht, wenn man ihn ruft",
-  "description": "Die Umgebung belohnt besser als du. Den Rückruf an der Schleppleine neu aufbauen und das Signal schützen.",
-  "card": "Die Umgebung belohnt besser als du.",
+  "description": "Die Umgebung belohnt besser als Sie. Den Rückruf an der Schleppleine neu aufbauen und das Signal schützen.",
+  "card": "Die Umgebung belohnt besser als Sie.",
   "needs": [
    "Schleppleine",
    "Hochwertige Leckerlis"
@@ -214,7 +214,7 @@
   ]
  },
  "heat": {
-  "title": "Die erste Läufigkeit der Hündin: was dich erwartet",
+  "title": "Die erste Läufigkeit der Hündin: was Sie erwartet",
   "description": "Zwischen 6 und 15 Monaten, Dauer 2 bis 4 Wochen. 3 Wochen Management, dann geht das Leben weiter.",
   "card": "Zwischen 6 und 15 Monaten, Dauer 2 bis 4 Wochen.",
   "needs": [
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Zoomies erklärt: plötzliche wilde Rennphasen",
-  "description": "Plötzliche Rennrunden sind ein normales, gesundes Ablassen von Energie. Sorg für sicheren Untergrund, statt die Freude zu bremsen.",
+  "description": "Plötzliche Rennrunden sind ein normales, gesundes Ablassen von Energie. Sorgen Sie für sicheren Untergrund, statt die Freude zu bremsen.",
   "card": "Plötzliche Rennrunden sind ein normales, gesundes Ablassen von Energie.",
   "needs": [
    "Rutschfester Teppich"
@@ -247,7 +247,7 @@
  },
  "stealing": {
   "title": "Hund klaut Socken und rennt damit weg",
-  "description": "Socke schnappen, und die Menschen jagen hinterher. So nimmst du dem Spiel die Verfolgungsjagd.",
+  "description": "Socke schnappen, und die Menschen jagen hinterher. So nehmen Sie dem Spiel die Verfolgungsjagd.",
   "card": "Socke schnappen, und die Menschen jagen hinterher.",
   "needs": [
    "Zerrspielzeug",

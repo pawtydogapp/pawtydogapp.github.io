@@ -49,7 +49,7 @@
  },
  "chewadult": {
   "title": "Cane adulto che rosicchia i mobili per noia",
-  "description": "Masticare calma. Cosa ti sta dicendo un cane adulto poco stimolato, e come reindirizzarlo.",
+  "description": "Masticare calma. Cosa le sta dicendo un cane adulto poco stimolato, e come reindirizzarlo.",
   "card": "Masticare calma.",
   "needs": [
    "Masticativi a rotazione",
@@ -66,8 +66,8 @@
  },
  "pulling": {
   "title": "Cane che tira al guinzaglio: perché succede e cosa funziona",
-  "description": "I cani tirano perché li ha fatti avanzare. Fermati e riparti, premio vicino alla gamba, e perché i collari a punte creano nuovi problemi.",
-  "card": "I cani tirano perché li ha fatti avanzare.",
+  "description": "I cani tirano perché tirare li ha fatti avanzare. Si fermi e riparta, premio vicino alla gamba, e perché i collari a punte creano nuovi problemi.",
+  "card": "I cani tirano perché tirare li ha fatti avanzare.",
   "needs": [
    "Pettorina con aggancio frontale",
    "Guinzaglio standard da 2 m",
@@ -85,7 +85,7 @@
  },
  "barkdogs": {
   "title": "Cane che abbaia agli altri cani in passeggiata",
-  "description": "Di solito frustrazione o disagio. Trovare la distanza a cui il tuo cane resta calmo e ridurla nel corso delle settimane.",
+  "description": "Di solito frustrazione o disagio. Trovare la distanza a cui il suo cane resta calmo e ridurla nel corso delle settimane.",
   "card": "Di solito frustrazione o disagio.",
   "needs": [
    "Lunghina",
@@ -93,7 +93,7 @@
   ]
  },
  "demand": {
-  "title": "Abbaio di richiesta: il cane ti abbaia per cibo o attenzione",
+  "title": "Abbaio di richiesta: il cane le abbaia per cibo o attenzione",
   "description": "Il cane abbaia perché ha già funzionato. Perché peggiora prima di migliorare.",
   "card": "Il cane abbaia perché ha già funzionato.",
   "needs": []
@@ -128,7 +128,7 @@
  },
  "digging": {
   "title": "Cane che scava in giardino",
-  "description": "Scavare è innato. Non puoi cancellarlo, ma puoi spostarlo in una zona di scavo permessa.",
+  "description": "Scavare è innato. Non può cancellarlo, ma può spostarlo in una zona di scavo permessa.",
   "card": "Scavare è innato.",
   "needs": [
    "Sabbiera o cassa da scavo",
@@ -163,7 +163,7 @@
  },
  "guard": {
   "title": "Protezione delle risorse: primi segnali con cibo e giochi",
-  "description": "Irrigidirsi, fissare o ringhiare indica paura di perdere qualcosa. Perché non devi mai punire un ringhio.",
+  "description": "Irrigidirsi, fissare o ringhiare indica paura di perdere qualcosa. Perché non deve mai punire un ringhio.",
   "card": "Irrigidirsi, fissare o ringhiare indica paura di perdere qualcosa.",
   "needs": []
  },
@@ -179,17 +179,17 @@
  },
  "fireworks": {
   "title": "Cane che ha paura dei fuochi d'artificio e dei temporali",
-  "description": "Preparare una tana, perché consolare il tuo cane va bene, e il lavoro sui suoni da iniziare a novembre.",
-  "card": "Preparare una tana, perché consolare il tuo cane va bene, e il lavoro sui suoni da iniziare a novembre.",
+  "description": "Preparare una tana, perché consolare il suo cane va bene, e il lavoro sui suoni da iniziare a novembre.",
+  "card": "Preparare una tana, perché consolare il suo cane va bene, e il lavoro sui suoni da iniziare a novembre.",
   "needs": [
    "Macchina del rumore bianco",
    "Cuccia coperta"
   ]
  },
  "norecall": {
-  "title": "Cane che non torna quando lo chiami",
-  "description": "L'ambiente premia meglio di te. Ricostruire il richiamo con la lunghina e proteggere il segnale.",
-  "card": "L'ambiente premia meglio di te.",
+  "title": "Cane che non torna quando lo chiama",
+  "description": "L'ambiente premia meglio di lei. Ricostruire il richiamo con la lunghina e proteggere il segnale.",
+  "card": "L'ambiente premia meglio di lei.",
   "needs": [
    "Lunghina",
    "Premi di alto valore"
@@ -206,7 +206,7 @@
  },
  "marking": {
   "title": "Cane che marca in casa",
-  "description": "Piccole marcature volute su superfici verticali. Escludi prima le cause mediche.",
+  "description": "Piccole marcature volute su superfici verticali. Escluda prima le cause mediche.",
   "card": "Piccole marcature volute su superfici verticali.",
   "needs": [
    "Detergente enzimatico",
@@ -230,7 +230,7 @@
  },
  "zoomies": {
   "title": "Gli zoomies spiegati: le improvvise corse pazze",
-  "description": "I giri di corsa improvvisi sono uno sfogo di energia normale e sano. Gestisci il terreno, non la gioia.",
+  "description": "I giri di corsa improvvisi sono uno sfogo di energia normale e sano. Gestisca il terreno, non la gioia.",
   "card": "I giri di corsa improvvisi sono uno sfogo di energia normale e sano.",
   "needs": [
    "Tappeto antiscivolo"
