@@ -135,7 +135,7 @@ def enrich_ld(lang, pg, path, u, ld, main, chrome, title, desc, item_urls):
         d['inLanguage'] = lang
         if d.get('@type') == 'Article':
             m = re.search(r'<img class="cover" src="([^"]+)"', main)
-            d['image'] = 'https://pawtyapp.com' + m.group(1) if m else og_image(lang)
+            d['image'] = ('https://pawtyapp.com' + m.group(1)) if (m and m.group(1).endswith(('.jpg', '.png', '.svg'))) else (f"https://pawtyapp.com/og/guides/{path[7:-5]}.jpg" if path.startswith('guides/') else og_image(lang))
             d['publisher'] = {"@id": ORG["@id"]}
         graph.append(d)
     home = url(lang, 'index.html')
@@ -193,7 +193,7 @@ def build_lang(lang):
             needs = ''
             if t['needs']:
                 needs = render(T['guide-needs'], dict(chrome, items=''.join(f'<li>{x}</li>' for x in t['needs'])), path)
-            v = dict(chrome, n=esc(b['n']), why=esc(b['why']), calm=esc(b['calm']), needs=needs, stores=stores,
+            v = dict(chrome, slug=g['slug'], n=esc(b['n']), why=esc(b['why']), calm=esc(b['calm']), needs=needs, stores=stores,
                      fix=''.join(f'<li>{esc(x)}</li>\n' for x in b['fix']),
                      avoid=''.join(f'<li>{esc(x)}</li>\n' for x in b['avoid']),
                      help=chrome['guide_help_critical'] if g['critical'] else chrome['guide_help_text'])
@@ -217,7 +217,7 @@ def build_lang(lang):
             alts = ''.join(f'\n<link rel="alternate" hreflang="{l}" href="{url(l, path)}">' for l in langs_here)
             alts += f'\n<link rel="alternate" hreflang="x-default" href="{url("en", path)}">'
         v = dict(chrome, lang=lang, title=title, description=desc, url=u, canonical=canonical + alts, og_locale=(f'\n<meta property="og:locale" content="{LOCALE[lang]}">' if len(LANGS) > 1 else ''),
-                 css=css, og_image=og_image(lang), posthog=T['posthog'], ld=(f'<script type="application/ld+json">{ld}</script>\n' if ld else ''),
+                 css=css, og_image=(f"https://pawtyapp.com/og/guides/{gby[path]['slug']}.jpg" if pg['kind'] == 'guide' else og_image(lang)), posthog=T['posthog'], ld=(f'<script type="application/ld+json">{ld}</script>\n' if ld else ''),
                  main=main, js=jsx)
         out = localize_links(render(T['base'], v, path), lang)
         out = out.replace('@@LANGSWITCH@@', lang_switch(lang, path, chrome)).replace('@@LANGFOOT@@', lang_footer(lang, path))
