@@ -159,11 +159,11 @@
   var card = $('familycard');
   if (card) {
     var L = card.dataset.lang || 'en';
-    config(['family_on', 'family_title_' + L, 'family_title_en', 'family_pct', 'family_code', 'family_img1', 'family_img2', 'family_img3'])
+    config(['family_on', 'family_title_' + L, 'family_title_en', 'family_pct', 'family_code', 'family_img1', 'family_img2', 'family_img3', 'family_img4', 'family_img5', 'family_img6'])
       .then(function (c) {
         if (String(c.family_on) !== '1') return;
         var title = c['family_title_' + L] || c.family_title_en || '';
-        var imgs = [c.family_img1, c.family_img2, c.family_img3].filter(function (u) { return u && /^https:\/\//.test(u); });
+        var imgs = [c.family_img1, c.family_img2, c.family_img3, c.family_img4, c.family_img5, c.family_img6].filter(function (u) { return u && /^https:\/\//.test(u); });
         $('fam-title').textContent = title;
         $('fam-imgs').innerHTML = imgs.map(function (u) { return '<img src="' + esc(u) + '" alt="" loading="lazy">'; }).join('');
         $('fam-imgs').hidden = !imgs.length;
@@ -176,7 +176,7 @@
             (navigator.clipboard ? navigator.clipboard.writeText(c.family_code) : Promise.reject()).then(function () { b.textContent = card.dataset.copied; setTimeout(function () { b.textContent = card.dataset.copy; }, 1500); }).catch(function () {});
           });
         }
-        $('fam-visit').href = (L === 'en' ? '' : '/' + L) + '/shop.html' + (c.family_code ? '?code=' + encodeURIComponent(c.family_code) : '');
+        $('fam-imgs').href = $('fam-visit').href = (L === 'en' ? '' : '/' + L) + '/shop.html' + (c.family_code ? '?code=' + encodeURIComponent(c.family_code) : '');
         card.hidden = false;
       }).catch(function () {});
   }

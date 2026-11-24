@@ -516,3 +516,10 @@ article li,.legal li{margin-bottom:9px;padding-left:2px;font-size:17px}
 @media (max-width:900px){.tugtop,.tugnala,.tugcols{grid-template-columns:minmax(0,1fr);gap:28px}.tuginfo .h1{font-size:44px}.tugvid{max-width:360px}.tugsec{padding-top:40px}}
 @media (max-width:560px){.tugthumbs{grid-template-columns:repeat(6,minmax(0,1fr));gap:6px}.tugdl{grid-template-columns:minmax(0,1fr);gap:2px}.tugdl dd{margin-bottom:10px}.tuginfo .h1{font-size:38px}.tug{padding-top:20px}}
 @media (max-width:360px){.tugsize{grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"n p" "l p" "b b";padding:12px}.tsb{text-align:center;margin-top:8px}}
+/* r12 family card: photos to the right on wider screens, up to 6 */
+.famcard{align-items:stretch}
+.famcard .mkbody{flex:0 0 auto;max-width:300px}
+.famimgs{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px;margin:0;flex:1;align-content:center;text-decoration:none}
+.famimgs img{width:100%;height:auto;aspect-ratio:1/1}
+@media (max-width:760px){.famcard{flex-direction:column}.famcard .mkbody{max-width:none}.famimgs{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.famcard .mkbtn{margin-top:12px}}
+@media (max-width:760px){.famcard .mkbody{display:contents}.famcard .mkcat{order:1}.famcard h3{order:2}.famcard .famimgs{order:3}.famcard .fampromo{order:4}.famcard .mkbtn{order:5;margin-top:4px}}
