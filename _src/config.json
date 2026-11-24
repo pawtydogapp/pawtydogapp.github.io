@@ -468,8 +468,7 @@
   {
    "path": "shop.html",
    "kind": "page",
-   "priority": "0.6",
-   "hidden": true
+   "priority": "0.6"
   },
   {
    "path": "legal/sale.html",

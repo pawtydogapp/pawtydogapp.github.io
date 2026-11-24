@@ -1,31 +1,80 @@
-<div class="wrap shopwrap" style="padding-top:36px">
-<div id="shop" data-lang="{{lang}}" data-add="{{shop_add}}" data-added="{{shop_added}}" data-soon-title="{{shop_soon_title}}" data-soon-text="{{shop_soon_text}}" data-load-error="{{shop_load_error}}" data-empty="{{shop_empty}}" data-shipping="{{shop_shipping}}" data-free="{{shop_free}}" data-code="{{shop_code}}" data-total="{{shop_total}}" data-qty="{{shop_qty}}" data-code-invalid="{{shop_code_invalid}}" data-error="{{shop_error}}" data-thanks="{{shop_thanks_title}}. {{shop_thanks_text}}" data-cancelled="{{shop_cancelled}}">
-<p id="shop-note" class="shopnotice" hidden aria-live="polite"></p>
-<div id="shop-list-view">
-<div class="shophead"><h2 class="sec" style="text-align:left;margin:0">{{shop_title}}</h2><button id="shop-open-cart" class="shopcart" type="button">{{shop_cart}} <span id="shop-count"></span></button></div>
-<p class="shopintro">{{shop_intro}}</p>
-<div id="shop-list" class="shoplist"><p class="shopmsg">…</p></div>
+<section class="wr tug">
+<div class="tugtop">
+<div class="tuggal">
+<div class="tugmain"><img id="tug-main" src="/img/shop/tug-all.webp" alt="{{tug_alt_all}}" width="1000" height="1000" fetchpriority="high"></div>
+<div class="tugthumbs" role="group" aria-label="{{tug_photos}}">
+<button type="button" class="on" data-src="/img/shop/tug-all.webp" data-alt="{{tug_alt_all}}" aria-pressed="true"><img src="/img/shop/tug-all.webp" alt="{{tug_alt_all}}" width="1000" height="1000"></button>
+<button type="button" data-src="/img/shop/tug-small.webp" data-alt="{{tug_alt_small}}" aria-pressed="false"><img src="/img/shop/tug-small.webp" alt="{{tug_alt_small}}" width="1000" height="1000" loading="lazy"></button>
+<button type="button" data-src="/img/shop/tug-medium.webp" data-alt="{{tug_alt_medium}}" aria-pressed="false"><img src="/img/shop/tug-medium.webp" alt="{{tug_alt_medium}}" width="1000" height="1000" loading="lazy"></button>
+<button type="button" data-src="/img/shop/tug-large.webp" data-alt="{{tug_alt_large}}" aria-pressed="false"><img src="/img/shop/tug-large.webp" alt="{{tug_alt_large}}" width="1000" height="1000" loading="lazy"></button>
+<button type="button" data-src="/img/shop/nala-tug-1.webp" data-alt="{{tug_alt_nala}}" aria-pressed="false"><img src="/img/shop/nala-tug-1.webp" alt="{{tug_alt_nala}}" width="1000" height="1000" loading="lazy"></button>
+<button type="button" data-src="/img/shop/nala-tug-5.webp" data-alt="{{tug_alt_nala}}" aria-pressed="false"><img src="/img/shop/nala-tug-5.webp" alt="{{tug_alt_nala}}" width="1000" height="1000" loading="lazy"></button>
+<button type="button" data-src="/img/shop/colours-1.webp" data-alt="{{tug_alt_colours}}" aria-pressed="false"><img src="/img/shop/colours-1.webp" alt="{{tug_alt_colours}}" width="1200" height="900" loading="lazy"></button>
+<button type="button" data-src="/img/shop/colours-2.webp" data-alt="{{tug_alt_colours}}" aria-pressed="false"><img src="/img/shop/colours-2.webp" alt="{{tug_alt_colours}}" width="1200" height="900" loading="lazy"></button>
 </div>
-<div id="shop-cart-view" hidden>
-<button id="shop-back" class="shopback" type="button">{{shop_back}}</button>
-<h2 class="sec" style="text-align:left;margin:10px 0 14px">{{shop_cart_title}}</h2>
-<div id="cart-lines" class="shopbox"></div>
-<div id="cart-form">
-<div class="shopbox">
-<label class="shoplabel" for="f-code">{{shop_code_label}}</label>
-<div class="shopcoderow"><input id="f-code" class="shopin" autocomplete="off" autocapitalize="characters" maxlength="40"><button id="code-apply" class="shopghost" type="button">{{shop_apply}}</button></div>
-<p id="code-msg" class="shoperr" aria-live="polite"></p>
-<label class="shoplabel" for="f-country">{{shop_country}}</label><select id="f-country" class="shopin" autocomplete="country"></select>
-<p class="shopnote" style="text-align:left;margin-top:8px">{{shop_stripe_note}}</p>
 </div>
-<button id="pay" class="shoppay" type="button">{{shop_pay}}</button>
-<p id="pay-msg" class="shoperr" aria-live="polite"></p>
-<div class="shopcards"><span>Visa</span><span>Mastercard</span><span>Apple Pay</span><span>Google Pay</span></div>
-<p class="shopnote">{{shop_pay_note}}</p>
-<p class="shopnote"><a href="/legal/sale.html">{{shop_accept}}</a></p>
+<div class="tuginfo">
+<p class="eb">{{shop_card_tag}}</p>
+<h1 class="h1">{{tug_h1}}</h1>
+<p class="tuglead">{{tug_lead}}</p>
+<h2 class="tugh">{{tug_choose}}</h2>
+<div class="tugsizes">
+<a class="tugsize" href="https://buy.stripe.com/00w3cv1HD7TJ4Oy33P8N200" rel="noopener"><span class="tsn">{{tug_small}}</span><span class="tsl">{{tug_len_s}}</span><span class="tsp">{{tug_price_s}}</span><span class="tsb">{{tug_buy}}</span></a>
+<a class="tugsize" href="https://buy.stripe.com/4gM3cvfyt4Hx3KugUF8N201" rel="noopener"><span class="tsn">{{tug_medium}}</span><span class="tsl">{{tug_len_m}}</span><span class="tsp">{{tug_price_m}}</span><span class="tsb">{{tug_buy}}</span></a>
+<a class="tugsize" href="https://buy.stripe.com/bJebJ1dql8XNbcWawh8N202" rel="noopener"><span class="tsn">{{tug_large}}</span><span class="tsl">{{tug_len_l}}</span><span class="tsp">{{tug_price_l}}</span><span class="tsb">{{tug_buy}}</span></a>
+</div>
+<p class="tugship">{{tug_ship}}</p>
+<div class="tugsurprise"><b>{{tug_surprise_title}}</b><p>{{tug_surprise_text}}</p></div>
+<p class="tugpay">{{tug_pay}}</p>
+</div>
+</div>
+</section>
+
+<section class="wr tugsec">
+<h2 class="h2">{{tug_why_title}}</h2>
+<div class="g3 tugwhy">
+<div class="card tugcard"><h3>{{tug_why1_t}}</h3><p>{{tug_why1}}</p></div>
+<div class="card tugcard"><h3>{{tug_why2_t}}</h3><p>{{tug_why2}}</p></div>
+<div class="card tugcard"><h3>{{tug_why3_t}}</h3><p>{{tug_why3}}</p></div>
+</div>
+</section>
+
+<section class="wr tugsec">
+<div class="tugnala">
+<div class="tugvid"><video src="/img/shop/tug-play.mp4" poster="/img/shop/tug-play-poster.webp" width="720" height="900" muted loop playsinline autoplay preload="metadata" aria-label="{{tug_alt_video}}"></video></div>
+<div><h2 class="h2">{{tug_nala_title}}</h2><p class="tugtext">{{tug_nala_text}}</p></div>
+</div>
+</section>
+
+<section class="wr tugsec">
+<div class="tugcols">
+<div>
+<h2 class="h2">{{tug_details_title}}</h2>
+<dl class="tugdl">
+<dt>{{tug_d_material_l}}</dt><dd>{{tug_d_material}}</dd>
+<dt>{{tug_d_sizes_l}}</dt><dd>{{tug_d_sizes}}</dd>
+<dt>{{tug_d_care_l}}</dt><dd>{{tug_d_care}}</dd>
+<dt>{{tug_d_dispatch_l}}</dt><dd>{{tug_d_dispatch}}</dd>
+<dt>{{tug_d_returns_l}}</dt><dd>{{tug_d_returns}} <a href="/legal/sale.html">{{shop_terms}}</a></dd>
+</dl>
+</div>
+<div class="tugsafety">
+<h2 class="tugh">{{tug_safety_title}}</h2>
+<ul>
+<li>{{tug_safe1}}</li>
+<li>{{tug_safe2}}</li>
+<li>{{tug_safe3}}</li>
+<li>{{tug_safe4}}</li>
+<li>{{tug_safe5}}</li>
+</ul>
+<p class="tugmaker">{{tug_maker}} <a href="mailto:info@pawtyapp.com">info@pawtyapp.com</a></p>
 </div>
 </div>
 <p class="shopseller">{{shop_seller}} <a href="/legal/sale.html">{{shop_terms}}</a></p>
-</div>
-</div>
-<script src="/assets/shop.js?v={{shop_js_v}}"></script>
+</section>
+<script>
+(function(){var m=document.getElementById('tug-main');if(!m)return;var bs=document.querySelectorAll('.tugthumbs button');
+for(var i=0;i<bs.length;i++){bs[i].addEventListener('click',function(){for(var j=0;j<bs.length;j++){bs[j].classList.remove('on');bs[j].setAttribute('aria-pressed','false')}
+this.classList.add('on');this.setAttribute('aria-pressed','true');m.src=this.dataset.src;m.alt=this.dataset.alt;})}
+var v=document.querySelector('.tugvid video');if(v&&window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches){v.removeAttribute('autoplay');v.pause();v.controls=true}})();
+</script>
