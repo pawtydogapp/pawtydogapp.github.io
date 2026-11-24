@@ -253,17 +253,17 @@
   <url><loc>https://pawtyapp.com/pt/post-eu-travel.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://pawtyapp.com/ro/post-eu-travel.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://pawtyapp.com/sl/post-eu-travel.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
-  <url><loc>https://pawtyapp.com/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/de/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/es/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/fr/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/hr/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/it/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/nl/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/pl/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/pt/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/ro/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pawtyapp.com/sl/legal/privacy.html</loc><lastmod>2026-11-22</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/de/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/es/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/fr/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/hr/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/it/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/nl/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/pl/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/pt/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/ro/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
+  <url><loc>https://pawtyapp.com/sl/legal/privacy.html</loc><lastmod>2026-11-24</lastmod><priority>0.5</priority></url>
   <url><loc>https://pawtyapp.com/legal/terms.html</loc><lastmod>2026-10-30</lastmod><priority>0.5</priority></url>
   <url><loc>https://pawtyapp.com/de/legal/terms.html</loc><lastmod>2026-11-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://pawtyapp.com/es/legal/terms.html</loc><lastmod>2026-11-10</lastmod><priority>0.5</priority></url>
@@ -627,4 +627,15 @@
   <url><loc>https://pawtyapp.com/pt/guides/nail-trimming.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://pawtyapp.com/ro/guides/nail-trimming.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://pawtyapp.com/sl/guides/nail-trimming.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://pawtyapp.com/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/de/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/es/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/fr/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/hr/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/it/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/nl/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/pl/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/pt/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/ro/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://pawtyapp.com/sl/shop.html</loc><lastmod>2026-11-24</lastmod><priority>0.6</priority></url>
 </urlset>

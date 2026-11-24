@@ -67,7 +67,7 @@
  "shop_terms": "Regulamin sprzedaży",
  "shop_fill": "Należy wypełnić wszystkie pola dostawy.",
  "shop_error": "Coś poszło nie tak. Nic nie zostało pobrane. Prosimy spróbować ponownie.",
- "shop_seller": "Sprzedawca: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Słowenia. VAT nie jest naliczany na podstawie art. 94 słoweńskiej ustawy o VAT (ZDDV-1).",
+ "shop_seller": "Sprzedawca: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Słowenia. VAT nie jest naliczany na podstawie art. 94 słoweńskiej ustawy o VAT (ZDDV-1).",
  "shop_thanks_title": "Dziękujemy, zamówienie zostało przyjęte",
  "shop_thanks_text": "Stripe wyśle potwierdzenie zakupu e-mailem. Paczka zostanie ręcznie zapakowana w Słowenii i wysłana, gdy tylko będzie gotowa.",
  "shop_thanks_back": "Powrót do sklepu",
@@ -105,9 +105,9 @@
  "tug_small": "Mały",
  "tug_medium": "Średni",
  "tug_large": "Duży",
- "tug_len_s": "Około 30-35 cm",
- "tug_len_m": "Około 35-45 cm",
- "tug_len_l": "Około 45-55 cm",
+ "tug_len_s": "Około 30‑35 cm",
+ "tug_len_m": "Około 35‑45 cm",
+ "tug_len_l": "Około 45‑55 cm",
  "tug_price_s": "8,99 EUR",
  "tug_price_m": "12,99 EUR",
  "tug_price_l": "16,99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Pielęgnacja",
  "tug_d_care": "Pranie w pralce, program delikatny, 30 stopni.",
  "tug_d_dispatch_l": "Wysyłka",
- "tug_d_dispatch": "Pakowany ręcznie i wysyłany w ciągu 5 dni od zamówienia przesyłką pocztową z możliwością śledzenia (Pošta Slovenije). Do każdej paczki dołączamy ręcznie robioną kartkę z podziękowaniem.",
+ "tug_d_dispatch": "Pakowany ręcznie i wysyłany w ciągu 5 dni od zamówienia przesyłką pocztową z możliwością śledzenia. Do każdej paczki dołączamy ręcznie robioną kartkę z podziękowaniem.",
  "tug_d_returns_l": "Zwroty",
  "tug_d_returns": "Od zakupu można odstąpić w ciągu 14 dni od dostawy.",
  "tug_safety_title": "Bezpieczeństwo",
@@ -142,5 +142,5 @@
  "tug_safe3": "Przed każdym użyciem należy sprawdzić szarpak. Jeśli jest zużyty lub rozdarty albo odchodzą od niego kawałki, należy go wymienić.",
  "tug_safe4": "Jeśli pies połknie polar, należy skontaktować się z weterynarzem.",
  "tug_safe5": "To zabawka dla psów, a nie dla dzieci.",
- "tug_maker": "Wykonano ręcznie w Słowenii. Producent i sprzedawca: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Słowenia."
+ "tug_maker": "Wykonano ręcznie w Słowenii. Producent i sprzedawca: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Słowenia."
 }

@@ -468,7 +468,8 @@
   {
    "path": "shop.html",
    "kind": "page",
-   "priority": "0.6"
+   "priority": "0.6",
+   "lastmod": "2026-11-22"
   },
   {
    "path": "legal/sale.html",

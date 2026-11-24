@@ -67,7 +67,7 @@
  "shop_terms": "Condizioni di vendita",
  "shop_fill": "Compili tutti i campi per la consegna.",
  "shop_error": "Qualcosa è andato storto. Non le è stato addebitato nulla. Riprovi.",
- "shop_seller": "Venduto da Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia. IVA non applicata ai sensi dell'articolo 94 della legge slovena sull'IVA (ZDDV-1).",
+ "shop_seller": "Venduto da Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia. IVA non applicata ai sensi dell'articolo 94 della legge slovena sull'IVA (ZDDV-1).",
  "shop_thanks_title": "Grazie, abbiamo ricevuto il suo ordine",
  "shop_thanks_text": "Stripe le invia la ricevuta via email. Il suo pacco viene preparato a mano in Slovenia e spedito appena è pronto.",
  "shop_thanks_back": "Tornare al negozio",
@@ -105,9 +105,9 @@
  "tug_small": "Piccola",
  "tug_medium": "Media",
  "tug_large": "Grande",
- "tug_len_s": "Circa 30-35 cm",
- "tug_len_m": "Circa 35-45 cm",
- "tug_len_l": "Circa 45-55 cm",
+ "tug_len_s": "Circa 30‑35 cm",
+ "tug_len_m": "Circa 35‑45 cm",
+ "tug_len_l": "Circa 45‑55 cm",
  "tug_price_s": "8,99 EUR",
  "tug_price_m": "12,99 EUR",
  "tug_price_l": "16,99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Manutenzione",
  "tug_d_care": "Lavabile in lavatrice, programma delicato, 30 gradi.",
  "tug_d_dispatch_l": "Spedizione",
- "tug_d_dispatch": "Imballata a mano e spedita entro 5 giorni dall'ordine con posta tracciata (Pošta Slovenije). Ogni pacco contiene un biglietto di ringraziamento fatto a mano.",
+ "tug_d_dispatch": "Imballata a mano e spedita entro 5 giorni dall'ordine con posta tracciata. Ogni pacco contiene un biglietto di ringraziamento fatto a mano.",
  "tug_d_returns_l": "Resi",
  "tug_d_returns": "Può recedere dall'acquisto entro 14 giorni dalla consegna.",
  "tug_safety_title": "Sicurezza",
@@ -142,5 +142,5 @@
  "tug_safe3": "Controlli la corda prima di ogni uso. La sostituisca se è consumata o strappata, o se si staccano dei pezzi.",
  "tug_safe4": "Se il cane ingoia del pile, contatti il veterinario.",
  "tug_safe5": "È un gioco per cani, non un giocattolo per bambini.",
- "tug_maker": "Fatta a mano in Slovenia. Produttore e venditore: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia."
+ "tug_maker": "Fatta a mano in Slovenia. Produttore e venditore: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia."
 }

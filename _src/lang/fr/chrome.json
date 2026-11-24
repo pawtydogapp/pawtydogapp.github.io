@@ -67,7 +67,7 @@
  "shop_terms": "Conditions de vente",
  "shop_fill": "Remplissez tous les champs de livraison.",
  "shop_error": "Un problème est survenu. Rien n'a été débité. Réessayez.",
- "shop_seller": "Vendu par Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovénie. TVA non applicable en vertu de l'Article 94 de la loi slovène sur la TVA (ZDDV-1).",
+ "shop_seller": "Vendu par Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovénie. TVA non applicable en vertu de l'Article 94 de la loi slovène sur la TVA (ZDDV-1).",
  "shop_thanks_title": "Merci, votre commande est bien enregistrée",
  "shop_thanks_text": "Stripe vous envoie votre reçu par e-mail. Votre colis est emballé à la main en Slovénie et expédié dès qu'il est prêt.",
  "shop_thanks_back": "Retour à la boutique",
@@ -105,9 +105,9 @@
  "tug_small": "Petite",
  "tug_medium": "Moyenne",
  "tug_large": "Grande",
- "tug_len_s": "Environ 30-35 cm",
- "tug_len_m": "Environ 35-45 cm",
- "tug_len_l": "Environ 45-55 cm",
+ "tug_len_s": "Environ 30‑35 cm",
+ "tug_len_m": "Environ 35‑45 cm",
+ "tug_len_l": "Environ 45‑55 cm",
  "tug_price_s": "8,99 EUR",
  "tug_price_m": "12,99 EUR",
  "tug_price_l": "16,99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Entretien",
  "tug_d_care": "Lavable en machine, programme délicat, 30 degrés.",
  "tug_d_dispatch_l": "Expédition",
- "tug_d_dispatch": "Emballée à la main et envoyée dans les 5 jours suivant votre commande par courrier suivi (Pošta Slovenije). Chaque colis contient une carte de remerciement faite main.",
+ "tug_d_dispatch": "Emballée à la main et envoyée dans les 5 jours suivant votre commande par courrier suivi. Chaque colis contient une carte de remerciement faite main.",
  "tug_d_returns_l": "Retours",
  "tug_d_returns": "Vous pouvez vous rétracter de votre achat dans les 14 jours suivant la livraison.",
  "tug_safety_title": "Sécurité",
@@ -142,5 +142,5 @@
  "tug_safe3": "Vérifiez la corde avant chaque utilisation. Remplacez-la si elle est usée ou déchirée, ou si des morceaux se détachent.",
  "tug_safe4": "Si votre chien avale de la polaire, contactez votre vétérinaire.",
  "tug_safe5": "Ceci est un jouet pour chien, pas un jouet pour enfants.",
- "tug_maker": "Faite main en Slovénie. Fabricant et vendeur : Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovénie."
+ "tug_maker": "Faite main en Slovénie. Fabricant et vendeur : Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovénie."
 }

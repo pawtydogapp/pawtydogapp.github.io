@@ -67,7 +67,7 @@
  "shop_terms": "Condiciones de venta",
  "shop_fill": "Rellene todos los campos de entrega.",
  "shop_error": "Algo ha fallado. No se ha cobrado nada. Inténtelo de nuevo.",
- "shop_seller": "Vendido por Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Eslovenia. No se aplica IVA en virtud del artículo 94 de la Ley del IVA de Eslovenia (ZDDV-1).",
+ "shop_seller": "Vendido por Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Eslovenia. No se aplica IVA en virtud del artículo 94 de la Ley del IVA de Eslovenia (ZDDV-1).",
  "shop_thanks_title": "Gracias, hemos recibido su pedido",
  "shop_thanks_text": "Stripe le envía el recibo por correo electrónico. Su paquete se prepara a mano en Eslovenia y sale en cuanto está listo.",
  "shop_thanks_back": "Volver a la tienda",
@@ -105,9 +105,9 @@
  "tug_small": "Pequeña",
  "tug_medium": "Mediana",
  "tug_large": "Grande",
- "tug_len_s": "Unos 30-35 cm",
- "tug_len_m": "Unos 35-45 cm",
- "tug_len_l": "Unos 45-55 cm",
+ "tug_len_s": "Unos 30‑35 cm",
+ "tug_len_m": "Unos 35‑45 cm",
+ "tug_len_l": "Unos 45‑55 cm",
  "tug_price_s": "8,99 EUR",
  "tug_price_m": "12,99 EUR",
  "tug_price_l": "16,99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Cuidado",
  "tug_d_care": "Lavable a máquina, programa delicado, 30 grados.",
  "tug_d_dispatch_l": "Envío",
- "tug_d_dispatch": "Se empaqueta a mano y se envía en un plazo de 5 días desde su pedido por correo con seguimiento (Pošta Slovenije). Cada paquete incluye una tarjeta de agradecimiento hecha a mano.",
+ "tug_d_dispatch": "Se empaqueta a mano y se envía en un plazo de 5 días desde su pedido por correo con seguimiento. Cada paquete incluye una tarjeta de agradecimiento hecha a mano.",
  "tug_d_returns_l": "Devoluciones",
  "tug_d_returns": "Puede desistir de la compra en un plazo de 14 días desde la entrega.",
  "tug_safety_title": "Seguridad",
@@ -142,5 +142,5 @@
  "tug_safe3": "Revise la cuerda antes de cada uso. Sustitúyala si está gastada o rota, o si se sueltan trozos.",
  "tug_safe4": "Si su perro se traga forro polar, consulte a su veterinario.",
  "tug_safe5": "Es un juguete para perros, no un juguete para niños.",
- "tug_maker": "Hecha a mano en Eslovenia. Fabricante y vendedora: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Eslovenia."
+ "tug_maker": "Hecha a mano en Eslovenia. Fabricante y vendedora: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Eslovenia."
 }

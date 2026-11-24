@@ -67,7 +67,7 @@
  "shop_terms": "Verkoopvoorwaarden",
  "shop_fill": "Vul alle bezorgvelden in.",
  "shop_error": "Er ging iets mis. Er is niets afgeschreven. Probeer het opnieuw.",
- "shop_seller": "Verkoop door Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenië. Er wordt geen btw gerekend op grond van artikel 94 van de Sloveense btw-wet (ZDDV-1).",
+ "shop_seller": "Verkoop door Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenië. Er wordt geen btw gerekend op grond van artikel 94 van de Sloveense btw-wet (ZDDV-1).",
  "shop_thanks_title": "Bedankt, uw bestelling is binnen",
  "shop_thanks_text": "Stripe stuurt uw betaalbewijs per e-mail. Uw pakketje wordt in Slovenië met de hand ingepakt en verstuurd zodra het klaar is.",
  "shop_thanks_back": "Terug naar de winkel",
@@ -105,9 +105,9 @@
  "tug_small": "Klein",
  "tug_medium": "Middel",
  "tug_large": "Groot",
- "tug_len_s": "Ongeveer 30-35 cm",
- "tug_len_m": "Ongeveer 35-45 cm",
- "tug_len_l": "Ongeveer 45-55 cm",
+ "tug_len_s": "Ongeveer 30‑35 cm",
+ "tug_len_m": "Ongeveer 35‑45 cm",
+ "tug_len_l": "Ongeveer 45‑55 cm",
  "tug_price_s": "8,99 EUR",
  "tug_price_m": "12,99 EUR",
  "tug_price_l": "16,99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Onderhoud",
  "tug_d_care": "Wasbaar in de machine, fijnwasprogramma, 30 graden.",
  "tug_d_dispatch_l": "Verzending",
- "tug_d_dispatch": "Met de hand ingepakt en binnen 5 dagen na uw bestelling verstuurd met track-and-trace (Pošta Slovenije). In elk pakketje zit een handgemaakt bedankkaartje.",
+ "tug_d_dispatch": "Met de hand ingepakt en binnen 5 dagen na uw bestelling verstuurd met track-and-trace. In elk pakketje zit een handgemaakt bedankkaartje.",
  "tug_d_returns_l": "Retourneren",
  "tug_d_returns": "U kunt de aankoop binnen 14 dagen na levering herroepen.",
  "tug_safety_title": "Veiligheid",
@@ -142,5 +142,5 @@
  "tug_safe3": "Controleer het trektouw vóór elk gebruik. Vervang het als het versleten of gescheurd is of als er stukjes loskomen.",
  "tug_safe4": "Heeft uw hond fleece ingeslikt, neem dan contact op met uw dierenarts.",
  "tug_safe5": "Dit is hondenspeelgoed, geen speelgoed voor kinderen.",
- "tug_maker": "Met de hand gemaakt in Slovenië. Fabrikant en verkoper: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenië."
+ "tug_maker": "Met de hand gemaakt in Slovenië. Fabrikant en verkoper: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenië."
 }

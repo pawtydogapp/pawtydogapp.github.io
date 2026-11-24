@@ -9,8 +9,6 @@
 <button type="button" data-src="/img/shop/tug-large.webp" data-alt="{{tug_alt_large}}" aria-pressed="false"><img src="/img/shop/tug-large.webp" alt="{{tug_alt_large}}" width="1000" height="1000" loading="lazy"></button>
 <button type="button" data-src="/img/shop/nala-tug-1.webp" data-alt="{{tug_alt_nala}}" aria-pressed="false"><img src="/img/shop/nala-tug-1.webp" alt="{{tug_alt_nala}}" width="1000" height="1000" loading="lazy"></button>
 <button type="button" data-src="/img/shop/nala-tug-5.webp" data-alt="{{tug_alt_nala}}" aria-pressed="false"><img src="/img/shop/nala-tug-5.webp" alt="{{tug_alt_nala}}" width="1000" height="1000" loading="lazy"></button>
-<button type="button" data-src="/img/shop/colours-1.webp" data-alt="{{tug_alt_colours}}" aria-pressed="false"><img src="/img/shop/colours-1.webp" alt="{{tug_alt_colours}}" width="1200" height="900" loading="lazy"></button>
-<button type="button" data-src="/img/shop/colours-2.webp" data-alt="{{tug_alt_colours}}" aria-pressed="false"><img src="/img/shop/colours-2.webp" alt="{{tug_alt_colours}}" width="1200" height="900" loading="lazy"></button>
 </div>
 </div>
 <div class="tuginfo">
@@ -73,6 +71,7 @@
 <p class="shopseller">{{shop_seller}} <a href="/legal/sale.html">{{shop_terms}}</a></p>
 </section>
 <script>
+(function(){var q=/[?&]lang=([a-z]{2})/.exec(location.search),L=['de','es','fr','hr','it','nl','pl','pt','ro','sl'];if(q&&L.indexOf(q[1])>=0&&!/^\/[a-z]{2}\//.test(location.pathname)){location.replace('/'+q[1]+'/shop.html');return}})();
 (function(){var m=document.getElementById('tug-main');if(!m)return;var bs=document.querySelectorAll('.tugthumbs button');
 for(var i=0;i<bs.length;i++){bs[i].addEventListener('click',function(){for(var j=0;j<bs.length;j++){bs[j].classList.remove('on');bs[j].setAttribute('aria-pressed','false')}
 this.classList.add('on');this.setAttribute('aria-pressed','true');m.src=this.dataset.src;m.alt=this.dataset.alt;})}

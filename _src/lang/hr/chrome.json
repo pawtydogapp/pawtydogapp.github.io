@@ -67,7 +67,7 @@
  "shop_terms": "Uvjeti prodaje",
  "shop_fill": "Ispunite sva polja za dostavu.",
  "shop_error": "Nešto je pošlo po zlu. Ništa nije naplaćeno. Pokušajte ponovno.",
- "shop_seller": "Prodavatelj: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenija. PDV nije obračunat na temelju članka 94. slovenskog Zakona o porezu na dodanu vrijednost (ZDDV-1).",
+ "shop_seller": "Prodavatelj: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenija. PDV nije obračunat na temelju članka 94. slovenskog Zakona o porezu na dodanu vrijednost (ZDDV-1).",
  "shop_thanks_title": "Hvala, vaša narudžba je zaprimljena",
  "shop_thanks_text": "Stripe vam šalje račun e-poštom. Paket ručno pakiramo u Sloveniji i šaljemo ga čim bude spreman.",
  "shop_thanks_back": "Natrag u trgovinu",
@@ -105,9 +105,9 @@
  "tug_small": "Malo",
  "tug_medium": "Srednje",
  "tug_large": "Veliko",
- "tug_len_s": "Oko 30-35 cm",
- "tug_len_m": "Oko 35-45 cm",
- "tug_len_l": "Oko 45-55 cm",
+ "tug_len_s": "Oko 30‑35 cm",
+ "tug_len_m": "Oko 35‑45 cm",
+ "tug_len_l": "Oko 45‑55 cm",
  "tug_price_s": "8,99 EUR",
  "tug_price_m": "12,99 EUR",
  "tug_price_l": "16,99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Održavanje",
  "tug_d_care": "Pranje u perilici, program za osjetljivo rublje, 30 stupnjeva.",
  "tug_d_dispatch_l": "Slanje",
- "tug_d_dispatch": "Ručno pakiramo i šaljemo u roku od 5 dana od narudžbe, poštom s praćenjem pošiljke (Pošta Slovenije). U svakom paketu je ručno izrađena kartica sa zahvalom.",
+ "tug_d_dispatch": "Ručno pakiramo i šaljemo u roku od 5 dana od narudžbe, poštom s praćenjem pošiljke. U svakom paketu je ručno izrađena kartica sa zahvalom.",
  "tug_d_returns_l": "Povrat",
  "tug_d_returns": "Od kupnje možete odustati u roku od 14 dana od isporuke.",
  "tug_safety_title": "Sigurnost",
@@ -142,5 +142,5 @@
  "tug_safe3": "Pregledajte uže prije svakog korištenja. Zamijenite ga ako je istrošeno ili poderano ili ako se dijelovi odvajaju.",
  "tug_safe4": "Ako pas proguta flis, obratite se veterinaru.",
  "tug_safe5": "Ovo je igračka za pse, a ne za djecu.",
- "tug_maker": "Ručno izrađeno u Sloveniji. Proizvođač i prodavatelj: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenija."
+ "tug_maker": "Ručno izrađeno u Sloveniji. Proizvođač i prodavatelj: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenija."
 }

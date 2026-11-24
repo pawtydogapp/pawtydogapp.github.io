@@ -67,7 +67,7 @@
  "shop_terms": "Termos de venda",
  "shop_fill": "Preencha todos os campos de entrega.",
  "shop_error": "Algo correu mal. Não foi cobrado nada. Tente outra vez.",
- "shop_seller": "Vendido por Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Eslovénia. IVA não cobrado ao abrigo do artigo 94.º da lei eslovena do IVA (ZDDV-1).",
+ "shop_seller": "Vendido por Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Eslovénia. IVA não cobrado ao abrigo do artigo 94.º da lei eslovena do IVA (ZDDV-1).",
  "shop_thanks_title": "Obrigado, a sua encomenda foi recebida",
  "shop_thanks_text": "A Stripe envia-lhe o recibo por email. A sua encomenda é embalada à mão na Eslovénia e enviada assim que estiver pronta.",
  "shop_thanks_back": "Voltar à loja",
@@ -105,9 +105,9 @@
  "tug_small": "Pequena",
  "tug_medium": "Média",
  "tug_large": "Grande",
- "tug_len_s": "Cerca de 30-35 cm",
- "tug_len_m": "Cerca de 35-45 cm",
- "tug_len_l": "Cerca de 45-55 cm",
+ "tug_len_s": "Cerca de 30‑35 cm",
+ "tug_len_m": "Cerca de 35‑45 cm",
+ "tug_len_l": "Cerca de 45‑55 cm",
  "tug_price_s": "8,99 EUR",
  "tug_price_m": "12,99 EUR",
  "tug_price_l": "16,99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Cuidados",
  "tug_d_care": "Lavável à máquina, programa delicado, 30 graus.",
  "tug_d_dispatch_l": "Expedição",
- "tug_d_dispatch": "Embalada à mão e enviada no prazo de 5 dias após a encomenda por correio com seguimento (Pošta Slovenije). Cada encomenda inclui um cartão de agradecimento feito à mão.",
+ "tug_d_dispatch": "Embalada à mão e enviada no prazo de 5 dias após a encomenda por correio com seguimento. Cada encomenda inclui um cartão de agradecimento feito à mão.",
  "tug_d_returns_l": "Devoluções",
  "tug_d_returns": "Pode desistir da compra no prazo de 14 dias após a entrega.",
  "tug_safety_title": "Segurança",
@@ -142,5 +142,5 @@
  "tug_safe3": "Verifique a corda antes de cada utilização. Substitua-a se estiver gasta ou rasgada, ou se se soltarem pedaços.",
  "tug_safe4": "Se o seu cão engolir fleece, contacte o seu veterinário.",
  "tug_safe5": "Este é um brinquedo para cães, não um brinquedo para crianças.",
- "tug_maker": "Feita à mão na Eslovénia. Fabricante e vendedora: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Eslovénia."
+ "tug_maker": "Feita à mão na Eslovénia. Fabricante e vendedora: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Eslovénia."
 }

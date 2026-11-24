@@ -67,7 +67,7 @@
  "shop_terms": "Verkaufsbedingungen",
  "shop_fill": "Bitte füllen Sie alle Felder zur Lieferung aus.",
  "shop_error": "Etwas ist schiefgelaufen. Es wurde nichts abgebucht. Bitte versuchen Sie es noch einmal.",
- "shop_seller": "Verkauf durch Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slowenien. Gemäß Artikel 94 des slowenischen Umsatzsteuergesetzes (ZDDV-1) wird keine Umsatzsteuer berechnet.",
+ "shop_seller": "Verkauf durch Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slowenien. Gemäß Artikel 94 des slowenischen Umsatzsteuergesetzes (ZDDV-1) wird keine Umsatzsteuer berechnet.",
  "shop_thanks_title": "Danke, Ihre Bestellung ist eingegangen",
  "shop_thanks_text": "Stripe schickt Ihnen die Quittung per E-Mail. Ihr Paket wird in Slowenien von Hand gepackt und verschickt, sobald es fertig ist.",
  "shop_thanks_back": "Zurück zum Shop",
@@ -105,9 +105,9 @@
  "tug_small": "Klein",
  "tug_medium": "Mittel",
  "tug_large": "Groß",
- "tug_len_s": "Etwa 30-35 cm",
- "tug_len_m": "Etwa 35-45 cm",
- "tug_len_l": "Etwa 45-55 cm",
+ "tug_len_s": "Etwa 30‑35 cm",
+ "tug_len_m": "Etwa 35‑45 cm",
+ "tug_len_l": "Etwa 45‑55 cm",
  "tug_price_s": "8,99 EUR",
  "tug_price_m": "12,99 EUR",
  "tug_price_l": "16,99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Pflege",
  "tug_d_care": "In der Maschine waschbar, Schonprogramm, 30 Grad.",
  "tug_d_dispatch_l": "Versand",
- "tug_d_dispatch": "Von Hand verpackt und innerhalb von 5 Tagen nach Ihrer Bestellung als Sendung mit Sendungsverfolgung verschickt (Pošta Slovenije). Jedem Paket liegt eine handgemachte Dankeskarte bei.",
+ "tug_d_dispatch": "Von Hand verpackt und innerhalb von 5 Tagen nach Ihrer Bestellung als Sendung mit Sendungsverfolgung verschickt. Jedem Paket liegt eine handgemachte Dankeskarte bei.",
  "tug_d_returns_l": "Widerruf",
  "tug_d_returns": "Sie können den Kauf innerhalb von 14 Tagen nach der Lieferung widerrufen.",
  "tug_safety_title": "Sicherheit",
@@ -142,5 +142,5 @@
  "tug_safe3": "Prüfen Sie das Zerrseil vor jeder Nutzung. Ersetzen Sie es, wenn es abgenutzt oder eingerissen ist oder sich Teile lösen.",
  "tug_safe4": "Wenn Ihr Hund Fleece verschluckt, wenden Sie sich an Ihre Tierarztpraxis.",
  "tug_safe5": "Dies ist ein Hundespielzeug, kein Spielzeug für Kinder.",
- "tug_maker": "In Slowenien von Hand gemacht. Herstellerin und Verkäuferin: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slowenien."
+ "tug_maker": "In Slowenien von Hand gemacht. Herstellerin und Verkäuferin: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slowenien."
 }

@@ -67,7 +67,7 @@
  "shop_terms": "Terms of sale",
  "shop_fill": "Please fill in all delivery fields.",
  "shop_error": "Something went wrong. Nothing was charged. Please try again.",
- "shop_seller": "Sold by Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia. VAT is not charged under Article 94 of the Slovenian VAT Act (ZDDV-1).",
+ "shop_seller": "Sold by Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia. VAT is not charged under Article 94 of the Slovenian VAT Act (ZDDV-1).",
  "shop_thanks_title": "Thank you, your order is in",
  "shop_thanks_text": "Stripe sends your receipt by email. Your parcel is packed by hand in Slovenia and sent as soon as it is ready.",
  "shop_thanks_back": "Back to the shop",
@@ -105,9 +105,9 @@
  "tug_small": "Small",
  "tug_medium": "Medium",
  "tug_large": "Large",
- "tug_len_s": "About 30-35 cm",
- "tug_len_m": "About 35-45 cm",
- "tug_len_l": "About 45-55 cm",
+ "tug_len_s": "About 30‑35 cm",
+ "tug_len_m": "About 35‑45 cm",
+ "tug_len_l": "About 45‑55 cm",
  "tug_price_s": "8.99 EUR",
  "tug_price_m": "12.99 EUR",
  "tug_price_l": "16.99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Care",
  "tug_d_care": "Machine washable, sensitive programme, 30 degrees.",
  "tug_d_dispatch_l": "Dispatch",
- "tug_d_dispatch": "Packed by hand and sent within 5 days of your order by tracked post (Pošta Slovenije). Every parcel includes a handmade thank-you card.",
+ "tug_d_dispatch": "Packed by hand and sent within 5 days of your order by tracked post. Every parcel includes a handmade thank-you card.",
  "tug_d_returns_l": "Returns",
  "tug_d_returns": "You can withdraw from the purchase within 14 days of delivery.",
  "tug_safety_title": "Safety",
@@ -142,5 +142,5 @@
  "tug_safe3": "Check the tug before each use. Replace it if it is worn or torn, or if pieces come loose.",
  "tug_safe4": "If your dog swallows fleece, contact your vet.",
  "tug_safe5": "This is a dog toy, not a toy for children.",
- "tug_maker": "Made by hand in Slovenia. Manufacturer and seller: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia."
+ "tug_maker": "Made by hand in Slovenia. Manufacturer and seller: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia."
 }

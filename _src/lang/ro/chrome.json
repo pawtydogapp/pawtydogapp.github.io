@@ -67,7 +67,7 @@
  "shop_terms": "Termeni de vânzare",
  "shop_fill": "Completați toate câmpurile pentru livrare.",
  "shop_error": "Ceva n-a mers. Nu vi s-a luat niciun ban. Încercați din nou.",
- "shop_seller": "Vândut de Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia. Nu se percepe TVA, conform articolului 94 din Legea slovenă privind TVA (ZDDV-1).",
+ "shop_seller": "Vândut de Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia. Nu se percepe TVA, conform articolului 94 din Legea slovenă privind TVA (ZDDV-1).",
  "shop_thanks_title": "Mulțumim, comanda dumneavoastră a fost primită",
  "shop_thanks_text": "Stripe vă trimite chitanța pe email. Coletul e împachetat manual în Slovenia și pleacă imediat ce e gata.",
  "shop_thanks_back": "Înapoi la magazin",
@@ -105,9 +105,9 @@
  "tug_small": "Mică",
  "tug_medium": "Medie",
  "tug_large": "Mare",
- "tug_len_s": "Aproximativ 30-35 cm",
- "tug_len_m": "Aproximativ 35-45 cm",
- "tug_len_l": "Aproximativ 45-55 cm",
+ "tug_len_s": "Aproximativ 30‑35 cm",
+ "tug_len_m": "Aproximativ 35‑45 cm",
+ "tug_len_l": "Aproximativ 45‑55 cm",
  "tug_price_s": "8,99 EUR",
  "tug_price_m": "12,99 EUR",
  "tug_price_l": "16,99 EUR",
@@ -133,7 +133,7 @@
  "tug_d_care_l": "Întreținere",
  "tug_d_care": "Se spală la mașină, program delicat, 30 de grade.",
  "tug_d_dispatch_l": "Expediere",
- "tug_d_dispatch": "Împachetată manual și trimisă în 5 zile de la comandă, prin poștă cu urmărire (Pošta Slovenije). Fiecare colet conține o felicitare de mulțumire lucrată manual.",
+ "tug_d_dispatch": "Împachetată manual și trimisă în 5 zile de la comandă, prin poștă cu urmărire. Fiecare colet conține o felicitare de mulțumire lucrată manual.",
  "tug_d_returns_l": "Returnări",
  "tug_d_returns": "Vă puteți retrage din contract în 14 zile de la livrare.",
  "tug_safety_title": "Siguranță",
@@ -142,5 +142,5 @@
  "tug_safe3": "Verificați frânghia înainte de fiecare utilizare. Înlocuiți-o dacă este uzată sau ruptă ori dacă se desprind bucăți.",
  "tug_safe4": "Dacă câinele înghite fleece, contactați medicul veterinar.",
  "tug_safe5": "Aceasta este o jucărie pentru câini, nu pentru copii.",
- "tug_maker": "Lucrată manual în Slovenia. Producător și vânzător: Karierno svetovanje, Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia."
+ "tug_maker": "Lucrată manual în Slovenia. Producător și vânzător: Darija Meško, Thrive Through Human Resources, s.p., Ljubljanska cesta 38, 1360 Vrhnika, Slovenia."
 }
